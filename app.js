@@ -27,8 +27,10 @@ const els = {
   reader: $("#reader"),
 };
 
-const PDFJS_URL = "https://cdn.jsdelivr.net/npm/pdfjs-dist@6.2.108/build/pdf.min.mjs";
-const PDFJS_WORKER_URL = "https://cdn.jsdelivr.net/npm/pdfjs-dist@6.2.108/build/pdf.worker.min.mjs";
+// PDF.js 4.x supports the Firefox version shipped with Ubuntu 22.04.
+// PDF.js 6.x requires Map#getOrInsertComputed, which older browsers lack.
+const PDFJS_URL = "https://cdn.jsdelivr.net/npm/pdfjs-dist@4.10.38/build/pdf.min.mjs";
+const PDFJS_WORKER_URL = "https://cdn.jsdelivr.net/npm/pdfjs-dist@4.10.38/build/pdf.worker.min.mjs";
 let pdfSession = 0;
 let pdfObserver = null;
 
