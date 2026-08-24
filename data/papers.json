@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-08-24T06:30:41.302859+00:00",
+    "updated_at": "2026-08-24T06:51:44.851408+00:00",
     "source": "OpenAlex",
     "queries": [
       "artificial intelligence",
@@ -35,7 +35,8 @@
       "citations": 2,
       "popularity": 29,
       "open_access": true,
-      "url": "https://doi.org/10.5281/zenodo.22054497"
+      "url": "https://doi.org/10.5281/zenodo.22054497",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7117973916",
@@ -58,7 +59,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.5281/zenodo.18112866"
+      "url": "https://doi.org/10.5281/zenodo.18112866",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7118011089",
@@ -81,7 +83,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.5281/zenodo.18112867"
+      "url": "https://doi.org/10.5281/zenodo.18112867",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7162399187",
@@ -106,7 +109,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.5281/zenodo.20402506"
+      "url": "https://doi.org/10.5281/zenodo.20402506",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7162410191",
@@ -131,7 +135,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.5281/zenodo.20402507"
+      "url": "https://doi.org/10.5281/zenodo.20402507",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7164131933",
@@ -154,7 +159,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://pub.respai.de/articles/1-2/5ywu.html"
+      "url": "https://pub.respai.de/articles/1-2/5ywu.html",
+      "pdf_url": "https://pub.respai.de/articles/1-2/is2-5.pdf"
     },
     {
       "id": "openalex-W7164203944",
@@ -177,7 +183,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.17613/tmqt8-ajh44"
+      "url": "https://doi.org/10.17613/tmqt8-ajh44",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7166006500",
@@ -201,7 +208,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://philpapers.org/rec/HUAAJA"
+      "url": "https://philpapers.org/rec/HUAAJA",
+      "pdf_url": "https://philpapers.org/archive/HUAAJA.pdf"
     },
     {
       "id": "openalex-W7166108059",
@@ -225,7 +233,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.17613/jchtw-w2z97"
+      "url": "https://doi.org/10.17613/jchtw-w2z97",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7166533473",
@@ -248,7 +257,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://philpapers.org/rec/QIAROA"
+      "url": "https://philpapers.org/rec/QIAROA",
+      "pdf_url": "https://philpapers.org/archive/QIAROA.pdf"
     },
     {
       "id": "openalex-W7166553890",
@@ -272,7 +282,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.17613/snc83-vx894"
+      "url": "https://doi.org/10.17613/snc83-vx894",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7166574674",
@@ -295,7 +306,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.17613/v92ad-xvp66"
+      "url": "https://doi.org/10.17613/v92ad-xvp66",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7166578840",
@@ -319,7 +331,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.17613/7a3zf-yt886"
+      "url": "https://doi.org/10.17613/7a3zf-yt886",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7167482112",
@@ -342,7 +355,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.17613/zf92n-68j61"
+      "url": "https://doi.org/10.17613/zf92n-68j61",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7167504345",
@@ -365,7 +379,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.17613/yvxz2-a7115"
+      "url": "https://doi.org/10.17613/yvxz2-a7115",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7170146433",
@@ -388,7 +403,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.17613/8rga5-9wc04"
+      "url": "https://doi.org/10.17613/8rga5-9wc04",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7170151346",
@@ -411,7 +427,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.17613/bqzbv-24862"
+      "url": "https://doi.org/10.17613/bqzbv-24862",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7170437289",
@@ -436,7 +453,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.17613/v53h3-s4978"
+      "url": "https://doi.org/10.17613/v53h3-s4978",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7170884066",
@@ -461,7 +479,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.17613/8y1ah-73k52"
+      "url": "https://doi.org/10.17613/8y1ah-73k52",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7172200715",
@@ -485,7 +504,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.17613/ghavp-c4z97"
+      "url": "https://doi.org/10.17613/ghavp-c4z97",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7172223071",
@@ -509,7 +529,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.17613/3xdjx-qx575"
+      "url": "https://doi.org/10.17613/3xdjx-qx575",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7202356416",
@@ -532,7 +553,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.5281/zenodo.21909827"
+      "url": "https://doi.org/10.5281/zenodo.21909827",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7202385891",
@@ -555,7 +577,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.5281/zenodo.21909828"
+      "url": "https://doi.org/10.5281/zenodo.21909828",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7203439980",
@@ -578,7 +601,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.17613/5qnd2-qhy07"
+      "url": "https://doi.org/10.17613/5qnd2-qhy07",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7203444948",
@@ -601,7 +625,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.17613/gtb8v-92b77"
+      "url": "https://doi.org/10.17613/gtb8v-92b77",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7203451127",
@@ -624,7 +649,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.17613/n437m-5mx05"
+      "url": "https://doi.org/10.17613/n437m-5mx05",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7203495603",
@@ -647,7 +673,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.17613/yh16p-7xe23"
+      "url": "https://doi.org/10.17613/yh16p-7xe23",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7203604567",
@@ -670,7 +697,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.17613/91paj-r3s73"
+      "url": "https://doi.org/10.17613/91paj-r3s73",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7203609842",
@@ -693,7 +721,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.17613/g2k21-amh73"
+      "url": "https://doi.org/10.17613/g2k21-amh73",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7136070759",
@@ -716,7 +745,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.82471/83gr8-sab65"
+      "url": "https://doi.org/10.82471/83gr8-sab65",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7118093185",
@@ -740,7 +770,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.5281/zenodo.18126854"
+      "url": "https://doi.org/10.5281/zenodo.18126854",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7118095996",
@@ -764,7 +795,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.5281/zenodo.18126855"
+      "url": "https://doi.org/10.5281/zenodo.18126855",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7164380804",
@@ -790,7 +822,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.5281/zenodo.20637005"
+      "url": "https://doi.org/10.5281/zenodo.20637005",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7164396210",
@@ -816,7 +849,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.5281/zenodo.20637004"
+      "url": "https://doi.org/10.5281/zenodo.20637004",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7118352591",
@@ -841,7 +875,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.5281/zenodo.18170161"
+      "url": "https://doi.org/10.5281/zenodo.18170161",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7118738197",
@@ -866,7 +901,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.5281/zenodo.18170160"
+      "url": "https://doi.org/10.5281/zenodo.18170160",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7153475872",
@@ -886,7 +922,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.5281/zenodo.19509022"
+      "url": "https://doi.org/10.5281/zenodo.19509022",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7153600070",
@@ -906,7 +943,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.5281/zenodo.19509023"
+      "url": "https://doi.org/10.5281/zenodo.19509023",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7118125263",
@@ -932,7 +970,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.5281/zenodo.18139738"
+      "url": "https://doi.org/10.5281/zenodo.18139738",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7118128543",
@@ -959,7 +998,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.5281/zenodo.18139045"
+      "url": "https://doi.org/10.5281/zenodo.18139045",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7118129784",
@@ -985,7 +1025,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.5281/zenodo.18139739"
+      "url": "https://doi.org/10.5281/zenodo.18139739",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7123520474",
@@ -1008,7 +1049,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.5281/zenodo.18236561"
+      "url": "https://doi.org/10.5281/zenodo.18236561",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7160159354",
@@ -1030,7 +1072,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.5281/zenodo.20022388"
+      "url": "https://doi.org/10.5281/zenodo.20022388",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7160180614",
@@ -1052,7 +1095,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.5281/zenodo.20022387"
+      "url": "https://doi.org/10.5281/zenodo.20022387",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7168347838",
@@ -1075,7 +1119,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.5281/zenodo.21369209"
+      "url": "https://doi.org/10.5281/zenodo.21369209",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7168386549",
@@ -1098,7 +1143,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.5281/zenodo.21369210"
+      "url": "https://doi.org/10.5281/zenodo.21369210",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7201840111",
@@ -1124,7 +1170,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.17877/tudobooks-11.172"
+      "url": "https://doi.org/10.17877/tudobooks-11.172",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7201851901",
@@ -1150,7 +1197,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.17877/tudobooks-11.157"
+      "url": "https://doi.org/10.17877/tudobooks-11.157",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7201885061",
@@ -1178,7 +1226,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.17877/tudobooks-11.155"
+      "url": "https://doi.org/10.17877/tudobooks-11.155",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7134028471",
@@ -1209,7 +1258,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://research-information.bris.ac.uk/en/publications/a6cf1a27-c66d-49dd-bfc7-0d6dac03ec95"
+      "url": "https://research-information.bris.ac.uk/en/publications/a6cf1a27-c66d-49dd-bfc7-0d6dac03ec95",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7164167635",
@@ -1234,7 +1284,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.5281/zenodo.20634301"
+      "url": "https://doi.org/10.5281/zenodo.20634301",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7164199517",
@@ -1259,7 +1310,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.5281/zenodo.20634302"
+      "url": "https://doi.org/10.5281/zenodo.20634302",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7169657160",
@@ -1278,7 +1330,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.5281/zenodo.17584362"
+      "url": "https://doi.org/10.5281/zenodo.17584362",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7169681785",
@@ -1297,7 +1350,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.5281/zenodo.17584363"
+      "url": "https://doi.org/10.5281/zenodo.17584363",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7152606835",
@@ -1320,7 +1374,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.5281/zenodo.19484072"
+      "url": "https://doi.org/10.5281/zenodo.19484072",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7152699404",
@@ -1343,7 +1398,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.5281/zenodo.19484071"
+      "url": "https://doi.org/10.5281/zenodo.19484071",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7202238240",
@@ -1366,7 +1422,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": false,
-      "url": "https://hdl.handle.net/11567/1315976"
+      "url": "https://hdl.handle.net/11567/1315976",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7204017110",
@@ -1389,7 +1446,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": false,
-      "url": "https://hdl.handle.net/11567/1317277"
+      "url": "https://hdl.handle.net/11567/1317277",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7202066434",
@@ -1411,7 +1469,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": false,
-      "url": "https://hal.science/hal-05704947"
+      "url": "https://hal.science/hal-05704947",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7203957256",
@@ -1434,7 +1493,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": false,
-      "url": "https://hdl.handle.net/11567/1317156"
+      "url": "https://hdl.handle.net/11567/1317156",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7171903965",
@@ -1457,7 +1517,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": false,
-      "url": "https://hdl.handle.net/11567/1314377"
+      "url": "https://hdl.handle.net/11567/1314377",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7202331563",
@@ -1480,7 +1541,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": false,
-      "url": "https://hal.science/hal-05714627"
+      "url": "https://hal.science/hal-05714627",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7203814979",
@@ -1503,7 +1565,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": false,
-      "url": "https://lirias.kuleuven.be/handle/20.500.12942/790819"
+      "url": "https://lirias.kuleuven.be/handle/20.500.12942/790819",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7203808490",
@@ -1526,7 +1589,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": false,
-      "url": "https://hdl.handle.net/11567/1316556"
+      "url": "https://hdl.handle.net/11567/1316556",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7148426704",
@@ -1549,7 +1613,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.5281/zenodo.19388061"
+      "url": "https://doi.org/10.5281/zenodo.19388061",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7148548500",
@@ -1572,7 +1637,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.5281/zenodo.19388060"
+      "url": "https://doi.org/10.5281/zenodo.19388060",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7204017309",
@@ -1595,7 +1661,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": false,
-      "url": "https://digitalcommons.usu.edu/smallsat/2026/all2026/165"
+      "url": "https://digitalcommons.usu.edu/smallsat/2026/all2026/165",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7130506132",
@@ -1620,7 +1687,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.1007/s43621-026-04420-1"
+      "url": "https://doi.org/10.1007/s43621-026-04420-1",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7172586831",
@@ -1647,7 +1715,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.26077/nyks-np10"
+      "url": "https://doi.org/10.26077/nyks-np10",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7201886312",
@@ -1673,7 +1742,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://digitalcommons.usu.edu/smallsat/2026/all2026/1"
+      "url": "https://digitalcommons.usu.edu/smallsat/2026/all2026/1",
+      "pdf_url": "https://digitalcommons.usu.edu/context/smallsat/article/6440/filename/0/type/additional/viewcontent/SSC26_RAI_08_Presentation.pdf"
     },
     {
       "id": "openalex-W7201951788",
@@ -1694,7 +1764,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.26077/40zx-4a79"
+      "url": "https://doi.org/10.26077/40zx-4a79",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7203964858",
@@ -1717,7 +1788,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.5281/zenodo.22062999"
+      "url": "https://doi.org/10.5281/zenodo.22062999",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7203975208",
@@ -1740,7 +1812,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.5281/zenodo.22063000"
+      "url": "https://doi.org/10.5281/zenodo.22063000",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7203977921",
@@ -1765,7 +1838,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.1007/s10589-026-00824-x"
+      "url": "https://doi.org/10.1007/s10589-026-00824-x",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7203986266",
@@ -1789,7 +1863,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.64823/ijter.2621029"
+      "url": "https://doi.org/10.64823/ijter.2621029",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7204016899",
@@ -1809,7 +1884,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": false,
-      "url": "https://digitalcommons.usu.edu/smallsat/2026/all2026/155"
+      "url": "https://digitalcommons.usu.edu/smallsat/2026/all2026/155",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7203652458",
@@ -1832,7 +1908,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.5281/zenodo.21985545"
+      "url": "https://doi.org/10.5281/zenodo.21985545",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7203856119",
@@ -1854,7 +1931,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.1093/dote/doag077.414"
+      "url": "https://doi.org/10.1093/dote/doag077.414",
+      "pdf_url": "https://academic.oup.com/dote/article-pdf/39/Supplement_1/doag077.414/70760937/doag077.414.pdf"
     },
     {
       "id": "openalex-W7115008325",
@@ -1873,7 +1951,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.5281/zenodo.17905739"
+      "url": "https://doi.org/10.5281/zenodo.17905739",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7115025248",
@@ -1892,7 +1971,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.5281/zenodo.17905738"
+      "url": "https://doi.org/10.5281/zenodo.17905738",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7169477176",
@@ -1912,7 +1992,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": false,
-      "url": "https://lirias.kuleuven.be/handle/20.500.12942/789478"
+      "url": "https://lirias.kuleuven.be/handle/20.500.12942/789478",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7203598455",
@@ -1943,7 +2024,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13477780/"
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13477780/",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7202327487",
@@ -1966,7 +2048,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": false,
-      "url": "https://lirias.kuleuven.be/handle/20.500.12942/790481"
+      "url": "https://lirias.kuleuven.be/handle/20.500.12942/790481",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7172572708",
@@ -1988,7 +2071,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.26077/mbgv-kd79"
+      "url": "https://doi.org/10.26077/mbgv-kd79",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7172589357",
@@ -2010,7 +2094,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.26077/p3mg-cg83"
+      "url": "https://doi.org/10.26077/p3mg-cg83",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7107973049",
@@ -2032,7 +2117,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.5281/zenodo.17744376"
+      "url": "https://doi.org/10.5281/zenodo.17744376",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7134826814",
@@ -2057,7 +2143,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.1016/j.autcon.2026.107213"
+      "url": "https://doi.org/10.1016/j.autcon.2026.107213",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7163675521",
@@ -2078,7 +2165,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.5281/zenodo.20340518"
+      "url": "https://doi.org/10.5281/zenodo.20340518",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7203869697",
@@ -2105,7 +2193,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.1016/j.aei.2026.105166"
+      "url": "https://doi.org/10.1016/j.aei.2026.105166",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7203900438",
@@ -2134,7 +2223,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": false,
-      "url": "https://doi.org/10.1093/dote/doag077.289"
+      "url": "https://doi.org/10.1093/dote/doag077.289",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7203901261",
@@ -2157,7 +2247,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.1093/dote/doag077.090"
+      "url": "https://doi.org/10.1093/dote/doag077.090",
+      "pdf_url": "https://academic.oup.com/dote/article-pdf/39/Supplement_1/doag077.090/70761011/doag077.090.pdf"
     },
     {
       "id": "openalex-W7203972844",
@@ -2181,7 +2272,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.5281/zenodo.22058798"
+      "url": "https://doi.org/10.5281/zenodo.22058798",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7203977249",
@@ -2200,7 +2292,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.5281/zenodo.22056372"
+      "url": "https://doi.org/10.5281/zenodo.22056372",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7203983238",
@@ -2223,7 +2316,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.5281/zenodo.22059305"
+      "url": "https://doi.org/10.5281/zenodo.22059305",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7203983557",
@@ -2242,7 +2336,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.5281/zenodo.22057980"
+      "url": "https://doi.org/10.5281/zenodo.22057980",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7203985681",
@@ -2269,7 +2364,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.18596/jotcsa.1823701"
+      "url": "https://doi.org/10.18596/jotcsa.1823701",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7203989522",
@@ -2297,7 +2393,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.1038/s41598-026-67427-8"
+      "url": "https://doi.org/10.1038/s41598-026-67427-8",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7203993122",
@@ -2320,7 +2417,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.5281/zenodo.22059306"
+      "url": "https://doi.org/10.5281/zenodo.22059306",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7203997195",
@@ -2349,7 +2447,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.1093/dote/doag077.288"
+      "url": "https://doi.org/10.1093/dote/doag077.288",
+      "pdf_url": "https://academic.oup.com/dote/article-pdf/39/Supplement_1/doag077.288/70760406/doag077.288.pdf"
     },
     {
       "id": "openalex-W7203997973",
@@ -2372,7 +2471,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.34229/1028-0979-2026-4-7"
+      "url": "https://doi.org/10.34229/1028-0979-2026-4-7",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7203998546",
@@ -2399,7 +2499,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.64823/ijter.2621016"
+      "url": "https://doi.org/10.64823/ijter.2621016",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7204000489",
@@ -2423,7 +2524,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.5281/zenodo.22058797"
+      "url": "https://doi.org/10.5281/zenodo.22058797",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7204001416",
@@ -2446,7 +2548,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.6084/m9.figshare.32826848.v8"
+      "url": "https://doi.org/10.6084/m9.figshare.32826848.v8",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7204001609",
@@ -2465,7 +2568,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.5281/zenodo.22057979"
+      "url": "https://doi.org/10.5281/zenodo.22057979",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7204008780",
@@ -2484,7 +2588,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.5281/zenodo.22056371"
+      "url": "https://doi.org/10.5281/zenodo.22056371",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7202155042",
@@ -2512,7 +2617,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://arxiv.org/abs/2608.07489"
+      "url": "https://arxiv.org/abs/2608.07489",
+      "pdf_url": "https://arxiv.org/pdf/2608.07489"
     },
     {
       "id": "openalex-W7203855747",
@@ -2536,7 +2642,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.3389/frsc.2026.1866595"
+      "url": "https://doi.org/10.3389/frsc.2026.1866595",
+      "pdf_url": "https://www.frontiersin.org/journals/sustainable-cities/articles/10.3389/frsc.2026.1866595/pdf"
     },
     {
       "id": "openalex-W7203859503",
@@ -2558,7 +2665,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.5281/zenodo.22017449"
+      "url": "https://doi.org/10.5281/zenodo.22017449",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7203863009",
@@ -2584,7 +2692,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.3390/s26165310"
+      "url": "https://doi.org/10.3390/s26165310",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7203864955",
@@ -2609,7 +2718,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.5281/zenodo.22038974"
+      "url": "https://doi.org/10.5281/zenodo.22038974",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7203865171",
@@ -2632,7 +2742,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": false,
-      "url": "https://doi.org/10.1117/12.3118770"
+      "url": "https://doi.org/10.1117/12.3118770",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7203865636",
@@ -2655,7 +2766,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.5281/zenodo.22040105"
+      "url": "https://doi.org/10.5281/zenodo.22040105",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7203866859",
@@ -2680,7 +2792,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": false,
-      "url": "https://doi.org/10.67065/eaxsvb34"
+      "url": "https://doi.org/10.67065/eaxsvb34",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7203869997",
@@ -2704,7 +2817,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.3390/electronics15163758"
+      "url": "https://doi.org/10.3390/electronics15163758",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7203872427",
@@ -2726,7 +2840,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": false,
-      "url": "https://doi.org/10.1002/9781394382682.ch3"
+      "url": "https://doi.org/10.1002/9781394382682.ch3",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7203876747",
@@ -2750,7 +2865,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.1038/s41598-026-64166-8"
+      "url": "https://doi.org/10.1038/s41598-026-64166-8",
+      "pdf_url": "https://www.nature.com/articles/s41598-026-64166-8_reference.pdf"
     },
     {
       "id": "openalex-W7203879649",
@@ -2774,7 +2890,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.64823/ijter.2621008"
+      "url": "https://doi.org/10.64823/ijter.2621008",
+      "pdf_url": "https://ioro.org/article/274818976613/pdf"
     },
     {
       "id": "openalex-W7203890416",
@@ -2797,7 +2914,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.31584/psumj.2026289036"
+      "url": "https://doi.org/10.31584/psumj.2026289036",
+      "pdf_url": "https://he01.tci-thaijo.org/index.php/PSUMJ/article/download/289036/192799"
     },
     {
       "id": "openalex-W7125945949",
@@ -2821,7 +2939,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.5281/zenodo.18397932"
+      "url": "https://doi.org/10.5281/zenodo.18397932",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7125964344",
@@ -2845,7 +2964,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.5281/zenodo.18397931"
+      "url": "https://doi.org/10.5281/zenodo.18397931",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7126018663",
@@ -2868,7 +2988,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.5281/zenodo.18418625"
+      "url": "https://doi.org/10.5281/zenodo.18418625",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7126059076",
@@ -2891,7 +3012,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.5281/zenodo.18418626"
+      "url": "https://doi.org/10.5281/zenodo.18418626",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7131071032",
@@ -2915,7 +3037,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.5281/zenodo.18739462"
+      "url": "https://doi.org/10.5281/zenodo.18739462",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7131132383",
@@ -2939,7 +3062,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.5281/zenodo.18739461"
+      "url": "https://doi.org/10.5281/zenodo.18739461",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7166435940",
@@ -2962,7 +3086,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.5281/zenodo.20988253"
+      "url": "https://doi.org/10.5281/zenodo.20988253",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7166464183",
@@ -2985,7 +3110,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.5281/zenodo.20988254"
+      "url": "https://doi.org/10.5281/zenodo.20988254",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7172098915",
@@ -3005,7 +3131,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.5281/zenodo.21502544"
+      "url": "https://doi.org/10.5281/zenodo.21502544",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7172119852",
@@ -3025,7 +3152,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.5281/zenodo.21502545"
+      "url": "https://doi.org/10.5281/zenodo.21502545",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7134888680",
@@ -3051,7 +3179,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": false,
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41808601"
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41808601",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7165309637",
@@ -3077,7 +3206,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": false,
-      "url": "https://hal.science/hal-05660076"
+      "url": "https://hal.science/hal-05660076",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7204003113",
@@ -3100,7 +3230,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.64823/ijter.2621032"
+      "url": "https://doi.org/10.64823/ijter.2621032",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7171070495",
@@ -3128,7 +3259,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://kclpure.kcl.ac.uk/portal/en/publications/2b217c8e-37d0-4063-8ad2-c8bb27ca7822"
+      "url": "https://kclpure.kcl.ac.uk/portal/en/publications/2b217c8e-37d0-4063-8ad2-c8bb27ca7822",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7203918433",
@@ -3151,7 +3283,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.5281/zenodo.22051260"
+      "url": "https://doi.org/10.5281/zenodo.22051260",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7203924468",
@@ -3174,7 +3307,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.5281/zenodo.22051259"
+      "url": "https://doi.org/10.5281/zenodo.22051259",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7203927680",
@@ -3197,7 +3331,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.5281/zenodo.22051565"
+      "url": "https://doi.org/10.5281/zenodo.22051565",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7203928376",
@@ -3220,7 +3355,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.5281/zenodo.22051564"
+      "url": "https://doi.org/10.5281/zenodo.22051564",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7203963738",
@@ -3243,7 +3379,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.5281/zenodo.22062014"
+      "url": "https://doi.org/10.5281/zenodo.22062014",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7203967259",
@@ -3262,7 +3399,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.23728/b2share.ea5cq-pwj43"
+      "url": "https://doi.org/10.23728/b2share.ea5cq-pwj43",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7203968204",
@@ -3285,7 +3423,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.5281/zenodo.22062013"
+      "url": "https://doi.org/10.5281/zenodo.22062013",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7203975121",
@@ -3308,7 +3447,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.5281/zenodo.22055232"
+      "url": "https://doi.org/10.5281/zenodo.22055232",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7203976816",
@@ -3331,7 +3471,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.48175/ijarsct-37300f"
+      "url": "https://doi.org/10.48175/ijarsct-37300f",
+      "pdf_url": "https://doi.org/10.48175/ijarsct-37300f"
     },
     {
       "id": "openalex-W7203981506",
@@ -3354,7 +3495,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.5281/zenodo.22052215"
+      "url": "https://doi.org/10.5281/zenodo.22052215",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7203982480",
@@ -3377,7 +3519,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.5281/zenodo.22055231"
+      "url": "https://doi.org/10.5281/zenodo.22055231",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7203986056",
@@ -3404,7 +3547,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.5281/zenodo.22053774"
+      "url": "https://doi.org/10.5281/zenodo.22053774",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7203988795",
@@ -3427,7 +3571,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.5281/zenodo.22052963"
+      "url": "https://doi.org/10.5281/zenodo.22052963",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7203991831",
@@ -3450,7 +3595,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.5281/zenodo.22052216"
+      "url": "https://doi.org/10.5281/zenodo.22052216",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7203992436",
@@ -3469,7 +3615,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.23728/b2share.r1s44-2c773"
+      "url": "https://doi.org/10.23728/b2share.r1s44-2c773",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7203996070",
@@ -3492,7 +3639,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.5281/zenodo.22052962"
+      "url": "https://doi.org/10.5281/zenodo.22052962",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7203996424",
@@ -3515,7 +3663,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.14445/22315373/ijmtt-v72i7p104"
+      "url": "https://doi.org/10.14445/22315373/ijmtt-v72i7p104",
+      "pdf_url": "https://ijmttjournal.org/public/assets/volume-72/issue-7/IJMTT-V72I7P104.pdf"
     },
     {
       "id": "openalex-W7204004224",
@@ -3542,7 +3691,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.5281/zenodo.22053773"
+      "url": "https://doi.org/10.5281/zenodo.22053773",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7204004918",
@@ -3567,7 +3717,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.14445/22312803/ijctt-v74i7p105"
+      "url": "https://doi.org/10.14445/22312803/ijctt-v74i7p105",
+      "pdf_url": "https://ijcttjournal.org/2026/Volume-74/Issue-7/IJCTT-V74I7P105.pdf"
     },
     {
       "id": "openalex-W7204009098",
@@ -3601,7 +3752,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.12688/f1000research.179775.2"
+      "url": "https://doi.org/10.12688/f1000research.179775.2",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7204011303",
@@ -3627,7 +3779,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": false,
-      "url": "https://doi.org/10.1177/1088467x261469292"
+      "url": "https://doi.org/10.1177/1088467x261469292",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7135032827",
@@ -3649,7 +3802,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.5281/zenodo.18975801"
+      "url": "https://doi.org/10.5281/zenodo.18975801",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7135116226",
@@ -3671,7 +3825,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.5281/zenodo.18975800"
+      "url": "https://doi.org/10.5281/zenodo.18975800",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7158684968",
@@ -3693,7 +3848,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.5281/zenodo.17369669"
+      "url": "https://doi.org/10.5281/zenodo.17369669",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7158971198",
@@ -3715,7 +3871,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.5281/zenodo.17369670"
+      "url": "https://doi.org/10.5281/zenodo.17369670",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7160248259",
@@ -3741,7 +3898,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.5281/zenodo.20044865"
+      "url": "https://doi.org/10.5281/zenodo.20044865",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7160319602",
@@ -3767,7 +3925,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.5281/zenodo.20044866"
+      "url": "https://doi.org/10.5281/zenodo.20044866",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7161951334",
@@ -3787,7 +3946,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.5281/zenodo.20323323"
+      "url": "https://doi.org/10.5281/zenodo.20323323",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7162027633",
@@ -3807,7 +3967,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.5281/zenodo.20321934"
+      "url": "https://doi.org/10.5281/zenodo.20321934",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7202425503",
@@ -3830,7 +3991,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": false,
-      "url": "https://lirias.kuleuven.be/handle/20.500.12942/790449"
+      "url": "https://lirias.kuleuven.be/handle/20.500.12942/790449",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7203799467",
@@ -3853,7 +4015,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": false,
-      "url": "https://lirias.kuleuven.be/handle/20.500.12942/790900"
+      "url": "https://lirias.kuleuven.be/handle/20.500.12942/790900",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7204003136",
@@ -3876,7 +4039,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.64823/ijter.2621021"
+      "url": "https://doi.org/10.64823/ijter.2621021",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7157042102",
@@ -3900,7 +4064,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.5287/ora-xoxpz9q41"
+      "url": "https://doi.org/10.5287/ora-xoxpz9q41",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7171634393",
@@ -3925,7 +4090,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.1186/s12910-026-01578-1"
+      "url": "https://doi.org/10.1186/s12910-026-01578-1",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7203952070",
@@ -3951,7 +4117,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.1186/s12903-026-09012-z"
+      "url": "https://doi.org/10.1186/s12903-026-09012-z",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7203964944",
@@ -3970,7 +4137,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.5281/zenodo.22054559"
+      "url": "https://doi.org/10.5281/zenodo.22054559",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7203966065",
@@ -3993,7 +4161,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.13052/jwe1540-9589.2565"
+      "url": "https://doi.org/10.13052/jwe1540-9589.2565",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7203972426",
@@ -4016,7 +4185,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.5281/zenodo.22052482"
+      "url": "https://doi.org/10.5281/zenodo.22052482",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7203973625",
@@ -4041,7 +4211,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.13052/jwe1540-9589.2566"
+      "url": "https://doi.org/10.13052/jwe1540-9589.2566",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7203974589",
@@ -4066,7 +4237,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.1007/s10791-026-10471-9"
+      "url": "https://doi.org/10.1007/s10791-026-10471-9",
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007/s10791-026-10471-9.pdf"
     },
     {
       "id": "openalex-W7203976967",
@@ -4085,7 +4257,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.6084/m9.figshare.33313485"
+      "url": "https://doi.org/10.6084/m9.figshare.33313485",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7203977438",
@@ -4108,7 +4281,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.5281/zenodo.22052481"
+      "url": "https://doi.org/10.5281/zenodo.22052481",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7203978193",
@@ -4132,7 +4306,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.1007/s44163-026-02032-2"
+      "url": "https://doi.org/10.1007/s44163-026-02032-2",
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007/s44163-026-02032-2.pdf"
     },
     {
       "id": "openalex-W7203980436",
@@ -4155,7 +4330,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.5281/zenodo.22056290"
+      "url": "https://doi.org/10.5281/zenodo.22056290",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7203981033",
@@ -4182,7 +4358,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.13052/jwe1540-9589.2563"
+      "url": "https://doi.org/10.13052/jwe1540-9589.2563",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7203981890",
@@ -4205,7 +4382,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.5281/zenodo.22056291"
+      "url": "https://doi.org/10.5281/zenodo.22056291",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7203986802",
@@ -4233,7 +4411,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.1038/s41598-026-66709-5"
+      "url": "https://doi.org/10.1038/s41598-026-66709-5",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7203987376",
@@ -4262,7 +4441,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.1186/s12880-026-02707-3"
+      "url": "https://doi.org/10.1186/s12880-026-02707-3",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7203989078",
@@ -4287,7 +4467,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.1007/s10791-026-10507-0"
+      "url": "https://doi.org/10.1007/s10791-026-10507-0",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7203993291",
@@ -4317,7 +4498,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.1007/s44163-026-01851-7"
+      "url": "https://doi.org/10.1007/s44163-026-01851-7",
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007/s44163-026-01851-7.pdf"
     },
     {
       "id": "openalex-W7203997577",
@@ -4342,7 +4524,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.58764/j.im.2026.7.195"
+      "url": "https://doi.org/10.58764/j.im.2026.7.195",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7204000371",
@@ -4367,7 +4550,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": false,
-      "url": "https://doi.org/10.1177/00333549261469467"
+      "url": "https://doi.org/10.1177/00333549261469467",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7204004953",
@@ -4386,7 +4570,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.6084/m9.figshare.33313485.v1"
+      "url": "https://doi.org/10.6084/m9.figshare.33313485.v1",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7204007922",
@@ -4410,7 +4595,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.54536/ajiri.v5i3.8106"
+      "url": "https://doi.org/10.54536/ajiri.v5i3.8106",
+      "pdf_url": "https://journals.e-palli.com/home/index.php/ajiri/article/download/8106/3847"
     },
     {
       "id": "openalex-W7204009287",
@@ -4438,7 +4624,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": false,
-      "url": "https://doi.org/10.1002/admt.71272"
+      "url": "https://doi.org/10.1002/admt.71272",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7204010114",
@@ -4457,7 +4644,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.5281/zenodo.22054560"
+      "url": "https://doi.org/10.5281/zenodo.22054560",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7204010477",
@@ -4489,7 +4677,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": false,
-      "url": "https://doi.org/10.1002/adfm.77887"
+      "url": "https://doi.org/10.1002/adfm.77887",
+      "pdf_url": ""
     },
     {
       "id": "openalex-W7124925852",
@@ -4514,7 +4703,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://doi.org/10.1038/s41597-026-07644-y"
+      "url": "https://doi.org/10.1038/s41597-026-07644-y",
+      "pdf_url": "https://www.nature.com/articles/s41597-026-07644-y_reference.pdf"
     },
     {
       "id": "arxiv-2403.05530",
