@@ -1,0 +1,173 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Paper Lens：近十年中英双语论文检索与阅读平台">
+  <title>Paper Lens · 论文镜像</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Noto+Sans+SC:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="ambient ambient-a"></div>
+  <div class="ambient ambient-b"></div>
+
+  <header class="topbar">
+    <a class="brand" href="#" aria-label="Paper Lens 首页">
+      <span class="brand-mark">P</span>
+      <span>Paper Lens</span>
+      <small>论文镜像</small>
+    </a>
+    <nav>
+      <a class="active" href="#discover">发现</a>
+      <a href="#library">研究库</a>
+      <a href="#about">关于</a>
+    </nav>
+    <button class="icon-button" id="themeButton" aria-label="切换主题">
+      <span aria-hidden="true">◐</span>
+    </button>
+  </header>
+
+  <main>
+    <section class="hero" id="discover">
+      <div class="eyebrow"><i></i> 2017—2026 · 持续更新</div>
+      <h1>在知识的海洋里，<br><em>看见重要的那一篇。</em></h1>
+      <p>汇集近十年开放学术成果，以中英双语视角阅读摘要，按时间、引用与热度快速发现值得关注的研究。</p>
+
+      <form class="search-shell" id="searchForm">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="m21 21-4.35-4.35m2.1-5.4a7.5 7.5 0 1 1-15 0 7.5 7.5 0 0 1 15 0Z"/></svg>
+        <input id="searchInput" type="search" autocomplete="off" placeholder="搜索题目、作者、关键词或 DOI…" aria-label="搜索论文">
+        <kbd>Enter</kbd>
+        <button type="submit">搜索</button>
+      </form>
+
+      <div class="trending">
+        <span>热门探索</span>
+        <button data-query="大语言模型">大语言模型</button>
+        <button data-query="机器人">机器人</button>
+        <button data-query="计算机视觉">计算机视觉</button>
+        <button data-query="具身智能">具身智能</button>
+      </div>
+    </section>
+
+    <section class="workspace">
+      <aside class="filters" aria-label="筛选条件">
+        <div class="filter-heading">
+          <h2>精炼结果</h2>
+          <button id="resetFilters">重置</button>
+        </div>
+
+        <fieldset>
+          <legend>发表年份</legend>
+          <div class="year-inputs">
+            <label><span>从</span><select id="yearFrom"></select></label>
+            <b>—</b>
+            <label><span>至</span><select id="yearTo"></select></label>
+          </div>
+        </fieldset>
+
+        <fieldset>
+          <legend>研究领域</legend>
+          <div class="check-list" id="fieldFilters"></div>
+        </fieldset>
+
+        <fieldset>
+          <legend>开放获取</legend>
+          <label class="switch-row">
+            <span>仅显示可阅读全文</span>
+            <input id="openAccessOnly" type="checkbox">
+            <i></i>
+          </label>
+        </fieldset>
+
+        <div class="update-card">
+          <span class="pulse"></span>
+          <div>
+            <strong>数据自动更新</strong>
+            <small id="updatedAt">正在读取更新时间…</small>
+          </div>
+        </div>
+      </aside>
+
+      <div class="results">
+        <div class="result-header">
+          <div>
+            <p class="section-label">RESEARCH INDEX</p>
+            <h2><span id="resultCount">0</span> 篇论文</h2>
+          </div>
+          <label class="sort-control">
+            <span>排序</span>
+            <select id="sortBy">
+              <option value="relevance">综合相关度</option>
+              <option value="newest">时间 · 最新优先</option>
+              <option value="oldest">时间 · 最早优先</option>
+              <option value="popular">知名度 · 由高到低</option>
+              <option value="cited">引用数 · 由高到低</option>
+            </select>
+          </label>
+        </div>
+
+        <div class="active-filters" id="activeFilters"></div>
+        <div class="paper-list" id="paperList" aria-live="polite"></div>
+        <button class="load-more" id="loadMore">显示更多论文 <span>↓</span></button>
+      </div>
+    </section>
+  </main>
+
+  <dialog class="reader" id="reader">
+    <button class="reader-close" id="readerClose" aria-label="关闭">×</button>
+    <div class="reader-meta">
+      <span id="readerYear"></span>
+      <span id="readerField"></span>
+      <span id="readerCitations"></span>
+    </div>
+    <h2 id="readerTitle"></h2>
+    <p class="reader-authors" id="readerAuthors"></p>
+    <div class="reader-tabs" role="tablist">
+      <button class="active" data-view="split">双语对照</button>
+      <button data-view="original">仅原版</button>
+      <button data-view="translation">仅汉译</button>
+    </div>
+    <div class="reader-columns split" id="readerColumns">
+      <article class="original">
+        <div class="language-label"><i></i> ORIGINAL · EN</div>
+        <h3>Abstract</h3>
+        <p id="readerOriginal"></p>
+      </article>
+      <article class="translation">
+        <div class="language-label"><i></i> 汉译 · ZH</div>
+        <h3>摘要</h3>
+        <p id="readerTranslation"></p>
+      </article>
+    </div>
+    <footer>
+      <div id="readerTopics"></div>
+      <a id="readerLink" href="#" target="_blank" rel="noopener">查看论文原文 ↗</a>
+    </footer>
+  </dialog>
+
+  <template id="paperTemplate">
+    <article class="paper-card">
+      <div class="paper-accent"></div>
+      <div class="paper-topline">
+        <div class="paper-badges"></div>
+        <button class="save-button" aria-label="收藏论文">☆</button>
+      </div>
+      <h3></h3>
+      <p class="title-zh"></p>
+      <p class="authors"></p>
+      <p class="abstract"></p>
+      <div class="topics"></div>
+      <footer>
+        <span class="citation"></span>
+        <span class="popularity"></span>
+        <button class="read-button">中英对照阅读 <span>→</span></button>
+      </footer>
+    </article>
+  </template>
+
+  <script src="app.js" defer></script>
+</body>
+</html>

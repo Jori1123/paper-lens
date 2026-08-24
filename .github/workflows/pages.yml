@@ -1,0 +1,83 @@
+name: Update papers and deploy Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+  schedule:
+    # 每天北京时间 06:20 自动更新（UTC 22:20）
+    - cron: "20 22 * * *"
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  update:
+    if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-latest
+    outputs:
+      changed: ${{ steps.commit.outputs.changed }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Fetch and translate recent papers
+        env:
+          OPENALEX_EMAIL: ${{ vars.OPENALEX_EMAIL }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_BASE_URL: ${{ vars.OPENAI_BASE_URL }}
+          OPENAI_MODEL: ${{ vars.OPENAI_MODEL }}
+        run: |
+          translate=none
+          if [ -n "${OPENAI_API_KEY}" ]; then
+            translate=openai
+          fi
+          python3 scripts/update_papers.py \
+            --per-query 40 \
+            --translate "${translate}" \
+            --translate-limit 30
+      - name: Commit refreshed dataset
+        id: commit
+        run: |
+          if git diff --quiet -- data/papers.json; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          git config user.name "paper-lens-bot"
+          git config user.email "paper-lens-bot@users.noreply.github.com"
+          git add data/papers.json
+          git commit -m "Update paper index"
+          git push
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+  deploy:
+    needs: [update]
+    if: always() && (needs.update.result == 'success' || needs.update.result == 'skipped')
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Build static artifact
+        run: |
+          mkdir -p public/data
+          cp index.html styles.css app.js public/
+          cp data/papers.json public/data/
+          touch public/.nojekyll
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

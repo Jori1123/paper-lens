@@ -1,0 +1,320 @@
+{
+  "meta": {
+    "updated_at": "2026-08-24T13:43:00+08:00",
+    "source": "curated_seed",
+    "window_years": 10,
+    "count": 12,
+    "note": "演示种子数据；运行 scripts/update_papers.py 后由 OpenAlex 增量数据替换或扩充。"
+  },
+  "papers": [
+    {
+      "id": "arxiv-2403.05530",
+      "doi": "10.48550/arXiv.2403.05530",
+      "title": "Gemini 1.5: Unlocking Multimodal Understanding Across Millions of Tokens of Context",
+      "title_zh": "Gemini 1.5：解锁百万级上下文的多模态理解",
+      "authors": [
+        "Gemini Team",
+        "Google DeepMind"
+      ],
+      "year": 2024,
+      "venue": "arXiv",
+      "field": "多模态学习",
+      "topics": [
+        "长上下文",
+        "多模态",
+        "混合专家"
+      ],
+      "abstract": "We introduce Gemini 1.5, a highly compute-efficient multimodal mixture-of-experts model capable of recalling and reasoning over fine-grained information from millions of tokens of context.",
+      "abstract_zh": "本文介绍 Gemini 1.5，一种高计算效率的多模态混合专家模型。该模型能够在数百万词元的上下文中检索并推理细粒度信息，在长文档、长视频和音频理解任务中展现出突破性能力。",
+      "citations": 4100,
+      "popularity": 89,
+      "open_access": true,
+      "url": "https://arxiv.org/abs/2403.05530"
+    },
+    {
+      "id": "arxiv-2401.04088",
+      "doi": "10.48550/arXiv.2401.04088",
+      "title": "Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation",
+      "title_zh": "Mobile ALOHA：通过低成本全身遥操作学习双臂移动操作",
+      "authors": [
+        "Zipeng Fu",
+        "Tony Z. Zhao",
+        "Chelsea Finn"
+      ],
+      "year": 2024,
+      "venue": "CoRL",
+      "field": "机器人学",
+      "topics": [
+        "双臂机器人",
+        "模仿学习",
+        "遥操作"
+      ],
+      "abstract": "We present a low-cost whole-body teleoperation system for collecting data on bimanual mobile manipulation and show that co-training with existing static ALOHA datasets increases performance on mobile manipulation tasks.",
+      "abstract_zh": "本文提出一种低成本全身遥操作系统，用于采集双臂移动操作数据。实验显示，将移动操作数据与已有静态 ALOHA 数据共同训练，可以显著提升机器人执行复杂移动操作任务的成功率。",
+      "citations": 1300,
+      "popularity": 82,
+      "open_access": true,
+      "url": "https://arxiv.org/abs/2401.04088"
+    },
+    {
+      "id": "arxiv-2307.09288",
+      "doi": "10.48550/arXiv.2307.09288",
+      "title": "Llama 2: Open Foundation and Fine-Tuned Chat Models",
+      "title_zh": "Llama 2：开放基础模型与微调对话模型",
+      "authors": [
+        "Hugo Touvron",
+        "Louis Martin",
+        "Kevin Stone",
+        "Peter Albert"
+      ],
+      "year": 2023,
+      "venue": "arXiv",
+      "field": "自然语言处理",
+      "topics": [
+        "Llama 2",
+        "开放模型",
+        "大语言模型"
+      ],
+      "abstract": "We develop and release Llama 2, a collection of pretrained and fine-tuned large language models ranging in scale from 7 billion to 70 billion parameters, including chat-optimized variants.",
+      "abstract_zh": "本文开发并发布 Llama 2 系列预训练与微调大语言模型，参数规模覆盖 70 亿至 700 亿，并包含针对对话场景优化的版本。研究详细描述了微调方法及安全性改进策略。",
+      "citations": 27000,
+      "popularity": 94,
+      "open_access": true,
+      "url": "https://arxiv.org/abs/2307.09288"
+    },
+    {
+      "id": "arxiv-2210.03629",
+      "doi": "10.48550/arXiv.2210.03629",
+      "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+      "title_zh": "ReAct：协同语言模型中的推理与行动",
+      "authors": [
+        "Shunyu Yao",
+        "Jeffrey Zhao",
+        "Dian Yu",
+        "Nan Du"
+      ],
+      "year": 2023,
+      "venue": "ICLR",
+      "field": "人工智能",
+      "topics": [
+        "智能体",
+        "思维链",
+        "工具调用"
+      ],
+      "abstract": "We explore the use of large language models to generate both reasoning traces and task-specific actions in an interleaved manner, allowing greater synergy between the two and improving interpretability and trustworthiness.",
+      "abstract_zh": "本文探索让大语言模型交替生成推理轨迹与任务相关行动，使推理帮助模型制定并调整行动计划，行动则帮助模型从外部环境获取信息，从而提升可解释性、可信度与任务表现。",
+      "citations": 9800,
+      "popularity": 90,
+      "open_access": true,
+      "url": "https://arxiv.org/abs/2210.03629"
+    },
+    {
+      "id": "arxiv-2303.04137",
+      "doi": "10.48550/arXiv.2303.04137",
+      "title": "PaLM-E: An Embodied Multimodal Language Model",
+      "title_zh": "PaLM-E：具身多模态语言模型",
+      "authors": [
+        "Danny Driess",
+        "Fei Xia",
+        "Meghan S. M. Sajjadi",
+        "Corey Lynch"
+      ],
+      "year": 2023,
+      "venue": "ICML",
+      "field": "机器人学",
+      "topics": [
+        "具身智能",
+        "多模态",
+        "机器人控制"
+      ],
+      "abstract": "We propose embodied language models to directly incorporate continuous inputs from an embodied agent into a language model, thereby establishing the link between words and percepts in the real world.",
+      "abstract_zh": "本文提出具身语言模型，将具身智能体的连续传感输入直接融入语言模型，在文字与真实世界感知之间建立联系。PaLM-E 可同时处理机器人规划、视觉问答与语言任务，并展现出正向迁移能力。",
+      "citations": 5200,
+      "popularity": 87,
+      "open_access": true,
+      "url": "https://arxiv.org/abs/2303.04137"
+    },
+    {
+      "id": "arxiv-2112.10752",
+      "doi": "10.48550/arXiv.2112.10752",
+      "title": "High-Resolution Image Synthesis with Latent Diffusion Models",
+      "title_zh": "使用潜空间扩散模型进行高分辨率图像合成",
+      "authors": [
+        "Robin Rombach",
+        "Andreas Blattmann",
+        "Dominik Lorenz",
+        "Patrick Esser"
+      ],
+      "year": 2022,
+      "venue": "CVPR",
+      "field": "计算机视觉",
+      "topics": [
+        "扩散模型",
+        "图像生成",
+        "Stable Diffusion"
+      ],
+      "abstract": "By applying diffusion models in the latent space of powerful pretrained autoencoders, we achieve a near-optimal point between complexity reduction and detail preservation, greatly boosting visual fidelity while reducing computational requirements.",
+      "abstract_zh": "通过在强大预训练自编码器的潜空间中应用扩散模型，本文在降低复杂度与保留图像细节之间取得良好平衡，显著减少计算需求，同时提升图像合成的视觉保真度。",
+      "citations": 31000,
+      "popularity": 93,
+      "open_access": true,
+      "url": "https://arxiv.org/abs/2112.10752"
+    },
+    {
+      "id": "arxiv-2203.02155",
+      "doi": "10.48550/arXiv.2203.02155",
+      "title": "Training Language Models to Follow Instructions with Human Feedback",
+      "title_zh": "利用人类反馈训练语言模型遵循指令",
+      "authors": [
+        "Long Ouyang",
+        "Jeff Wu",
+        "Xu Jiang",
+        "Diogo Almeida"
+      ],
+      "year": 2022,
+      "venue": "NeurIPS",
+      "field": "人工智能",
+      "topics": [
+        "RLHF",
+        "指令微调",
+        "语言模型"
+      ],
+      "abstract": "Making language models bigger does not inherently make them better at following a user's intent. We fine-tune GPT-3 using supervised learning and reinforcement learning from human feedback, resulting in models that users prefer despite having fewer parameters.",
+      "abstract_zh": "增大语言模型并不会天然提升其遵循用户意图的能力。研究通过监督学习和基于人类反馈的强化学习微调 GPT-3，使参数量更小的模型也能产出更符合用户偏好、更真实且有害输出更少的回答。",
+      "citations": 19000,
+      "popularity": 92,
+      "open_access": true,
+      "url": "https://arxiv.org/abs/2203.02155"
+    },
+    {
+      "id": "arxiv-2010.11929",
+      "doi": "10.48550/arXiv.2010.11929",
+      "title": "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale",
+      "title_zh": "一张图像值 16×16 个词：用于大规模图像识别的 Transformer",
+      "authors": [
+        "Alexey Dosovitskiy",
+        "Lucas Beyer",
+        "Alexander Kolesnikov",
+        "Dirk Weissenborn"
+      ],
+      "year": 2021,
+      "venue": "ICLR",
+      "field": "计算机视觉",
+      "topics": [
+        "Vision Transformer",
+        "图像识别",
+        "深度学习"
+      ],
+      "abstract": "We show that a pure transformer applied directly to sequences of image patches can perform very well on image classification tasks. When pre-trained on large amounts of data and transferred to multiple benchmarks, Vision Transformer attains excellent results.",
+      "abstract_zh": "本文证明，将纯 Transformer 直接应用于图像块序列，可以在图像分类任务上取得优异表现。Vision Transformer 在大规模数据上预训练并迁移到多个基准后，以明显更少的训练计算获得了极具竞争力的结果。",
+      "citations": 58000,
+      "popularity": 94,
+      "open_access": true,
+      "url": "https://arxiv.org/abs/2010.11929"
+    },
+    {
+      "id": "arxiv-2103.00020",
+      "doi": "10.48550/arXiv.2103.00020",
+      "title": "Learning Transferable Visual Models From Natural Language Supervision",
+      "title_zh": "从自然语言监督中学习可迁移视觉模型",
+      "authors": [
+        "Alec Radford",
+        "Jong Wook Kim",
+        "Chris Hallacy",
+        "Aditya Ramesh"
+      ],
+      "year": 2021,
+      "venue": "ICML",
+      "field": "多模态学习",
+      "topics": [
+        "CLIP",
+        "视觉语言模型",
+        "零样本学习"
+      ],
+      "abstract": "State-of-the-art computer vision systems are trained to predict a fixed set of predetermined object categories. We demonstrate that the simple pre-training task of predicting which caption goes with which image is an efficient and scalable way to learn image representations.",
+      "abstract_zh": "传统计算机视觉系统通常只预测预设类别。本文证明，通过判断文本描述与图像是否匹配这一简单预训练任务，可以高效、可扩展地学习视觉表示，并将自然语言作为灵活接口迁移到多种视觉分类任务。",
+      "citations": 51000,
+      "popularity": 95,
+      "open_access": true,
+      "url": "https://arxiv.org/abs/2103.00020"
+    },
+    {
+      "id": "arxiv-2005.14165",
+      "doi": "10.48550/arXiv.2005.14165",
+      "title": "Language Models are Few-Shot Learners",
+      "title_zh": "语言模型是少样本学习者",
+      "authors": [
+        "Tom B. Brown",
+        "Benjamin Mann",
+        "Nick Ryder",
+        "Melanie Subbiah"
+      ],
+      "year": 2020,
+      "venue": "NeurIPS",
+      "field": "自然语言处理",
+      "topics": [
+        "GPT-3",
+        "少样本学习",
+        "大语言模型"
+      ],
+      "abstract": "We demonstrate that scaling up language models greatly improves task-agnostic, few-shot performance, sometimes even reaching competitiveness with prior state-of-the-art fine-tuning approaches.",
+      "abstract_zh": "研究表明，扩大语言模型规模能显著提升与任务无关的少样本学习能力，在部分任务上甚至可以媲美此前最先进的微调方法。GPT-3 在无需梯度更新的情况下，仅通过文本交互完成多类任务。",
+      "citations": 42000,
+      "popularity": 96,
+      "open_access": true,
+      "url": "https://arxiv.org/abs/2005.14165"
+    },
+    {
+      "id": "arxiv-1810.04805",
+      "doi": "10.48550/arXiv.1810.04805",
+      "title": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
+      "title_zh": "BERT：用于语言理解的深度双向 Transformer 预训练",
+      "authors": [
+        "Jacob Devlin",
+        "Ming-Wei Chang",
+        "Kenton Lee",
+        "Kristina Toutanova"
+      ],
+      "year": 2018,
+      "venue": "NAACL",
+      "field": "自然语言处理",
+      "topics": [
+        "BERT",
+        "预训练模型",
+        "语言理解"
+      ],
+      "abstract": "We introduce a new language representation model called BERT, which stands for Bidirectional Encoder Representations from Transformers. BERT is designed to pre-train deep bidirectional representations from unlabeled text by jointly conditioning on both left and right context.",
+      "abstract_zh": "本文提出语言表示模型 BERT，即基于 Transformer 的双向编码器表示。BERT 通过同时利用左右两侧上下文，在无标注文本上预训练深层双向表示，只需增加一个输出层即可适配多种自然语言处理任务。",
+      "citations": 119000,
+      "popularity": 98,
+      "open_access": true,
+      "url": "https://arxiv.org/abs/1810.04805"
+    },
+    {
+      "id": "arxiv-1706.03762",
+      "doi": "10.48550/arXiv.1706.03762",
+      "title": "Attention Is All You Need",
+      "title_zh": "注意力机制即你所需",
+      "authors": [
+        "Ashish Vaswani",
+        "Noam Shazeer",
+        "Niki Parmar",
+        "Jakob Uszkoreit"
+      ],
+      "year": 2017,
+      "venue": "NeurIPS",
+      "field": "人工智能",
+      "topics": [
+        "Transformer",
+        "注意力机制",
+        "自然语言处理"
+      ],
+      "abstract": "The dominant sequence transduction models are based on complex recurrent or convolutional neural networks. We propose a new simple network architecture, the Transformer, based solely on attention mechanisms, dispensing with recurrence and convolutions entirely.",
+      "abstract_zh": "主流序列转换模型通常依赖复杂的循环神经网络或卷积神经网络。本文提出一种仅基于注意力机制的全新简洁架构 Transformer，完全舍弃循环与卷积结构，并在机器翻译任务中展现出更高的并行效率与性能。",
+      "citations": 167000,
+      "popularity": 100,
+      "open_access": true,
+      "url": "https://arxiv.org/abs/1706.03762"
+    }
+  ]
+}

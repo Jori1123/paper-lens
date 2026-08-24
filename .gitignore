@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.env.update
+data/logs/
+data/update.lock
+data/translation_cache.json
+.DS_Store
