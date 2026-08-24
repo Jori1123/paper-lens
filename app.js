@@ -27,6 +27,11 @@ const els = {
   reader: $("#reader"),
 };
 
+const PDFJS_URL = "https://cdn.jsdelivr.net/npm/pdfjs-dist@6.2.108/build/pdf.min.mjs";
+const PDFJS_WORKER_URL = "https://cdn.jsdelivr.net/npm/pdfjs-dist@6.2.108/build/pdf.worker.min.mjs";
+let pdfSession = 0;
+let pdfObserver = null;
+
 const normalize = (value = "") => value.toLocaleLowerCase("zh-CN").normalize("NFKC");
 
 function searchableText(paper) {
@@ -215,17 +220,92 @@ function openReader(paper) {
   els.reader.showModal();
 }
 
-function openPdfReader(paper, pdfUrl = getPdfUrl(paper)) {
+async function openPdfReader(paper, pdfUrl = getPdfUrl(paper)) {
   if (!pdfUrl) return;
+  const session = ++pdfSession;
+  const viewport = $("#pdfViewport");
   $("#pdfTitle").textContent = paper.title_zh || paper.title;
   $("#pdfExternal").href = pdfUrl;
-  $("#pdfFrame").src = pdfUrl;
+  viewport.innerHTML = '<div class="pdf-status">正在安全加载 PDF 全文…</div>';
   $("#pdfReader").showModal();
+  try {
+    const pdfjs = await import(PDFJS_URL);
+    pdfjs.GlobalWorkerOptions.workerSrc = PDFJS_WORKER_URL;
+    const documentTask = pdfjs.getDocument({ url: pdfUrl, withCredentials: false });
+    const pdf = await documentTask.promise;
+    if (session !== pdfSession) {
+      await pdf.destroy();
+      return;
+    }
+    viewport.replaceChildren();
+    const pages = [];
+    for (let pageNumber = 1; pageNumber <= pdf.numPages; pageNumber += 1) {
+      const page = document.createElement("section");
+      page.className = "pdf-page";
+      page.dataset.page = pageNumber;
+      page.innerHTML = `<span>第 ${pageNumber} / ${pdf.numPages} 页</span><div class="pdf-page-loading">正在加载页面…</div>`;
+      pages.push(page);
+      viewport.append(page);
+    }
+
+    const renderPage = async (element) => {
+      if (element.dataset.rendered || element.dataset.rendering || session !== pdfSession) return;
+      element.dataset.rendering = "true";
+      try {
+        const pageNumber = Number(element.dataset.page);
+        const page = await pdf.getPage(pageNumber);
+        const original = page.getViewport({ scale: 1 });
+        const scale = Math.min(Math.max((viewport.clientWidth - 32) / original.width, 0.65), 1.7);
+        const pageViewport = page.getViewport({ scale });
+        const pixelRatio = Math.min(window.devicePixelRatio || 1, 2);
+        const canvas = document.createElement("canvas");
+        canvas.width = Math.floor(pageViewport.width * pixelRatio);
+        canvas.height = Math.floor(pageViewport.height * pixelRatio);
+        canvas.style.width = `${Math.floor(pageViewport.width)}px`;
+        canvas.style.height = `${Math.floor(pageViewport.height)}px`;
+        await page.render({
+          canvasContext: canvas.getContext("2d"),
+          viewport: pageViewport,
+          transform: pixelRatio === 1 ? null : [pixelRatio, 0, 0, pixelRatio, 0, 0],
+        }).promise;
+        if (session !== pdfSession) return;
+        element.querySelector(".pdf-page-loading")?.remove();
+        element.append(canvas);
+        element.dataset.rendered = "true";
+      } catch (error) {
+        element.querySelector(".pdf-page-loading").textContent = "本页加载失败";
+        console.warn("PDF 页面渲染失败", error);
+      } finally {
+        delete element.dataset.rendering;
+      }
+    };
+
+    pdfObserver?.disconnect();
+    pdfObserver = new IntersectionObserver(
+      (entries) => entries.filter((entry) => entry.isIntersecting).forEach((entry) => renderPage(entry.target)),
+      { root: viewport, rootMargin: "900px 0px" },
+    );
+    pages.forEach((page) => pdfObserver.observe(page));
+  } catch (error) {
+    console.error("PDF 全文载入失败", error);
+    viewport.innerHTML = `
+      <div class="pdf-status pdf-error">
+        <strong>无法在网页内载入这篇 PDF</strong>
+        <span>来源网站可能限制跨域访问，请点击右上角“新标签打开”。</span>
+      </div>`;
+  }
+}
+
+function resetPdfReader() {
+  pdfSession += 1;
+  pdfObserver?.disconnect();
+  pdfObserver = null;
+  $("#pdfViewport").innerHTML = '<div class="pdf-status">正在准备 PDF 全文阅读器…</div>';
 }
 
 function closePdfReader() {
   $("#pdfReader").close();
-  $("#pdfFrame").src = "about:blank";
+  resetPdfReader();
 }
 
 function setReaderView(view) {
@@ -337,9 +417,7 @@ function bindEvents() {
   $("#pdfReader").addEventListener("click", (event) => {
     if (event.target === $("#pdfReader")) closePdfReader();
   });
-  $("#pdfReader").addEventListener("close", () => {
-    $("#pdfFrame").src = "about:blank";
-  });
+  $("#pdfReader").addEventListener("close", resetPdfReader);
   document.querySelectorAll(".reader-tabs button").forEach((button) => {
     button.addEventListener("click", () => setReaderView(button.dataset.view));
   });

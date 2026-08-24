@@ -163,7 +163,9 @@
     <div class="pdf-notice">
       若 PDF 未显示，通常是论文网站禁止第三方嵌入，请使用右上角“新标签打开”。
     </div>
-    <iframe id="pdfFrame" title="论文 PDF 全文" referrerpolicy="no-referrer"></iframe>
+    <div class="pdf-viewport" id="pdfViewport" aria-live="polite">
+      <div class="pdf-status">正在准备 PDF 全文阅读器…</div>
+    </div>
   </dialog>
 
   <template id="paperTemplate">
