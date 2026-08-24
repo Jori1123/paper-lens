@@ -96,10 +96,10 @@ function getPdfUrl(paper) {
   if (direct) return direct;
   const arxivUrl = safeHttpUrl(paper.url);
   if (arxivUrl && /arxiv\.org\/abs\//i.test(arxivUrl)) {
-    return arxivUrl.replace(/\/abs\//i, "/pdf/").replace(/\/$/, "") + ".pdf";
+    return arxivUrl.replace(/\/abs\//i, "/pdf/").replace(/\/$/, "");
   }
   const arxivDoi = String(paper.doi || "").match(/10\.48550\/arxiv\.([^/?#]+)/i);
-  return arxivDoi ? `https://arxiv.org/pdf/${arxivDoi[1]}.pdf` : "";
+  return arxivDoi ? `https://arxiv.org/pdf/${arxivDoi[1]}` : "";
 }
 
 function renderPaper(paper) {
