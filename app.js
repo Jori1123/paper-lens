@@ -77,6 +77,26 @@ function createBadge(text, type = "") {
   return span;
 }
 
+function safeHttpUrl(value) {
+  try {
+    const url = new URL(value);
+    return ["http:", "https:"].includes(url.protocol) ? url.href : "";
+  } catch {
+    return "";
+  }
+}
+
+function getPdfUrl(paper) {
+  const direct = safeHttpUrl(paper.pdf_url);
+  if (direct) return direct;
+  const arxivUrl = safeHttpUrl(paper.url);
+  if (arxivUrl && /arxiv\.org\/abs\//i.test(arxivUrl)) {
+    return arxivUrl.replace(/\/abs\//i, "/pdf/").replace(/\/$/, "") + ".pdf";
+  }
+  const arxivDoi = String(paper.doi || "").match(/10\.48550\/arxiv\.([^/?#]+)/i);
+  return arxivDoi ? `https://arxiv.org/pdf/${arxivDoi[1]}.pdf` : "";
+}
+
 function renderPaper(paper) {
   const card = $("#paperTemplate").content.firstElementChild.cloneNode(true);
   card.dataset.id = paper.id;
@@ -96,6 +116,12 @@ function renderPaper(paper) {
   });
   card.querySelector(".citation").textContent = `${Number(paper.citations || 0).toLocaleString()} 次引用`;
   card.querySelector(".popularity").textContent = `知名度 ${paper.popularity || 0}`;
+  const pdfUrl = getPdfUrl(paper);
+  const pdfButton = card.querySelector(".pdf-button");
+  if (paper.open_access && pdfUrl) {
+    pdfButton.hidden = false;
+    pdfButton.addEventListener("click", () => openPdfReader(paper, pdfUrl));
+  }
   card.querySelector(".read-button").addEventListener("click", () => openReader(paper));
   card.querySelector("h3").addEventListener("click", () => openReader(paper));
   const save = card.querySelector(".save-button");
@@ -168,7 +194,16 @@ function openReader(paper) {
   $("#readerAuthors").textContent = `${paper.authors?.join(" · ") || "作者未知"} · ${paper.venue || "预印本"}`;
   $("#readerOriginal").textContent = paper.abstract || "The original abstract is not available.";
   $("#readerTranslation").textContent = paper.abstract_zh || "该论文的中文摘要仍在翻译队列中。";
-  $("#readerLink").href = paper.url || (paper.doi ? `https://doi.org/${paper.doi}` : "#");
+  $("#readerLink").href = safeHttpUrl(paper.url) || (paper.doi ? `https://doi.org/${paper.doi}` : "#");
+  const pdfUrl = getPdfUrl(paper);
+  const pdfButton = $("#readerPdf");
+  pdfButton.hidden = !(paper.open_access && pdfUrl);
+  pdfButton.onclick = paper.open_access && pdfUrl
+    ? () => {
+        els.reader.close();
+        openPdfReader(paper, pdfUrl);
+      }
+    : null;
   const topics = $("#readerTopics");
   topics.replaceChildren();
   (paper.topics || []).forEach((topic) => {
@@ -178,6 +213,19 @@ function openReader(paper) {
   });
   setReaderView("split");
   els.reader.showModal();
+}
+
+function openPdfReader(paper, pdfUrl = getPdfUrl(paper)) {
+  if (!pdfUrl) return;
+  $("#pdfTitle").textContent = paper.title_zh || paper.title;
+  $("#pdfExternal").href = pdfUrl;
+  $("#pdfFrame").src = pdfUrl;
+  $("#pdfReader").showModal();
+}
+
+function closePdfReader() {
+  $("#pdfReader").close();
+  $("#pdfFrame").src = "about:blank";
 }
 
 function setReaderView(view) {
@@ -284,6 +332,13 @@ function bindEvents() {
   $("#readerClose").addEventListener("click", () => els.reader.close());
   els.reader.addEventListener("click", (event) => {
     if (event.target === els.reader) els.reader.close();
+  });
+  $("#pdfClose").addEventListener("click", closePdfReader);
+  $("#pdfReader").addEventListener("click", (event) => {
+    if (event.target === $("#pdfReader")) closePdfReader();
+  });
+  $("#pdfReader").addEventListener("close", () => {
+    $("#pdfFrame").src = "about:blank";
   });
   document.querySelectorAll(".reader-tabs button").forEach((button) => {
     button.addEventListener("click", () => setReaderView(button.dataset.view));

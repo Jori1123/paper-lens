@@ -153,6 +153,7 @@ def work_to_paper(work: dict[str, Any], current_year: int) -> dict[str, Any]:
         "citations": citations,
         "popularity": popularity(citations, year, current_year),
         "open_access": bool((work.get("open_access") or {}).get("is_oa")),
+        "pdf_url": best_oa.get("pdf_url") or "",
         "url": best_oa.get("landing_page_url")
         or best_oa.get("pdf_url")
         or location.get("landing_page_url")

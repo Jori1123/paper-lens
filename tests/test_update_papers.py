@@ -57,7 +57,10 @@ class UpdatePapersTest(unittest.TestCase):
             "publication_year": 2025,
             "authorships": [{"author": {"display_name": "Ada"}}],
             "primary_location": {"source": {"display_name": "Journal"}},
-            "best_oa_location": {"landing_page_url": "https://example.test/paper"},
+            "best_oa_location": {
+                "landing_page_url": "https://example.test/paper",
+                "pdf_url": "https://example.test/paper.pdf",
+            },
             "open_access": {"is_oa": True},
             "cited_by_count": 10,
             "abstract_inverted_index": {"A": [0], "test": [1]},
@@ -69,6 +72,7 @@ class UpdatePapersTest(unittest.TestCase):
         self.assertEqual(paper["field"], "人工智能")
         self.assertEqual(paper["abstract"], "A test")
         self.assertTrue(paper["open_access"])
+        self.assertEqual(paper["pdf_url"], "https://example.test/paper.pdf")
 
 
 if __name__ == "__main__":
