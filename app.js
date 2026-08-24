@@ -93,7 +93,11 @@ function safeHttpUrl(value) {
 
 function getPdfUrl(paper) {
   const direct = safeHttpUrl(paper.pdf_url);
-  if (direct) return direct;
+  if (direct) {
+    return /arxiv\.org\/pdf\//i.test(direct)
+      ? direct.replace(/\.pdf(?=([?#]|$))/i, "")
+      : direct;
+  }
   const arxivUrl = safeHttpUrl(paper.url);
   if (arxivUrl && /arxiv\.org\/abs\//i.test(arxivUrl)) {
     return arxivUrl.replace(/\/abs\//i, "/pdf/").replace(/\/$/, "");
