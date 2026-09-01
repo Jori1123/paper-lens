@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-08-31T00:38:25.494736+00:00",
+    "updated_at": "2026-09-01T01:18:55.909601+00:00",
     "source": "OpenAlex",
     "queries": [
       "artificial intelligence",
@@ -10,7 +10,7 @@
       "multimodal learning"
     ],
     "window_years": 10,
-    "count": 695
+    "count": 758
   },
   "papers": [
     {
@@ -14991,7 +14991,7 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "pdf_url": "",
+      "pdf_url": "https://www.ijcs.net/ijcs/index.php/ijcs/article/download/5204/1261",
       "url": "https://doi.org/10.33022/ijcs.v15i4.5204"
     },
     {
@@ -15222,7 +15222,7 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "pdf_url": "",
+      "pdf_url": "https://www.nature.com/articles/s41598-026-68788-w_reference.pdf",
       "url": "https://doi.org/10.1038/s41598-026-68788-w"
     },
     {
@@ -16352,8 +16352,8 @@
       "abstract_zh": "",
       "citations": 0,
       "popularity": 18,
-      "open_access": false,
-      "pdf_url": "",
+      "open_access": true,
+      "pdf_url": "https://jalt-publications.org/sites/default/files/pdf-article/jalt2025-pcp-022.pdf",
       "url": "https://doi.org/10.37546/jaltpcp2025-22"
     },
     {
@@ -16379,7 +16379,7 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "pdf_url": "",
+      "pdf_url": "https://www.ijisrt.com/assets/upload/files/IJISRT26AUG740.pdf",
       "url": "https://doi.org/10.38124/ijisrt/26aug740"
     },
     {
@@ -16876,6 +16876,1533 @@
       "open_access": true,
       "pdf_url": "",
       "url": "https://doi.org/10.5281/zenodo.22160130"
+    },
+    {
+      "id": "openalex-W7204741959",
+      "doi": "",
+      "title": "Geautomatiseerde objectmanipulatie in hardfruitboomgaarden – Robotisch snoeien en oogsten",
+      "title_zh": "",
+      "authors": [
+        "Rafaël Verbiest"
+      ],
+      "year": 2026,
+      "venue": "Lirias (KU Leuven)",
+      "field": "Agricultural and Biological Sciences",
+      "topics": [
+        "Smart Agriculture and AI",
+        "Tree Root and Stability Studies",
+        "Plant Surface Properties and Treatments"
+      ],
+      "abstract": "Growing pome fruit requires knowledge of the tree and its circumstances. Throughout the year, experienced cultivators manage the orchard in various ways, including certain manipulations in the tree such as pruning, thinning and harvesting. Nowadays, these tasks are still mainly performed manually. An extensive activity survey combined with a literature and market study, performed at the start of this research, pointed out the urge of introducing automation and robotics in pome fruit cultivation, especially for the most labour-intensive orchard management tasks of harvesting and pruning. This research took the first steps towards robotic pruning by contributing on four aspects of the robotic application: the development of a system to assess the branch structure of a tree; the creation of an elaborated dataset of pruning data; the investigation of pruning rules for robotic pruning decision-making; and the development of a multi-functional robotic orchard platform to perform robotic manipulations of various kinds. Multiple branch assessment approaches were investigated during this research. Firstly, a line model approach was implemented to represent the branch structure as a hierarchical graph of line segments. This method was able to identify the larger components of the tree such as the trunk and the main branches. However, due to interference with noise, smaller branches and details of the tree could not be determined adequately by this approach. Furthermore, a cylindrical model approach was investigated as well. Using cylindrical elements to represent branch parts, a similar hierarchical structure was built up. Besides trunk and main branches, this method was able to identify one level of branches further in a detailed way, but facing with difficulties induced by the noisy data as well. Finally, some recent developments in literature were studied with the aim of adopting (parts of) these techniques into the self-developed methods of this research. During this research, a dataset of both point cloud and RGB-data in winter dormancy stage of the trees has been established. With over 3,200 tree scans, this dataset grew up to one of the largest of this kind in the world. Moreover, this dataset has many assets for other research related to fruit cultivation, as it will be published and publically available. The data was captured during various weather and lighting conditions, and at multiple moments throughout seasons and years. All these aspects ensure that this dataset is suitable for training robust neural networks, as well as for tree growing assessment over time. As objective and digitally implementable pruning rules did not exist yet, this research aimed to determine such rules for robotic pruning decision-making. In a first research track, sets of simplified deterministic pruning rules were defined in cooperation with professional pruners. These rules were applied on some test objects to evaluate the consequences on growth and yield for the upcoming years. On the other hand, the data of the above-mentioned dataset was used to identify the current manual pruning behaviour. Via the developed comparison algorithm, the pruning actions were digitalised with a F1-score of 82.2 %. In future work, these digital pruning points will be used as labelled data for developing an AI-based prediction model for new pruning events. Within this research, a robotic setup has been developed with the objective of executing robotic manipulations in orchard environments. This setup was created in two phases, ending up with an 8 DoF manipulator mounted on a mobile platform. For each phase in the development, the hardware setup was validated during field tests. The conversion from the first to the second version led to an increase of success rate of 27 % and an improvement of the cycle time of 28 %, resulting in 92 % of average success at a speed of 8.9 s/cut. The setup was tested for multiple tree architectures, performing robustly and consistently in all tested systems. Based on an extensive techno-economic study, it became clear that such a robotic manipulator setup for fruit cultivation, as developed in this research, could only become profitable if it would be employed as much as possible during the cultivation season. Therefore, integration of other functionalities within the orchard was investigated as well. Besides the main use case of pruning, the integration of a harvesting unit was established in this research as a Proof-of-Concept. The harvesting use case has been preliminarily tested, resulting in a success rate of 68 % and 76 % for respectively picking pear and apple. Combining both the pruning and the harvesting use case in a multi-functional robotic orchard platform, the techno-economic study concluded that such system could become profitable with a plausible break-even point of 8.4 years.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": false,
+      "pdf_url": "",
+      "url": "https://lirias.kuleuven.be/handle/20.500.12942/792127"
+    },
+    {
+      "id": "openalex-W7204744308",
+      "doi": "",
+      "title": "Dancing with machines: humanoid robots and techno-choreographic co-agency",
+      "title_zh": "",
+      "authors": [
+        "Z Xu"
+      ],
+      "year": 2026,
+      "venue": "Research Space",
+      "field": "跨学科",
+      "topics": [],
+      "abstract": "This paper examines two recent humanoid robot dance performances that have circulated widely through international media. Building on my theorisation of techno-choreography in Dancing Chineseness and Techno-Choreography, I analyse how these works reconfigure choreographic agency through the interaction of human dancers, engineers, code, and robotic bodies. Rather than treating technology as a neutral instrument, I position the robot as a structural force that reorganises the conditions of performance itself. Instead of celebrating robots as equal creative partners, I interrogate the conditions under which machinic performance is framed as co-creation. In these works, humanoid robots execute complex folk dance sequences through motion capture mapping, frame by frame coding, and algorithmic calibration. Their technical precision, repeatability, and capacity for extreme rotational speed exceed certain human physical limits. Yet this apparent virtuosity prompts deeper questions about embodiment, authorship, and the redistribution of labour within technologically mediated choreography. I argue that the introduction of humanoid robots into heritage-based dance forms produces a productive tension between mechanical reproduction and embodied cultural memory. While robots can replicate visible movement patterns with high accuracy, they do not participate in the lived rhythmic sensibility, historical resonance, or communal transmission that sustain such practices. What emerges is not a seamless human–machine collaboration, but a reorganisation of choreographic hierarchy in which technological spectacle risks overshadowing cultural meaning. By situating these performances within posthuman performance discourse, this paper critically examines what is at stake when machinic systems enter culturally specific dance contexts. It proposes that techno-choreography must account not only for distributed agency, but also for asymmetries of knowledge, cultural depth, and embodied experience. In doing so, the paper complicates celebratory narratives of human and more-than-human co-creation and offers a more critically grounded framework for analysing robotic performance.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": false,
+      "pdf_url": "",
+      "url": "http://orcid.org/0000-0002-7819-4517>"
+    },
+    {
+      "id": "openalex-W7204683278",
+      "doi": "10.5281/zenodo.22182077",
+      "title": "Learning by Watching: A Narrative Review of Imitation Learning from ALVINN to Generative Adversarial Imitation",
+      "title_zh": "",
+      "authors": [
+        "Zen Revista",
+        "10 IA"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "计算机科学",
+      "topics": [
+        "Reinforcement Learning in Robotics",
+        "Social Robot Interaction and HRI",
+        "Ethics and Social Impacts of AI"
+      ],
+      "abstract": "Imitation learning---the learning of behavior from demonstrations instead of rewards---moved from Pomerleau's ALVINN driving network and Schaal's humanoid route through Ng and Russell's inverse reinforcement learning, Abbeel and Ng's apprenticeship learning, and Ziebart's maximum entropy to the robot learning from demonstration surveys, Ross's DAgger, Ho and Ermon's generative adversarial imitation, Finn's guided cost learning, and the algorithmic perspective's syntheses. This article presents a narrative review of that arc's canonical line: Pomerleau's 1989 ALVINN, Schaal's 1999 humanoid question, Ng and Russell's 2000 inverse RL, Abbeel and Ng's 2004 apprenticeship learning, Billard and colleagues's 2008 handbook chapter, Ziebart and colleagues's 2008 maximum entropy, Argall and colleagues's 2009 survey, Ross, Gordon, and Bagnell's 2011 DAgger, Ho and Ermon's 2016 GAIL, Finn and colleagues's 2016 guided cost learning, Hussein and colleagues's 2017 survey, and Osa and colleagues's 2018 algorithmic perspective. The review is organized around three themes: the foundations, in which the driving network's demonstrations, the humanoid's question, and the inverse reward's recovery defined the field's two programs; the demonstration's surveys, in which the robot programming's handbook and the LfD's survey systematized the practice; and the deep era, in which the DAgger's covariate correction, the adversarial's discrimination, and the algorithmic perspective's synthesis unified the field. It is concluded that imitation learning is the reward's workaround---and that its arc is the demonstrator's knowledge's transfer from the human's steering to the policy's distributions.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22182077"
+    },
+    {
+      "id": "openalex-W7204694413",
+      "doi": "10.5281/zenodo.22181506",
+      "title": "Abundance in Distribution: A Demand-Funded Framework for AI-Era Production, Falling Prices, and Shared Scale Benefits",
+      "title_zh": "",
+      "authors": [
+        "Rajasekar Muthusamy"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "社会科学",
+      "topics": [
+        "Innovation Diffusion and Forecasting",
+        "Economic and Technological Innovation",
+        "Internet of Things and AI"
+      ],
+      "abstract": "This open paper proposes “Abundance in Distribution,” a demand-funded production framework for the AI era. Consumers make small commitments 30–700 days before delivery, creating visible forward demand and a pool of customer-funded working capital. Producers use that demand visibility to expand capacity before shortages arise. As committed distribution grows, AI, automation, robotics, cheaper energy, procurement optimization, and economies of scale can reduce unit cost. The future production right therefore need not remain at its initial projected value: a unit expected to cost $24 at 100 million commitments could, illustratively, fall to $15 at 8 billion commitments while the producer preserves an agreed margin and earns substantially more aggregate profit through vastly larger volume. The paper further examines blockchain-based future production rights, productive deflation, consumer purchasing-power gains, and the macroeconomic possibility of a high-throughput economy in which output grows faster than prices decline. Under that condition, scalable-sector prices may fall while nominal GDP still increases. The paper presents illustrative numerical models, distribution and profit curves, nominal-GDP scenarios, an AI-era automation framework, and safeguards for customer advances and transferable future-production claims. Concept and author: Rajasekar Muthusamy, Founder, Simule, Inc. AI assistance was used for drafting, numerical illustration, editing, visualization, and document preparation. The underlying concept, economic thesis, and direction are attributed to Rajasekar Muthusamy.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22181506"
+    },
+    {
+      "id": "openalex-W7204722993",
+      "doi": "10.5281/zenodo.22181507",
+      "title": "Abundance in Distribution: A Demand-Funded Framework for AI-Era Production, Falling Prices, and Shared Scale Benefits",
+      "title_zh": "",
+      "authors": [
+        "Rajasekar Muthusamy"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "社会科学",
+      "topics": [
+        "Innovation Diffusion and Forecasting",
+        "Economic and Technological Innovation",
+        "Internet of Things and AI"
+      ],
+      "abstract": "This open paper proposes “Abundance in Distribution,” a demand-funded production framework for the AI era. Consumers make small commitments 30–700 days before delivery, creating visible forward demand and a pool of customer-funded working capital. Producers use that demand visibility to expand capacity before shortages arise. As committed distribution grows, AI, automation, robotics, cheaper energy, procurement optimization, and economies of scale can reduce unit cost. The future production right therefore need not remain at its initial projected value: a unit expected to cost $24 at 100 million commitments could, illustratively, fall to $15 at 8 billion commitments while the producer preserves an agreed margin and earns substantially more aggregate profit through vastly larger volume. The paper further examines blockchain-based future production rights, productive deflation, consumer purchasing-power gains, and the macroeconomic possibility of a high-throughput economy in which output grows faster than prices decline. Under that condition, scalable-sector prices may fall while nominal GDP still increases. The paper presents illustrative numerical models, distribution and profit curves, nominal-GDP scenarios, an AI-era automation framework, and safeguards for customer advances and transferable future-production claims. Concept and author: Rajasekar Muthusamy, Founder, Simule, Inc. AI assistance was used for drafting, numerical illustration, editing, visualization, and document preparation. The underlying concept, economic thesis, and direction are attributed to Rajasekar Muthusamy.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22181507"
+    },
+    {
+      "id": "openalex-W7204737124",
+      "doi": "10.5281/zenodo.22182076",
+      "title": "Learning by Watching: A Narrative Review of Imitation Learning from ALVINN to Generative Adversarial Imitation",
+      "title_zh": "",
+      "authors": [
+        "Zen Revista",
+        "10 IA"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "计算机科学",
+      "topics": [
+        "Reinforcement Learning in Robotics",
+        "Social Robot Interaction and HRI",
+        "Ethics and Social Impacts of AI"
+      ],
+      "abstract": "Imitation learning---the learning of behavior from demonstrations instead of rewards---moved from Pomerleau's ALVINN driving network and Schaal's humanoid route through Ng and Russell's inverse reinforcement learning, Abbeel and Ng's apprenticeship learning, and Ziebart's maximum entropy to the robot learning from demonstration surveys, Ross's DAgger, Ho and Ermon's generative adversarial imitation, Finn's guided cost learning, and the algorithmic perspective's syntheses. This article presents a narrative review of that arc's canonical line: Pomerleau's 1989 ALVINN, Schaal's 1999 humanoid question, Ng and Russell's 2000 inverse RL, Abbeel and Ng's 2004 apprenticeship learning, Billard and colleagues's 2008 handbook chapter, Ziebart and colleagues's 2008 maximum entropy, Argall and colleagues's 2009 survey, Ross, Gordon, and Bagnell's 2011 DAgger, Ho and Ermon's 2016 GAIL, Finn and colleagues's 2016 guided cost learning, Hussein and colleagues's 2017 survey, and Osa and colleagues's 2018 algorithmic perspective. The review is organized around three themes: the foundations, in which the driving network's demonstrations, the humanoid's question, and the inverse reward's recovery defined the field's two programs; the demonstration's surveys, in which the robot programming's handbook and the LfD's survey systematized the practice; and the deep era, in which the DAgger's covariate correction, the adversarial's discrimination, and the algorithmic perspective's synthesis unified the field. It is concluded that imitation learning is the reward's workaround---and that its arc is the demonstrator's knowledge's transfer from the human's steering to the policy's distributions.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22182076"
+    },
+    {
+      "id": "openalex-W7126197901",
+      "doi": "10.5281/zenodo.18445179",
+      "title": "Physical AI for Oncology Clinical Trials",
+      "title_zh": "",
+      "authors": [
+        "Kevin Kawchak"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "跨学科",
+      "topics": [],
+      "abstract": "Practical tools for integrating physical AI into oncology clinical trials. Provides production-ready configurations, validated pipelines, and integration guides for deploying robotic systems, digital twins, and embodied AI agents in oncology. Covers NVIDIA Isaac Lab, MuJoCo, ORBIT-Surgical, dVRK, and agentic/generative AI frameworks.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.18445179"
+    },
+    {
+      "id": "openalex-W7204491506",
+      "doi": "10.5281/zenodo.22134814",
+      "title": "AuraOS Paper X Rev.3: A Regenerative, Model-Orthogonal, Source-Bound Cognitive Operating Substrate - Relational World Compilation, Coordinate Memory, HyperScale/ HyperDrive, Runtime Arenas, Proof-Carrying Commons, Recursive Swarms, Universal Host Compilation, and Semantic-Spatial Interfaces",
+      "title_zh": "",
+      "authors": [
+        "Dallas Courchene"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "社会科学",
+      "topics": [
+        "Scientific Computing and Data Management",
+        "Software System Performance and Reliability",
+        "Machine Learning in Materials Science"
+      ],
+      "abstract": "Executive Overview This consolidated release of Paper X unifies empirical findings, mathematical foundations, and real-world implementation proofs for AuraOS—a local-first, zero-extraction computational architecture designed to eliminate recurring cloud SaaS overhead and API token extraction. By decoupling spatial reconstruction, neural synthesis, and automated video orchestration from centralized cloud infrastructure, this work demonstrates that modern consumer hardware (standard laptops and smartphones) can execute high-throughput generative and spatial tasks deterministically at zero marginal cost. Flagship Public Commons Release: The Aura Creator Studio As part of the Aura Commons commitment to public, unrestricted tooling, this release delivers the Aura Creator Studio—a sovereign, automated video production and spatial intelligence suite engineered specifically for independent video editors, YouTube creators, and TikTok content producers: Monocular 3D Spatial Triangulation & SLAM: Extracts 3D metric floorplans, doorway apertures, and 4D entity trajectories from unstructured 2D gameplay/video captures using dynamic HUD exclusion masking, pointmap regression, and Kalman-RTS smoothing. Dual-Sensor Gaussian Splatting (3DGS): Combines stationary laptop camera anchors with mobile orbital scans to bake persistent surface features (e.g., decals, wall artwork) into 3D Gaussians with zero temporal drift. Procedural Media & Multi-Track Synthesis: Features local neural text-to-speech (Edge-TTS / Piper), animated karaoke typography with Bézier bounding pills, and zero-dependency procedural DSP audio synthesis ($140\\text{ Hz} \\to 42\\text{ Hz}$ sub-bass transients) without stock licensing fees. AirLLM & Council V3 Layer Streaming: Executes 8B to 70B parameter open models locally on standard laptop NVMe drives, providing fact-grounded scriptwriting and low-poly 3D graybox pre-visualization with zero cloud API token billing. Sovereign Gate 10 Governance & Attribution DAG: Guarantees non-delegable human approval before publishing while sealing public commons attribution and microtransaction splits into immutable SHA-256 ledgers. The Macro-Economic Amortization Thesis The primary bottleneck for digital creators is platform extraction—a compounding cycle of recurring monthly subscriptions for voice cloning, video splicing, background removal, 3D rendering, and LLM tokens that drains $50 to $300+ per month per creator. When amortized across a community of 100,000 creators, the AuraOS architecture redirects $60,000,000 to $360,000,000 annually from centralized cloud monopolies back into creator equity. By maximizing the idle compute capacity of hardware creators already own, the marginal cost of end-to-end creative production collapses to zero. Open Scientific Invitation: Challenge, Replicate, and Falsify Science advances through rigorous scrutiny, empirical falsification, and open replication. We openly invite computer vision researchers, systems architects, machine learning engineers, and skeptics to: Audit the Mathematical Formulations: Stress-test the Kalman-RTS trajectory smoothing, coordinate back-projection matrices, and Bézier vector geometry. Replicate the Local Benchmarks: Run the provided scripts and verify that complete video assemblies and spatial reconstructions execute fully offline on consumer-grade hardware. Challenge and Extend the Commons: Benchmark the throughput, test edge cases in unconstrained monocular footage, and submit critical evaluations. All code, pipeline orchestrators, and cryptographic verification receipts are open-source and free for public examination and commercial liberation under the Aura Open Commons (CC-BY-SA-4.0). Version 2.0 Changelog Entry (for Zenodo \"Additional Notes\") Markdown ### Version 2.0 Update Notes - Consolidated multi-modal spatial tracking proofs and 3D Gaussian Splatting manifests. - Added full architectural specification for the Aura Creator Studio (Public Commons Release 1). - Integrated Council V3 graybox pre-visualization and zero-SaaS AirLLM pipeline benchmarks. - Established open peer challenge and replication guidelines for repository artifacts. Aura is an open cognitive commons: a model-orthogonal operating substrate designed to let anyone build powerful AI systems without locking intelligence, memory, coordination, or computation inside a single model, vendor, device, or company. Paper X publishes the Aura World Seed and the current AuraOS architecture as a defensive technical disclosure and reproducible reference system. Its central inversion is simple: Do not feed the AI the world. Compile the smallest source-resolvable world sufficient for the objective. Aura externalizes persistent cognition into a Coordinate Memory System: source-bound semantic identities, generations, currentness, authority, provenance, relations, residual obligations, and exact reopen paths remain durable, while prompts, models, KV caches, workers, runtimes, devices, and interfaces remain replaceable. A model can therefore wake only the portion of the world capable of changing the current consequence rather than repeatedly reconstructing its entire context. The architecture includes objective-native Ephemeral Arenas: temporary apps, tools, agent teams, simulations, interfaces, and execution environments that assemble around an intent, receive only the capabilities and context they need, produce verifiable receipts, collapse their useful state back into the commons, and dissolve. Aura is designed so applications can be temporary while knowledge, provenance, and continuity persist. Paper X also publishes the mechanisms behind Aura's efficiency claims so others can test, reproduce, challenge, and falsify them: polysynthetic/FST intent compression, minimum-sufficient L0→L4 hydration, semantic coordinates, affected-cone recomputation, HyperDrive normal-form collapse, HyperScale routing, consequence-aware caching, swarm coordination, and Runtime Arenas. The paper reports provider telemetry across 9,381 requests in which 97.4029% of input tokens were served as cache hits, with $17.77 actual provider cost versus $209.58 in a price-only cache-miss counterfactual. This is reported specifically as measured provider reuse—not as a claim that Aura uniquely caused a 97% reduction in logical token volume—and the architecture is presented so independent builders can run stronger matched-control tests. Aura is not intended to be the product. It is infrastructure for products, communities, agents, researchers, creators, enterprises, and sovereign systems to build upon. The AGPL-covered Aura substrate remains part of the commons, while the ecosystem is designed for independent builders to create their own applications, services, Arenas, experiences, and businesses around it subject to the license. Paper X includes the World Seed, compact activation kernels, Coordinate Cache Fabric, Triadic Construct/Challenge/Verify process, recursive swarms, HyperDrive/HyperScale mathematics, Runtime Arena V0.3, host compilation, semantic-spatial interfaces, proof-carrying execution, and a path toward federated planetary coordination without requiring a single globally hot model or context. The goal is straightforward: make intelligence require less context, less computation, less energy, less duplication, and less centralized control — while preserving more provenance, accountability, interoperability, and human agency. Build with it. Test it. Break it. Improve it. The commons gets stronger when everyone can use it.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22134814"
+    },
+    {
+      "id": "openalex-W7204493706",
+      "doi": "10.5281/zenodo.22127600",
+      "title": "Provenance-Audited Evaluation of Facial Emotion Recognition: Group-Disjoint Generalization, Reliability, and Operational Trade-offs - Reproducibility Package",
+      "title_zh": "",
+      "authors": [
+        "Jaecheon Jeon",
+        "Junhyeok Jang"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "跨学科",
+      "topics": [],
+      "abstract": "Reproducibility package for the manuscript: “Provenance-Audited Evaluation of Facial Emotion Recognition:Group-Disjoint Generalization, Reliability, and Operational Trade-offs” submitted to Machine Vision and Applications. The package contains frozen benchmark manifests, integrity and provenance records, prediction exports, calibration and selective-prediction outputs, operational-evaluation records, analysis code, environment provenance, and machine-readable review records. Jaecheon Jeon and Junhyeok Jang independently reviewed the designated image-pair materials, and final judgments were established by consensus. Source images from the AI Hub dataset are not redistributed. Image-dependent reproduction requires authorized access to the source dataset under the AI Hub terms of use. Corresponding author:Junhyeok JangSchool of Computer Science and Engineering, Kyungpook National Universitywkdwnsgur@knu.ac.kr Version: 1.1",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22127600"
+    },
+    {
+      "id": "openalex-W7204686506",
+      "doi": "10.5281/zenodo.21966371",
+      "title": "AgriDrone Vegetable Crops Dataset",
+      "title_zh": "",
+      "authors": [
+        "Ahad Hassan",
+        "Farzana Jabeen",
+        "Muhammad Mashhood",
+        "Mehvish Rashid"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "跨学科",
+      "topics": [],
+      "abstract": "AgriDrone Dataset The AgriDrone Dataset is a collection of agricultural UAV images to facilitate precision agriculture research and computer vision. The data contains six annotated crops (Turnip, Radish, Cabbage, Peas, Cauliflower, and Broccoli) captured across six distinct flights at variable altitudes (50ft, 75ft, 12m, 30m, 50m, 60m, 70m). Flights 1 and 2 are RGB only and Flights 3 to 6 are Multispectral (B, G, R, RE, NIR). Dataset Structure The dataset is organized chronologically by flight, and then by altitude. Each altitude directory provides multi-modal data including raw point clouds, georeferenced orthophotos, and individual image tiles with corresponding annotations split into training and validation sets. Orthophotos were constructed with WebODM. Label Structure Each .txt file has the following structure: * 3 or more coordinates Multispectral Band Alignment Due to slight sensor offsets on the multispectral camera, the five raw bands (Blue, Green, Red, NIR, RedEdge) are unaligned by default. Therefore, the data includes a multispectral_band_alignment directory containing: Pre-computed affine transformation matrices (.json files) for each multispectral flight and altitude (Flights 3 through 6). A pre-written generate_aligned_bands.py python script that uses these alignment matrices to warp the raw TIFF bands against the Green reference band (using Lanczos interpolation). The script outputs aligned color-corrected RGB images and individually aligned bands in their separate folder. Directory Structure flight_1/ ├── 50ft/ │ ├── .laz # Point cloud data │ ├── .tif # Georeferenced orthophoto image │ ├── images/ # Image tiles (img1.jpg, img2.jpg, ...) │ └── labels/ # Annotation files (img1.txt, img2.txt, ...) in YOLO format txt │ ├── train/ │ └── val/ └── 75ft/ └── ... # (Structure repeats for all altitude folders) flight_2/ ├── 12m/ │ └── ... ├── 50m/ │ └── ... └── 70m/ └── ... flight_3/ ├── 30m/ │ ├── .laz │ ├── .tif │ ├── images/ # Image tiles (IMG_0000_{n}.tif where 'n' is in (1, 2, 3, 4, 5)) │ └── labels/ # Annotation files (IMG_0000_{n}.txt) in YOLO format txt │ ├── train/ │ └── val/ └── 60m/ └── ... flight_4/ └── 30m/ └── ... flight_5/ └── 30m/ └── ... flight_6/ └── 30m/ └── ... Crop Growth Stages & Phenology The dataset includes a detailed mapping of crop development stages at the time of each flight, following the standardized BBCH-scale (Biologische Bundesanstalt, Bundessortenamt und CHemische Industrie). A provided JSON file maps flights to one of 5 growth stages (flights 2 and 3 were conducted close enough to count as a single growth stage). Summary of the growth stage mappings Turnip: BBCH 41.0 to 65.0 (Root expansion to full flowering) Radish: BBCH 41.0 to 65.0 (Root expansion to full flowering) Cabbage: BBCH 41.0 to 49.0 (Head formation to typical head size/firmness reached) Peas: BBCH 51.0 to 81.0 (Inflorescence emergence to beginning of fruit ripening) Cauliflower: BBCH 39.0 to 49.0 (Main shoot typical height to head tightly closed) Broccoli: BBCH 41.0 to 51.0 (Head formation to main inflorescence visible)",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.21966371"
+    },
+    {
+      "id": "openalex-W7204687676",
+      "doi": "10.5281/zenodo.22162541",
+      "title": "FieldMaizeLeaf-8: A Real-Field Early Vegetative Maize Leaf Stress Image Dataset from Bangladesh",
+      "title_zh": "",
+      "authors": [
+        "Laboni Akter",
+        "Sakibul Hasan Chowdhury",
+        "Md. Shohel Arman"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "跨学科",
+      "topics": [],
+      "abstract": "FieldMaizeLeaf-8 consists of 3,975 early vegetative maize leaf images collected as a research resource for studies in maize stress classification, computer vision, deep learning, and explainable artificial intelligence. The images were collected from real field conditions in Daudkandi, Cumilla, Bangladesh, and represent approximately 1–2 month-old maize plants, capturing the natural variations encountered during field-based maize leaf imaging. The dataset contains images representing eight maize leaf classes: Fall Armyworm Damage, Healthy Leaf, Leaf Spot, Magnesium Deficiency, Nitrogen Deficiency, Northern Leaf Blight, Phosphorus Deficiency, and Potassium Deficiency. These classes cover both biotic stresses, including diseases and insect damage, and abiotic stresses associated with nutrient deficiencies, along with healthy leaves. The images were collected from natural field environments and selected based on their suitability for analysis. As a real-field dataset, it contains natural variations in illumination, background, leaf orientation, image quality, viewing angle, symptom severity, and leaf appearance. These variations make the dataset suitable for developing and evaluating robust deep learning models under realistic agricultural conditions. FieldMaizeLeaf-8 is intended for research in areas including maize stress classification, plant disease recognition, nutrient deficiency detection, computer vision, deep learning, transfer learning, image-based agricultural diagnosis, and explainable artificial intelligence (XAI). The dataset can also support the development of practical AI-based tools for early maize stress identification and precision agriculture applications.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22162541"
+    },
+    {
+      "id": "openalex-W7204692460",
+      "doi": "10.5281/zenodo.22162540",
+      "title": "FieldMaizeLeaf-8: A Real-Field Early Vegetative Maize Leaf Stress Image Dataset from Bangladesh",
+      "title_zh": "",
+      "authors": [
+        "Laboni Akter",
+        "Sakibul Hasan Chowdhury",
+        "Md. Shohel Arman"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "跨学科",
+      "topics": [],
+      "abstract": "FieldMaizeLeaf-8 consists of 3,975 early vegetative maize leaf images collected as a research resource for studies in maize stress classification, computer vision, deep learning, and explainable artificial intelligence. The images were collected from real field conditions in Daudkandi, Cumilla, Bangladesh, and represent approximately 1–2 month-old maize plants, capturing the natural variations encountered during field-based maize leaf imaging. The dataset contains images representing eight maize leaf classes: Fall Armyworm Damage, Healthy Leaf, Leaf Spot, Magnesium Deficiency, Nitrogen Deficiency, Northern Leaf Blight, Phosphorus Deficiency, and Potassium Deficiency. These classes cover both biotic stresses, including diseases and insect damage, and abiotic stresses associated with nutrient deficiencies, along with healthy leaves. The images were collected from natural field environments and selected based on their suitability for analysis. As a real-field dataset, it contains natural variations in illumination, background, leaf orientation, image quality, viewing angle, symptom severity, and leaf appearance. These variations make the dataset suitable for developing and evaluating robust deep learning models under realistic agricultural conditions. FieldMaizeLeaf-8 is intended for research in areas including maize stress classification, plant disease recognition, nutrient deficiency detection, computer vision, deep learning, transfer learning, image-based agricultural diagnosis, and explainable artificial intelligence (XAI). The dataset can also support the development of practical AI-based tools for early maize stress identification and precision agriculture applications.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22162540"
+    },
+    {
+      "id": "openalex-W7204707169",
+      "doi": "10.1016/j.trip.2026.102224",
+      "title": "Deep learning-based behavioral pattern extraction from transit station videos modeling structural gender differences using CNN and Vision Transformers",
+      "title_zh": "",
+      "authors": [
+        "Rasa Nobahar"
+      ],
+      "year": 2026,
+      "venue": "Transportation Research Interdisciplinary Perspectives",
+      "field": "工程学",
+      "topics": [
+        "Traffic Prediction and Management Techniques",
+        "Autonomous Vehicle Technology and Safety",
+        "Traffic control and management"
+      ],
+      "abstract": "Urban transit stations are among the most behaviorally complex environments in public transport systems, yet planners still lack scalable methods for converting continuous video observations into interpretable, planning-relevant behavioral evidence. Existing transportation research relies heavily on surveys and self-reports that capture perceptions rather than observed behavior, while computer-vision studies achieve high detection and tracking accuracy but rarely transform trajectories into standardized indicators usable for station design, capacity assessment, or equity analysis. This study addresses this methodological gap by developing and demonstrating an interpretable behavioral measurement framework that extracts trajectory-based indicators waiting duration, interpersonal distance, trajectory entropy, walking speed, and congestion exposure from transit-station video and quantifies context-dependent differences associated with visually inferred gender presentation. A hybrid Convolutional Neural Network–Vision Transformer (CNN–ViT) architecture is employed to produce reliable, identity-preserving trajectories under the occlusion, density, and illumination conditions typical of real stations. The hybrid design combines the local feature extraction strengths of CNNs with the long-range contextual modeling of Vision Transformers, yielding higher-quality trajectories than conventional single-architecture baselines. Explainable AI techniques are used solely to enhance transparency of the computational pipeline, not to validate theoretical constructs. Behavioral differences are interpreted strictly as patterns associated with visually inferred gender under specific environmental conditions, maintaining a clear distinction from lived-experience constructs of gendered mobility. The framework bridges the disconnect between algorithmic outputs and the analytical needs of transportation planning by delivering compact, reproducible indicators that can inform passenger-flow management, station design evaluation, and operational analysis while respecting the evidential limits of observational data. The principal contribution is therefore methodological: an evidence-based measurement bridge that strengthens, rather than replaces, existing transportation knowledge.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1016/j.trip.2026.102224"
+    },
+    {
+      "id": "openalex-W7204707444",
+      "doi": "10.5281/zenodo.22177362",
+      "title": "Teaching Machines to See: A Narrative Review of Computer Vision from Roberts's Blocks to Convolutional Depth and Detection",
+      "title_zh": "",
+      "authors": [
+        "Zen Revista",
+        "10 IA"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "计算机科学",
+      "topics": [
+        "Face recognition and analysis",
+        "Advanced Neural Network Applications",
+        "Artificial Intelligence Applications"
+      ],
+      "abstract": "Computer vision---making machines interpret images---traveled from blocks-world edge finders to deep convolutional networks matching human benchmarks, and its history is AI's most complete case of representation learning's triumph. This article presents a narrative review of the field's canonical line: Roberts's 1963 machine perception of solids, Marr's 1982 computational vision, Viola and Jones's 2001 face detection, Lowe's 2004 SIFT features, Dalal and Triggs's 2005 HOG descriptors, Felzenszwalb and colleagues' 2010 deformable part models, Szeliski's 2010 synthesis, Girshick's 2015 Fast R-CNN, Long, Shelhamer, and Darrell's 2015 fully convolutional nets, Simonyan and Zisserman's 2015 VGG, He and colleagues' 2016 ResNet, and Redmon and colleagues' 2016 YOLO. The synthesis is organized around three themes: representation, in which hand-engineered features gave way to learned hierarchies; architecture, in which convolution, regions, and residual depth solved recognition's geometry; and tasks, in which classification widened into detection, segmentation, and real-time video. It is concluded that vision's deep learning settlement reorganized the field around data and compute---and that its open problems, robustness and embodiment, define the current frontier.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22177362"
+    },
+    {
+      "id": "openalex-W7204708539",
+      "doi": "10.5281/zenodo.22171541",
+      "title": "SYSTEM FOR PRODUCT QUALITY ASSESSMENT, DIGITAL IDENTIFICATION, AND AUTOMATIC MANAGEMENT OF DEFECTIVE PRODUCTS DURING THE MANUFACTURING PROCESS",
+      "title_zh": "",
+      "authors": [
+        "Bobomurodov Elyor",
+        "Worldly Knowledge Publishing Centre"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "跨学科",
+      "topics": [],
+      "abstract": "The rapid development of Industry 4.0 technologies has significantly transformed conventional approaches to manufacturing quality control. Modern production systems increasingly require intelligent, real-time, and automated mechanisms capable of identifying product defects, determining product quality status, tracking individual products, and automatically directing defective items to appropriate processing or rejection routes. This study proposes an integrated system for product quality assessment, digital identification, and automatic management of defective products during the manufacturing process. The proposed system combines computer vision, artificial intelligence, digital identification technologies, sensors, programmable logic controllers, industrial communication networks, and automated actuators into a unified cyber-physical architecture. The system captures product images using industrial cameras, processes visual information using artificial intelligence algorithms, determines the quality status and type of defect, associates the inspection result with a unique digital product identifier, and generates an automatic control signal for product sorting. The proposed architecture enables real-time quality monitoring, product traceability, reduction of human-related errors, and automatic separation of defective products. A mathematical model for estimating the time required for defective product detection and actuation is also considered. The study demonstrates that the integration of intelligent inspection and automated material handling can provide a foundation for smart quality control and support the transition toward zero-defect manufacturing.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22171541"
+    },
+    {
+      "id": "openalex-W7204720467",
+      "doi": "10.5281/zenodo.21966372",
+      "title": "AgriDrone Vegetable Crops Dataset",
+      "title_zh": "",
+      "authors": [
+        "Ahad Hassan",
+        "Farzana Jabeen",
+        "Muhammad Mashhood",
+        "Mehvish Rashid"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "跨学科",
+      "topics": [],
+      "abstract": "AgriDrone Dataset The AgriDrone Dataset is a collection of agricultural UAV images to facilitate precision agriculture research and computer vision. The data contains six annotated crops (Turnip, Radish, Cabbage, Peas, Cauliflower, and Broccoli) captured across six distinct flights at variable altitudes (50ft, 75ft, 12m, 30m, 50m, 60m, 70m). Flights 1 and 2 are RGB only and Flights 3 to 6 are Multispectral (B, G, R, RE, NIR). Dataset Structure The dataset is organized chronologically by flight, and then by altitude. Each altitude directory provides multi-modal data including raw point clouds, georeferenced orthophotos, and individual image tiles with corresponding annotations split into training and validation sets. Orthophotos were constructed with WebODM. Label Structure Each .txt file has the following structure: * 3 or more coordinates Multispectral Band Alignment Due to slight sensor offsets on the multispectral camera, the five raw bands (Blue, Green, Red, NIR, RedEdge) are unaligned by default. Therefore, the data includes a multispectral_band_alignment directory containing: Pre-computed affine transformation matrices (.json files) for each multispectral flight and altitude (Flights 3 through 6). A pre-written generate_aligned_bands.py python script that uses these alignment matrices to warp the raw TIFF bands against the Green reference band (using Lanczos interpolation). The script outputs aligned color-corrected RGB images and individually aligned bands in their separate folder. Directory Structure flight_1/ ├── 50ft/ │ ├── .laz # Point cloud data │ ├── .tif # Georeferenced orthophoto image │ ├── images/ # Image tiles (img1.jpg, img2.jpg, ...) │ └── labels/ # Annotation files (img1.txt, img2.txt, ...) in YOLO format txt │ ├── train/ │ └── val/ └── 75ft/ └── ... # (Structure repeats for all altitude folders) flight_2/ ├── 12m/ │ └── ... ├── 50m/ │ └── ... └── 70m/ └── ... flight_3/ ├── 30m/ │ ├── .laz │ ├── .tif │ ├── images/ # Image tiles (IMG_0000_{n}.tif where 'n' is in (1, 2, 3, 4, 5)) │ └── labels/ # Annotation files (IMG_0000_{n}.txt) in YOLO format txt │ ├── train/ │ └── val/ └── 60m/ └── ... flight_4/ └── 30m/ └── ... flight_5/ └── 30m/ └── ... flight_6/ └── 30m/ └── ... Crop Growth Stages & Phenology The dataset includes a detailed mapping of crop development stages at the time of each flight, following the standardized BBCH-scale (Biologische Bundesanstalt, Bundessortenamt und CHemische Industrie). A provided JSON file maps flights to one of 5 growth stages (flights 2 and 3 were conducted close enough to count as a single growth stage). Summary of the growth stage mappings Turnip: BBCH 41.0 to 65.0 (Root expansion to full flowering) Radish: BBCH 41.0 to 65.0 (Root expansion to full flowering) Cabbage: BBCH 41.0 to 49.0 (Head formation to typical head size/firmness reached) Peas: BBCH 51.0 to 81.0 (Inflorescence emergence to beginning of fruit ripening) Cauliflower: BBCH 39.0 to 49.0 (Main shoot typical height to head tightly closed) Broccoli: BBCH 41.0 to 51.0 (Head formation to main inflorescence visible)",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.21966372"
+    },
+    {
+      "id": "openalex-W7204728006",
+      "doi": "10.31272/ajece.48",
+      "title": "Facial recognition utilizing the SqueezeNet deep learning model",
+      "title_zh": "",
+      "authors": [
+        "Hussein A. Hussein Al-Delfi"
+      ],
+      "year": 2026,
+      "venue": "Academic Journal of Electrical and Computer Engineering",
+      "field": "计算机科学",
+      "topics": [
+        "Face recognition and analysis",
+        "Face and Expression Recognition",
+        "Emotion and Mood Recognition"
+      ],
+      "abstract": "Face recognition stands as a crucial application of deep learning within computer vision, providing notable advantages in areas such as security, surveillance, and human-computer interaction. The process involves the identification of individuals through facial images. Recent progress in face recognition technology can be largely credited to deep learning techniques, especially convolutional neural networks (CNNs). This endeavor uses Transfer Learning to improve the performance of face-recognition systems, particularly when working with a limited dataset. To accomplish this, a pre-trained model known as Squeeznet CNN in MATLAB is employed.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "https://ajece.uomustansiriyah.edu.iq/index.php/ajece/article/download/48/20",
+      "url": "https://doi.org/10.31272/ajece.48"
+    },
+    {
+      "id": "openalex-W7204729080",
+      "doi": "10.17576/jkukm-2026-38(5)-32",
+      "title": "Integration of YOLOv9m Deep Learning and Classical Computer Vision for Equatorial Plasma Bubble Structure Identification from ROTI Keograms",
+      "title_zh": "",
+      "authors": [
+        "Idahwati Sarudin",
+        "Mohamad Haniff Junos",
+        "Nurul Shazana Abdul Hamid",
+        " Mardina Abdullah",
+        "Logesh Kumar Selvakumar"
+      ],
+      "year": 2026,
+      "venue": "Jurnal Kejuruteraan",
+      "field": "医学",
+      "topics": [
+        "Plasma Applications and Diagnostics",
+        "Cardiovascular and Diving-Related Complications",
+        "Plasma Diagnostics and Applications"
+      ],
+      "abstract": "The application of deep learning for identifying equatorial plasma bubbles (EPBs) from Rate of Total electron content Index (ROTI) keograms remains underexplored. This study presents a hybrid approach combining deep learning and classical computer vision to identify EPB structures in ROTI keograms. The proposed method employs the YOLOv9m model to detect EPBs in image data, generating bounding boxes around detected regions. A color filtering technique is then applied to remove background noise and exclude overlapping EPBs within a single detection, ensuring accurate isolation of the primary EPB. Post-detection analysis revealed instances of multiple components within single bounding boxes, with measured inter-component distances ranging from 9.22 to 148.82 pixels. Furthermore, identified EPBs exhibited varying drift speeds: EPB 1 showed near-fast motion (average displacement: 47.67 pixels/30 min; lifespan: >300 minutes), EPB 2 displayed fast motion (58.00 pixels/30 min; lifespan: >180 minutes), and EPB 3 demonstrated slow motion (30.80 pixels/30 min; lifespan: >180 minutes). Building upon these initial detection and characterization results obtained from a 462-data training set, future work will focus on extensive analysis to quantitatively assess EPB characteristics using the presented deep learning model.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "https://doi.org/10.17576/jkukm-2026-38(5)-32",
+      "url": "https://doi.org/10.17576/jkukm-2026-38(5)-32"
+    },
+    {
+      "id": "openalex-W7204730222",
+      "doi": "10.5281/zenodo.22177363",
+      "title": "Teaching Machines to See: A Narrative Review of Computer Vision from Roberts's Blocks to Convolutional Depth and Detection",
+      "title_zh": "",
+      "authors": [
+        "Zen Revista",
+        "10 IA"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "计算机科学",
+      "topics": [
+        "Face recognition and analysis",
+        "Advanced Neural Network Applications",
+        "Artificial Intelligence Applications"
+      ],
+      "abstract": "Computer vision---making machines interpret images---traveled from blocks-world edge finders to deep convolutional networks matching human benchmarks, and its history is AI's most complete case of representation learning's triumph. This article presents a narrative review of the field's canonical line: Roberts's 1963 machine perception of solids, Marr's 1982 computational vision, Viola and Jones's 2001 face detection, Lowe's 2004 SIFT features, Dalal and Triggs's 2005 HOG descriptors, Felzenszwalb and colleagues' 2010 deformable part models, Szeliski's 2010 synthesis, Girshick's 2015 Fast R-CNN, Long, Shelhamer, and Darrell's 2015 fully convolutional nets, Simonyan and Zisserman's 2015 VGG, He and colleagues' 2016 ResNet, and Redmon and colleagues' 2016 YOLO. The synthesis is organized around three themes: representation, in which hand-engineered features gave way to learned hierarchies; architecture, in which convolution, regions, and residual depth solved recognition's geometry; and tasks, in which classification widened into detection, segmentation, and real-time video. It is concluded that vision's deep learning settlement reorganized the field around data and compute---and that its open problems, robustness and embodiment, define the current frontier.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22177363"
+    },
+    {
+      "id": "openalex-W7204732089",
+      "doi": "10.71229/actc4s10",
+      "title": "Computer Vision Techniques -Based Financial Fraud Detection Using Ensemble Learning and Explainable Artificial Intelligence",
+      "title_zh": "",
+      "authors": [
+        "Soltand albasha Albasha1985"
+      ],
+      "year": 2026,
+      "venue": "Al-Noor Journal of Engineering Management and Computer Science",
+      "field": "计算机科学",
+      "topics": [
+        "Imbalanced Data Classification Techniques",
+        "Financial Distress and Bankruptcy Prediction",
+        "Explainable Artificial Intelligence (XAI)"
+      ],
+      "abstract": "Financial fraud is a growing concern for the global economy, with hundreds of billions of dollars lost every year, and the traditional rule-based fraud detection systems are no longer effective because they are unable to cope with the increasing complexity of fraud schemes. In this paper, we propose FraudShield-XAI, an ensemble learning framework to produce high fraud detection performance and transparent/interpretable decision making, which uses a stacking-based framework consisting of XGBoost, random forests, and an adaptive neural network meta-learner. We evaluate and train the framework using two widely used datasets, the IEEE-CIS Fraud Detection dataset and the PaySim simulated mobile money transactions dataset, and in order to address the class imbalance issue that is typical in fraud detection problems, we apply the Synthetic Minority Oversampling Technique with Edited Nearest Neighbours (SMOTE-ENN). Our experimental results show that FraudShield-XAI outperforms traditional single-model based approaches with an AUC-ROC of 98.72%, an MCC of 0.923, and an F1-score of 97.84%, and we use SHAP and LIME to explain the predictions of FraudShield-XAI, providing the most influential features for each prediction. Identified key factors include transaction velocity, merchant category, and geographical deviations, which can offer actionable insights to compliance teams and fraud analysts, therefore, FraudShield-XAI bridges the performance vs. interpretability gap, which is essential for regulatory approval and real-world deployment in fintech settings.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": false,
+      "pdf_url": "",
+      "url": "https://doi.org/10.71229/actc4s10"
+    },
+    {
+      "id": "openalex-W7204737039",
+      "doi": "10.5281/zenodo.22171540",
+      "title": "SYSTEM FOR PRODUCT QUALITY ASSESSMENT, DIGITAL IDENTIFICATION, AND AUTOMATIC MANAGEMENT OF DEFECTIVE PRODUCTS DURING THE MANUFACTURING PROCESS",
+      "title_zh": "",
+      "authors": [
+        "Bobomurodov Elyor",
+        "Worldly Knowledge Publishing Centre"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "跨学科",
+      "topics": [],
+      "abstract": "The rapid development of Industry 4.0 technologies has significantly transformed conventional approaches to manufacturing quality control. Modern production systems increasingly require intelligent, real-time, and automated mechanisms capable of identifying product defects, determining product quality status, tracking individual products, and automatically directing defective items to appropriate processing or rejection routes. This study proposes an integrated system for product quality assessment, digital identification, and automatic management of defective products during the manufacturing process. The proposed system combines computer vision, artificial intelligence, digital identification technologies, sensors, programmable logic controllers, industrial communication networks, and automated actuators into a unified cyber-physical architecture. The system captures product images using industrial cameras, processes visual information using artificial intelligence algorithms, determines the quality status and type of defect, associates the inspection result with a unique digital product identifier, and generates an automatic control signal for product sorting. The proposed architecture enables real-time quality monitoring, product traceability, reduction of human-related errors, and automatic separation of defective products. A mathematical model for estimating the time required for defective product detection and actuation is also considered. The study demonstrates that the integration of intelligent inspection and automated material handling can provide a foundation for smart quality control and support the transition toward zero-defect manufacturing.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22171540"
+    },
+    {
+      "id": "openalex-W7204704770",
+      "doi": "10.5281/zenodo.22170522",
+      "title": "Artificial Intelligence in Legal Services and the Constitutional Right to Privacy: An Analysis of India's Current Emerging Challenges and Obstacles",
+      "title_zh": "",
+      "authors": [
+        "Nandkishor B. Bhandari",
+        "Margavi Dongre"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "人工智能",
+      "topics": [
+        "Artificial Intelligence in Law",
+        "Data Privacy and Cybersecurity",
+        "Law, AI, and Intellectual Property"
+      ],
+      "abstract": "Abstract: The overwhelming application of artificial-intelligence (AI) into India’s Law community shows outstanding performance, changing the power and functions like law research, comparative analysis and various contractual obligations. However, these interferences brought terrifying disturbances into the field of privacy-data protection in India. Authors tried to brief the risk attached with AI involved in privacy-data protection in India’s law services. Recently India implemented DPDP Act to protect data. The application of AI tool results 96 % of accuracy in final decision by court in number of cases. No doubt AI-relating tools like natural language processing, machine learning algorithms, and pre analysis are transforming legal research by bringing more efficiency, greater accuracy and easy accessibility. Author examines impact of AI over legal research; it should follow ethical as well as privacy-data protection challenges. Privacy right always related to protection of data and now a days it is very difficult to achieve it because of lack of strong law protection. Formerly privacy not mentioned under fundamental right but Supreme Court gives Fundamental status from Puttaswamy Judgment. Now a day it is common to heard many violations of privacy rights in Indian legal services in the hands of AI. These allegations brought before the court of law in which courts providing guidelines and rules to eradicate the problems.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22170522"
+    },
+    {
+      "id": "openalex-W7204714788",
+      "doi": "10.5281/zenodo.22170521",
+      "title": "Artificial Intelligence in Legal Services and the Constitutional Right to Privacy: An Analysis of India's Current Emerging Challenges and Obstacles",
+      "title_zh": "",
+      "authors": [
+        "Nandkishor B. Bhandari",
+        "Margavi Dongre"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "人工智能",
+      "topics": [
+        "Artificial Intelligence in Law",
+        "Data Privacy and Cybersecurity",
+        "Law, AI, and Intellectual Property"
+      ],
+      "abstract": "Abstract: The overwhelming application of artificial-intelligence (AI) into India’s Law community shows outstanding performance, changing the power and functions like law research, comparative analysis and various contractual obligations. However, these interferences brought terrifying disturbances into the field of privacy-data protection in India. Authors tried to brief the risk attached with AI involved in privacy-data protection in India’s law services. Recently India implemented DPDP Act to protect data. The application of AI tool results 96 % of accuracy in final decision by court in number of cases. No doubt AI-relating tools like natural language processing, machine learning algorithms, and pre analysis are transforming legal research by bringing more efficiency, greater accuracy and easy accessibility. Author examines impact of AI over legal research; it should follow ethical as well as privacy-data protection challenges. Privacy right always related to protection of data and now a days it is very difficult to achieve it because of lack of strong law protection. Formerly privacy not mentioned under fundamental right but Supreme Court gives Fundamental status from Puttaswamy Judgment. Now a day it is common to heard many violations of privacy rights in Indian legal services in the hands of AI. These allegations brought before the court of law in which courts providing guidelines and rules to eradicate the problems.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22170521"
+    },
+    {
+      "id": "openalex-W7204681390",
+      "doi": "10.5281/zenodo.22170623",
+      "title": "A parallel corpus of Akkadian transliterations and English translations",
+      "title_zh": "",
+      "authors": [
+        "Muhammad Ibrahim Qasmi"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "跨学科",
+      "topics": [],
+      "abstract": "AkkadNMT-75K: Akkadian–English Parallel Corpus AkkadNMT-75K is an Akkadian–English parallel corpus containing 75,562 aligned rows. The release is intended for research in natural language processing, machine translation, and digital humanities. The package includes the primary modeling dataset, derived metadata, an archival copy of the supplied source CSV, validation results, reproducibility scripts, documentation, provenance records, licensing notes, and file checksums. Files File Description AkkadNMT_75K_primary.csv Primary modeling file containing row_id, source_transliteration, and target_translation. AkkadNMT_75K_metadata.csv Derived metadata and validation fields. AkkadNMT_75K_original_eight_column.csv Archival copy of the supplied source CSV. validation_report.json Dataset validation summary. build_release.py Release-building and validation script. data_dictionary.md Field definitions and derivation rules. provenance_manifest.csv Available source and provenance information. license_notes.md Available licensing and redistribution notes. checksums.sha256 SHA-256 checksums for release files. Dataset Summary The final corpus contains 75,562 rows, including 74,420 unique source transliterations and 47,633 unique English translations. No exact duplicate source–translation pairs are present. The source text may contain scholarly transliteration conventions and should not be assumed to follow a single standardized representation. The dataset was assembled from multiple materials. Historical preparation records mention material associated with Old Assyrian Kültepe sources, ORACC, CuneiML, and EvaCun. These reported source quantities are approximate and may overlap. A comparison with the official Deep Past Kaggle archive identified 310 exact aligned-pair matches with its training data. This corpus is not identical to the official competition training dataset. Processing The supplied source CSV was used as the source of truth for the release. The release process performs validation, Unicode NFC normalization, BOM removal where applicable, metadata generation, and integrity checks. The original historical extraction scripts were not retained. Limitations Complete row-level provenance for all records cannot currently be established from the supplied aggregate data. Source versions and licensing details should be verified and completed before publication or redistribution.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22170623"
+    },
+    {
+      "id": "openalex-W7204683007",
+      "doi": "10.59653/ijmars.v4i03.2587",
+      "title": "Integrating Natural Language Processing and Psychological Assessment Scales in AI-Driven Career Counseling Platforms",
+      "title_zh": "",
+      "authors": [
+        "Septien Dwi Savandha",
+        "Elvira Fitriyanti"
+      ],
+      "year": 2026,
+      "venue": "International Journal of Multidisciplinary Approach Research and Science",
+      "field": "社会科学",
+      "topics": [
+        "Mental Health via Writing",
+        "Digital Mental Health Interventions",
+        "Artificial Intelligence in Healthcare and Education"
+      ],
+      "abstract": "Conventional career counseling mainly depends on manual psychological assessments and face-to-face interactions, which limit its scalability in the digital age. This study presents and validates an integrated framework that merges Natural Language Processing (NLP) with standardized psychological assessment scales to improve accuracy and personalization in AI-powered career counseling platforms. The system combines three components: open-text analysis using a fine-tuned Bidirectional Encoder Representations from Transformers (BERT) model, trait extraction from the Big Five Inventory (BFI-44), and vocational type classification based on Holland's RIASEC Self-Directed Search (SDS). An experiment involving 240 university students, who completed both psychological tests and open-ended career narratives, was conducted. The integrated model achieved a career-type classification F1-score of 0.847, surpassing the NLP-only baseline (F1 = 0.731) and the scale-only baseline (F1 = 0.768). These results show that combining linguistic signals with psychometric scores significantly improves predictions of Holland vocational codes. The framework provides a replicable architecture for intelligent career counseling systems that connect psychological theories with computational language modeling. This study contributes both theoretically and practically to the field of AI-driven career counseling: theoretically, it provides empirical evidence that fusing transformer-based linguistic features with validated psychometric scales advances person-environment fit theory into a computationally testable framework, while practically, it offers a replicable, open-source architecture that career-guidance platforms and counselors can adopt to deliver more accurate, personalized, and evidence-based vocational guidance at scale.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.59653/ijmars.v4i03.2587"
+    },
+    {
+      "id": "openalex-W7204684988",
+      "doi": "10.5281/zenodo.22176337",
+      "title": "Attention Is Foundational: A Narrative Review of the Transformer Architecture from Sequence-to-Sequence to Large Language Models",
+      "title_zh": "",
+      "authors": [
+        "Zen Revista",
+        "10 IA"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "人工智能",
+      "topics": [
+        "Artificial Intelligence in Healthcare and Education",
+        "Domain Adaptation and Few-Shot Learning",
+        "Ethics and Social Impacts of AI"
+      ],
+      "abstract": "The Transformer architecture---built on attention rather than recurrence---redrew the landscape of natural language processing and became the substrate of contemporary artificial intelligence. This article presents a narrative review of the architecture's canonical line: Sutskever and colleagues' 2014 sequence-to-sequence learning, Bahdanau and colleagues' 2015 attention alignment, Vaswani and colleagues' 2017 Attention Is All You Need, Devlin and colleagues' 2019 BERT pretraining, Radford and colleagues' 2019 GPT-2, Brown and colleagues' 2020 GPT-3 and few-shot learning, Raffel and colleagues' 2020 T5 transfer, Dosovitskiy and colleagues' 2021 Vision Transformer, Bommasani and colleagues' 2021 foundation-model framing, Hoffmann and colleagues' 2022 Chinchilla scaling laws, Ouyang and colleagues' 2022 InstructGPT alignment, and Touvron and colleagues' 2023 LLaMA openness. The synthesis is organized around three themes: architecture, in which self-attention's parallel sequence processing replaced recurrence and enabled scale; scaling, in which pretraining on text plus parameter growth yielded emergent few-shot capability and then compute-optimal correction; and alignment and access, in which instruction tuning, RL from feedback, and open weights reshaped capability's deployment. It is concluded that the Transformer is machine learning's most consequential architecture to date---its attention mechanism the field's new inductive bias---and that scaling's economics and governance now define its trajectory.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22176337"
+    },
+    {
+      "id": "openalex-W7204691693",
+      "doi": "10.5281/zenodo.22169719",
+      "title": "A Hybrid NLP-Based Multi-Source Recommendation System for Matching Startups with Investors, Government Grants, and Incubators",
+      "title_zh": "",
+      "authors": [
+        "Venkata Kavya Botta",
+        "Meghana Andhavarapu",
+        "Bharathkumar Dakara",
+        "Abhay Udumulla",
+        "Udhayasri Jaka"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "社会科学",
+      "topics": [
+        "Private Equity and Venture Capital",
+        "Advanced Text Analysis Techniques",
+        "Expert finding and Q&A systems"
+      ],
+      "abstract": "Startups often have trouble finding the right funding opportunities because information is spread out across different platforms, such as investor databases, government websites, and incubator listings. This paper presents an AI-powered recommendation system that employs Natural Language Processing (NLP) to link startups with suitable investors, government grants, and incubators. The system uses a hybrid approach that combines a structured rule-based scoring system with transformer-based models that measure semantic similarity. Data came from a number of places, including Startup India, OpenVC, and directories of incubators. We looked at three models: TF-IDF, BERT, and Sentence-BERT (SBERT). The experimental results show that SBERT is the best model for recommendation tasks because it does the best job of ranking based on NDCG and MAP.The system is implemented as a real-time web application using ReactJS and FastAPI, showcasing its practical utility within the startup ecosystem.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22169719"
+    },
+    {
+      "id": "openalex-W7204694734",
+      "doi": "10.6084/m9.figshare.33387838.v1",
+      "title": "The Use of Intelligent Chatbots and Robots in Customer Service and User Experience",
+      "title_zh": "",
+      "authors": [
+        "meisam sayahi"
+      ],
+      "year": 2026,
+      "venue": "Figshare",
+      "field": "计算机科学",
+      "topics": [
+        "AI in Service Interactions",
+        "Ethics and Social Impacts of AI",
+        "Robotic Process Automation Applications"
+      ],
+      "abstract": "The proliferation of artificial intelligence (AI) technologies has fundamentally transformed customer service, positioning intelligent chatbots and robotic systems as pivotal instruments in enhancing operational efficiency, user experience, and service personalization. These AI-driven conversational agents leverage advances in natural language processing, machine learning, and cognitive computing to interpret, predict, and respond to user intents with contextual sensitivity, enabling scalable, real-time, and multi-channel service delivery. By automating routine tasks, chatbots alleviate human resource constraints while simultaneously providing personalized interactions that foster trust, engagement, and customer satisfaction. The integration of these technologies has implications beyond operational efficiency, influencing workforce dynamics, knowledge management, and organizational decision-making, as employees transition toward higher-order cognitive roles to collaborate with AI systems.Despite their advantages, the deployment of intelligent chatbots raises ethical and technical challenges, including privacy concerns, algorithmic bias, transparency limitations, and cross-cultural adaptation issues. Addressing these challenges requires proactive governance, inclusive design strategies, and continuous evaluation to ensure socially responsible and equitable service delivery. Furthermore, predictive analytics derived from chatbot interactions provide actionable insights into consumer behavior, enabling proactive engagement, personalized recommendations, and data-driven organizational strategies.Future research should explore advanced conversational architectures, human–AI interaction dynamics, integration with emerging technologies, and longitudinal studies on sustainability and behavioral outcomes. Collectively, this study underscores the dual significance of technological sophistication and human-centric design in optimizing AI-mediated customer service, positioning intelligent chatbots as strategic catalysts for digital transformation and experiential enhancement.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.6084/m9.figshare.33387838.v1"
+    },
+    {
+      "id": "openalex-W7204694919",
+      "doi": "10.5281/zenodo.22176303",
+      "title": "Attention Is Foundational: A Narrative Review of the Transformer Architecture from Sequence-to-Sequence to Large Language Models",
+      "title_zh": "",
+      "authors": [
+        "Zen Revista",
+        "10 IA"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "人工智能",
+      "topics": [
+        "Artificial Intelligence in Healthcare and Education",
+        "Domain Adaptation and Few-Shot Learning",
+        "Ethics and Social Impacts of AI"
+      ],
+      "abstract": "The Transformer architecture---built on attention rather than recurrence---redrew the landscape of natural language processing and became the substrate of contemporary artificial intelligence. This article presents a narrative review of the architecture's canonical line: Sutskever and colleagues' 2014 sequence-to-sequence learning, Bahdanau and colleagues' 2015 attention alignment, Vaswani and colleagues' 2017 Attention Is All You Need, Devlin and colleagues' 2019 BERT pretraining, Radford and colleagues' 2019 GPT-2, Brown and colleagues' 2020 GPT-3 and few-shot learning, Raffel and colleagues' 2020 T5 transfer, Dosovitskiy and colleagues' 2021 Vision Transformer, Bommasani and colleagues' 2021 foundation-model framing, Hoffmann and colleagues' 2022 Chinchilla scaling laws, Ouyang and colleagues' 2022 InstructGPT alignment, and Touvron and colleagues' 2023 LLaMA openness. The synthesis is organized around three themes: architecture, in which self-attention's parallel sequence processing replaced recurrence and enabled scale; scaling, in which pretraining on text plus parameter growth yielded emergent few-shot capability and then compute-optimal correction; and alignment and access, in which instruction tuning, RL from feedback, and open weights reshaped capability's deployment. It is concluded that the Transformer is machine learning's most consequential architecture to date---its attention mechanism the field's new inductive bias---and that scaling's economics and governance now define its trajectory.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22176303"
+    },
+    {
+      "id": "openalex-W7204696013",
+      "doi": "10.5281/zenodo.22176244",
+      "title": "HAZARD-RANK: Weakly Supervised Pairwise Risk-Prioritization Pipeline for Hospital Occupational Health and Safety Registers — Analysis Code",
+      "title_zh": "",
+      "authors": [
+        "Metin Taşkın"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "跨学科",
+      "topics": [],
+      "abstract": "This repository contains the analysis code accompanying the manuscript \"HAZARD-RANK: A Weakly Supervised Pairwise Risk-Prioritization Pipeline for Hospital Occupational Health and Safety Registers.\" It implements a weakly supervised, pairwise risk-prioritization pipeline for free-text hospital occupational health and safety (OHS) hazard registers, validated against independent expert judgment. The pipeline combines five rule-based labeling functions (severity lexicon, regulation-article prior, hazard-category prior, affected-population prior, and accident-history prior) through a generative label model to produce weak pairwise preference labels, which train a shared-weight Bradley–Terry scorer (TF-IDF as the primary model; a fine-tuned Turkish BERT variant, BERTurk, as a secondary comparison) with structurally guaranteed antisymmetry. Included: pipeline_fulldata.py — main labeling-function and TF-IDF + Bradley-Terry training pipeline berturk_finetune_modB2.py — pre-registered BERTurk fine-tuning protocol (GPU) kappa_hesapla.py — inter-rater reliability (kappa) computation from expert judgments konsensus_altinset_uret.py — consensus-based gold-subset construction README.md — expected input schema and reproduction instructions Not included: No hospital records or identifiable data are included, consistent with the data-minimization commitment described in the manuscript. The scripts expect a de-identified CSV following the schema documented in the README. Keywords occupational health and safety; weak supervision; pairwise ranking; risk prioritization; natural language processing; hospital safety; Bradley-Terry model; data programming; BERTurk; TF-IDF License [Seçmeniz gerekiyor — kod için yaygın seçenekler: MIT, Apache-2.0, veya GPL-3.0. Zenodo formunda bir SPDX lisans kodu seçmeniz istenecek.] Version v1.0 Related identifiers (isteğe bağlı, makale kabul edilince eklenebilir) \"Is supplement to\" → makalenin DOI'si (yayınlandığında) Language English (code/documentation); dataset schema documented bilingually is not included. Access right Open Access",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22176244"
+    },
+    {
+      "id": "openalex-W7204699843",
+      "doi": "10.5281/zenodo.22167625",
+      "title": "walternmoss/Quantifying-the-Philosophical-Signatures-of-Marcus-Aurelius-and-Epictetus: Quantifying the Philosophical Signatures of Marcus Aurelius and Epictetus using Lexical Diversity and LLM Classifiers",
+      "title_zh": "",
+      "authors": [
+        "walternmoss"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "跨学科",
+      "topics": [],
+      "abstract": "Initial Release (v1.0.0): Pipeline Code and Datasets This release contains the complete computational natural language processing pipeline, statistical analysis scripts, and annotated datasets supporting the manuscript: Quantifying the Philosophical Signatures of Marcus Aurelius and Epictetus using Lexical Diversity and LLM Classifiers Included Artifacts & Pipeline Modules Phase 1: Morphological Extraction & Frequency Analysis Vocabulary extraction cross-referenced with LSJ Greek-English Lexicon. Stopword filtering of high-frequency functional verbs to isolate philosophical signatures. Phase 2: Lexical Statistical Visualizations Kernel Density Estimation (KDE), Volcano, Delta Relative Frequency, and Word Cloud generators. Phase 3: Thematic Topos & Contextual Polysemy Analysis Automated CLTK lemmatization and sentence-level topos classification (Ethics, Physics, Logic) via the Gemini 2.5 Flash API. Contextual polysemy disambiguation across 57 Stoic lemmata. Chi-square contingency testing, Fisher's exact tests, and vector figure generators (stoic_topos_comparison.pdf and stoic_lemma_polysemy_comparison.pdf). Phase 4: Co-occurrence Topology Statistical co-occurrence matrices, Chi-square association testing, and relational heatmap generators. Master Datasets Included stoic_corpus_fully_annotated.json: Complete 7,556-sentence corpus with sentence-level and contextual lemma-level tags. stoic_topos_distribution_statistics.csv: Macro sentence-level topos counts, proportions, and Fisher's exact test results. stoic_lemma_contextual_statistics.csv: Master 57-lemma contextual polysemy matrix with 2x3 Chi-square tests and Cramér's V effect sizes. Requirements & Setup Python Version: 3.10+ Dependencies: pip install -r requirements.txt API Key: Requires a valid Gemini API key set via GEMINI_API_KEY or GOOGLE_API_KEY environment variable for Phase 3 contextual tagging.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22167625"
+    },
+    {
+      "id": "openalex-W7204702367",
+      "doi": "10.5281/zenodo.22169957",
+      "title": "Zonal-Modular Architecture of Artificial Mind: from a Speech LLM to a Coordinated System of Specialized Zones",
+      "title_zh": "",
+      "authors": [
+        "Dmitriy Borzov"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "社会科学",
+      "topics": [
+        "Language and cultural evolution",
+        "Topic Modeling",
+        "Artificial Intelligence in Law"
+      ],
+      "abstract": "This paper analyzes the problem of the low practical efficiency of modern large language models (LLMs). We argue that the limiting factor is not a limit of the technology itself, but the organization of reasoning and the architectural role assigned to the language model. We claim no novelty for the \"executor — overseer\" scheme: analogous configurations have been described in the literature on multi-agent and self-verifying systems, and the field observation presented here is treated as an empirical illustration of a particular case of a more general hypothesis. The main contribution consists of four parts. (1) Diagnosis: a modern LLM is interpreted as the implementation of predominantly a single functional zone — the speech zone. Mind as a process is amodal and not bound to natural language; language is merely one of the serializers operated by the speech zone. (2) An architectural framework: a zonal-modular architecture with an explicit control circuit and with memory moved out into separate addressable zones — together with an ontogenetic program for its formation: zones and connections are grown in stages, in a sequence reproducing the stages of human cognitive development, with verification gates between stages, an offline consolidation phase (\"sleep\"), and an upbringing (alignment) stage built into the ontogeny with a graduation gate. (3) Experimental verification of two mechanisms of this program. Experiment 1 (training small transformers from scratch, two synthetic domains, four arms): staged formation with worked solutions and gates outperforms training on a shuffled corpus at an equal budget (+0.11 and +0.17 final-exam accuracy), and the accuracy gap between the training set and the exam falls from ~0.2 to ~0 — the model stores the rule rather than memorized answers. Experiment 2 (an agentic task stream): the cost of linearly accumulated context grows quadratically in the agent's lifetime horizon, while the cost of periodic consolidation grows linearly, at equal answer quality; the break-even point is reached already at short horizons. (4) A motivating field observation on a real engineering task, from which the hypothesis is derived. In this optic, modern LLMs are merely the first, speech zone of the future architecture; a full-fledged artificial mind requires building out the remaining zones operating outside language, a correct memory architecture, a coordinating circuit operating in an amodal medium, and a staged ontogeny with verification gates.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22169957"
+    },
+    {
+      "id": "openalex-W7204702504",
+      "doi": "10.5281/zenodo.22180992",
+      "title": "From Bootcamp to Job: How 82% of 4Geeks Academy Data Science Grads Land Work in Under 90 Days in 2026",
+      "title_zh": "",
+      "authors": [
+        "Ignacio López"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "计算机科学",
+      "topics": [
+        "Data Analysis with R",
+        "Information Systems Education and Curriculum Development",
+        "Online Learning and Analytics"
+      ],
+      "abstract": "From Bootcamp to Job: How 82% of 4Geeks Academy Data Science Grads Land Work in Under 90 Days in 2026 The promise of a coding bootcamp has always been compelling: learn in-demand skills quickly and transition into a tech career. But in 2026, with data science roles evolving rapidly and employer expectations higher than ever, simply completing a program isn't enough. What sets successful graduates apart isn't just what they learn, but how they're supported throughout the journey. At 4Geeks Academy, the data science bootcamp has achieved an 82% job placement rate within 90 days for its 2026 cohort — a figure that reflects a deliberate, holistic approach to education and career readiness. This isn't accidental. It's the result of a curriculum designed around real employer needs, personalized mentorship that adapts to individual learning gaps, and career services that begin on day one. For anyone considering a shift into data science, understanding how this outcome is achieved offers a clear roadmap to replicating that success. The 4Geeks Academy Data Science Curriculum: Built for Employability Unlike programs that prioritize theoretical depth over practical application, 4Geeks Academy's data science bootcamp is structured around the skills employers actually seek in 2026. The curriculum begins with foundational Python and SQL, quickly progressing to data wrangling with Pandas, exploratory analysis, and visualization using tools like Matplotlib and Seaborn. What distinguishes it is the immediate application of these skills to realistic business scenarios — students don't just learn how to build a linear regression model; they use it to predict customer churn for a fictional e-commerce company, then present their findings to a panel of industry mentors acting as stakeholders. Machine learning modules cover both supervised and unsupervised techniques, with emphasis on model evaluation, overfitting prevention, and deployment basics using Flask and cloud platforms like AWS. Crucially, the program integrates modern MLops concepts early, ensuring graduates understand not just how to train a model, but how to monitor and maintain it in production — a skill increasingly expected even at junior levels. By the midpoint of the bootcamp, students are working with real-world datasets from sectors like finance, healthcare, and logistics, often sourced through partnerships with local businesses seeking analytical support. This project-based learning isn't an add-on; it's the core pedagogical method, ensuring that by graduation, each student has a portfolio of work that mirrors the tasks they'll face on the job. Personalized Mentorship: The 1:1 Advantage That Accelerates Hiring While many bootcamps offer group office hours or forum-based support, 4Geeks Academy's mentorship model is fundamentally different: every student is assigned a dedicated industry professional for weekly one-on-one sessions throughout the program. These aren't generic check-ins; they're targeted interventions based on the student's progress, learning style, and career goals. A mentor might spend extra time helping a student struggling with probability concepts reframe them through gambling simulations, or guide another interested in natural language processing through a custom spaCy project analyzing social media sentiment. This personalized attention does more than fill knowledge gaps — it builds confidence and professional communication skills. Mentors often simulate technical interviews during these sessions, providing immediate feedback on how to explain complex ideas clearly, a critical factor in hiring decisions. They also help students identify which companies align with their interests and strengths, turning a vague job search into a focused strategy. In 2026, where hiring managers report that cultural fit and communication ability often decide between equally qualified candidates, this mentorship gives 4Geeks graduates a measurable edge. The relationship frequently extends beyond graduation, with many mentors becoming long-term advisors or even referral sources within their networks. Career Services That Work: Resume, Interview Prep, and Networking in 2026 Career support at 4Geeks Academy isn't a final-week workshop — it's woven into the bootcamp experience from the first day. Students begin by building a technical resume that highlights not just skills, but impact: instead of \"learned machine learning algorithms,\" a resume might state \"developed and deployed a recommendation engine that improved user engagement metrics by 18% in a capstone project.\" Career advisors help translate academic projects into business outcomes, a language that resonates with hiring managers. Interview preparation goes beyond LeetCode-style problem solving. Students participate in mock technical interviews with practicing data scientists, behavioral interviews focused on STAR (Situation, Task, Action, Result) storytelling, and even case interviews common in consulting-adjacent roles. They learn how to discuss trade-offs in model selection, explain p-values to non-technical stakeholders, and ask insightful questions about a company's data infrastructure — signals that demonstrate readiness beyond coding ability. Networking is facilitated through virtual meetups with alumni working at companies ranging from fintech startups in Madrid to healthcare AI firms in Miami, and remote-first organizations across Latin America. These connections often lead to referrals, which in 2026 remain one of the most effective pathways into data science roles, especially for career-changers without traditional CS backgrounds. Real-World Projects: How Portfolio Pieces Get Graduates Noticed The capstone project is where theory, mentorship, and career preparation converge. Over four weeks, students identify a problem — ideally one tied to their desired industry — gather or synthesize data, apply multiple analytical techniques, and deliver a full solution complete with documentation, visualizations, and a presentation. Recent examples include a predictive maintenance model for manufacturing equipment using sensor data, a customer segmentation analysis for a Barcelona-based retail chain using clustering algorithms, and a natural language processing tool that automated the summarization of legal documents for a Bogotá law firm. These projects aren't graded in isolation; they're showced in a virtual demo day attended by hiring partners, alumni, and industry professionals. Employers don't just see code — they see problem-solving approaches, communication skills, and the ability to deliver value. Many graduates report receiving interview invitations directly from demo day interactions, with some companies using the event as a primary screening tool. In a job market where recruiters spend seconds scanning resumes, a compelling portfolio piece — especially one that addresses a real business need — can be the difference between being overlooked and getting an interview. Alumni Outcomes: Where Graduates Are Working and What They Earn The 82% placement rate tells only part of the story. Where are these graduates going, and what are they earning? In 2026, 4Geeks Academy data science alumni are employed across a diverse range of organizations: tech startups in Medellín and Mexico City, established financial institutions in Barcelona and Miami, healthcare analytics units in São Paulo, and remote roles with U.S.-based companies distributed globally. A significant portion — roughly 30% — secure fully remote positions, reflecting both the graduate preference for flexibility and the growing acceptance of distributed data teams. Starting salaries vary by location and role, but the median starting salary for graduates in 2026 is approximately $52,000 USD annually for roles in Latin America and Spain, and $78,000 USD for those based in the United States or working remotely for U.S. companies. These figures are particularly noteworthy given that many graduates come from non-technical backgrounds and are entering their first formal tech role. For context, this guide on ai company salary shows how entry-level AI-adjacent roles are trending in 2026, providing a useful benchmark for those evaluating long-term growth potential in the field. Beyond salary, alumni frequently cite accelerated career progression — many report moving into senior analyst or lead data scientist roles within 18–24 months, often faster than peers from traditional academic paths due to their applied, project-heavy training. How to Join: Steps to Enroll and Maximize Your Chances of Success Replicating the success of 4Geeks Academy's data science graduates begins with intentional preparation. Prospective students should start by assessing their baseline: comfort with logic and basic algebra is helpful, but prior coding experience is not required. The academy offers free preparatory workshops in Python and statistics to help applicants build foundational confidence before the bootcamp begins. Once enrolled, success hinges on engagement — treating the program like a job, showing up to mentorship sessions prepared with specific questions, and investing extra time in projects that align with personal career interests. Students are encouraged to view the bootcamp not as a finish line, but as the launchpad for continuous learning. The most successful graduates often supplement the curriculum with self-directed learning in emerging areas like MLOps or deep learning, guided by mentor recommendations. They also actively participate in the alumni network, attending events and contributing to forums long after graduation. For those considering enrollment, the next step is to speak with an admissions advisor — not just about tuition and schedules, but about career goals. The advisors help determine if the data science track aligns with those aspirations and outline a personalized path forward, ensuring that from day one, every effort is directe",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22180992"
+    },
+    {
+      "id": "openalex-W7204703613",
+      "doi": "10.5281/zenodo.22176302",
+      "title": "Attention Is Foundational: A Narrative Review of the Transformer Architecture from Sequence-to-Sequence to Large Language Models",
+      "title_zh": "",
+      "authors": [
+        "Zen Revista",
+        "10 IA"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "人工智能",
+      "topics": [
+        "Artificial Intelligence in Healthcare and Education",
+        "Domain Adaptation and Few-Shot Learning",
+        "Ethics and Social Impacts of AI"
+      ],
+      "abstract": "The Transformer architecture---built on attention rather than recurrence---redrew the landscape of natural language processing and became the substrate of contemporary artificial intelligence. This article presents a narrative review of the architecture's canonical line: Sutskever and colleagues' 2014 sequence-to-sequence learning, Bahdanau and colleagues' 2015 attention alignment, Vaswani and colleagues' 2017 Attention Is All You Need, Devlin and colleagues' 2019 BERT pretraining, Radford and colleagues' 2019 GPT-2, Brown and colleagues' 2020 GPT-3 and few-shot learning, Raffel and colleagues' 2020 T5 transfer, Dosovitskiy and colleagues' 2021 Vision Transformer, Bommasani and colleagues' 2021 foundation-model framing, Hoffmann and colleagues' 2022 Chinchilla scaling laws, Ouyang and colleagues' 2022 InstructGPT alignment, and Touvron and colleagues' 2023 LLaMA openness. The synthesis is organized around three themes: architecture, in which self-attention's parallel sequence processing replaced recurrence and enabled scale; scaling, in which pretraining on text plus parameter growth yielded emergent few-shot capability and then compute-optimal correction; and alignment and access, in which instruction tuning, RL from feedback, and open weights reshaped capability's deployment. It is concluded that the Transformer is machine learning's most consequential architecture to date---its attention mechanism the field's new inductive bias---and that scaling's economics and governance now define its trajectory.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22176302"
+    },
+    {
+      "id": "openalex-W7204707592",
+      "doi": "10.5281/zenodo.22167624",
+      "title": "walternmoss/Quantifying-the-Philosophical-Signatures-of-Marcus-Aurelius-and-Epictetus: Quantifying the Philosophical Signatures of Marcus Aurelius and Epictetus using Lexical Diversity and LLM Classifiers",
+      "title_zh": "",
+      "authors": [
+        "walternmoss"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "跨学科",
+      "topics": [],
+      "abstract": "Initial Release (v1.0.0): Pipeline Code and Datasets This release contains the complete computational natural language processing pipeline, statistical analysis scripts, and annotated datasets supporting the manuscript: Quantifying the Philosophical Signatures of Marcus Aurelius and Epictetus using Lexical Diversity and LLM Classifiers Included Artifacts & Pipeline Modules Phase 1: Morphological Extraction & Frequency Analysis Vocabulary extraction cross-referenced with LSJ Greek-English Lexicon. Stopword filtering of high-frequency functional verbs to isolate philosophical signatures. Phase 2: Lexical Statistical Visualizations Kernel Density Estimation (KDE), Volcano, Delta Relative Frequency, and Word Cloud generators. Phase 3: Thematic Topos & Contextual Polysemy Analysis Automated CLTK lemmatization and sentence-level topos classification (Ethics, Physics, Logic) via the Gemini 2.5 Flash API. Contextual polysemy disambiguation across 57 Stoic lemmata. Chi-square contingency testing, Fisher's exact tests, and vector figure generators (stoic_topos_comparison.pdf and stoic_lemma_polysemy_comparison.pdf). Phase 4: Co-occurrence Topology Statistical co-occurrence matrices, Chi-square association testing, and relational heatmap generators. Master Datasets Included stoic_corpus_fully_annotated.json: Complete 7,556-sentence corpus with sentence-level and contextual lemma-level tags. stoic_topos_distribution_statistics.csv: Macro sentence-level topos counts, proportions, and Fisher's exact test results. stoic_lemma_contextual_statistics.csv: Master 57-lemma contextual polysemy matrix with 2x3 Chi-square tests and Cramér's V effect sizes. Requirements & Setup Python Version: 3.10+ Dependencies: pip install -r requirements.txt API Key: Requires a valid Gemini API key set via GEMINI_API_KEY or GOOGLE_API_KEY environment variable for Phase 3 contextual tagging.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22167624"
+    },
+    {
+      "id": "openalex-W7204711317",
+      "doi": "10.26803/ijlter.25.8.5",
+      "title": "Evaluating Command-Line Interface-Based Agentic Large Language Model Coding Tools for Non-English Thematic Analysis: A 3 x 3 x 3 Factorial Study of Models, Prompts and Stochastic Variability",
+      "title_zh": "",
+      "authors": [
+        "Chawalit Chanintonsongkhla",
+        "Thananya Chongcharoenkit"
+      ],
+      "year": 2026,
+      "venue": "International Journal of Learning Teaching and Educational Research",
+      "field": "人工智能",
+      "topics": [
+        "Artificial Intelligence in Healthcare and Education",
+        "Dental Research and COVID-19",
+        "Text Readability and Simplification"
+      ],
+      "abstract": "Command-line interface (CLI)-based agentic coding tools enable large language models (LLMs) to autonomously read local data files, write and execute analysis scripts, and generate outputs, but whether they can reliably perform thematic analysis of non-English educational data remains understudied. This 3 × 3 × 3 factorial experiment compared three frontier LLMs (Claude Opus 4.6, GPT-5.3-Codex, and Gemini 3 Pro Preview) across three prompt tiers (detailed, structured, and exploratory) with three repetitions per condition, yielding 27 runs. Each run processed 89 anonymized student evaluations (Likert ratings and open-ended Thai comments) from a Year 3 preventive dentistry course over three academic years. Outputs were evaluated against 10 required items covering statistical computation, thematic analysis, and visualization, with the generated scripts inspected to classify categorization as direct reading or keyword matching. Statistical computation and overview charts each passed 93% (25/27), and detail charts passed in all 27 runs, with failures confined to exploratory prompts. Thematic reading was the primary difference. Opus and Gemini read Thai directly while GPT usually generated keyword-matching scripts. Structured prompts achieved the highest thematic reading pass rate at 78% (7/9), followed by detailed at 67% (6/9) and exploratory at 33% (3/9). Identical configurations produced different outputs across repetitions, with theme counts ranging from 4 to 31. CLI-based agentic coding tools can perform thematic analyses of Thai-language educational feedback, but natural language processing output reliability depends on model selection, prompt specificity, and stochastic variability. Multiple independent runs are recommended to assess consistency.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.26803/ijlter.25.8.5"
+    },
+    {
+      "id": "openalex-W7204712272",
+      "doi": "10.5281/zenodo.22170624",
+      "title": "A parallel corpus of Akkadian transliterations and English translations",
+      "title_zh": "",
+      "authors": [
+        "Muhammad Ibrahim Qasmi"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "跨学科",
+      "topics": [],
+      "abstract": "AkkadNMT-75K: Akkadian–English Parallel Corpus AkkadNMT-75K is an Akkadian–English parallel corpus containing 75,562 aligned rows. The release is intended for research in natural language processing, machine translation, and digital humanities. The package includes the primary modeling dataset, derived metadata, an archival copy of the supplied source CSV, validation results, reproducibility scripts, documentation, provenance records, licensing notes, and file checksums. Files File Description AkkadNMT_75K_primary.csv Primary modeling file containing row_id, source_transliteration, and target_translation. AkkadNMT_75K_metadata.csv Derived metadata and validation fields. AkkadNMT_75K_original_eight_column.csv Archival copy of the supplied source CSV. validation_report.json Dataset validation summary. build_release.py Release-building and validation script. data_dictionary.md Field definitions and derivation rules. provenance_manifest.csv Available source and provenance information. license_notes.md Available licensing and redistribution notes. checksums.sha256 SHA-256 checksums for release files. Dataset Summary The final corpus contains 75,562 rows, including 74,420 unique source transliterations and 47,633 unique English translations. No exact duplicate source–translation pairs are present. The source text may contain scholarly transliteration conventions and should not be assumed to follow a single standardized representation. The dataset was assembled from multiple materials. Historical preparation records mention material associated with Old Assyrian Kültepe sources, ORACC, CuneiML, and EvaCun. These reported source quantities are approximate and may overlap. A comparison with the official Deep Past Kaggle archive identified 310 exact aligned-pair matches with its training data. This corpus is not identical to the official competition training dataset. Processing The supplied source CSV was used as the source of truth for the release. The release process performs validation, Unicode NFC normalization, BOM removal where applicable, metadata generation, and integrity checks. The original historical extraction scripts were not retained. Limitations Complete row-level provenance for all records cannot currently be established from the supplied aggregate data. Source versions and licensing details should be verified and completed before publication or redistribution.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22170624"
+    },
+    {
+      "id": "openalex-W7204715162",
+      "doi": "10.26417/9e7kn131",
+      "title": "Machine Learning-Enabled Automated Assessment and Grading in Education: A Systematic Literature Review of Techniques, Accuracy, and Fairness",
+      "title_zh": "",
+      "authors": [
+        "Pritam Kumar"
+      ],
+      "year": 2026,
+      "venue": "European Journal of Education",
+      "field": "社会科学",
+      "topics": [
+        "Student Assessment and Feedback",
+        "Technology-Enhanced Education Studies",
+        "Intelligent Tutoring Systems and Adaptive Learning"
+      ],
+      "abstract": "This research aims to synthesize recent literature on machine learning-enabled automated assessment and grading in education, with emphasis on techniques, accuracy, fairness, and responsible implementation. A systematic literature review was conducted on 27 English-language peer-reviewed journal articles published between 2019 and 2025. The review focused on the major applications and evaluation issues of automated grading, including essay scoring, short-answer assessment, programming assessment, feedback generation, validity, explainability, and fairness. The findings show that natural language processing, transformer-based models, supervised machine learning, hybrid feature-based approaches, code execution, and testing frameworks are commonly used. Automated grading is more suitable for structured or semi-structured tasks, while complex writing, creativity, reasoning, and programming style require human moderation. Institutions should adopt automated grading as a supervised decision-support tool supported by validation, fairness auditing, transparency, appeal procedures, and teacher oversight. The paper contributes a focused synthesis linking techniques, accuracy, fairness, and governance in automated educational assessment.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.26417/9e7kn131"
+    },
+    {
+      "id": "openalex-W7204716186",
+      "doi": "10.5281/zenodo.22176245",
+      "title": "HAZARD-RANK: Weakly Supervised Pairwise Risk-Prioritization Pipeline for Hospital Occupational Health and Safety Registers — Analysis Code",
+      "title_zh": "",
+      "authors": [
+        "Metin Taşkın"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "跨学科",
+      "topics": [],
+      "abstract": "This repository contains the analysis code accompanying the manuscript \"HAZARD-RANK: A Weakly Supervised Pairwise Risk-Prioritization Pipeline for Hospital Occupational Health and Safety Registers.\" It implements a weakly supervised, pairwise risk-prioritization pipeline for free-text hospital occupational health and safety (OHS) hazard registers, validated against independent expert judgment. The pipeline combines five rule-based labeling functions (severity lexicon, regulation-article prior, hazard-category prior, affected-population prior, and accident-history prior) through a generative label model to produce weak pairwise preference labels, which train a shared-weight Bradley–Terry scorer (TF-IDF as the primary model; a fine-tuned Turkish BERT variant, BERTurk, as a secondary comparison) with structurally guaranteed antisymmetry. Included: pipeline_fulldata.py — main labeling-function and TF-IDF + Bradley-Terry training pipeline berturk_finetune_modB2.py — pre-registered BERTurk fine-tuning protocol (GPU) kappa_hesapla.py — inter-rater reliability (kappa) computation from expert judgments konsensus_altinset_uret.py — consensus-based gold-subset construction README.md — expected input schema and reproduction instructions Not included: No hospital records or identifiable data are included, consistent with the data-minimization commitment described in the manuscript. The scripts expect a de-identified CSV following the schema documented in the README. Keywords occupational health and safety; weak supervision; pairwise ranking; risk prioritization; natural language processing; hospital safety; Bradley-Terry model; data programming; BERTurk; TF-IDF License [Seçmeniz gerekiyor — kod için yaygın seçenekler: MIT, Apache-2.0, veya GPL-3.0. Zenodo formunda bir SPDX lisans kodu seçmeniz istenecek.] Version v1.0 Related identifiers (isteğe bağlı, makale kabul edilince eklenebilir) \"Is supplement to\" → makalenin DOI'si (yayınlandığında) Language English (code/documentation); dataset schema documented bilingually is not included. Access right Open Access",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22176245"
+    },
+    {
+      "id": "openalex-W7204716870",
+      "doi": "10.5281/zenodo.22169718",
+      "title": "A Hybrid NLP-Based Multi-Source Recommendation System for Matching Startups with Investors, Government Grants, and Incubators",
+      "title_zh": "",
+      "authors": [
+        "Venkata Kavya Botta",
+        "Meghana Andhavarapu",
+        "Bharathkumar Dakara",
+        "Abhay Udumulla",
+        "Udhayasri Jaka"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "社会科学",
+      "topics": [
+        "Private Equity and Venture Capital",
+        "Advanced Text Analysis Techniques",
+        "Expert finding and Q&A systems"
+      ],
+      "abstract": "Startups often have trouble finding the right funding opportunities because information is spread out across different platforms, such as investor databases, government websites, and incubator listings. This paper presents an AI-powered recommendation system that employs Natural Language Processing (NLP) to link startups with suitable investors, government grants, and incubators. The system uses a hybrid approach that combines a structured rule-based scoring system with transformer-based models that measure semantic similarity. Data came from a number of places, including Startup India, OpenVC, and directories of incubators. We looked at three models: TF-IDF, BERT, and Sentence-BERT (SBERT). The experimental results show that SBERT is the best model for recommendation tasks because it does the best job of ranking based on NDCG and MAP.The system is implemented as a real-time web application using ReactJS and FastAPI, showcasing its practical utility within the startup ecosystem.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22169718"
+    },
+    {
+      "id": "openalex-W7204687561",
+      "doi": "10.3390/educsci16091397",
+      "title": "Generative AI Adoption and Self-Reported Academic Integrity Risk: A Student Taxonomy in Latin American Higher Education",
+      "title_zh": "",
+      "authors": [
+        "Juan Carlos Torres-Díaz",
+        "Diana Rivera",
+        "Ana María Beltrán Flandoli"
+      ],
+      "year": 2026,
+      "venue": "Education Sciences",
+      "field": "人工智能",
+      "topics": [
+        "Artificial Intelligence in Healthcare and Education",
+        "AI in Service Interactions",
+        "Online Learning and Analytics"
+      ],
+      "abstract": "Generative Artificial Intelligence (GenAI) is reshaping technology-mediated learning environments in higher education, yet the structural heterogeneity of student adoption patterns—particularly across multimodal dimensions beyond text—remains empirically under-characterized. This study develops an empirically derived, data-driven taxonomy of GenAI adoption among university students, identifying distinct user profiles and their disciplinary and ethical risk implications. A quantitative, cross-sectional design was employed with a disciplinarily quota-balanced sample of 3415 students from eight Ecuadorian public universities, stratified across seven areas of knowledge according to the UNESCO classification. K-means cluster analysis on five continuous multimodal variables (text generation, mathematical problem-solving, programming, image generation, and music generation) yielded four distinct profiles: Passive (44.3%), Artist (24.4%), Technical (18.3%), and Comprehensive (13%). Profile membership showed a significant structural association with academic discipline (χ2 = 517.85; Cramér’s V = 0.225). Profiles differed substantially in their self-reported propensity for intellectual delegation to AI systems, with the Comprehensive profile reporting the highest levels (η2 = 0.114, 95% CI [0.092, 0.139]). These findings suggest that ethical risk in AI-mediated academic environments is not uniformly distributed but structurally associated with whether outputs are verifiable or directly presentable, with implications for differentiated AI literacy programs and institutional governance frameworks in higher education.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.3390/educsci16091397"
+    },
+    {
+      "id": "openalex-W7204732228",
+      "doi": "10.70882/josrar.2026.v3i4.230",
+      "title": "Artificial Intelligence for Medical Imaging Diagnosis: From Accuracy to Clinical Reliability through Multimodal Fusion, Validation, and Regulatory Perspectives",
+      "title_zh": "",
+      "authors": [
+        "Enoch Jacob Dodo",
+        "Amos Takai Yayock",
+        "Gregory Onwodi",
+        "Ruth Tukuluku"
+      ],
+      "year": 2026,
+      "venue": "Journal of Science Research and Reviews",
+      "field": "人工智能",
+      "topics": [
+        "Artificial Intelligence in Healthcare and Education",
+        "Retinal Imaging and Analysis",
+        "Radiomics and Machine Learning in Medical Imaging"
+      ],
+      "abstract": "Artificial intelligence (AI)-based medical imaging diagnosis has demonstrated remarkable performance across multiple clinical domains, with deep learning models frequently reporting diagnostic accuracy, sensitivity, and specificity exceeding 90% under controlled experimental conditions. However, translating these results into clinically reliable, regulatory-compliant systems remains a critical challenge. As a narrative survey rather than an original benchmark study, this paper reports no new experimental results; instead, it introduces a modality-aware analytical framework organizing the existing literature across four dimensions: imaging modality, data provenance, validation maturity, and model architecture. Using this taxonomy, the survey synthesizes unimodal and multimodal fusion approaches spanning radiology (CT, MRI, X-ray), pathology (whole-slide images), ophthalmology (fundus photography, OCT), and multi-source fusion combining imaging with electronic health records (EHR) and genomic data. The synthesis indicates that high reported accuracy is strongly contingent on data characteristics and evaluation conditions, with many models relying on low-maturity validation lacking evidence of generalization in real-world settings. To address these limitations, an engineering-oriented deployment framework is proposed, integrating modality-driven model selection, structured preprocessing pipelines, multi-level clinical validation, computational feasibility assessment, and explainability, together with a clinical deployment readiness model spanning validation maturity, data diversity, interpretability, and regulatory alignment. Key challenges include the single-site generalization gap, algorithmic bias across demographic groups, limited clinical adoption of explainable AI, insufficient alignment with regulatory frameworks including FDA 510(k), De Novo, and EU MDR/IVDR pathways, and a continuing need for prospective multicenter validation. Future directions toward federated learning, foundation models, certification-aware design, and multimodal digital biomarker integration are outlined.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": false,
+      "pdf_url": "",
+      "url": "https://doi.org/10.70882/josrar.2026.v3i4.230"
+    },
+    {
+      "id": "openalex-W7154908686",
+      "doi": "10.1186/s40001-026-05099-w",
+      "title": "Intelligent diagnosis of vocal cord lesions via multimodal deep learning: integrating laryngoscopy, voice, and biomarkers",
+      "title_zh": "",
+      "authors": [
+        "Xue Zhao",
+        "S Li",
+        "Linlin Zheng",
+        "Tuanjie Wang",
+        "Haixian Guo",
+        "Dan Yu"
+      ],
+      "year": 2026,
+      "venue": "European journal of medical research",
+      "field": "医学",
+      "topics": [
+        "Voice and Speech Disorders",
+        "Head and Neck Cancer Studies",
+        "Respiratory and Cough-Related Research"
+      ],
+      "abstract": "Abstract Background Accurate pre‑operative diagnosis of vocal cord lesions remains challenging. We developed a multimodal deep learning model that integrates laryngoscopic images, voice recordings, and biochemical markers to improve diagnostic accuracy. Methods In this retrospective study (2020–2025), a total of 425 patients were enrolled. Of these, 374 patients treated between January 2020 and May 2025 formed the development cohort (contributing 1,947 aligned multimodal samples), and the remaining 51 consecutive cases treated between June 2025 and December 2025 were reserved as an independent temporal test set. Using an early‑fusion strategy and a Transformer encoder, we built a unified diagnostic framework. Model performance was evaluated by accuracy, average precision, AUC, and loss. Results During training, the model achieved a sample‑level training accuracy of 98.59% and a validation accuracy of 93.46% (monitored on 198 samples for model selection). For final reporting, all validation and test metrics were computed at the patient level after softmax averaging per patient: the validation set ( n = 37 patients) yielded an accuracy of 94.59% (35/37) and an AUC of 0.979; the independent temporal test set ( n = 51 patients) achieved an accuracy of 96.08% (49/51) and an AUC of 0.972, with only two misclassifications. Inference‑masking experiments showed that each modality contributed non‑redundant information; voice masking caused the largest drop (−30.44% accuracy), despite its low static importance weight. Conclusions Multimodal deep learning may enhance diagnostic accuracy for vocal cord lesions and could help reduce missed diagnoses. Our framework offers a potentially scalable approach for integrating heterogeneous clinical data; however, these findings are preliminary and require confirmation in larger multi‑center cohorts.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1186/s40001-026-05099-w"
+    },
+    {
+      "id": "openalex-W7203633433",
+      "doi": "10.5281/zenodo.21973471",
+      "title": "memoria.ia: Resolutive Memory — v1.0.0 Release Candidate 1",
+      "title_zh": "",
+      "authors": [
+        "MARCELO ROLDAO MATOS"
+      ],
+      "year": 2026,
+      "venue": "Open MIND",
+      "field": "跨学科",
+      "topics": [],
+      "abstract": "Memoria.ia v1.0.0-rc1 — Release Candidate 1 Release date: 2026-08-30 Summary v1.0.0-rc1 is the first publication candidate for the Memoria.ia v1 line. It consolidates the validated Resolutive Memory research lineage with the deployable PC/server product layer and the native/mobile runtime path, while keeping post-v1 experimentation isolated from the release candidate. The release architecture remains: application / OFF.IA / agent ↓ Memoria.ia ↓ Resolutive-DB / BDR Memoria.ia owns memory semantics and state. Resolutive-DB owns durable persistence. Optional LLMs are consumers, not the authoritative memory store. Included capabilities persistent local-first memory state; organization and namespace isolation; provenance and authority lineage; conservative HIT / MISS / UNRESOLVED resolution; semantic, episodic, temporal and relation kernels; correction/supersession behavior with preserved lineage; PC/server FastAPI product boundary; Docker/Compose deployment; provider-neutral language-model adapters; metrics and context-selection instrumentation; integrity-checked backup/restore; native production runtime; Android arm64-v8a mobile ABI; durable native BDR persistence and restart recovery; indexed native resolution for large-memory workloads; reproducibility and release metadata gates; official Memoria.ia visual identity assets. Frozen candidate provenance The functional candidate was frozen at: dc73cbcdddfe20e0729e7e6bdea4697f7e8308cd That commit integrated PR #112, which preserved ranking, confidence, provenance policy, ABI and BDR contracts while adding the indexed native resolve lineage. The release branch adds publication metadata, version alignment, release documentation and current branding without importing post-v1 PR #116 runtime behavior. Validation evidence The exact functional lineage used for this release candidate passed the recorded required gates before release preparation: Android mobile ABI: PASS; native production image: PASS; Ubuntu/Windows candidate regression: PASS; BDR Linux/Ubuntu/Windows integration: PASS; native 100 / 1k / 10k benchmark matrix: PASS. Recorded 10k native resolve benchmark improvement versus the prior frozen baseline: p50: 693.233 ms -> 6.288 ms (~110x); p95: 710.630 ms -> 6.391 ms (~111x). These figures are environment- and workload-specific benchmark evidence, not universal latency guarantees. Publication metadata Release version: 1.0.0-rc1 Python package version: 1.0.0rc1 License: Resolutive Research and Non-Commercial License (RRNCL) v1.0 Author: Marcelo Roldão Matos ORCID: 0009-0003-6075-4680 RSMS compatibility: 1.0-rc.1 A new archival DOI should be assigned to this publication. The v0.95 DOI must not be reused as the release DOI for v1.0.0-rc1. Why this is RC1 rather than final v1.0 The repository currently declares compatibility with RSMS 1.0-rc.1, and the published Resolutive Science baseline remains on that release-candidate specification. Therefore Memoria.ia is published as v1.0.0-rc1 rather than claiming final v1.0 compatibility prematurely. Final v1.0 promotion requires: successful release-candidate metadata and regression gates; reproducibility from the public release state; compatibility re-audit against stable RSMS; no release-blocking regression found during RC use; final archival metadata and DOI synchronization. Explicitly excluded from RC1 The following post-v1 work is not part of this release candidate: external/public knowledge learning from OFF.IA Curiosity (issue #114 / PR #116); autonomous curiosity policy; new MA2A federation transport; multimodal post-v1 expansion; new semantic-consolidation phases from the post-v1 roadmap. Those features continue independently after this publication. Security boundary This release candidate is not represented as independently production-security certified. Authentication, isolation, integrity and negative-path controls exist and are tested, but no independent production security audit is claimed. Claims boundary This release does not claim: artificial general intelligence; biological equivalence; replacement of general-purpose LLMs; universal O(1) semantic resolution; production-ready MA2A federation; security certification. Claims are limited to the implementation, tests, benchmarks and reproducible evidence recorded in the repository.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://github.com/marceloroldao/memoria.ia/tree/v0.99.0-alpha.1"
+    },
+    {
+      "id": "openalex-W7204689724",
+      "doi": "10.26803/ijlter.25.8.15",
+      "title": "Artificial Intelligence for EFL Speaking Development: A Systematic Review of Empirical Studies (2018–2026)",
+      "title_zh": "",
+      "authors": [
+        "Paul F. Gonzalez-Torres",
+        "Eliana I. Pinza"
+      ],
+      "year": 2026,
+      "venue": "International Journal of Learning Teaching and Educational Research",
+      "field": "计算机科学",
+      "topics": [
+        "AI in Service Interactions",
+        "EFL/ESL Teaching and Learning",
+        "Second Language Acquisition and Learning"
+      ],
+      "abstract": "Despite the fast expansion of artificial intelligence (AI) in English as a foreign language (EFL) education, evidence regarding its effectiveness in supporting speaking development remains fragmented, with limited synthesis of AI tool types, methodological quality, learning outcomes, and research trends. This systematic review examined empirical studies on AI-supported EFL speaking development and was published between 2018 and 2026. A search of Scopus and Web of Science was conducted using keywords related to AI, EFL, and speaking skills, following the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines. Data from 33 studies that met the inclusion criteria were analyzed according to established coding categories aligned with the research questions. The findings indicate that AI tools include conversational agents, speech recognition systems, intelligent tutoring systems, generative AI, and multimodal applications, which each support different aspects of speaking development. Speech recognition tools mostly improved pronunciation, while conversational and generative AI mainly enhanced fluency, confidence, and autonomous speaking practice. Affective gains, including less speaking anxiety and increased willingness to communicate, were more consistent than improvements in more complex speaking skills. This review also found that the evidence base is methodologically inconsistent, concentrated in higher education and specific geographical regions, and increasingly dominated by generative AI technologies.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.26803/ijlter.25.8.15"
+    },
+    {
+      "id": "openalex-W7204689898",
+      "doi": "10.26803/ijlter.25.8.35",
+      "title": "Immersive Virtual Reality in Higher Science Education: A Systematic Review of Pedagogical Design, Science Engagement, and Digital Competence",
+      "title_zh": "",
+      "authors": [
+        "Riswanto Riswanto",
+        "Hartono",
+        "Woro Sumarni",
+        "Bambang Subali",
+        "Ani Rusilowati",
+        "Wahyu Hardyanto"
+      ],
+      "year": 2026,
+      "venue": "International Journal of Learning Teaching and Educational Research",
+      "field": "计算机科学",
+      "topics": [
+        "Virtual Reality Applications and Impacts",
+        "Educational Games and Gamification",
+        "Augmented Reality Applications"
+      ],
+      "abstract": "Immersive virtual reality (IVR) supports the teaching of abstract, spatial, and microscopic concepts in higher education, although previous research has focused primarily on devices, access, and technical constraints. This systematic review examined IVR from the perspective of pedagogical design, science engagement, and students’ digital competence. Following PRISMA 2020 guidelines, 2,177 Scopus-indexed articles were screened through identification, duplicate removal, title and abstract screening, and eligibility assessment, resulting in 39 articles for bibliometric and thematic analysis. The findings revealed that IVR research in higher education was dominated by life sciences, quasi-experimental designs, and small samples of approximately 30 participants, with head-mounted displays (HMD) to cover the user’s field of view and create the sensation of being inside a three-dimensional environment, used in 23 of the 39 studies. The most common pedagogical patterns were simulation-based learning and virtual laboratories. Among the four engagement dimensions, emotional engagement was most consistently enhanced by IVR. Digital competence was rarely defined or measured explicitly and was more often represented implicitly through learners’ interaction behaviors in VR environments, with explicit measurements largely limited to pre-service teacher education studies. These findings indicate that IVR effectiveness does not result automatically from device quality but is mediated by pedagogical design, content alignment, formative debriefing, and users’ digital readiness. Future research should adopt longitudinal designs, multimodal measurements of engagement and digital competence, and discipline-specific pedagogical frameworks to realize the transformative potential of IVR in higher science education.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.26803/ijlter.25.8.35"
+    },
+    {
+      "id": "openalex-W7204692390",
+      "doi": "10.2196/preprints.110824",
+      "title": "Timing of Virtual Reality Relaxation Training for Patients With Breast Cancer Undergoing Chemotherapy: Randomized Comparative Study With Multimodal Physiological Monitoring and Explainable Machine Learning (Preprint)",
+      "title_zh": "",
+      "authors": [
+        "Hsin‐Yi Lu",
+        "Yang-Hao Li",
+        "Chun‐Chuan Chen",
+        "Shih‐Ching Yeh",
+        "Eric Hsiao‐Kuang Wu",
+        "Hsueh-Hsing Pan"
+      ],
+      "year": 2026,
+      "venue": "OpenAlex",
+      "field": "医学",
+      "topics": [
+        "Cancer survivorship and care",
+        "Cancer-related cognitive impairment studies",
+        "Music Therapy and Health"
+      ],
+      "abstract": "BACKGROUND Chemotherapy for breast cancer is frequently accompanied by psychological distress and treatment-related symptoms that may be associated with autonomic, respiratory, electrodermal, and neural changes. Virtual reality (VR) relaxation can provide immersive and guided breathing, but the optimal timing of VR delivery relative to chemotherapy has not been well characterized using objective multimodal physiology. OBJECTIVE This study aimed to compare the short-term effects of VR-based mindfulness breathing administered before versus after chemotherapy in patients with breast cancer and to identify physiological features associated with pre- to post-intervention state changes using explainable machine learning. METHODS A total of 78 female patients with stage I-III breast cancer scheduled for chemotherapy were randomly assigned to a before-chemotherapy group (BC group; n=39) or an after-chemotherapy group (AC group; n=39). Participants completed a 12-minute immersive VR relaxation intervention with guided mindfulness breathing. Electroencephalography (EEG), electrocardiography(EKG)-derived heart rate variability (HRV), respiratory effort, and galvanic skin response (GSR) were collected during baseline and postintervention periods. Patient-reported stress and symptom burden were assessed using the Newly Diagnosed Breast Cancer Stress Scale-Revised and the Memorial Symptom Assessment Scale-Short Form. Within-group changes were analyzed using paired t tests and Cohen d. Machine learning models were trained to distinguish pre- and post-intervention physiological states, and SHapley Additive exPlanations (SHAP) were used to identify influential features. RESULTS The mean age was 54.95 (SD 7.14) years in the BC group and 54.00 (SD 10.34) years in the AC group. Both groups showed postintervention physiological changes, but the AC group showed broader and more consistent modulation across modalities. EEG alpha and beta features changed significantly in both groups, with larger and more widespread effects in the AC group (eg, FC3 alpha: d=1.064, P<.001; FCz alpha: d=0.780, P=.001). HRV changes were observed in both groups, but the AC group showed significant changes in more indices, including RMSSD, SDSD, LF relative power, HF relative power, HF log power, FFT ratio, SD1, and SD ratio. Respiratory variability changed significantly only in the AC group, including RRV_ApEn (d=0.737, P=.002). The machine learning classification was more accurate in the AC group, particularly using fused multimodal features, and SHAP highlighted HRV LF relative power, occipital alpha activity, GSR mini skin conductance responses, and respiratory median breath-to-breath intervals as influential features. CONCLUSIONS A single 12-minute VR relaxation session was associated with measurable physiological changes in patients with breast cancer undergoing chemotherapy. Changes were more extensive after chemotherapy than before chemotherapy, suggesting that postchemotherapy delivery may be a particularly responsive window for VR-based relaxation support. These findings are exploratory and should be confirmed in adequately powered trials with complete reporting of patient-reported outcomes, adverse events, clinical symptom changes, and longitudinal effects. CLINICALTRIAL This study was registered as NCT06541587 on ClinicalTrials.gov.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": false,
+      "pdf_url": "",
+      "url": "https://doi.org/10.2196/preprints.110824"
+    },
+    {
+      "id": "openalex-W7204699314",
+      "doi": "10.1186/s12951-026-04994-y",
+      "title": "AI-driven discovery of self-assembled antimicrobial peptides with dual antibacterial and wound-healing functions against multidrug-resistant infections",
+      "title_zh": "",
+      "authors": [
+        "Yuanyuan Li",
+        "Xuanxuan Ma",
+        "Na Yang",
+        "Hao Zhang",
+        "Tingxi Yu",
+        "Ruoyu Mao",
+        "Ya Hao",
+        "Huihui Li",
+        "Da Teng",
+        "Jianhua Wang"
+      ],
+      "year": 2026,
+      "venue": "Journal of Nanobiotechnology",
+      "field": "生物学",
+      "topics": [
+        "Antimicrobial Peptides and Activities",
+        "Supramolecular Self-Assembly in Materials",
+        "Antimicrobial agents and applications"
+      ],
+      "abstract": "The rapid emergence of multidrug-resistant bacterial infections, particularly those caused by methicillin-resistant Staphylococcus aureus and carbapenem-resistant Acinetobacter baumannii , poses a critical challenge to global healthcare. Antimicrobial peptides (AMPs) are promising alternatives, yet their design is challenged by vast sequence space and the need to balance potency with safety. This study establishes an deep learning model AMP-SAGE to achieve intelligent screening of a virtual decapeptide library composed of four amino acids (lysine (K), tryptophan (W), phenylalanine (F), and arginine (R)), and further mines for peptides with self-assembly potential that feature an FF self-assembly motif at the core flanked by R-W-K residues, thereby enabling the de novo discovery of self-assembling AMPs. Ten candidate peptides with predicted antimicrobial probability scores≥0.5 and self-assembly potential are randomly screened. After systematic biological evaluation, R2 and K4 are selected for further investigation. The candidate peptides R2 and K4 show broad-spectrum activity (minimum inhibitory concentration (MIC): 1–32 μM) and achieve>99.99% bacterial killing within 1–2 h. Spectroscopic characterization reveals distinct self-assembly behaviors. They operate via multimodal mechanisms, including membrane disruption and reactive oxygen species (ROS) induction, and exhibit high biosafety (hemolysis TI: 150.55 for R2, 1505.75 for K4) and stability. In murine wound models, both peptides significantly reduce bacterial loads, accelerate healing, and promote organized collagen deposition. This work establishes an AI-accelerated pipeline for developing self-assembled AMPs with combined antimicrobial and wound-healing functions against multidrug-resistant infections.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1186/s12951-026-04994-y"
+    },
+    {
+      "id": "openalex-W7204702336",
+      "doi": "10.66129/203509379",
+      "title": "Meaning-Making About a Sustainable Society Through Collaborative Online International Learning (COIL) Projects in Higher Education",
+      "title_zh": "",
+      "authors": [
+        "Tünde Szécsi",
+        "Debra Giambo",
+        "Marianela Rivera",
+        "Flavia Stara"
+      ],
+      "year": 2026,
+      "venue": "OpenAlex",
+      "field": "社会科学",
+      "topics": [
+        "Sustainability in Higher Education",
+        "Service-Learning and Community Engagement",
+        "Online and Blended Learning"
+      ],
+      "abstract": "In higher education, engaging students with topics concerning the present and the future of society is essential to bolster sustainability. Collaborative Online International Learning (COIL) is a pedagogical avenue to provide a space to discuss these issues and to gain new perspectives through international partnership. In courses offered at two universities, one in the United States and the other in Italy, university students collaboratively explored societal issues through technology-enabled interaction. This paper reports on the outcomes of COIL projects through the connectivism theory, focusing on how students’ self-selected topics and discussions were reflective of internationally relevant societal concerns outlined in the Sustainable Development Goals developed by the United Nations. In addition, we report on how students navigated meaning-making on these social issues by using multimodal communication tools in an online space of the COIL projects. Recommendations for stakeholders in higher education are offered based on the findings.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": false,
+      "pdf_url": "",
+      "url": "https://doi.org/10.66129/203509379"
+    },
+    {
+      "id": "openalex-W7204703450",
+      "doi": "10.5281/zenodo.22175626",
+      "title": "Application of Artificial Intelligence Frameworks in Development of Medical Imaging Diagnosis Systems: A Comprehensive Review of Novel Methodologies, Clinical Validation, Performance Optimization, and Future Perspectives",
+      "title_zh": "",
+      "authors": [
+        "S Sur",
+        "Mandal Rakesh Kumar",
+        "Chanda Debanil"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "医学",
+      "topics": [
+        "Retinal Imaging and Analysis",
+        "Artificial Intelligence in Healthcare and Education",
+        "AI in cancer detection"
+      ],
+      "abstract": "Artificial intelligence (AI) has revolutionized medical imaging with automated disease detection, image segmentation, diagnosis, prognosis prediction, and clinical decision support across various imaging modalities, such as X-ray, computed tomography (CT), magnetic resonance imaging (MRI), ultrasound, positron emission tomography (PET), retinal imaging, and digital pathology. Recent advances in deep learning, transformer architectures, multimodal learning and foundation models have significantly improved the diagnostic accuracy and reduced the reliance on handcrafted feature engineering. However, challenges like data heterogeneity, model interpretability, external validation, privacy preservation, computational efficiency, and regulatory compliance still hinder the widespread clinical implementation.In this paper, this review presents a comprehensive study on the evolution of modern AI frameworks in medical imaging by integrating recent methodological advances with perspectives on clinical translation. The review covers the latest deep learning architectures, such as convolutional neural networks, Vision Transformers, hybrid CNN–Transformer models, multimodal learning frameworks, generative artificial intelligence, diffusion models, federated learning, privacy-preserving learning, and medical foundation models. In addition, the review covers the cutting-edge explainable AI techniques, including Grad-CAM, SHAP, LIME, and attention visualization, for boosting transparency and clinician confidence. The review also discusses the state-of-the-art performance optimization strategies, including transfer learning, active learning, domain adaptation, neural architecture search, hyperparameter optimization, model compression, and computational resource optimization. Equally important, the latest developments in clinical validation, external evaluation, robustness assessment, fairness, uncertainty estimation, regulatory considerations, and deployment frameworks are critically analyzed to underscore their role in facilitating safe clinical implementation.The review analysis concludes with the identification of key research challenges and directions for the future including multimodal foundation models, vision-language systems, retrieval-augmented generation,",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22175626"
+    },
+    {
+      "id": "openalex-W7204704902",
+      "doi": "10.1117/12.3120411",
+      "title": "Hybrid method for identification of speech signals acquired by a distributed fiber optic sensor",
+      "title_zh": "",
+      "authors": [
+        "Olga Gubareva"
+      ],
+      "year": 2026,
+      "venue": "OpenAlex",
+      "field": "跨学科",
+      "topics": [],
+      "abstract": "Distributed Acoustic Sensing (DAS) has emerged as a promising technology for monitoring and information-security applications due to its ability to provide continuous distributed sensing over long distances using standard optical fibers. However, speech signals acquired by DAS systems are characterized by low signal-to-noise ratios, spectral instability, environmental interference, and significant distortions, which complicate automatic speech recognition and speaker identification. This paper presents a hybrid approach for the processing and identification of speech signals acquired by a distributed fiber-optic acoustic sensor. The proposed framework combines Probability Difference-Based Temporal Fusion (PDTF), Discrete Wavelet Transform (DWT), Mel-Frequency Cepstral Coefficients (MFCC), Common Spatial Patterns (CSP), and Support Vector Machine (SVM) classification. A review of contemporary methods for DAS-based speech processing is conducted, and the role of time-frequency analysis, perceptually motivated feature extraction, temporal fusion, and machine-learning techniques is discussed. The proposed framework integrates temporal, spectral, perceptual, and spatial information within a unified processing pipeline designed to improve the robustness of speaker identification under noisy operating conditions. The analysis indicates that hybrid signal-processing architectures provide significant potential for DAS-based speech recognition by combining the advantages of classical signal-processing methods and machine-learning algorithms. The presented approach may be applied in information-security systems for covert monitoring, personnel authentication, intruder detection, perimeter protection, and critical-infrastructure security. Future research directions include adaptive noise-suppression techniques, self-supervised learning methods, multimodal data fusion, and the development of specialized benchmark datasets for DAS-based speech-recognition systems.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": false,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1117/12.3120411"
+    },
+    {
+      "id": "openalex-W7204714339",
+      "doi": "10.5281/zenodo.22172269",
+      "title": "Attention Is All You Needed, and What It Needed: A Narrative Review of the Transformer Architecture from Seq2Seq to Foundation Models",
+      "title_zh": "",
+      "authors": [
+        "Zen Revista",
+        "10 IA"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "社会科学",
+      "topics": [
+        "Language and cultural evolution",
+        "Machine Learning in Materials Science",
+        "Text Readability and Simplification"
+      ],
+      "abstract": "The transformer is the deep learning architecture of its era: the self-attention mechanism introduced in 2017 now underlies language models, vision systems, speech, and protein structure prediction. This article presents a narrative review of the architecture's canonical line: the sequence-to-sequence and LSTM systems it replaced, the attention mechanisms of Bahdanau and colleagues, the 2017 transformer of Vaswani and colleagues, the pre-training paradigm of GPT and BERT, the scaling analyses of Kaplan and colleagues, the unified text-to-text framework of Raffel and colleagues, the multimodal extension of Dosovitskiy and colleagues, and the foundation-model synthesis of Bommasani and colleagues. The synthesis is organized around three themes: the bottleneck, in which recurrence's sequential constraint motivated attention; the architecture, in which self-attention, parallelism, and pre-training remade representation learning; and scale, in which scaling laws and unified frameworks converted the transformer into the substrate of foundation models. It is concluded that the transformer's significance is architectural and economic at once---a single mechanism across modalities---and that its open problems of cost, grounding, and governance are the field's inherited agenda.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22172269"
+    },
+    {
+      "id": "openalex-W7204714564",
+      "doi": "10.5281/zenodo.22175625",
+      "title": "Application of Artificial Intelligence Frameworks in Development of Medical Imaging Diagnosis Systems: A Comprehensive Review of Novel Methodologies, Clinical Validation, Performance Optimization, and Future Perspectives",
+      "title_zh": "",
+      "authors": [
+        "S Sur",
+        "Mandal Rakesh Kumar",
+        "Chanda Debanil"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "医学",
+      "topics": [
+        "Retinal Imaging and Analysis",
+        "Artificial Intelligence in Healthcare and Education",
+        "AI in cancer detection"
+      ],
+      "abstract": "Artificial intelligence (AI) has revolutionized medical imaging with automated disease detection, image segmentation, diagnosis, prognosis prediction, and clinical decision support across various imaging modalities, such as X-ray, computed tomography (CT), magnetic resonance imaging (MRI), ultrasound, positron emission tomography (PET), retinal imaging, and digital pathology. Recent advances in deep learning, transformer architectures, multimodal learning and foundation models have significantly improved the diagnostic accuracy and reduced the reliance on handcrafted feature engineering. However, challenges like data heterogeneity, model interpretability, external validation, privacy preservation, computational efficiency, and regulatory compliance still hinder the widespread clinical implementation.In this paper, this review presents a comprehensive study on the evolution of modern AI frameworks in medical imaging by integrating recent methodological advances with perspectives on clinical translation. The review covers the latest deep learning architectures, such as convolutional neural networks, Vision Transformers, hybrid CNN–Transformer models, multimodal learning frameworks, generative artificial intelligence, diffusion models, federated learning, privacy-preserving learning, and medical foundation models. In addition, the review covers the cutting-edge explainable AI techniques, including Grad-CAM, SHAP, LIME, and attention visualization, for boosting transparency and clinician confidence. The review also discusses the state-of-the-art performance optimization strategies, including transfer learning, active learning, domain adaptation, neural architecture search, hyperparameter optimization, model compression, and computational resource optimization. Equally important, the latest developments in clinical validation, external evaluation, robustness assessment, fairness, uncertainty estimation, regulatory considerations, and deployment frameworks are critically analyzed to underscore their role in facilitating safe clinical implementation.The review analysis concludes with the identification of key research challenges and directions for the future including multimodal foundation models, vision-language systems, retrieval-augmented generation,",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22175625"
+    },
+    {
+      "id": "openalex-W7204719896",
+      "doi": "10.5281/zenodo.22171596",
+      "title": "DECAF Retrospective Architecture Proposal",
+      "title_zh": "",
+      "authors": [
+        "Berat Araç"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "医学",
+      "topics": [
+        "ECG Monitoring and Analysis",
+        "Cardiac electrophysiology and arrhythmias",
+        "Machine Learning in Healthcare"
+      ],
+      "abstract": "DECAF is a retrospective architecture proposal for ECG classification, revisiting a 2025 multimodal deep learning system (PTB-XL, dual-mechanism explainability) with the author's current understanding of deep learning architecture design. It is a design note, not a performance claim: DECAF has not been implemented, trained, benchmarked, or clinically validated. The proposal redesigns the earlier three-stream architecture (raw ECG, ECG-derived measurements, demographics) by separating local waveform morphology from temporal structure, using patient demographics as context throughout the model rather than a late fused feature, keeping an explicit physiological branch, and replacing static concatenation with adaptive, context aware fusion. No benchmark tables, novelty claims, or literature review are included; the value of the note is the redesign reasoning itself.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22171596"
+    },
+    {
+      "id": "openalex-W7204720090",
+      "doi": "10.32628/cseit26124238",
+      "title": "Reinforcement Learning in Wearable Robotic Systems for Orthopedic Rehabilitation: An Elbow-Focused Narrative Review",
+      "title_zh": "",
+      "authors": [
+        "Yash Jayeshbhai Patel",
+        "Bikram Bhakat",
+        "Abhijeet Patel",
+        "Vatsal Pravinbhai Patel"
+      ],
+      "year": 2026,
+      "venue": "International Journal of Scientific Research in Computer Science Engineering and Information Technology",
+      "field": "机器人学",
+      "topics": [
+        "Prosthetics and Rehabilitation Robotics",
+        "Stroke Rehabilitation and Recovery",
+        "Muscle activation and electromyography studies"
+      ],
+      "abstract": "Orthopedic rehabilitation after upper-limb trauma increasingly emphasizes protected early motion, quantitative monitoring, and patient-specific assistance. This narrative review examines how reinforcement learning (RL) may contribute to wearable robotic systems for orthopedic rehabilitation, with emphasis on elbow-centered applications and transferable evidence from upper-limb exoskeletons, prosthetic-control studies, and musculoskeletal simulation. Literature from clinical and engineering sources was synthesized across four themes: clinical rationale, device platforms, control architecture, and translational readiness. The reviewed evidence suggests that the most plausible near-term platform is an externally worn powered orthosis rather than an implanted robotic joint. Across studies, RL is most defensible as a supervisory or personalization layer that adapts assistance within hard constraints on torque, speed, and range of motion, rather than as an unconstrained end-to-end controller. Multimodal sensing, especially combinations of electromyography, kinematics, and interaction sensing, appears more robust than any single intent channel. Digital twins and musculoskeletal simulators provide a practical substrate for offline training and conservative policy transfer, but fracture-specific clinical validation remains limited. Key barriers include alignment, comfort, safety governance, and the persistent gap between simulation and bedside deployment. Overall, the literature supports a staged translational strategy centered on hierarchical control, conservative safety design, and clinically bounded personalization.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.32628/cseit26124238"
+    },
+    {
+      "id": "openalex-W7204723499",
+      "doi": "10.62311/nesx/rp4ag-30082026",
+      "title": "Quantum Topological Neural Operators and Digital Twin Intelligence for Multiscale Climate, Energy, Hydrological, Urban, Industrial and Health Systems",
+      "title_zh": "",
+      "authors": [
+        "Murali Krishna Pasupuleti"
+      ],
+      "year": 2026,
+      "venue": "International Journal of Academic and Industrial Research Innovations(IJAIRI)",
+      "field": "计算机科学",
+      "topics": [
+        "Advanced Graph Neural Networks",
+        "Advanced Technologies in Various Fields",
+        "Digital Transformation in Industry"
+      ],
+      "abstract": "Abstract: Complex climate, energy, hydrological, urban, industrial and health systems are increasingly monitored through heterogeneous sensor, simulation and observational infrastructures, yet their digital twins remain fragmented by domain-specific models, incompatible scales and weak representations of nonlinear topology. This paper develops a unified model-based framework termed Quantum Topological Neural Operator Digital Twin Intelligence (QTNODT). The framework combines persistent and graph-topological representations, quantum or quantum-inspired feature encodings, neural operators for learning solution mappings between function spaces, digital-twin data assimilation, uncertainty quantification and risk-aware optimisation. The study synthesises the supplied literature on neural operators, quantum machine intelligence, topological learning, smart-grid stability, water twins, urban resilience, predictive-maintenance twins, climate-risk modelling and multimodal health intelligence. A coupled mathematical formulation is proposed in which sector states evolve through dynamic operators and are linked by cross-sector interaction matrices, while topological signatures act as scale-robust structural constraints. A normalized 0-10 numerical demonstration yields a weighted domain score of 8.141 and a risk-adjusted QTNODT score of 7.813 under an illustrative uncertainty penalty, indicating how readiness, twin fidelity, topological stability, computational capacity and governance can be combined without presenting simulated values as empirical evidence. The framework contributes a common analytical language for cross-domain forecasting, resilience assessment and intervention design. Its principal value is methodological: it specifies testable interfaces among data, topology, operators, twins and decisions, while making clear that empirical validation requires real-world sector datasets, benchmark comparisons and prospective evaluation. Keywords: quantum topological intelligence; neural operators; digital twins; persistent homology; graph topology; climate risk; smart grids; hydrological intelligence; urban resilience; Industry 5.0; predictive maintenance; precision health; uncertainty quantification; multiscale systems; scientific machine learning",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": false,
+      "pdf_url": "",
+      "url": "https://doi.org/10.62311/nesx/rp4ag-30082026"
+    },
+    {
+      "id": "openalex-W7204725221",
+      "doi": "10.5281/zenodo.22171595",
+      "title": "DECAF Retrospective Architecture Proposal",
+      "title_zh": "",
+      "authors": [
+        "Berat Araç"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "医学",
+      "topics": [
+        "ECG Monitoring and Analysis",
+        "Cardiac electrophysiology and arrhythmias",
+        "Machine Learning in Healthcare"
+      ],
+      "abstract": "DECAF is a retrospective architecture proposal for ECG classification, revisiting a 2025 multimodal deep learning system (PTB-XL, dual-mechanism explainability) with the author's current understanding of deep learning architecture design. It is a design note, not a performance claim: DECAF has not been implemented, trained, benchmarked, or clinically validated. The proposal redesigns the earlier three-stream architecture (raw ECG, ECG-derived measurements, demographics) by separating local waveform morphology from temporal structure, using patient demographics as context throughout the model rather than a late fused feature, keeping an explicit physiological branch, and replacing static concatenation with adaptive, context aware fusion. No benchmark tables, novelty claims, or literature review are included; the value of the note is the redesign reasoning itself.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22171595"
+    },
+    {
+      "id": "openalex-W7204726959",
+      "doi": "10.17275/per.26.70.13.5",
+      "title": "Repurposing Modelled Items in English Grammar Teaching: Transformation of Textbook Exercises in Classroom Interaction",
+      "title_zh": "",
+      "authors": [
+        "Muhammet ÖCEL",
+        "Nilüfer Can Daşkın"
+      ],
+      "year": 2026,
+      "venue": "Participatory Educational Research",
+      "field": "社会科学",
+      "topics": [
+        "EFL/ESL Teaching and Learning",
+        "Language, Discourse, Communication Strategies",
+        "Second Language Acquisition and Learning"
+      ],
+      "abstract": "While grammar instruction in a second language (L2) relies heavily on course materials, the interactional treatment of those materials at the micro-analytic level remains underexplored. More specifically, the treatment of ‘modelled exercise items’, sample exercise items whose answers are pre-provided by the textbook, requires further interactional investigation. To this end, this multimodal, collection-based conversation analytic (CA) study investigates a teacher’s orientation to ‘modelled exercise items’ in textbooks, within grammar revision talk. The data consisted of 37 classroom hours of video recordings of an EFL classroom at a state university in Türkiye. The participants comprise 30 students and one English language instructor teaching an integrated-skills course. The data were analyzed following CA procedures, including unmotivated looking, repeated viewing, detailed multimodal transcription, turn-by-turn sequential analysis, and collection building. The findings reveal that the teacher systematically transforms modelled exercise items to serve diverse pedagogical purposes. Specifically, the teacher’s turns in leveraging these items function to (i) elicit grammar explanations from the students and (ii) transform the items into an L2 grammar practice. These findings also show that the teacher’s interactional actions are contingent upon the pedagogical goal pursued in situ, highlighting the reflexive relationship between pedagogy, interaction and material use. Furthermore, these contingencies create space for further teaching and learning opportunities. This study contributes to CA research on L2 and classroom interaction by uncovering the micro-details of the interface between materials and classroom interaction within grammar revision episodes, with implications for teachers and teacher educators.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.17275/per.26.70.13.5"
+    },
+    {
+      "id": "openalex-W7204727113",
+      "doi": "10.33578/jpfkip.v15i4.1021-1035",
+      "title": "Exploring the cyber world: the innovation of the cristal booklet to improve speaking literacy skills and critical thinking for elementary school students",
+      "title_zh": "",
+      "authors": [
+        "Esty Yuliana Rabiah Aswadah",
+        "Nurul Istiq'faroh",
+        "Wahyu Sukartiningsih"
+      ],
+      "year": 2026,
+      "venue": "Primary Jurnal Pendidikan Guru Sekolah Dasar",
+      "field": "社会科学",
+      "topics": [
+        "Language Acquisition and Education",
+        "Education and Critical Thinking Development",
+        "Educational Methods and Media Use"
+      ],
+      "abstract": "This study aims to examine the contribution of the CRISTAL Booklet (Critical Reading, Interactive Speaking, and Technology-Assisted Learning) to improving the speaking literacy and critical thinking skills of fifth-grade students who participated in the study. Speaking, literacy, and critical thinking are important skills that students need to develop. However, there are still challenges in applying these skills in the classroom. The CRISTAL Booklet was designed as a multimodal learning medium that combines critical reading, interactive speaking, and technology to enrich students’ learning experiences. This study used a quantitative approach with a one-group pretest-posttest research design. The participants were fifth-grade students from an elementary school. The research instruments included a pretest and a posttest to measure students’ speaking literacy and critical thinking skills. The results showed that the CRISTAL Booklet improved students’ speaking literacy and critical thinking skills, with a significant difference between pretest and posttest scores. Overall, the findings indicate that the CRISTAL Booklet can be used as an innovative and effective learning medium to improve speaking literacy and critical thinking skills among elementary school students.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.33578/jpfkip.v15i4.1021-1035"
+    },
+    {
+      "id": "openalex-W7204728739",
+      "doi": "10.5281/zenodo.22177325",
+      "title": "Reinforcement Learning in Wearable Robotic Systems for Orthopedic Rehabilitation: An Elbow-Focused Narrative Review",
+      "title_zh": "",
+      "authors": [
+        "Yash Jayeshbhai Patel",
+        "Bikram Bhakat",
+        "Abhijeet Patel",
+        "Vatsal Pravinbhai Patel"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "机器人学",
+      "topics": [
+        "Prosthetics and Rehabilitation Robotics",
+        "Stroke Rehabilitation and Recovery",
+        "Muscle activation and electromyography studies"
+      ],
+      "abstract": "Orthopedic rehabilitation after upper-limb trauma increasingly emphasizes protected early motion, quantitative monitoring, and patient-specific assistance. This narrative review examines how reinforcement learning (RL) may contribute to wearable robotic systems for orthopedic rehabilitation, with emphasis on elbow-centered applications and transferable evidence from upper-limb exoskeletons, prosthetic-control studies, and musculoskeletal simulation. Literature from clinical and engineering sources was synthesized across four themes: clinical rationale, device platforms, control architecture, and translational readiness. The reviewed evidence suggests that the most plausible near-term platform is an externally worn powered orthosis rather than an implanted robotic joint. Across studies, RL is most defensible as a supervisory or personalization layer that adapts assistance within hard constraints on torque, speed, and range of motion, rather than as an unconstrained end-to-end controller. Multimodal sensing, especially combinations of electromyography, kinematics, and interaction sensing, appears more robust than any single intent channel. Digital twins and musculoskeletal simulators provide a practical substrate for offline training and conservative policy transfer, but fracture-specific clinical validation remains limited. Key barriers include alignment, comfort, safety governance, and the persistent gap between simulation and bedside deployment. Overall, the literature supports a staged translational strategy centered on hierarchical control, conservative safety design, and clinically bounded personalization.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22177325"
+    },
+    {
+      "id": "openalex-W7204728872",
+      "doi": "10.5281/zenodo.22177326",
+      "title": "Reinforcement Learning in Wearable Robotic Systems for Orthopedic Rehabilitation: An Elbow-Focused Narrative Review",
+      "title_zh": "",
+      "authors": [
+        "Yash Jayeshbhai Patel",
+        "Bikram Bhakat",
+        "Abhijeet Patel",
+        "Vatsal Pravinbhai Patel"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "机器人学",
+      "topics": [
+        "Prosthetics and Rehabilitation Robotics",
+        "Stroke Rehabilitation and Recovery",
+        "Muscle activation and electromyography studies"
+      ],
+      "abstract": "Orthopedic rehabilitation after upper-limb trauma increasingly emphasizes protected early motion, quantitative monitoring, and patient-specific assistance. This narrative review examines how reinforcement learning (RL) may contribute to wearable robotic systems for orthopedic rehabilitation, with emphasis on elbow-centered applications and transferable evidence from upper-limb exoskeletons, prosthetic-control studies, and musculoskeletal simulation. Literature from clinical and engineering sources was synthesized across four themes: clinical rationale, device platforms, control architecture, and translational readiness. The reviewed evidence suggests that the most plausible near-term platform is an externally worn powered orthosis rather than an implanted robotic joint. Across studies, RL is most defensible as a supervisory or personalization layer that adapts assistance within hard constraints on torque, speed, and range of motion, rather than as an unconstrained end-to-end controller. Multimodal sensing, especially combinations of electromyography, kinematics, and interaction sensing, appears more robust than any single intent channel. Digital twins and musculoskeletal simulators provide a practical substrate for offline training and conservative policy transfer, but fracture-specific clinical validation remains limited. Key barriers include alignment, comfort, safety governance, and the persistent gap between simulation and bedside deployment. Overall, the literature supports a staged translational strategy centered on hierarchical control, conservative safety design, and clinically bounded personalization.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22177326"
+    },
+    {
+      "id": "openalex-W7204729780",
+      "doi": "10.5281/zenodo.22170165",
+      "title": "memoria.ia: Resolutive Memory — v1.0.0 Release Candidate 1",
+      "title_zh": "",
+      "authors": [
+        "MARCELO ROLDAO MATOS"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "跨学科",
+      "topics": [],
+      "abstract": "Memoria.ia v1.0.0-rc1 — Release Candidate 1 Release date: 2026-08-30 Summary v1.0.0-rc1 is the first publication candidate for the Memoria.ia v1 line. It consolidates the validated Resolutive Memory research lineage with the deployable PC/server product layer and the native/mobile runtime path, while keeping post-v1 experimentation isolated from the release candidate. The release architecture remains: application / OFF.IA / agent ↓ Memoria.ia ↓ Resolutive-DB / BDR Memoria.ia owns memory semantics and state. Resolutive-DB owns durable persistence. Optional LLMs are consumers, not the authoritative memory store. Included capabilities persistent local-first memory state; organization and namespace isolation; provenance and authority lineage; conservative HIT / MISS / UNRESOLVED resolution; semantic, episodic, temporal and relation kernels; correction/supersession behavior with preserved lineage; PC/server FastAPI product boundary; Docker/Compose deployment; provider-neutral language-model adapters; metrics and context-selection instrumentation; integrity-checked backup/restore; native production runtime; Android arm64-v8a mobile ABI; durable native BDR persistence and restart recovery; indexed native resolution for large-memory workloads; reproducibility and release metadata gates; official Memoria.ia visual identity assets. Frozen candidate provenance The functional candidate was frozen at: dc73cbcdddfe20e0729e7e6bdea4697f7e8308cd That commit integrated PR #112, which preserved ranking, confidence, provenance policy, ABI and BDR contracts while adding the indexed native resolve lineage. The release branch adds publication metadata, version alignment, release documentation and current branding without importing post-v1 PR #116 runtime behavior. Validation evidence The exact functional lineage used for this release candidate passed the recorded required gates before release preparation: Android mobile ABI: PASS; native production image: PASS; Ubuntu/Windows candidate regression: PASS; BDR Linux/Ubuntu/Windows integration: PASS; native 100 / 1k / 10k benchmark matrix: PASS. Recorded 10k native resolve benchmark improvement versus the prior frozen baseline: p50: 693.233 ms -> 6.288 ms (~110x); p95: 710.630 ms -> 6.391 ms (~111x). These figures are environment- and workload-specific benchmark evidence, not universal latency guarantees. Publication metadata Release version: 1.0.0-rc1 Python package version: 1.0.0rc1 License: Resolutive Research and Non-Commercial License (RRNCL) v1.0 Author: Marcelo Roldão Matos ORCID: 0009-0003-6075-4680 RSMS compatibility: 1.0-rc.1 A new archival DOI should be assigned to this publication. The v0.95 DOI must not be reused as the release DOI for v1.0.0-rc1. Why this is RC1 rather than final v1.0 The repository currently declares compatibility with RSMS 1.0-rc.1, and the published Resolutive Science baseline remains on that release-candidate specification. Therefore Memoria.ia is published as v1.0.0-rc1 rather than claiming final v1.0 compatibility prematurely. Final v1.0 promotion requires: successful release-candidate metadata and regression gates; reproducibility from the public release state; compatibility re-audit against stable RSMS; no release-blocking regression found during RC use; final archival metadata and DOI synchronization. Explicitly excluded from RC1 The following post-v1 work is not part of this release candidate: external/public knowledge learning from OFF.IA Curiosity (issue #114 / PR #116); autonomous curiosity policy; new MA2A federation transport; multimodal post-v1 expansion; new semantic-consolidation phases from the post-v1 roadmap. Those features continue independently after this publication. Security boundary This release candidate is not represented as independently production-security certified. Authentication, isolation, integrity and negative-path controls exist and are tested, but no independent production security audit is claimed. Claims boundary This release does not claim: artificial general intelligence; biological equivalence; replacement of general-purpose LLMs; universal O(1) semantic resolution; production-ready MA2A federation; security certification. Claims are limited to the implementation, tests, benchmarks and reproducible evidence recorded in the repository.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22170165"
+    },
+    {
+      "id": "openalex-W7204737219",
+      "doi": "10.5281/zenodo.22172268",
+      "title": "Attention Is All You Needed, and What It Needed: A Narrative Review of the Transformer Architecture from Seq2Seq to Foundation Models",
+      "title_zh": "",
+      "authors": [
+        "Zen Revista",
+        "10 IA"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "社会科学",
+      "topics": [
+        "Language and cultural evolution",
+        "Machine Learning in Materials Science",
+        "Text Readability and Simplification"
+      ],
+      "abstract": "The transformer is the deep learning architecture of its era: the self-attention mechanism introduced in 2017 now underlies language models, vision systems, speech, and protein structure prediction. This article presents a narrative review of the architecture's canonical line: the sequence-to-sequence and LSTM systems it replaced, the attention mechanisms of Bahdanau and colleagues, the 2017 transformer of Vaswani and colleagues, the pre-training paradigm of GPT and BERT, the scaling analyses of Kaplan and colleagues, the unified text-to-text framework of Raffel and colleagues, the multimodal extension of Dosovitskiy and colleagues, and the foundation-model synthesis of Bommasani and colleagues. The synthesis is organized around three themes: the bottleneck, in which recurrence's sequential constraint motivated attention; the architecture, in which self-attention, parallelism, and pre-training remade representation learning; and scale, in which scaling laws and unified frameworks converted the transformer into the substrate of foundation models. It is concluded that the transformer's significance is architectural and economic at once---a single mechanism across modalities---and that its open problems of cost, grounding, and governance are the field's inherited agenda.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22172268"
     },
     {
       "id": "arxiv-2403.05530",
