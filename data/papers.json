@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-09-01T01:18:55.909601+00:00",
+    "updated_at": "2026-09-02T00:17:32.622176+00:00",
     "source": "OpenAlex",
     "queries": [
       "artificial intelligence",
@@ -10,7 +10,7 @@
       "multimodal learning"
     ],
     "window_years": 10,
-    "count": 758
+    "count": 839
   },
   "papers": [
     {
@@ -17862,8 +17862,8 @@
       "abstract_zh": "",
       "citations": 0,
       "popularity": 18,
-      "open_access": false,
-      "pdf_url": "",
+      "open_access": true,
+      "pdf_url": "https://josrar.esrgngr.org/index.php/josrar/article/download/230/171",
       "url": "https://doi.org/10.70882/josrar.2026.v3i4.230"
     },
     {
@@ -18403,6 +18403,2055 @@
       "open_access": true,
       "pdf_url": "",
       "url": "https://doi.org/10.5281/zenodo.22172268"
+    },
+    {
+      "id": "openalex-W7204744866",
+      "doi": "10.5281/zenodo.22216804",
+      "title": "Minds With Bodies, Finally: A Historical Development Review of Embodied AI and the Perception-Action Loop",
+      "title_zh": "",
+      "authors": [
+        "Zen Revista",
+        "10 IA"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "社会科学",
+      "topics": [
+        "Ethics and Social Impacts of AI",
+        "Social Robot Interaction and HRI",
+        "AI in Service Interactions"
+      ],
+      "abstract": "This article presents a narrative review of Embodied AI and the Perception-Action Loop in the context of Artificial Intelligence. The literature on this topic has expanded substantially over recent decades, yet it remains fragmented across subfields, methods, and national research traditions. Drawing on an interpretive synthesis of representative contributions, the review reconstructs the historical development of the area, examines the conceptual foundations and definitional disputes that organize its debates, and maps the contemporary landscape of research, including the methodological shift toward data-intensive approaches and the institutional pressures that shape publication practice. Particular attention is given to the role of embodied AI and robotics as organizing themes, and to the conditions under which findings from different research traditions can be brought into productive comparison. The review identifies three synthetic conclusions: the literature is cumulatively strong but organizationally weak; methodological pluralism is better understood as a resource than as a defect; and the growing practical salience of the topic raises the stakes of its unresolved conceptual questions. An agenda for future work is proposed, emphasizing integrative research designs, transparent synthesis practices, and the protection of definitional and infrastructural work on which cumulative progress depends. The article is intended as both a reference map for newcomers and a provocation for specialists in Artificial Intelligence.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22216804"
+    },
+    {
+      "id": "openalex-W7204749904",
+      "doi": "10.1302/0301-620x.108b9.bjj-2025-1481.r1",
+      "title": "A prospective double-blinded randomized controlled trial comparing conventional jig-based versus robotic arm-assisted medial unicompartmental knee arthroplasty",
+      "title_zh": "",
+      "authors": [
+        "Babar Kayani",
+        "Andreas Fontalis",
+        "Jenni Tahmassebi",
+        "Sujith Konan",
+        "Ricci Plastow",
+        "Usman Wazir",
+        "Munuzza Shah",
+        "Sam Oussedik",
+        "Fares S. Haddad"
+      ],
+      "year": 2026,
+      "venue": "The Bone & Joint Journal",
+      "field": "医学",
+      "topics": [
+        "Total Knee Arthroplasty Outcomes",
+        "Shoulder Injury and Treatment",
+        "Orthopaedic implants and arthroplasty"
+      ],
+      "abstract": "Aims This study reports the interim outcomes of a randomized controlled trial comparing the accuracy of component positions, early functional outcomes, patient-reported outcome measures, and complications in conventional jig-based unicompartmental knee arthroplasty with navigational control (CO UKA) with robotic arm-assisted unicompartmental knee arthroplasty (RO UKA) for patients who have medial compartment knee osteoarthritis (OA). Methods In total, 107 patients with symptomatic medial compartment OA were prospectively randomized to undergo CO UKA (n = 52) or RO UKA (n = 55), representing the currently available recruited cohort. Patients in both treatment groups had CT-based surgical planning. All procedures were completed using the medial parapatellar approach, and all patients received a standardized postoperative rehabilitation programme. Predefined study outcomes were recorded at regular intervals for two years after surgery. Results RO UKA was associated with increased accuracy in executing the planned femoral (p < 0.001) and tibial (p < 0.001) component positions compared with CO UKA. RO UKA was associated with reduced inpatient pain scores (p < 0.001), decreased inpatient opioid analgesia consumption (p = 0.008), and shorter length of hospital stay (p = 0.004) compared with CO UKA. There were no differences between the treatment groups in the Oxford Knee Score (p = 0.299), Knee Injury and Osteoarthritis Outcome Score (p = 0.261), and Western Ontario and McMaster Universities Arthritis Index (p = 0.281) at two-year follow-up. RO UKA was associated with improved Forgotten Joint Score (FJS) at six-month (p = 0.002) and two-year (p = 0.021) follow-up. Patient recruitment declined during the trial as an increasing proportion of eligible patients expressed a preference for RO UKA, and operating surgeons experienced reduced clinical equipoise between the treatment groups. Conclusion The interim results of this study show that RO UKA was associated with increased accuracy in achieving the planned femoral and tibial component positions, improved early functional recovery, and decreased length of hospital stay compared with CO UKA. RO UKA was associated with higher FJSs compared with CO UKA at short- to mid-term follow-up. Cite this article: Bone Joint J 2026;108-B(9):1113–1120.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": false,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1302/0301-620x.108b9.bjj-2025-1481.r1"
+    },
+    {
+      "id": "openalex-W7204752249",
+      "doi": "10.5281/zenodo.22216805",
+      "title": "Minds With Bodies, Finally: A Historical Development Review of Embodied AI and the Perception-Action Loop",
+      "title_zh": "",
+      "authors": [
+        "Zen Revista",
+        "10 IA"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "社会科学",
+      "topics": [
+        "Ethics and Social Impacts of AI",
+        "Social Robot Interaction and HRI",
+        "AI in Service Interactions"
+      ],
+      "abstract": "This article presents a narrative review of Embodied AI and the Perception-Action Loop in the context of Artificial Intelligence. The literature on this topic has expanded substantially over recent decades, yet it remains fragmented across subfields, methods, and national research traditions. Drawing on an interpretive synthesis of representative contributions, the review reconstructs the historical development of the area, examines the conceptual foundations and definitional disputes that organize its debates, and maps the contemporary landscape of research, including the methodological shift toward data-intensive approaches and the institutional pressures that shape publication practice. Particular attention is given to the role of embodied AI and robotics as organizing themes, and to the conditions under which findings from different research traditions can be brought into productive comparison. The review identifies three synthetic conclusions: the literature is cumulatively strong but organizationally weak; methodological pluralism is better understood as a resource than as a defect; and the growing practical salience of the topic raises the stakes of its unresolved conceptual questions. An agenda for future work is proposed, emphasizing integrative research designs, transparent synthesis practices, and the protection of definitional and infrastructural work on which cumulative progress depends. The article is intended as both a reference map for newcomers and a provocation for specialists in Artificial Intelligence.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22216805"
+    },
+    {
+      "id": "openalex-W7204765361",
+      "doi": "10.5281/zenodo.22189586",
+      "title": "A Comparison of Traditional Methods and Artificial Intelligence-Based Methods in the Education and Learning of Students with Special Needs",
+      "title_zh": "",
+      "authors": [
+        "Shiva Yarijani"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "社会科学",
+      "topics": [
+        "Technology-Enhanced Education Studies",
+        "E-Learning and COVID-19",
+        "Educational Technology and Pedagogy"
+      ],
+      "abstract": "Educating students with special needs presents numerous challenges to educational systems due to the wide range of variations in their cognitive, sensory, motor, and behavioral abilities. Despite their educational functionality, traditional teaching methods often lack the capacity to effectively address individual needs, provide immediate feedback, or facilitate personalized learning. Consequently, the integration of emerging technologies particularly Artificial Intelligence (AI) has emerged as an innovative solution in special education. The present study aims to examine the role and functions of AI in improving the educational process for students with special needs and to identify the associated opportunities and challenges. This research was conducted using a descriptive-analytical method based on a review of library resources, reputable scientific articles, and domestic and international research documents. The findings indicate that AI-based technologies, including adaptive learning systems, social robots, speech-to-text systems, and augmented and virtual reality, can increase educational engagement, strengthen cognitive and social skills, and reduce the cognitive load for students with special needs. However, issues such as data privacy, algorithmic bias, implementation costs, and the necessity of teacher training remain critical challenges in the adoption of these technologies. The results of this study emphasize the necessity of formulating intelligent educational policies and addressing ethical considerations in the development of AI-based special education.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22189586"
+    },
+    {
+      "id": "openalex-W7204836596",
+      "doi": "10.1007/s11695-026-08921-w",
+      "title": "Robotic Use, Operative Length, and Readmission after Duodenal Switch: A Retrospective Ten-Year MBSAQIP Analysis Using an Interaction Model",
+      "title_zh": "",
+      "authors": [
+        "Samuel Leslie",
+        "Sruthi Shankar",
+        "Jordan Sauve",
+        "Amogh Kalyanam",
+        "Sayeed Ikramuddin",
+        "Eric Wise"
+      ],
+      "year": 2026,
+      "venue": "Obesity Surgery",
+      "field": "医学",
+      "topics": [
+        "Bariatric Surgery and Outcomes",
+        "Minimally Invasive Surgical Techniques",
+        "Gastric Cancer Management and Outcomes"
+      ],
+      "abstract": "Abstract Background Robotic-assisted surgery (RAS) is increasingly used in bariatric practice, yet its impact on outcomes after duodenal switch (DS) remains poorly characterized, and whether operative length (OL) modifies the RAS-outcome association has not been assessed. The present study examines the independent and interactive effects of RAS and OL on 30-day readmission after DS using a national cohort of over 17,000 cases from the MBSAQIP database spanning 2015–2024. Methods We analyzed MBSAQIP data from 2015 to 2024 for patients undergoing laparoscopic DS (CPT 43845), excluding open, endoscopic, hand-assisted, and single-incision, revision, and conversion cases. Multivariable logistic regression assessed predictors of 30-day readmission, with a pre-specified interaction term between RAS and standardized OL to isolate the independent contribution of robotic use. Results Among 17,615 DS cases, 5,496 (31.2%) were robotic-assisted. Thirty-day readmission was higher after RAS than laparoscopic DS (6.2% vs. 5.0%, p < 0.01). In adjusted models, RAS (OR 1.78, 95% CI 1.25–2.55, p < 0.05) and OL (OR 1.27 per standard deviation (SD), 95% CI 1.18–1.38, p < 0.001) were independently associated with increased odds of readmission. The RAS–OL interaction significantly improved model fit (likelihood ratio p = 0.007); each SD decrease in OL increased the relative readmission risk for RAS versus laparoscopic cases (interaction OR 0.79, 95% CI 0.67–0.94, p < 0.05). Temporal subgroup analysis shows this disadvantage was concentrated in 2015–2019. Conclusions RAS for DS is associated with higher 30-day readmission, and OL significantly modifies this relationship. The interaction term suggests that improved operative efficiency will not resolve the RAS readmission disadvantage.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1007/s11695-026-08921-w"
+    },
+    {
+      "id": "openalex-W7204842177",
+      "doi": "10.1038/s41598-026-68218-x",
+      "title": "Repetitive exoskeleton use induces persistent coordination changes in wearers",
+      "title_zh": "",
+      "authors": [
+        "Océane Dubois",
+        "Ross Parry",
+        "Giovanni Brunelli",
+        "Agnès Roby-Brami",
+        "Nathanaël Jarrassé"
+      ],
+      "year": 2026,
+      "venue": "Scientific Reports",
+      "field": "机器人学",
+      "topics": [
+        "Prosthetics and Rehabilitation Robotics",
+        "Stroke Rehabilitation and Recovery",
+        "Muscle activation and electromyography studies"
+      ],
+      "abstract": "Abstract Exoskeletons are redefining occupational ergonomics, offering a promising solution to mitigate musculoskeletal strain in repetitive tasks. However, their long-term effects on motor control remain poorly understood. This study investigates whether repeated short-duration exposure to an upper-limb exoskeleton induces persistent changes in motor performance. Over five consecutive days, 24 participants performed reaching tasks under one of three conditions: (1) low-magnitude gravitational support from a robotic exoskeleton, (2) exposure to a viscous force field in the same exoskeleton, or (3) no exoskeleton exposure. Spontaneous movements performed before daily exposure were analyzed in order to characterize the evolution in upper limb kinematics. While no significant changes in task duration or overall joint range of motion were observed, substantial alterations in patterns of shoulder-elbow coordination were seen to emerge. Participants exposed to gravitational support, outside of the exoskeleton, progressively decreased shoulder involvement while increasing elbow contribution, with temporal synchronization evolving over time. In contrast, those exposed to the viscous field exhibited initial disruptions in shoulder-elbow synchrony, which gradually subsided throughout the five-day protocol. These findings challenge the assumption that exoskeleton effects vanish upon removal, demonstrating instead that repeated exposure to small-magnitude force fields can induce lasting changes in motor coordination. Given the growing adoption of exoskeletons in industrial and healthcare settings, understanding these prolonged motor modifications is critical. If unaccounted for, such changes could inadvertently elevate musculoskeletal risks rather than mitigate them.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1038/s41598-026-68218-x"
+    },
+    {
+      "id": "openalex-W7204847268",
+      "doi": "10.5281/zenodo.22189585",
+      "title": "A Comparison of Traditional Methods and Artificial Intelligence-Based Methods in the Education and Learning of Students with Special Needs",
+      "title_zh": "",
+      "authors": [
+        "Shiva Yarijani"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "社会科学",
+      "topics": [
+        "Technology-Enhanced Education Studies",
+        "E-Learning and COVID-19",
+        "Educational Technology and Pedagogy"
+      ],
+      "abstract": "Educating students with special needs presents numerous challenges to educational systems due to the wide range of variations in their cognitive, sensory, motor, and behavioral abilities. Despite their educational functionality, traditional teaching methods often lack the capacity to effectively address individual needs, provide immediate feedback, or facilitate personalized learning. Consequently, the integration of emerging technologies particularly Artificial Intelligence (AI) has emerged as an innovative solution in special education. The present study aims to examine the role and functions of AI in improving the educational process for students with special needs and to identify the associated opportunities and challenges. This research was conducted using a descriptive-analytical method based on a review of library resources, reputable scientific articles, and domestic and international research documents. The findings indicate that AI-based technologies, including adaptive learning systems, social robots, speech-to-text systems, and augmented and virtual reality, can increase educational engagement, strengthen cognitive and social skills, and reduce the cognitive load for students with special needs. However, issues such as data privacy, algorithmic bias, implementation costs, and the necessity of teacher training remain critical challenges in the adoption of these technologies. The results of this study emphasize the necessity of formulating intelligent educational policies and addressing ethical considerations in the development of AI-based special education.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22189585"
+    },
+    {
+      "id": "openalex-W7162990361",
+      "doi": "10.1038/s41467-026-77212-w",
+      "title": "Multi-modal learning with incomplete data",
+      "title_zh": "",
+      "authors": [
+        "Alberto López",
+        "John Zobolas",
+        "Tanguy Dumontier",
+        "Tero Aittokallio"
+      ],
+      "year": 2026,
+      "venue": "Nature Communications",
+      "field": "计算机科学",
+      "topics": [
+        "Text and Document Classification Technologies",
+        "Speech and dialogue systems",
+        "Machine Learning and Algorithms"
+      ],
+      "abstract": "Multi-modal learning, in which diverse data types are integrated and analyzed together, has become a central area of research in artificial intelligence, driving major advances in a wide range of domains. However, in many practical situations, certain modalities or variables may be missing for part of the samples, leading to a limited performance or failure of conventional methods. This has given a rise to the field of multi-modal learning with incomplete data, an area that has grown rapidly due to its broad real-world applications. Despite this, the community still lacks standardized tools to effectively handle incomplete multi-modal data. To fill this gap, we developed iMML, a unified, user-friendly Python package with versatile methods designed for integrating, processing, and analyzing incomplete multi-modal data. Successful use cases in biomedicine, text analysis, and computer vision for diverse machine learning tasks show the potency of iMML for making the best use of modern datasets in complex real-world applications. The iMML package is available at https://github.com/ocbe-uio/imml with an extensive documentation at https://imml.readthedocs.io/. Incomplete multi-modal datasets pose a major challenge for real-world machine learning applications. Here, authors present iMML, a unified open-source Python package designed to analyze and integrate incomplete multi-modal datasets for diverse machine learning tasks.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1038/s41467-026-77212-w"
+    },
+    {
+      "id": "openalex-W7204746425",
+      "doi": "10.1111/jep.70580",
+      "title": "The Digital Transformation of Rehabilitation Medicine: A Narrative Review of Artificial Intelligence Innovations, Clinical Integration, and Future Paradigms",
+      "title_zh": "",
+      "authors": [
+        "Hao Wu",
+        "Yali Yang",
+        "Li Wang",
+        "Hao Su",
+        "Xiaobing Li"
+      ],
+      "year": 2026,
+      "venue": "Journal of Evaluation in Clinical Practice",
+      "field": "医学",
+      "topics": [
+        "Stroke Rehabilitation and Recovery",
+        "Traumatic Brain Injury Research",
+        "Cerebral Palsy and Movement Disorders"
+      ],
+      "abstract": "ABSTRACT Background Traditional rehabilitation medicine, primarily dependent on qualitative clinical assessment and static therapeutic protocols, faces significant challenges in scalability, objectivity, and dynamic adaptability. The integration of Artificial Intelligence (AI) is catalyzing a paradigm shift from “experience‐driven” to “data‐driven” precision rehabilitation. Objective This narrative review delineates the current landscape of AI innovations in rehabilitation, evaluates their clinical integration across the patient lifecycle, and identifies the socio‐technical barriers to widespread adoption. Methods We narratively synthesized recent advancements in four foundational technological pillars: Computer Vision (CV) for markerless motion capture, Reinforcement Learning (RL) for intention‐aware robotics, Digital Twins (DT) for prognostic simulation, and Explainable AI (XAI) for clinical decision support. Results Our analysis reveals that AI‐driven models enhance rehabilitative efficiency by providing highly objective functional assessments, demonstrating high accuracy in specific controlled validation datasets. Clinical evidence suggests that AI‐integrated interventions can potentially reduce certain motor recovery cycles by up to 20%–30% through real‐time assist‐as‐needed (AAN) paradigms. Furthermore, the deployment of AI‐mediated remote monitoring and virtual assistants has demonstrated up to a 25% relative improvement in patient adherence post‐discharge based on selected pilot studies, effectively bridging the “rehabilitation gap” between hospital and home. Conclusion While AI offers transformative potential for personalized and accessible care, its maturation depends on overcoming challenges related to data heterogeneity, algorithmic “black‐box” distrust, and systemic interoperability. We propose a multidisciplinary roadmap to establish unified regulatory frameworks and standardized APIs. Ultimately, the transition to AI‐augmented rehabilitation is highly promising for achieving equitable and evidence‐based functional recovery in the era of digital medicine.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": false,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1111/jep.70580"
+    },
+    {
+      "id": "openalex-W7204747049",
+      "doi": "10.5281/zenodo.22201300",
+      "title": "基于动态拓扑的图像生成与重建",
+      "title_zh": "",
+      "authors": [
+        "Jincheng Zhang"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "计算机科学",
+      "topics": [
+        "Topological and Geometric Data Analysis",
+        "Digital Image Processing Techniques",
+        "Medical Image Segmentation Techniques"
+      ],
+      "abstract": "This paper introduces a novel image generation and reconstruction algorithm based on dynamic topology. The algorithm leverages the power of dynamic topology to generate images with complex topological structures, offering a significant advancement over traditional image generation techniques. We detail the core mechanism of the algorithm, which involves dynamically adjusting the image based on topological transformations, enabling the creation of intricate and realistic visuals. The research explores the potential of this approach to produce high-quality images and highlights its novelty through the avoidance of static image generation methods. This work contributes to the field of computer vision by proposing a fundamentally new method for image synthesis and reconstruction.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22201300"
+    },
+    {
+      "id": "openalex-W7204747532",
+      "doi": "10.20944/preprints202608.2267.v1",
+      "title": "WiFi-Based 3D Reconstruction: A Survey with Insights from Vision-Based Methods",
+      "title_zh": "",
+      "authors": [
+        "Abderraouf Amrani",
+        "Mohammed Bennamoun",
+        "Hamid Laga",
+        "Farid Boussaid",
+        "Abdesselam Bouzerdoum"
+      ],
+      "year": 2026,
+      "venue": "Preprints.org",
+      "field": "工程学",
+      "topics": [
+        "Indoor and Outdoor Localization Technologies",
+        "Wireless Networks and Protocols",
+        "Millimeter-Wave Propagation and Modeling"
+      ],
+      "abstract": "WiFi-based 3D reconstruction aims to recover articulated human pose, dense surface correspondence, parametric meshes, depth fields, point clouds, and spatial positions or trajectories from WiFi-derived measurements, including active Channel State Information (CSI) and passive WiFi radar observations. Recent methods increasingly draw on computer vision, yet it remains unclear which principles transfer effectively and which require WiFi-specific reformulation. Existing surveys address broader wireless sensing, CSI processing, deep learning, pose recognition, reproducibility, or generalisability, but do not jointly examine multiple 3D output representations and the strength of evidence behind vision-to-WiFi transfer. This survey reviews 34 methods through two independent dimensions: reconstruction target and output representation. The taxonomy covers full-body and multi-person reconstruction, hands and local body parts, moving objects, and indoor environments, represented as 3D skeletons, dense surface correspondence, parametric meshes, depth fields, point clouds, and spatial positions or trajectories. We explicitly distinguish commodity CSI, multi-link deployments, customised antenna geometries, and passive WiFi radar systems. We also audit dataset reuse, label provenance, evaluation practices, and diagnostic controls for testing signal dependence. Four evidence-qualified lessons concern structured output priors, observation consistency and identifiability, representation--architecture alignment, and acquisition- and domain-aware modelling. Together, these findings clarify current limitations and priorities for reproducible progress.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.20944/preprints202608.2267.v1"
+    },
+    {
+      "id": "openalex-W7204749585",
+      "doi": "10.5281/zenodo.22214723",
+      "title": "Kernels That Learned to See: A Historical Development Review of Convolutional Networks and the Mechanics of Vision",
+      "title_zh": "",
+      "authors": [
+        "Zen Revista",
+        "10 IA"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "社会科学",
+      "topics": [
+        "Ethics and Social Impacts of AI",
+        "Embodied and Extended Cognition",
+        "Artificial Intelligence Applications"
+      ],
+      "abstract": "This article presents a narrative review of Convolutional Networks and the Mechanics of Vision in the context of Artificial Intelligence. The literature on this topic has expanded substantially over recent decades, yet it remains fragmented across subfields, methods, and national research traditions. Drawing on an interpretive synthesis of representative contributions, the review reconstructs the historical development of the area, examines the conceptual foundations and definitional disputes that organize its debates, and maps the contemporary landscape of research, including the methodological shift toward data-intensive approaches and the institutional pressures that shape publication practice. Particular attention is given to the role of computer vision and CNN as organizing themes, and to the conditions under which findings from different research traditions can be brought into productive comparison. The review identifies three synthetic conclusions: the literature is cumulatively strong but organizationally weak; methodological pluralism is better understood as a resource than as a defect; and the growing practical salience of the topic raises the stakes of its unresolved conceptual questions. An agenda for future work is proposed, emphasizing integrative research designs, transparent synthesis practices, and the protection of definitional and infrastructural work on which cumulative progress depends. The article is intended as both a reference map for newcomers and a provocation for specialists in Artificial Intelligence.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22214723"
+    },
+    {
+      "id": "openalex-W7204750434",
+      "doi": "10.9734/jerr/2026/v28i81988",
+      "title": "Research Progress in YOLO-Based Road Crack Detection: A Critical Narrative Review of Architectures, Data, Evaluation and Deployment",
+      "title_zh": "",
+      "authors": [
+        "Kaiyuan Shen",
+        "Fanpeng Meng",
+        "Song Hu",
+        "Lindong Li",
+        "Lingchao Chen"
+      ],
+      "year": 2026,
+      "venue": "Journal of Engineering Research and Reports",
+      "field": "工程学",
+      "topics": [
+        "Infrastructure Maintenance and Monitoring",
+        "Advanced Neural Network Applications",
+        "Asphalt Pavement Performance Evaluation"
+      ],
+      "abstract": "Road crack detection is a central computer-vision task in pavement inspection because cracks are visually sparse, geometrically elongated, highly variable in width and topology, and easily confused with shadows, joints, stains and road markings. The You Only Look Once (YOLO) family has become prominent in this domain because it offers an attractive accuracy-speed trade-off for vehicle-mounted, mobile and edge inspection. This critical narrative review evaluates research progress in YOLO-based road and pavement crack detection from 2016 to 26 June 2026, with emphasis on how architectural modifications, task formulation, dataset design and deployment constraints affect the strength of reported evidence. Literature was selected from accessible scholarly indexes and transport/engineering sources, supplemented by citation searching and DOI-level bibliographic verification. The evidence indicates a clear progression from straightforward transfer of generic YOLO detectors towards crack-aware designs that combine multi-scale feature fusion, attention or transformer components, lightweight convolution, revised detection heads, specialised localisation losses and detector-segmenter pipelines. Recent work increasingly addresses edge deployment, illumination variation and background interference. Nevertheless, apparent benchmark gains are difficult to compare because studies differ in datasets, crack taxonomies, train-test partitioning, image resolution, augmentation, hardware and metric definitions. Bounding-box detection also remains an imperfect representation for thin crack morphology, whereas pixel-level segmentation and geometric measurement provide richer maintenance information at higher annotation and computational cost. Cross-region generalisation, uncertainty estimation, reproducible latency measurement, calibration against maintenance-relevant severity and evaluation under adverse weather remain underdeveloped. The strongest direction is therefore not continued accumulation of isolated architectural modules, but standardised, cross-domain evaluation of integrated detection, segmentation and quantification systems under realistic operational constraints. YOLO-based crack detection is technically mature enough for increasingly credible field deployment, yet evidence for robust transfer across roads, sensors and environments remains less mature than within-dataset accuracy results suggest.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.9734/jerr/2026/v28i81988"
+    },
+    {
+      "id": "openalex-W7204757545",
+      "doi": "10.5281/zenodo.22214118",
+      "title": "基于动态拓扑的图像生成与重建",
+      "title_zh": "",
+      "authors": [
+        "Jincheng Zhang"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "计算机科学",
+      "topics": [
+        "Topological and Geometric Data Analysis",
+        "Digital Image Processing Techniques",
+        "Medical Image Segmentation Techniques"
+      ],
+      "abstract": "This paper introduces a novel image generation and reconstruction algorithm based on dynamic topology. The algorithm leverages the power of dynamic topology to generate images with complex topological structures, offering a significant advancement over traditional image generation techniques. We detail the core mechanism of the algorithm, which involves dynamically adjusting the image based on topological transformations, enabling the creation of intricate and realistic visuals. The research explores the potential of this approach to produce high-quality images and highlights its novelty through the avoidance of static image generation methods. This work contributes to the field of computer vision by proposing a fundamentally new method for image synthesis and reconstruction.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22214118"
+    },
+    {
+      "id": "openalex-W7204758368",
+      "doi": "10.5281/zenodo.22216926",
+      "title": "Revisión del estado actual de la Inteligencia Artificial en Bolivia",
+      "title_zh": "",
+      "authors": [
+        "JOSE DAMICO"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "社会科学",
+      "topics": [
+        "Knowledge Societies in the 21st Century",
+        "Smart Cities and Technologies",
+        "Scientific Research and Technology"
+      ],
+      "abstract": "This study presents a review of the current state of artificial intelligence in Bolivia between 2024 and 2026, covering adoption, research and development, computing infrastructure, human resource development, governmental and business applications, governance, and regional positioning. The review draws on government sources, multilateral organizations, regional indicators, scientific publications, technical repositories, university initiatives, and records of digital infrastructure. The evidence is analyzed according to different levels of technological capability, distinguishing between the consumption of AI tools, the integration of existing models, machine learning applications, fine-tuning, and the development of foundation models. The results indicate an ecosystem that is still classified as exploratory within the Latin American context, characterized by growing adoption of generative AI and institutional applications, but limited capacity in research, specialized training, data governance, and accelerated computing infrastructure. Local initiatives were identified in computer vision, natural language processing, applied machine learning, remote sensing, and economic analysis, alongside professional data centers and an emerging regulatory agenda. However, no public evidence was found of the training of Bolivian foundation models or of GPU clusters operating at a scale comparable to the leading AI hubs in Latin America. The review indicates that Bolivia is transitioning from a stage of fragmented adoption toward the early construction of an institutional AI ecosystem, while remaining strongly dependent on technologies, models, and infrastructure developed abroad.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22216926"
+    },
+    {
+      "id": "openalex-W7204764130",
+      "doi": "10.1007/s12665-026-13075-0",
+      "title": "Artificial intelligence for microplastic pollution monitoring, predictive modeling, and risk assessment: advances, challenges, and future perspectives",
+      "title_zh": "",
+      "authors": [
+        "Obinna Chigoziem Akakuru",
+        "Patrick Ray",
+        "Uzochi Bright Onyeanwuna",
+        "Moses O. Eyankware",
+        "Godwin O. Aigbadon",
+        "Adedibu Sunny Akingboye",
+        "Kenneth O. Iheme",
+        "Ayatu Usman",
+        "Chinyere C. Amadi",
+        "Ifeyinwa J. Ofoh",
+        "Samuel O. Onyekuru",
+        "Alexander I. Opara"
+      ],
+      "year": 2026,
+      "venue": "Environmental Earth Sciences",
+      "field": "环境科学",
+      "topics": [
+        "Microplastics and Plastic Pollution",
+        "Effects and risks of endocrine disrupting chemicals",
+        "Recycling and Waste Management Techniques"
+      ],
+      "abstract": "Abstract Microplastic (MP) pollution constitutes a pervasive and complex environmental crisis, with particles infiltrating ecosystems globally and posing multifaceted risks to ecological integrity and human health. The inherent heterogeneity of MPs (in size, shape, polymer type, and degree of weathering) coupled with their presence in complex matrices, presents formidable analytical challenges that constrain traditional detection, quantification, and source-tracking methods. This review synthesizes the transformative potential of Artificial Intelligence (AI) and machine learning (ML) in overcoming these bottlenecks and advancing every facet of MP research. This review details how AI-driven computer vision automates the morphological analysis of MPs, while ML algorithms enhance the speed and accuracy of spectroscopic polymer identification. Beyond analytics, AI facilitates predictive modeling of MP fate and transport, enables intelligent source apportionment, and optimizes emerging remediation technologies. Using the United States as a critical case study, we examine the interplay between a fragmented regulatory landscape and AI innovation. However, significant challenges persist, including data scarcity, algorithmic limitations, and the gap between laboratory validation and field deployment. The reviewed findings argue that the integration of AI represents a necessary paradigm shift, moving from descriptive observation to predictive and prescriptive science. For this potential to be fully realized, concerted efforts in standardized data generation, interdisciplinary collaboration, and the development of transparent, robust AI frameworks are urgently required to inform effective mitigation policies and remediation strategies on a global scale.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007/s12665-026-13075-0.pdf",
+      "url": "https://doi.org/10.1007/s12665-026-13075-0"
+    },
+    {
+      "id": "openalex-W7204764327",
+      "doi": "10.3390/asi9090183",
+      "title": "An Autonomous Guided Vehicle System for Smart Campus with Optimal Path Planning and Voice Interaction Using YOLO Network and LiDAR",
+      "title_zh": "",
+      "authors": [
+        "Ching‐Ta Lu",
+        "Yi‐Ping Li",
+        "Tsai-Ching Huang",
+        "Qiu-Yu Chen",
+        "Zong-Wei Huang",
+        "S. Z. Huang",
+        "Tian-Sin Yang",
+        "Yen‐Yu Lu",
+        "Yuan‐Yu Tsai"
+      ],
+      "year": 2026,
+      "venue": "Applied System Innovation",
+      "field": "机器人学",
+      "topics": [
+        "Robotics and Sensor-Based Localization",
+        "Advanced Neural Network Applications",
+        "Multimodal Machine Learning Applications"
+      ],
+      "abstract": "Navigating large, unfamiliar campuses can be challenging for visitors, even with campus maps available. To address this issue, this study proposes an intelligent, autonomous campus navigation system to help users reach their destinations efficiently. The proposed system integrates computer vision, LiDAR, speech recognition, global positioning, and path-planning technologies to provide accurate, user-friendly guidance in complex environments. A YOLO-based neural network performs real-time building recognition, while a speech recognition module interprets users’ spoken destination requests and commands. GPS data are mapped to campus map coordinates to improve localization accuracy, and Dijkstra’s algorithm computes optimal navigation paths. All components are integrated into a graphical user interface that provides real-time visual feedback, including recognized building names and current location. Experimental results demonstrate that the proposed system achieves reliable building recognition, accurate speech understanding, and effective route planning, significantly reducing navigation time for users unfamiliar with the campus. The proposed framework not only enhances smart campus navigation but also shows strong potential for extension to other large-scale environments such as hospitals and shopping malls.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.3390/asi9090183"
+    },
+    {
+      "id": "openalex-W7204765985",
+      "doi": "10.70988/ajeas.1932654",
+      "title": "CrossMeta-ViT: Concomitant Cross-Attention Guided Multimodal Fusion for Skin Lesion Classification",
+      "title_zh": "",
+      "authors": [
+        "Muhammetalp Erdem"
+      ],
+      "year": 2026,
+      "venue": "Alfa Mühendislik ve Uygulamalı Bilimler Dergisi",
+      "field": "医学",
+      "topics": [
+        "Cutaneous Melanoma Detection and Management",
+        "Nonmelanoma Skin Cancer Studies",
+        "AI in cancer detection"
+      ],
+      "abstract": "Skin cancer is one of the most prevalent and deadly malignancies, necessitating early and precise diagnosis to improve patient survival rates. While recent advancements in deep learning have produced robust computer-aided diagnosis (CAD) systems, the majority of these models rely exclusively on visual features extracted from dermoscopic or clinical images. Conversely, dermatologists synthesize visual cues with patient clinical metadata (e.g., age, gender, continuous bleeding, and itchiness) to reach an accurate diagnosis. Prior research attempting multimodal fusion has largely depended on black-box concatenation-based late-fusion strategies or simple neural compression modules, obscuring clinical reasoning. To bridge this gap toward Explainable Artificial Intelligence (XAI), we propose CrossMeta-ViT, a deep vision-transformer metadata-fusion framework designed for transparent skin lesion classification. The core contribution of this architecture is a Cross-Attention Fusion module. Instead of sequentially concatenating features, CrossMeta-ViT utilizes encoded patient tabular metadata as a Query (Q) to dynamically attend to visual image patches acting as Keys (K) and Values (V). This mechanism ensures that structural image features are selected and weighted under the direct guidance of the patient's clinical history. We evaluated the framework on the smartphone-captured PAD-UFES-20 dataset for binary classification (Benign vs. Malignant). Using 5-fold cross-validation, CrossMeta-ViT achieved a macro F1-score of 0.8723 ± 0.0009, malignant recall of 0.9927, specificity of 0.7651, and an AUC of 0.955, while the held-out single-split evaluation yielded an accuracy of 0.90. These results support the model as a recall-oriented and interpretable multimodal aid for telemedicine pre-triage rather than as a universally dominant classifier.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.70988/ajeas.1932654"
+    },
+    {
+      "id": "openalex-W7204768935",
+      "doi": "10.5281/zenodo.22203110",
+      "title": "Adaptive Topological Auto-generation",
+      "title_zh": "",
+      "authors": [
+        "Jincheng Zhang"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "计算机科学",
+      "topics": [
+        "Topological and Geometric Data Analysis",
+        "3D Shape Modeling and Analysis",
+        "Constraint Satisfaction and Optimization"
+      ],
+      "abstract": "This paper explores the application of Adaptive Topological Auto-generation (ATAG) to the modeling of complex geometric structures. The core objective is to generate novel topological structures with enhanced complexity and specific properties, opening up new avenues for both graph theory and computer vision. We propose a neural network-based model that learns the underlying topology from data and autonomously generates new topological structures. The paper details the model's architecture, training methodology, and initial validation results, demonstrating its potential for creating intricate and customized geometric representations. The focus is on the inherent flexibility and automated nature of ATAG compared to traditional methods.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22203110"
+    },
+    {
+      "id": "openalex-W7204770854",
+      "doi": "10.17605/osf.io/vg6sk",
+      "title": "Applications of Artificial Intelligence in the Identification, Prediction, and Mitigation of Biofilms: A Scoping Review",
+      "title_zh": "",
+      "authors": [
+        "Júlia Teixeira Nicolosi",
+        "Liliana Scorzoni",
+        "Priscila Luiza Mello",
+        "Viviane Fernandes de Carvalho"
+      ],
+      "year": 2026,
+      "venue": "Open Science Framework",
+      "field": "跨学科",
+      "topics": [],
+      "abstract": "Background: Chronic wounds, including venous leg ulcers, pressure injuries, and diabetic foot ulcers, frequently fail to progress through the normal stages of healing due to the establishment of highly resilient, polymicrobial bacterial biofilms. These biofilms are protected by a dense extracellular polymeric substance (EPS) matrix, which renders them up to 1,000 to 10,000 times more tolerant to standard antimicrobials than free-floating bacteria. Traditional clinical diagnostics often fail to detect biofilms early or accurately at the bedside. Consequently, there is an urgent clinical need for innovative, non-invasive digital tools to enhance diagnostic accuracy. Objective: To map, characterize, and synthesize the available scientific evidence regarding the applications of Artificial Intelligence (AI)—including machine learning, deep learning, computer vision, and predictive digital models—for the detection or prediction of bacterial biofilms in patients with chronic wounds across various clinical practice settings. Methodology: This scoping review will be conducted in accordance with the PRISMA-ScR (Preferred Reporting Items for Systematic Reviews and Meta-Analyses extension for Scoping Reviews) guidelines and the Joanna Briggs Institute (JBI) methodology [6]. The PCC (Population, Concept, Context) framework is defined as: • Population (P): Individuals with chronic wounds of any etiology (e.g., venous ulcers, pressure injuries, diabetic foot ulcers) . • Concept (C): AI-driven applications for biofilm detection or prediction, including machine learning, deep learning, computer vision, and digital predictive models . • Context (C): Clinical practice settings, including hospital, outpatient, primary care, and specialized wound care services. A systematic search will be executed across major bibliographical databases [6]. Two independent reviewers will perform study selection (screening and full-text reading) and data extraction using a standardized charting form. The extracted data will capture study characteristics, wound etiologies, AI architectures, input data types (such as clinical wound images or metagenomic sequencing data), and clinical outcomes. Synthesis and Significance: The gathered evidence will be synthesized using the PAGER framework, analyzing five key dimensions: Patterns, Avances, Gaps, Evidence for practice, and Research recommendations. By bridging advanced computer science and bedside clinical practice, this scoping review will provide a critical roadmap to guide personalized therapeutic interventions, improve clinical decision-making, and accelerate wound healing rates.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.17605/osf.io/vg6sk"
+    },
+    {
+      "id": "openalex-W7204770977",
+      "doi": "10.20944/preprints202608.2288.v1",
+      "title": "Object Detection in Computer Vision: A Comprehensive Review of Algorithms, Datasets, and Evaluation Techniques",
+      "title_zh": "",
+      "authors": [
+        "Md. Faishal Rahaman",
+        "Li Xueyuan",
+        "Md Nagib Mahfuz Sunny",
+        "Muhammad Amjad",
+        "Xin Gao",
+        "Sakib Hasan"
+      ],
+      "year": 2026,
+      "venue": "Preprints.org",
+      "field": "计算机科学",
+      "topics": [
+        "Advanced Neural Network Applications",
+        "COVID-19 diagnosis using AI",
+        "Artificial Intelligence Applications"
+      ],
+      "abstract": "Object detection has evolved dramatically over three decades, transitioning from handcrafted features to deep learning, transformers, and now large language models. This paper provides a comprehensive systematic review of this evolution, covering traditional methods (SIFT, HOG, Viola-Jones), CNN-based single- and two-stage detectors (R-CNN family, YOLO v1–v12, SSD), transformer-based architectures (DETR, ViT, Swin), and emerging LLM-driven approaches (GPT-4V, Grounding DINO, YOLO-World). We benchmark and compare these methods using key metrics—mAP, IoU, FPS—and analyze over 50 datasets across generic, autonomous driving, medical, remote sensing, and agricultural domains. Our critical synthesis identifies persistent research gaps: lightweight edge deployment, sensor fusion for real-time systems, bias and fairness in AI, and multimodal vision-language integration. By consolidating three decades of progress and outlining future challenges, this survey serves as a valuable resource for researchers and practitioners developing accurate, efficient, and reliable object detection systems.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.20944/preprints202608.2288.v1"
+    },
+    {
+      "id": "openalex-W7204773281",
+      "doi": "10.14719/pst.16332",
+      "title": "Artificial intelligence for crop disease detection and management: A bibliometric analysis of global research trends",
+      "title_zh": "",
+      "authors": [
+        "D Sapthagiri",
+        "A. Rohini",
+        "D. Murugananthi",
+        "M. Shanthasheela",
+        "M Vijayabhama"
+      ],
+      "year": 2026,
+      "venue": "Plant Science Today",
+      "field": "Agricultural and Biological Sciences",
+      "topics": [
+        "Smart Agriculture and AI",
+        "Advanced Data and IoT Technologies",
+        "Plant Disease Management Techniques"
+      ],
+      "abstract": "Artificial intelligence (AI) has emerged as a transformative technology for crop disease detection and management by enabling rapid, accurate and automated disease diagnosis to support sustainable agricultural production. This study presents a bibliometric analysis of global research trends in AI-based crop disease detection and management from 2016 to 2026. Bibliographic data were retrieved from the Scopus database using a structured search strategy. A total of 3729 records were initially identified and 605 publications were retained after applying predefined inclusion and exclusion criteria. Bibliometric indicators and VOSviewer software were employed to analyse annual publication trends, leading contributors, collaboration networks, keyword co-occurrence patterns, bibliographic coupling relationships and co-citation structures. The results reveal a substantial increase in research output, particularly after 2021, indicating growing scientific interest in AI-enabled crop protection technologies. Keyword analysis identified deep learning, machine learning, computer vision, transfer learning and plant disease detection as the dominant research themes. In contrast, co-authorship and co-citation analyses revealed strong international collaboration and a well-established intellectual foundation.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.14719/pst.16332"
+    },
+    {
+      "id": "openalex-W7204773613",
+      "doi": "10.1177/18758967261481557",
+      "title": "Deep white balance and dark channel prior fusion: Toward efficient and natural low-light image restoration",
+      "title_zh": "",
+      "authors": [
+        "Shahad J. Shahbaz",
+        "Hazim G. Daway",
+        "Ahlam M. Kadhim"
+      ],
+      "year": 2026,
+      "venue": "Journal of Intelligent & Fuzzy Systems",
+      "field": "计算机科学",
+      "topics": [
+        "Image Enhancement Techniques",
+        "Advanced Image Processing Techniques",
+        "Advanced Image Fusion Techniques"
+      ],
+      "abstract": "Image enhancement in low-light conditions is a challenging problem within the field of computer vision, since underexposed images generally lead to poor visibility, low contrast, noise amplification, and color distortion. Recent deep learning approaches have indeed shown promising performance, yet most of them adopt computation-heavy architectures and do not treat the luminance enhancement and color restoration separately; as a result cause unnatural restorations. To this end, in this paper, we present an efficient low-light image enhancement framework based on the Deep White-Balance (DWB) with Dark Channel Prior guidance in the YCbCr color space. The proposed framework separates luminance and chrominance components, making it easier to manage brightness enhancement and color restoration separately. This method aims to generate visually consistent enhanced images while preserving color fidelity and avoiding common enhancement artifacts. We evaluate the performance of the proposed method on reference benchmark datasets (LOL, LOLv2-Synthetic, and LIME) as well as a no-reference benchmark dataset (DICM). The experimental results demonstrate that, although state-of-the-art deep learning methods achieve higher numerical scores, qualitatively, the framework produces enhanced images with consistent contrast and illumination, while retaining color fidelity, all requiring less computational resources. Moreover, it does not require any further training or fine-tuning since the proposed approach is based on a pretrained Deep White Balance model and only uses inference. Experimental results show that the proposed method provides a convincing quality-efficiency compromise for low-light image enhancement.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": false,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1177/18758967261481557"
+    },
+    {
+      "id": "openalex-W7204775256",
+      "doi": "10.5281/zenodo.22190680",
+      "title": "Self-Supervised Learning for 3D Shape Reconstruction",
+      "title_zh": "",
+      "authors": [
+        "Jincheng Zhang"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "工程学",
+      "topics": [
+        "3D Shape Modeling and Analysis",
+        "Medical Image Segmentation Techniques",
+        "Advanced Vision and Imaging"
+      ],
+      "abstract": "3D shape reconstruction remains a challenging problem in computer vision and graphics, frequently hindered by the requirement for extensive, accurately labeled 3D data. This paper proposes a novel self-supervised learning framework designed to address this data scarcity issue. The core idea revolves around training a model to reconstruct 3D shapes from incomplete or noisy views, capitalizing on the underlying geometric structure inherent in 3D shapes. The framework utilizes a contrastive loss function to learn representations that are invariant to view variations and noise. We demonstrate the effectiveness of this approach through theoretical analysis and a detailed description of the algorithm. The primary contribution lies in minimizing the need for manual labeling, significantly enhancing the practicality and scalability of 3D shape reconstruction. The resulting model demonstrates improved reconstruction accuracy compared to supervised approaches when limited labeled data is available. This work opens new avenues for applying 3D shape reconstruction to diverse domains, including robotics, medical imaging, and cultural heritage.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22190680"
+    },
+    {
+      "id": "openalex-W7204776837",
+      "doi": "10.5281/zenodo.22195893",
+      "title": "DESIGN AND IMPLEMENTATION OF A REAL-TIME SMART ATTENDANCE CONTROL SYSTEM BASED ON ARTIFICIAL INTELLIGENCE, IN EDUCATIONAL ENVIRONMENTS",
+      "title_zh": "",
+      "authors": [
+        "Zukhridinov Dilkashbek"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "跨学科",
+      "topics": [],
+      "abstract": "Conventional attendance management approaches used in educational institutions are often time-consuming and vulnerable to recording errors, leading to incomplete or unreliable attendance data. To address these limitations, this study introduces an intelligent Smart Attendance System (SAS) that leverages Artificial Intelligence (AI) and Computer Vision techniques for automated attendance tracking and classroom surveillance.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22195893"
+    },
+    {
+      "id": "openalex-W7204777049",
+      "doi": "10.5281/zenodo.22212183",
+      "title": "Urban Waste Detection Dashboard — Goiânia",
+      "title_zh": "",
+      "authors": [
+        "Hugo José Ribeiro"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "跨学科",
+      "topics": [],
+      "abstract": "Initial public release of the GeoAI decision-support dashboard for visualization and spatial analysis of YOLO-based urban-waste detections in Goiânia, Brazil. This version includes: interactive mapping of georeferenced detections; marker clustering and heatmap visualization; automatic latitude/longitude sanity checking; neighborhood and confidence filters; municipal summary indicators; neighborhood rankings and detection-confidence analysis; multiple basemap options; performance optimization through caching and point sampling. The public repository contains the visualization and spatial-analysis layer of the workflow. Training datasets, model weights and other computer-vision assets are maintained separately. License: MIT Version: 1.0.0",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22212183"
+    },
+    {
+      "id": "openalex-W7204777079",
+      "doi": "10.5281/zenodo.22190440",
+      "title": "Artificial Intelligence in Commerce: Transforming Business Operations, Decision-Making, and Competitive Advantage",
+      "title_zh": "",
+      "authors": [
+        "Dr. Saddam Hussain"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "计算机科学",
+      "topics": [
+        "Internet of Things and AI",
+        "Organizational and Employee Performance",
+        "Impact of AI and Big Data on Business and Society"
+      ],
+      "abstract": "Artificial Intelligence (AI) has emerged as one of the most transformative technologies influencing modern commerce. The rapid development of machine learning, natural language processing, predictive analytics, computer vision, generative AI, and intelligent automation is fundamentally changing how businesses operate, make decisions, interact with customers, and compete in domestic and international markets. In commerce, AI enables organizations to process large volumes of structured and unstructured data, identify patterns, predict market trends, automate routine activities, personalize customer experiences, optimize supply chains, detect fraud, and support strategic decision-making.This article examines the role of Artificial Intelligence in transforming commercial activities, with particular emphasis on business operations, managerial decision-making, customer relationship management, marketing, finance, supply chain management, human resource management, and competitive advantage. The study adopts a conceptual and descriptive research approach based on secondary sources, including academic literature, industry reports, books, and institutional publications. The article argues that AI can generate significant improvements in operational efficiency, cost optimization, innovation, responsiveness, and customer value. However, the adoption of AI also creates challenges involving data privacy, cybersecurity, algorithmic bias, workforce displacement, transparency, ethical responsibility, regulatory compliance, and implementation costs. The article proposes a responsible and strategically integrated approach to AI adoption in commerce, emphasizing human oversight, data governance, employee development, ethical standards, and continuous technological evaluation. The study concludes that AI should not merely be viewed as an automation technology but as a strategic capability that can reshape business models and create sustainable competitive advantage when effectively integrated with organizational resources and human expertise.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22190440"
+    },
+    {
+      "id": "openalex-W7204778028",
+      "doi": "10.21227/m35a-0w88",
+      "title": "\"SCIMD-25: Source Camera Identification \\u2014 Mobile Devices 25\"",
+      "title_zh": "",
+      "authors": [
+        "Bhuma Chandra Mohan",
+        "Naga Raju Challa",
+        "Sri Susmitha vummadisetty",
+        "Venkata Rajesh Sivaratri",
+        "Sri Lakshmi thumma"
+      ],
+      "year": 2026,
+      "venue": "IEEE DataPort",
+      "field": "跨学科",
+      "topics": [],
+      "abstract": "\"SCIMD-25 (Source Camera Identification \\u2014 Mobile Devices 25) is a large-scale real-world image dataset comprising approximately 25,000 images captured using 25 different mobile cameras. The dataset extends the previously developed SCIMD-17 by incorporating eight additional mobile camera devices, thereby increasing the diversity of camera hardware, imaging characteristics, acquisition conditions, and associated metadata. The increased device diversity makes the dataset suitable for investigating source-camera identification, camera model recognition, image forensics, device attribution, domain generalization, robustness evaluation, and metadata-aware machine learning. SCIMD-25 can also support research in multimedia security, computational photography, privacy-aware image analysis, and trustworthy computer vision. The dataset is intended to serve as a reproducible benchmark for researchers developing algorithms that analyze the relationship between image content, acquisition devices, and camera-specific imaging characteristics.\\ud83d\\udcf1 Smartphone Models Used in SCIMD-25The images in SCIMD-25 were manually captured by volunteers using the following 25 different smartphone models:\\ud83d\\udcf1 Xiaomi_M2101K6P\\ud83d\\udcf1 Infinix_Note40_Pro\\ud83d\\udcf1 IQZ9X_5G\\ud83d\\udcf1 MotoG45_5G\\ud83d\\udcf1 MotoG64_5G\\ud83d\\udcf1 MotoG85_5G\\ud83d\\udcf1 Nothing_A001\\ud83d\\udcf1 Nothing_Phone1\\ud83d\\udcf1 Oneplus_Nord_C3lite\\ud83d\\udcf1 Realme_6i\\ud83d\\udcf1 Realme8_Pro\\ud83d\\udcf1 redmi_9_prime\\ud83d\\udcf1 Redmi14C_5G\\ud83d\\udcf1 SamsungM13_5G\\ud83d\\udcf1 Vivo_V50_5G\\ud83d\\udcf1 VivoT1_5G\\ud83d\\udcf1 VivoY56_5G\\ud83d\\udcf1 Moto_g54_5G\\ud83d\\udcf1 Oppo_A17\\ud83d\\udcf1 Poco_M6_5g\\ud83d\\udcf1 Realme_11pro+\\ud83d\\udcf1 Realme_Narzo_N53\\ud83d\\udcf1 Redmi_9_power\\ud83d\\udcf1 Vivo_Y02T\\ud83d\\udcf1 Vivo_Y21G\\ud83d\\uddbc\\ufe0f Image Pre-processing: All captured images were subsequently pre-processed and resized to a uniform resolution of 224 \\u00d7 224 pixels, ensuring compatibility with commonly used deep learning and vision-language model (VLM) architectures. Key use cases and applications\\ud83d\\udcf1 Source Camera Identification \\u2014 identifying the mobile device that captured an image.\\ud83d\\udd0d Image Forensics \\u2014 studying camera traces, authenticity, manipulation, and provenance.\\ud83d\\udee1\\ufe0f Multimedia Security & Privacy \\u2014 investigating device-related information embedded in digital images.\\ud83c\\udf10 Domain Generalization \\u2014 evaluating how computer-vision models perform across different camera devices.\\ud83e\\udd16 Machine Learning & Deep Learning \\u2014 training and benchmarking camera\\/device recognition models.\\ud83d\\udcca Robustness Evaluation \\u2014 studying performance under variations in devices, scenes, illumination, and imaging conditions.\\ud83d\\udcf7 Computational Photography \\u2014 analyzing device-dependent imaging characteristics.\\ud83c\\udf93 Academic Research & Benchmarking \\u2014 providing a common real-world dataset for reproducible experimentation. \"",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.21227/m35a-0w88"
+    },
+    {
+      "id": "openalex-W7204778424",
+      "doi": "10.5281/zenodo.22183658",
+      "title": "Title: Non-Euclidean Regularity in Digital Images",
+      "title_zh": "",
+      "authors": [
+        "Jincheng Zhang"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "计算机科学",
+      "topics": [
+        "Digital Image Processing Techniques",
+        "Image and Object Detection Techniques",
+        "Medical Image Segmentation Techniques"
+      ],
+      "abstract": "Digital images often exhibit irregularities, deviations from perfect uniformity, that can significantly impact image processing and analysis. This paper explores the concept of non-Euclidean regularity, a challenging problem in computer vision that aims to quantify and detect these deviations. We propose a novel method predicated on leveraging geometric properties to identify and characterize these irregularities. The core mechanism centers on identifying and quantifying patterns of non-uniformity within digital images, offering a robust approach to improve image quality and facilitate advanced analysis. The investigation focuses on developing a practical algorithm for detecting and measuring irregularity, with a clear focus on enhancing image processing and offering a new toolset for image analysis. This work represents an advancement in identifying subtle, often imperceptible, deviations from perfect uniformity, potentially leading to significant improvements in various computer vision applications.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22183658"
+    },
+    {
+      "id": "openalex-W7204783096",
+      "doi": "10.5281/zenodo.22201301",
+      "title": "基于动态拓扑的图像生成与重建",
+      "title_zh": "",
+      "authors": [
+        "Jincheng Zhang"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "计算机科学",
+      "topics": [
+        "Topological and Geometric Data Analysis",
+        "Digital Image Processing Techniques",
+        "Medical Image Segmentation Techniques"
+      ],
+      "abstract": "This paper introduces a novel image generation and reconstruction algorithm based on dynamic topology. The algorithm leverages the power of dynamic topology to generate images with complex topological structures, offering a significant advancement over traditional image generation techniques. We detail the core mechanism of the algorithm, which involves dynamically adjusting the image based on topological transformations, enabling the creation of intricate and realistic visuals. The research explores the potential of this approach to produce high-quality images and highlights its novelty through the avoidance of static image generation methods. This work contributes to the field of computer vision by proposing a fundamentally new method for image synthesis and reconstruction.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22201301"
+    },
+    {
+      "id": "openalex-W7204786634",
+      "doi": "10.5281/zenodo.22209234",
+      "title": "Axes of Greatest Variance: A Narrative Review of Principal Component Analysis",
+      "title_zh": "",
+      "authors": [
+        "Zen Revista",
+        "10 IA"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "化学",
+      "topics": [
+        "Spectroscopy and Chemometric Analyses",
+        "Statistical and numerical algorithms",
+        "Advanced Statistical Methods and Models"
+      ],
+      "abstract": "Principal component analysis is statistics' most durable instrument: a linear algebra theorem that became data analysis's default first look. This article presents a narrative review of the primary literature of that instrument. The synthesis is organized around three themes: the founding formulations, in which Pearson's lines and planes of closest fit, Hotelling's principal components, and the multivariate canon of Mardia, Kent, and Bibby fixed the two definitions --- least-squares orthogonal regression and maximum-variance projection --- as one spectral problem solved by the covariance matrix's eigenstructure; the computational and applied consolidation, in which Golub and Van Loan's matrix computations, Wold's chemometrics tutorial, Jackson's user's guide, and Jolliffe's definitive monograph fixed the SVD's numerics, the scaling's choices, and the retention's rules --- from scree plots to cross-validation; and the modern extensions, in which Roweis's EM algorithms, Tipping and Bishop's probabilistic PCA, Bishop's machine-learning synthesis, Turk and Pentland's eigenfaces, and Abdi and Williams's survey carried PCA into missing data, latent-variable modeling, computer vision, and the general linear algebra of data analysis. It is concluded that the literature describes a single instrument's three lives --- theorem, tool, and model --- whose unity is the spectral decomposition: PCA's axes are where the data's variance lives, and every modern method that seeks structure in high dimensions still begins where Pearson and Hotelling began.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22209234"
+    },
+    {
+      "id": "openalex-W7204791838",
+      "doi": "10.5281/zenodo.22204636",
+      "title": "Design of Computer Vision Algorithms Based on Multi-scale Analysis",
+      "title_zh": "",
+      "authors": [
+        "Jincheng Zhang"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "计算机科学",
+      "topics": [
+        "Advanced Image and Video Retrieval Techniques",
+        "Advanced Neural Network Applications",
+        "Medical Image Segmentation Techniques"
+      ],
+      "abstract": "This paper presents a novel approach to computer vision algorithm design, centered around the concept of multi-scale analysis. Traditional computer vision methods often focus exclusively on extracting features from a single scale of an image, leading to limitations in performance, particularly in scenes with significant variations in object size and complexity. We argue that effective computer vision requires the ability to analyze information at multiple scales simultaneously. This paper proposes a framework for building computer vision algorithms that explicitly incorporates multi-scale analysis. The core mechanism involves decomposing images into feature maps at various scales and subsequently fusing these multi-scale features to enhance representation learning and improve overall algorithm performance. This approach addresses a critical gap in current computer vision techniques and offers a promising direction for developing more robust and accurate algorithms across a wide range of applications. The presented framework is theoretically sound and provides a practical guide for designing computer vision systems capable of handling the inherent complexities of real-world visual data.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22204636"
+    },
+    {
+      "id": "openalex-W7204792034",
+      "doi": "10.5281/zenodo.22202671",
+      "title": "Adaptive Neural Network based on Geometric Structure",
+      "title_zh": "",
+      "authors": [
+        "Jincheng Zhang"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "计算机科学",
+      "topics": [
+        "Neural Networks and Applications",
+        "Face and Expression Recognition",
+        "Machine Learning and ELM"
+      ],
+      "abstract": "This paper introduces a novel neural network architecture, the Adaptive Neural Network (ANN), designed to dynamically adjust its parameters and structure based on geometric features. The core principle of the ANN is to leverage geometric information to guide the learning process, leading to improved model performance and generalization capabilities. We explore a self-adaptive learning framework that continuously refines the network's connections and neuron activation based on the inherent geometric properties of the input data. The proposed method addresses limitations of traditional neural networks by offering a mechanism for fine-grained parameter optimization and a more robust representation of complex data. The research presents a framework that can effectively handle data with varying geometric characteristics, opening up possibilities for applications in areas such as image recognition, computer vision, and structural analysis.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22202671"
+    },
+    {
+      "id": "openalex-W7204794423",
+      "doi": "10.5281/zenodo.22212184",
+      "title": "Urban Waste Detection Dashboard — Goiânia",
+      "title_zh": "",
+      "authors": [
+        "Hugo José Ribeiro"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "跨学科",
+      "topics": [],
+      "abstract": "Initial public release of the GeoAI decision-support dashboard for visualization and spatial analysis of YOLO-based urban-waste detections in Goiânia, Brazil. This version includes: interactive mapping of georeferenced detections; marker clustering and heatmap visualization; automatic latitude/longitude sanity checking; neighborhood and confidence filters; municipal summary indicators; neighborhood rankings and detection-confidence analysis; multiple basemap options; performance optimization through caching and point sampling. The public repository contains the visualization and spatial-analysis layer of the workflow. Training datasets, model weights and other computer-vision assets are maintained separately. License: MIT Version: 1.0.0",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22212184"
+    },
+    {
+      "id": "openalex-W7204796468",
+      "doi": "10.5281/zenodo.22195826",
+      "title": "DESIGN AND IMPLEMENTATION OF A REAL-TIME AI-BASED SMART ATTENDANCE AND CLASSROOM MONITORING SYSTEM",
+      "title_zh": "",
+      "authors": [
+        "Zukhridinov Dilkashbek"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "跨学科",
+      "topics": [],
+      "abstract": "Conventional attendance management approaches used in educational institutions are often time-consuming and vulnerable to recording errors, leading to incomplete or unreliable attendance data. To address these limitations, this study introduces an intelligent Smart Attendance System (SAS) that leverages Artificial Intelligence (AI) and Computer Vision techniques for automated attendance tracking and classroom surveillance.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22195826"
+    },
+    {
+      "id": "openalex-W7204799012",
+      "doi": "10.5281/zenodo.22216927",
+      "title": "Revisión del estado actual de la Inteligencia Artificial en Bolivia",
+      "title_zh": "",
+      "authors": [
+        "JOSE DAMICO"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "社会科学",
+      "topics": [
+        "Knowledge Societies in the 21st Century",
+        "Smart Cities and Technologies",
+        "Scientific Research and Technology"
+      ],
+      "abstract": "This study presents a review of the current state of artificial intelligence in Bolivia between 2024 and 2026, covering adoption, research and development, computing infrastructure, human resource development, governmental and business applications, governance, and regional positioning. The review draws on government sources, multilateral organizations, regional indicators, scientific publications, technical repositories, university initiatives, and records of digital infrastructure. The evidence is analyzed according to different levels of technological capability, distinguishing between the consumption of AI tools, the integration of existing models, machine learning applications, fine-tuning, and the development of foundation models. The results indicate an ecosystem that is still classified as exploratory within the Latin American context, characterized by growing adoption of generative AI and institutional applications, but limited capacity in research, specialized training, data governance, and accelerated computing infrastructure. Local initiatives were identified in computer vision, natural language processing, applied machine learning, remote sensing, and economic analysis, alongside professional data centers and an emerging regulatory agenda. However, no public evidence was found of the training of Bolivian foundation models or of GPU clusters operating at a scale comparable to the leading AI hubs in Latin America. The review indicates that Bolivia is transitioning from a stage of fragmented adoption toward the early construction of an institutional AI ecosystem, while remaining strongly dependent on technologies, models, and infrastructure developed abroad.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22216927"
+    },
+    {
+      "id": "openalex-W7204802748",
+      "doi": "10.5281/zenodo.22190441",
+      "title": "Artificial Intelligence in Commerce: Transforming Business Operations, Decision-Making, and Competitive Advantage",
+      "title_zh": "",
+      "authors": [
+        "Dr. Saddam Hussain"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "计算机科学",
+      "topics": [
+        "Internet of Things and AI",
+        "Organizational and Employee Performance",
+        "Impact of AI and Big Data on Business and Society"
+      ],
+      "abstract": "Artificial Intelligence (AI) has emerged as one of the most transformative technologies influencing modern commerce. The rapid development of machine learning, natural language processing, predictive analytics, computer vision, generative AI, and intelligent automation is fundamentally changing how businesses operate, make decisions, interact with customers, and compete in domestic and international markets. In commerce, AI enables organizations to process large volumes of structured and unstructured data, identify patterns, predict market trends, automate routine activities, personalize customer experiences, optimize supply chains, detect fraud, and support strategic decision-making.This article examines the role of Artificial Intelligence in transforming commercial activities, with particular emphasis on business operations, managerial decision-making, customer relationship management, marketing, finance, supply chain management, human resource management, and competitive advantage. The study adopts a conceptual and descriptive research approach based on secondary sources, including academic literature, industry reports, books, and institutional publications. The article argues that AI can generate significant improvements in operational efficiency, cost optimization, innovation, responsiveness, and customer value. However, the adoption of AI also creates challenges involving data privacy, cybersecurity, algorithmic bias, workforce displacement, transparency, ethical responsibility, regulatory compliance, and implementation costs. The article proposes a responsible and strategically integrated approach to AI adoption in commerce, emphasizing human oversight, data governance, employee development, ethical standards, and continuous technological evaluation. The study concludes that AI should not merely be viewed as an automation technology but as a strategic capability that can reshape business models and create sustainable competitive advantage when effectively integrated with organizational resources and human expertise.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22190441"
+    },
+    {
+      "id": "openalex-W7204806220",
+      "doi": "10.5281/zenodo.22209233",
+      "title": "Axes of Greatest Variance: A Narrative Review of Principal Component Analysis",
+      "title_zh": "",
+      "authors": [
+        "Zen Revista",
+        "10 IA"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "化学",
+      "topics": [
+        "Spectroscopy and Chemometric Analyses",
+        "Statistical and numerical algorithms",
+        "Advanced Statistical Methods and Models"
+      ],
+      "abstract": "Principal component analysis is statistics' most durable instrument: a linear algebra theorem that became data analysis's default first look. This article presents a narrative review of the primary literature of that instrument. The synthesis is organized around three themes: the founding formulations, in which Pearson's lines and planes of closest fit, Hotelling's principal components, and the multivariate canon of Mardia, Kent, and Bibby fixed the two definitions --- least-squares orthogonal regression and maximum-variance projection --- as one spectral problem solved by the covariance matrix's eigenstructure; the computational and applied consolidation, in which Golub and Van Loan's matrix computations, Wold's chemometrics tutorial, Jackson's user's guide, and Jolliffe's definitive monograph fixed the SVD's numerics, the scaling's choices, and the retention's rules --- from scree plots to cross-validation; and the modern extensions, in which Roweis's EM algorithms, Tipping and Bishop's probabilistic PCA, Bishop's machine-learning synthesis, Turk and Pentland's eigenfaces, and Abdi and Williams's survey carried PCA into missing data, latent-variable modeling, computer vision, and the general linear algebra of data analysis. It is concluded that the literature describes a single instrument's three lives --- theorem, tool, and model --- whose unity is the spectral decomposition: PCA's axes are where the data's variance lives, and every modern method that seeks structure in high dimensions still begins where Pearson and Hotelling began.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22209233"
+    },
+    {
+      "id": "openalex-W7204806468",
+      "doi": "10.5281/zenodo.22199498",
+      "title": "A Probabilistic Programming Language for Multi-Modal Data",
+      "title_zh": "",
+      "authors": [
+        "Jincheng Zhang"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "计算机科学",
+      "topics": [
+        "Multimodal Machine Learning Applications",
+        "Speech and dialogue systems",
+        "Bayesian Modeling and Causal Inference"
+      ],
+      "abstract": "This paper introduces a novel probabilistic programming language designed specifically for handling multi-modal data. The core of the language leverages probabilistic models, data fusion mechanisms, and a powerful inference engine to facilitate probabilistic programming and machine learning tasks involving diverse data types such as images, text, and audio. Current programming languages often lack the necessary tools and abstractions to effectively manage and reason about complex relationships within multi-modal datasets. This language addresses this gap, offering a streamlined approach to integrate and analyze information from various sources, ultimately leading to more robust and accurate models. The paper outlines the key features and design principles of this language, emphasizing its potential for advancing research and applications in areas such as computer vision, natural language processing, and audio analysis.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22199498"
+    },
+    {
+      "id": "openalex-W7204809480",
+      "doi": "10.5281/zenodo.22203109",
+      "title": "Adaptive Topological Auto-generation",
+      "title_zh": "",
+      "authors": [
+        "Jincheng Zhang"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "计算机科学",
+      "topics": [
+        "Topological and Geometric Data Analysis",
+        "3D Shape Modeling and Analysis",
+        "Constraint Satisfaction and Optimization"
+      ],
+      "abstract": "This paper explores the application of Adaptive Topological Auto-generation (ATAG) to the modeling of complex geometric structures. The core objective is to generate novel topological structures with enhanced complexity and specific properties, opening up new avenues for both graph theory and computer vision. We propose a neural network-based model that learns the underlying topology from data and autonomously generates new topological structures. The paper details the model's architecture, training methodology, and initial validation results, demonstrating its potential for creating intricate and customized geometric representations. The focus is on the inherent flexibility and automated nature of ATAG compared to traditional methods.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22203109"
+    },
+    {
+      "id": "openalex-W7204810928",
+      "doi": "10.58918/lofian.v6i1.302",
+      "title": "Implementasi Metode WP dalam Pemilihan Skincare Menggunakan Computer Vision Berbasis Mobile",
+      "title_zh": "",
+      "authors": [
+        "Saskia Ananda Putri",
+        "Veri Ilhadi",
+        "Muhammad Ikhwani"
+      ],
+      "year": 2026,
+      "venue": "LOFIAN Jurnal Teknologi Informasi dan Komunikasi",
+      "field": "计算机科学",
+      "topics": [
+        "Edcuational Technology Systems",
+        "Computer Science and Engineering",
+        "IoT-based Control Systems"
+      ],
+      "abstract": "Selecting the right skincare products tailored to one's skin condition is challenging due to the vast array of available products and users' limited understanding of their own skin characteristics. Improper selection can lead to issues such as irritation, acne, and damage to the skin barrier. This study developed the \"SkinPick\" mobile application as a decision support system to assist users in obtaining skincare recommendations based on their facial skin type and condition. The Weighted Product (WP) method was employed to generate recommendations by considering six criteria: normal, dry, oily, sensitive, combination, and acne-prone skin. Additionally, the application utilizes Roboflow-based Computer Vision technology to identify skin conditions through facial scanning. SkinPick was developed using Flutter, Dart, and Firebase and subsequently tested using the Black Box Testing method. Test results confirmed that all application functions operated as intended. WP calculations identified Niacinamide as the optimal alternative with a score of 0.1899, followed by Hyaluronic Acid at 0.1880. Expert validation yielded a 93.33% agreement rate. The Computer Vision model achieved an overall accuracy of 90.1%, mAP of 89.2%, precision of 91.5%, recall of 87.4%, and an F1-score of 89.4%. These results demonstrate that SkinPick is capable of providing skincare recommendations in a more objective and targeted manner.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "https://ejournal.umbp.ac.id/index.php/lofian/article/download/376/256",
+      "url": "https://doi.org/10.58918/lofian.v6i1.302"
+    },
+    {
+      "id": "openalex-W7204815514",
+      "doi": "10.5281/zenodo.22183659",
+      "title": "Title: Non-Euclidean Regularity in Digital Images",
+      "title_zh": "",
+      "authors": [
+        "Jincheng Zhang"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "计算机科学",
+      "topics": [
+        "Digital Image Processing Techniques",
+        "Image and Object Detection Techniques",
+        "Medical Image Segmentation Techniques"
+      ],
+      "abstract": "Digital images often exhibit irregularities, deviations from perfect uniformity, that can significantly impact image processing and analysis. This paper explores the concept of non-Euclidean regularity, a challenging problem in computer vision that aims to quantify and detect these deviations. We propose a novel method predicated on leveraging geometric properties to identify and characterize these irregularities. The core mechanism centers on identifying and quantifying patterns of non-uniformity within digital images, offering a robust approach to improve image quality and facilitate advanced analysis. The investigation focuses on developing a practical algorithm for detecting and measuring irregularity, with a clear focus on enhancing image processing and offering a new toolset for image analysis. This work represents an advancement in identifying subtle, often imperceptible, deviations from perfect uniformity, potentially leading to significant improvements in various computer vision applications.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22183659"
+    },
+    {
+      "id": "openalex-W7204757212",
+      "doi": "10.54254/2755-2721/2026.36446",
+      "title": "Research on Five-Category Classification of Comment Emotions Based on the Multi-agent RAG Framework",
+      "title_zh": "",
+      "authors": [
+        "Baohui Zhu"
+      ],
+      "year": 2026,
+      "venue": "Applied and Computational Engineering",
+      "field": "计算机科学",
+      "topics": [
+        "Sentiment Analysis and Opinion Mining",
+        "Topic Modeling",
+        "Text and Document Classification Technologies"
+      ],
+      "abstract": "Because text comment sentiment analysis plays an essential role in applications such as online public opinion monitoring, user experience analysis, and intelligent customer service, it is rightly considered a core task of natural language processing with both great practical value and considerable research significance. However, it is also well known that current mainstream single-text sentiment classification models have inherent limitations.Because existing approaches suffer from superficial semantic understanding, insufficient logical reasoning capabilities, vulnerability to model hallucinations, and low precision in fine-grained sentiment classification, they are not suitable for complex comment sentiment recognition tasks. Hence, this paper naturally and elegantly proposes a dual-agent RAG framework combined with Coherence Theory (CoT), where a Q-Agent is charged with senthe paper presents a framework combining sentiment analysis and reasoning guidance with an RAG-Agent for knowledge retrieval and information enhancement, thus naturally and elegantly achieving precise five-category sentiment classification. More importantly, comparative experiments on a balanced sentiment dataset show that the proposed framework attains optimal improvements on all evaluation metrics relative to baseline models, and therefore achieves substantially better sentiment classification performance. As such, the work provides new technical insights for fine-grained text sentiment classification and clear practical guidance for agent technology applications in natural language understanding.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": false,
+      "pdf_url": "",
+      "url": "https://doi.org/10.54254/2755-2721/2026.36446"
+    },
+    {
+      "id": "openalex-W7204774544",
+      "doi": "10.5281/zenodo.22216465",
+      "title": "Machine Intuition",
+      "title_zh": "",
+      "authors": [
+        "Sahir Maharaj"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "计算机科学",
+      "topics": [
+        "Explainable Artificial Intelligence (XAI)",
+        "Ethics and Social Impacts of AI",
+        "Multimodal Machine Learning Applications"
+      ],
+      "abstract": "Can an artificial intelligence system select the right action before it can articulate a valid reason for that action? Addressing this question at the intersection of reasoning, interpretability, agent safety, and latent computation, we develop a non-anthropomorphic definition of machine intuition as pre-explanatory competence: an action-relevant internal state that is sufficiently informative and causally involved to support a correct decision before a faithful natural-language explanation is available. Synthesizing evidence from chain-of-thought prompting, faithfulness interventions, hidden-state probing, activation steering, mechanistic interpretability, and latent-reasoning systems through 8 August 2026, we note that while final answers and tool-use choices can sometimes be decoded from activations before explicit reasoning begins, difficult multi-step problems are often solved during the generated reasoning trace itself - making token-level deliberation computationally consequential rather than merely explanatory. To separate these regimes, we introduce the Action-Explanation Timing (AET) framework and MINT-Eval, a causal evaluation protocol that distinguishes the earliest causally validated action state from the earliest sufficient, faithful, and interventionally supported explanation, while categorizing faithful latent competence, opaque success, rationalized error, and genuinely deliberative reasoning. The resulting answer is qualified: AI can sometimes act correctly before explaining why, but correctness alone does not establish human-like intuition or trustworthy reasoning; because the same timing gap can arise from useful latent computation, learned heuristics, shortcut features, or post-hoc rationalization, explanations must be treated as evidence to test rather than automatic proof of process, requiring high-consequence actions to undergo external verification, authority controls, and causal audits even when the model's first move is right.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22216465"
+    },
+    {
+      "id": "openalex-W7204839260",
+      "doi": "10.54254/2755-2721/2026.36442",
+      "title": "Research on Text Information Extraction and Imbalanced Classification Methods for Enterprise Profiling",
+      "title_zh": "",
+      "authors": [
+        "Xinyi Xu"
+      ],
+      "year": 2026,
+      "venue": "Applied and Computational Engineering",
+      "field": "计算机科学",
+      "topics": [
+        "Text and Document Classification Technologies",
+        "Sentiment Analysis and Opinion Mining",
+        "Imbalanced Data Classification Techniques"
+      ],
+      "abstract": "This research focuses on enterprise profiling in scenarios where large volumes of diverse texts—such as registration records, annual reports, news articles, and bidding notices—are continuously generated. Instead of relying solely on a single data representation or classification model, we developed a comprehensive natural language processing (NLP) pipeline for extracting key information and identifying industries. The pipeline consists of several steps. First, we use a BERT-BiLSTM-CRF model to identify core e/nterprise entities. Then, we combine TF-IDF with BERT embeddings to create a hybrid feature scheme that captures both lexical cues and contextual semantics. To address the challenge of imbalanced industry labels, we apply SMOTE in the dense semantic space and pair it with Focal Loss to enhance learning for minority classes. Additionally, we introduce a Stacking strategy to integrate outputs from different models, making predictions more stable. Tests on a self-compiled dataset covering ten national economic sectors and about 50,000 enterprises show that our method achieves a macro-F1 score of 95.4%. It outperforms traditional machine learning baselines and single deep learning models, offering more reliable recognition for minority classes. These results suggest that our framework is well-suited for applications such as supply chain partner discovery, industrial mapping, and targeted investment promotion.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": false,
+      "pdf_url": "",
+      "url": "https://doi.org/10.54254/2755-2721/2026.36442"
+    },
+    {
+      "id": "openalex-W7204851652",
+      "doi": "10.5281/zenodo.22216466",
+      "title": "Machine Intuition",
+      "title_zh": "",
+      "authors": [
+        "Sahir Maharaj"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "计算机科学",
+      "topics": [
+        "Explainable Artificial Intelligence (XAI)",
+        "Ethics and Social Impacts of AI",
+        "Multimodal Machine Learning Applications"
+      ],
+      "abstract": "Can an artificial intelligence system select the right action before it can articulate a valid reason for that action? Addressing this question at the intersection of reasoning, interpretability, agent safety, and latent computation, we develop a non-anthropomorphic definition of machine intuition as pre-explanatory competence: an action-relevant internal state that is sufficiently informative and causally involved to support a correct decision before a faithful natural-language explanation is available. Synthesizing evidence from chain-of-thought prompting, faithfulness interventions, hidden-state probing, activation steering, mechanistic interpretability, and latent-reasoning systems through 8 August 2026, we note that while final answers and tool-use choices can sometimes be decoded from activations before explicit reasoning begins, difficult multi-step problems are often solved during the generated reasoning trace itself - making token-level deliberation computationally consequential rather than merely explanatory. To separate these regimes, we introduce the Action-Explanation Timing (AET) framework and MINT-Eval, a causal evaluation protocol that distinguishes the earliest causally validated action state from the earliest sufficient, faithful, and interventionally supported explanation, while categorizing faithful latent competence, opaque success, rationalized error, and genuinely deliberative reasoning. The resulting answer is qualified: AI can sometimes act correctly before explaining why, but correctness alone does not establish human-like intuition or trustworthy reasoning; because the same timing gap can arise from useful latent computation, learned heuristics, shortcut features, or post-hoc rationalization, explanations must be treated as evidence to test rather than automatic proof of process, requiring high-consequence actions to undergo external verification, authority controls, and causal audits even when the model's first move is right.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22216466"
+    },
+    {
+      "id": "openalex-W7119684041",
+      "doi": "10.5281/zenodo.18200429",
+      "title": "IndianConstitution: Programmatic Access, Search, and Analysis of the Constitution of India in Python",
+      "title_zh": "",
+      "authors": [
+        "S Vikhram"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "跨学科",
+      "topics": [],
+      "abstract": "IndianConstitution is an open-source Python framework that provides structured, type-safe, and programmatic access to the Constitution of India. The package includes the complete constitutional corpus, covering the Preamble, all Articles, Schedules, and amendments through the Constitution (One Hundred and Sixth Amendment) Act, 2023. The framework offers fast full-text search through an inverted-index engine, typed data models based on Pydantic, graph-based analysis of constitutional relationships, multi-format export capabilities, and optional semantic search functionality for artificial intelligence and retrieval-augmented generation (RAG) applications. IndianConstitution is designed for legal informatics, constitutional research, civic technology, legal education, natural language processing, legal AI systems, and computational social science. The package supports reproducible research through a versioned constitutional corpus, deterministic outputs, and offline-first operation. Key features include: Structured access to constitutional Articles, Parts, Schedules, and the Preamble High-performance constitutional text search Graph-based constitutional relationship analysis Data science integration through pandas and NetworkX AI and RAG-ready semantic retrieval capabilities Multi-format export to JSON, CSV, and Markdown Fully offline and reproducible operation The source code is openly available on GitHub and distributed through PyPI under the Apache License 2.0.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.18200429"
+    },
+    {
+      "id": "openalex-W7151003376",
+      "doi": "10.5281/zenodo.19435533",
+      "title": "Database of Byzantine Book Epigrams - Archive",
+      "title_zh": "",
+      "authors": [
+        "Kristoffel Demoen",
+        "Sofia Belioti",
+        "Gilbert Bentein",
+        "Klaas Bentein",
+        "Floris Bernard",
+        "Julián Bértola",
+        "Julie Boeten",
+        "Mathijs Clement",
+        "Cristina Cocola",
+        "Eline Daveloose",
+        "Sien De Groot",
+        "Pieterjan De Potter"
+      ],
+      "year": 2026,
+      "venue": "Ghent University Academic Bibliography (Ghent University)",
+      "field": "社会科学",
+      "topics": [
+        "Digital Humanities and Scholarship",
+        "Mathematics, Computing, and Information Processing",
+        "Library Science and Information Systems"
+      ],
+      "abstract": "This dataset is an extension of the publication of the Database of Byzantine Book Epigrams (2023). The 2023 publication is a copy of the data used for the live application on dbbe.ugent.be. The present dataset aims to offer a simplified structure of the DBBE data, facilitating computational research and data analysis. The dataset provides structured access to the data behind dbbe.ugent.be, enabling intuitive exploration and reuse. It is based on production PostgreSQL and Elasticsearch instances and is organized around six core concepts. The data is updated weekly to reflect the latest research and additions. Occurrences:Individual epigrams reproduced as faithfully as possible from manuscripts, preserving orthography and punctuation. Types: Normalized or critically established texts linked to one or more Occurrences, enabling comparison across similar Occurrences and providing interpretive metadata such as translations, genres, and subjects. Verses: Verses of Occurrences, grouped in Verse Groups to record textual parallels across Occurrences. Manuscripts: Metadata on the context of manuscripts, including provenance and related documentation. Persons: Information on authors, scribes, editors, and other historical or modern contributors linked to Occurrences, Types, or Manuscripts. Bibliographies: Structured references connecting literature and publications to the relevant entities in the corpus. Exploring the Dataset The dataset can be explored and analyzed in multiple ways: Web-based viewing: Tools such as SQLite Viewer allow users to simply upload the SQLite file and inspect its contents directly in the browser, requiring no technical setup. Graphical interface and export: DB Browser for SQLite offers an intuitive interface for browsing the data and exporting tables to CSV for further analysis without need for scripting based interaction. AI-assisted semantic querying: The database file can be uploaded to a large language model for natural language queries. For example, one could ask: \"Give me five occurrences from the eleventh century discussing harbours.\" To protect sensitive data, consider using self-hosted models or paid, secure AI services rather than free online tools. Custom development: The structured SQLite format provides a robust foundation for programmatic analysis, integration with other tools like datasette, or the development of custom applications tailored to specific research questions. Database schema For a full visual of the database schema, please visit yED live. 1. Occurrences This table stores individual Occurrences (= short epigrams or poems, literally how they have been found in a manuscript, including marks for gaps and missing text.) Columns include: id, created, modified, public_comment, incipit, text_stemmer, text_original, location_in_ms*, completion_date_floor, completion_date_ceiling, palaeographical_info, contextual_info, manuscript_id, title *Note that, in the current version, the location of occurrences within the manuscript is given as plain text (ex. p. 394-395 for pages or f. 18r-18v for folia). For manuscripts that have more than 1 way of numbering pages, the alternative location is marked as f. 14r -- (alt.) p. 27. Related tables: occurrence_person_role: Links Occurrences to Persons, indicating which Role a Person plays in the given Occurrence. Example: Scribe ( = historical person), transcriber (=modern person), contributor (=modern person)... occurrence_genre: genre attributed to this Occurrence (Can be more than 1) occurrence_metre: metre attributed to this Occurrence (Can be more than 1) occurrence_management: Internal information. For example: To do's in the processing of this Occurrence occurrence_acknowledgement: Plain text acknowledgement of people who helped in the publication of this Occurrence. occurrence_text_status: An Occurrence text can have statuses like partially/completely (un)known occurrence_related_occurrence and occurrence_relation_definition: An Occurrence can be related to other Occurrence if (a) some of their verses share Verse Groups or (b) they share a Type. The relationship type is defined in occurrence_relation_definition. This works in one direction: if occurrenceA --> related to --> occurrenceB is set, then occurrenceB --> related to --> occurrenceA is not set. occurrence_keyword: Keywords telling what the Occurrence is about 2. Verses This table contains verse-level information about an Occurrence. Columns include id, occurrence_id, manuscript_id, text, order_in_occurrence, verse_group_id. Verse Groups are groupings of similar verses across occurrences. 3. Types This table contains prototypes of Occurrences. A lot of Occurrences have a high level of similarity. DBBE proposes prototypes for every group of similar Occurrences. Related tables: type_person_role: Links Types to Persons, indicating which Role a Person plays in the given Type. Example: Creator, Translitor, Editor, Contributor, ... type_genre: genre attributed to this Type. More than 1 Genre can be attributed. type_metre: metre attributed to this Type. More than 1 Metre can be attributed. type_management: Internal information. For example: To do's in the processing of this Type type_acknowledgement: Plain text acknowledgement of people who helped in the publication of this Type. type_text_status: Type text can be either completely known or partially unknown type_related_type: Groups of similar Types. The relationship is defined in type_relation_definition. This works in one direction: if typeA --> related to --> typeB is set, then typeB --> related to --> typeA is not set. type_tag: Explains the function of the Type (ex: introducing a subject, making a comment on the content,...). type_occurrence: Occurrences linked to this Type. Note that this is a many-to-many relationship: one occurrence can be linked to several types, one type can have several occurrence linked to it. type_editorial_status: editorial states for types. Currently only critical text / not a critical text. type_keyword: Keywords telling what the type is about 4. Manuscripts This table contains metadata about manuscripts. Related tables: manuscript_person_role: Any possible role a Person could play in the publication of this manuscript. Example: Patron ( = historical person), Illuminator (=historical person), contributor (=modern person)... manuscript_acknowledgement: Plain text acknowledgement of people who helped in the publication of this Manuscript. manuscript_content: Explains what the manuscript is about. Careful: content is a hierarchical table. For example, a manuscript can be about Biblica -> Novum Testamentum. In this table, the lowest leaf (Novum Testamentum) is stored. The parent_id column of the content table can be used to trace the full content. manuscript_identification: Links a manuscript to one or more IDs that were used in canonical works to refer to this manuscript (ex: Diktyon) manuscript_management: Internal information. For example: To do's in the processing of this manuscript manuscript_location: The location where the manuscript was written. Careful: location is a hierarchical table. If a manuscript was written in Brussels, it is linked to Brussels, but via the parent_id column of the location table, you could also see that Brussels is in Belgium. 5. Persons This table contains metadata about persons involved (authors, editors, patrons, etc.). Related tables: person_acknowledgement: Plain text acknowledgement of people who helped in the publication of the information on this (historical) person. person_identification: Used to link persons to canonical IDs set by different authorities. person_management: Internal information. For example: To do's in the processing of this person person_self_designation: Used for scribes: How a scribe describes himself person_office: Used for scribes: The official title of a person. 6. Bibliographies Bibliographies are modelled as concrete entity types, rather than a single table as in the original setup. article book book_chapter blog_post bib_varia: This table is usually avoided but contains entries for which no other bibliographical type exists. online_source phd Each bibliographic entity has: its own table as mentioned above a corresponding _person_role table (ex.: article_person_role: could contain authors, contributors, reviewers, ... for a given article) tables linking to the item the bibliography is about: manuscripts (ex: manuscript_article: contains articles about a given manuscript) occurrence (ex: occurrence_book: contains books about a given Occurrences) persons (ex: person_article: contains articles about - usually historical - persons) type (ex: type_article: contains articles about given Types) Additional structures: journal and journal_issue: Articles may be linked to journals and journal issues. Note that, for now, some of these bibliography tables were added for completeness sake: not every concept (Manuscript / Occurrence / Person / Type) has all types of bibliographies linked to it (online sources, PhDs, etc.). Lookup / Metadata Tables roles — defines roles for persons (ex. Author, Scribe, Contributor, ...) text_status — textual status of Occurrence or Type. (ex. Text completely known, text partially unknown,...) keywords — keywords for Occurrence and Type (ex. Holy Trinity, Seven Sages, Last Judgement, ...) tag — tag for Type: Explains the function of the Type (ex: introducing a subject, making a comment on the content,...). metre — metre classification (ex. Dodecasyllable, Elegiacs,...) genre — genre classification. (ex. Scribe-related epigram, Text-related epigram, Reader-related epigram) management — administrative metadata. (ex. Bibliography to check) acknowledgement — acknowledgement linked to occurrence, manuscripts, type, or persons. (ex. Inf",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://biblio.ugent.be/publication/01KSQEXXAV0HB9W4YBWW8Z6QRD"
+    },
+    {
+      "id": "openalex-W7169800862",
+      "doi": "10.1037/xge0001990",
+      "title": "Asking open-ended questions promotes personal goal attainment in integrative negotiations.",
+      "title_zh": "",
+      "authors": [
+        "Matteo Di Stasi",
+        "Alison Wood Brooks",
+        "Jordi Quoidbach"
+      ],
+      "year": 2026,
+      "venue": "Journal of Experimental Psychology General",
+      "field": "社会科学",
+      "topics": [
+        "Conflict Management and Negotiation",
+        "Team Dynamics and Performance",
+        "Language, Discourse, Communication Strategies"
+      ],
+      "abstract": "Prior research suggests that asking more questions improves outcomes in cooperative conversations, and a vast wisdom literature espouses the power of asking questions during conflictual conversations, too: negotiation experts suggest that questions invite counterparts to disclose information and, in doing so, put askers at an informational advantage. But is this advice necessary—and is it effective? We analyzed 61,057 speech turns from transcripts of 309 dyadic integrative negotiations and used natural language processing to estimate how often people ask questions, what types of questions they ask, and how well question-asking predicts personal goal attainment (Study 1; n = 618 MBA students). Open-ended questions were rare, occurring about once every four minutes (8% of turns). Yet, asking more open-ended questions was robustly associated with personal goal attainment. Closed-ended questions and non-question statements were not reliably related to goal attainment. We then tested causality in live chat negotiations: participants who were instructed to ask open-ended questions achieved higher personal gains than those instructed to ask closed-ended questions or to only make statements (Study 2; n = 1,452 online participants), and those instructed to prepare open-ended questions before their interactions outperformed those instructed to prepare statements (Study 3; n = 372 online participants). In all studies, the benefits of open-ended questions were tied to increased information elicitation and greater value creation. Collectively, these findings offer empirical support for the widely accepted—but rarely tested—claim that negotiators (and conversationalists broadly) focus excessively on influencing (by making statements) at the expense of learning (by asking questions).",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.31234/osf.io/9rh4j_v3"
+    },
+    {
+      "id": "openalex-W7204748468",
+      "doi": "10.5281/zenodo.22188135",
+      "title": "Designing a Framework for Evaluating Automated Requirements Elicitation Systems in Agile Projects: A Proposal Based on Quality and Reliability Criteria",
+      "title_zh": "",
+      "authors": [
+        "Hosein Tanabi"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "跨学科",
+      "topics": [],
+      "abstract": "Designing a Framework for Evaluating Automated Requirements Elicitation Systems in Agile Projects: A Proposal Based on Quality and Reliability Criteria Hosein Tanabi1 1- PhD Student, Department of Computer Engineering, Islamic Azad University, Babol Branch, Babol, Iran Abstract Today, agile software development methods are recognized as a dominant approach in the software industry due to their flexibility and rapid response to changes. However, elicitation and management of user requirements in these dynamic environments remain a fundamental challenge [1]. The emergence of automated systems based on Natural Language Processing (NLP) and Large Language Models (LLMs) promises a transformation in this domain [2]. Nevertheless, the systematic evaluation of quality and reliability of these systems, particularly in the context of the Persian language, requires further investigation. This research aims to design a conceptual evaluation framework for assessing the quality and reliability of automated requirements elicitation systems in agile projects. The proposed framework is based on INVEST criteria and the INCOSE standard, and it has the potential to be implemented on real-world datasets of user stories. While some LLM-based systems demonstrate high capability in extracting functional requirements [3], they face challenges in identifying non-functional requirements and trust-related constraints, necessitating algorithmic improvements and the adoption of hybrid approaches. It is hoped that the presented framework can serve as a foundation for future research in the evaluation of automated requirements elicitation systems. Keywords : Automated Requirements Elicitation, Agile Systems, Evaluation Framework, Quality Assessment, Large Language Models, Persian Language Processing",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22188135"
+    },
+    {
+      "id": "openalex-W7204749471",
+      "doi": "10.5281/zenodo.22188891",
+      "title": "Neuro-Symbolic Programming with Reinforcement Learning for Automated Theorem Proving",
+      "title_zh": "",
+      "authors": [
+        "Jincheng Zhang"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "计算机科学",
+      "topics": [
+        "Polynomial and algebraic computation",
+        "Logic, programming, and type systems",
+        "Mathematics Education and Teaching Techniques"
+      ],
+      "abstract": "This research investigates a novel approach to automated theorem proving by integrating neural networks and symbolic reasoning through reinforcement learning. The core idea is to leverage the pattern recognition capabilities of neural networks to translate natural language queries into formal symbolic representations, while employing a reinforcement learning agent to strategically navigate the complex proof space. This framework aims to overcome limitations of traditional automated theorem provers by providing an adaptive and intelligent exploration mechanism. The system's performance is evaluated based on its ability to generate correct proofs for a range of mathematical theorems. The key innovation lies in the active guidance of the proof search process, enhancing both the automation and adaptability of the theorem proving system. The system utilizes a neural network encoder, a reinforcement learning agent, and a symbolic proof planner. The objective function for the reinforcement learning agent is designed to maximize proof progress, considering factors such as the reduction of logical clauses and the achievement of a valid proof structure. Experimental results demonstrate the potential of this neuro-symbolic approach for tackling complex mathematical problems.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22188891"
+    },
+    {
+      "id": "openalex-W7204749862",
+      "doi": "10.5281/zenodo.22202627",
+      "title": "基于高维几何的自然语言处理",
+      "title_zh": "",
+      "authors": [
+        "Jincheng Zhang"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "计算机科学",
+      "topics": [
+        "Constraint Satisfaction and Optimization",
+        "Spatial Cognition and Navigation",
+        "Data Visualization and Analytics"
+      ],
+      "abstract": "This paper explores the application of high-dimensional geometry to natural language processing (NLP). The core claim is that utilizing high-dimensional geometric structures can significantly enhance model capabilities, particularly in improving semantic relationships and contextual understanding. We investigate a novel approach involving the modeling of semantic relationships as geometric structures, leveraging the unique properties of high-dimensional space to improve model performance. This work introduces a new framework that integrates geometric representations into NLP pipelines, offering a potential pathway for advancing the field.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22202627"
+    },
+    {
+      "id": "openalex-W7204750017",
+      "doi": "10.5281/zenodo.22183964",
+      "title": "自适应几何张量优化算法",
+      "title_zh": "",
+      "authors": [
+        "Jincheng Zhang"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "数学",
+      "topics": [
+        "Tensor decomposition and applications",
+        "Big Data and Digital Economy",
+        "Machine Learning and Data Classification"
+      ],
+      "abstract": "This paper introduces a novel optimization algorithm, termed Adaptive Geometry Tensor Optimization (AGTO), designed to enhance machine learning model performance, specifically in image recognition and natural language processing. Traditional optimization methods often require manual parameter tuning, while AGTO employs dynamic adjustments to tensor geometry and a self-adaptive learning mechanism to achieve efficient parameter matching and reduced computational complexity. The core of the algorithm lies in adapting the tensor's shape and density through a dynamic process, leveraging a novel self-learning technique to optimize the tensor's representation. We demonstrate the effectiveness of AGTO through extensive experiments comparing its performance against established optimization techniques on image classification datasets. The paper presents a comprehensive analysis of the algorithm's design and performance, highlighting its potential to significantly improve model accuracy and training efficiency.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22183964"
+    },
+    {
+      "id": "openalex-W7204750177",
+      "doi": "10.5281/zenodo.22201889",
+      "title": "Multi-Factor Financial Architecture: Integrating Near-Real-Time Stream Processing, Large Language Models, and Quantitative Risk Engines for Stock Advisory Systems",
+      "title_zh": "",
+      "authors": [
+        "Johnson Ang"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "社会科学",
+      "topics": [
+        "Stock Market Forecasting Methods",
+        "Financial Distress and Bankruptcy Prediction",
+        "Advanced Bandit Algorithms Research"
+      ],
+      "abstract": "This paper formulates an institutional-grade, multi-factor architecture for near-real-time automated stock advisory systems. By synthesizing tick-level market data from Bloomberg infrastructure with deep learning, natural language sentiment processing, and macroeconomic indicators, the proposed system provides regime-aware portfolio allocation signals [1]. We detail a multi-model ensemble combining Transformer decoders, hybrid long short-term memory (LSTM) networks, and gradient-boosted trees. To maintain empirical rigor, the methodology incorporates point-in-time data normalization to prevent look-ahead bias, cross-model LLM verification to mitigate hallucination risks, and fractional Kelly position sizing for risk optimization. Systemic dynamics—including latency constraints and correlated agent risks—are systematically analyzed to provide a clear technical blueprint for implementation and open-source benchmarking. Limited-live PoC available at https://trade.aiagentfolio.com.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22201889"
+    },
+    {
+      "id": "openalex-W7204750912",
+      "doi": "10.3905/jesg.2026.011",
+      "title": "Are Climate Risk Risk Regulations Evidence-Based? Leveraging Artificial Intelligence to Bridge the Gap between Regulatory Practice and Academic Research",
+      "title_zh": "",
+      "authors": [
+        "Adeboye Oyegunle",
+        "Olaf Weber"
+      ],
+      "year": 2026,
+      "venue": "The Journal of Impact and ESG Investing",
+      "field": "社会科学",
+      "topics": [
+        "Sustainable Finance and Green Bonds",
+        "Regulation and Compliance Studies",
+        "Global Financial Regulation and Crises"
+      ],
+      "abstract": "This article presents an analysis of the connection between emerging climate risk policies in the banking sector and academic literature. The research focuses on regulations implemented after pivotal events such as the Paris Agreement led to increased scrutiny and mandated climate risk disclosures by financial institutions. By applying artificial intelligence and natural language processing techniques, the study analyzes 16 major global climate risk regulations, categorized into three distinct categories. We compare their outcomes with 83 peer-reviewed academic articles published from 2017 to 2024 to determine whether academic research outcomes influence those regulations. The findings reveal a moderate alignment (74.2% cosine similarity) between regulatory policies and academic research, indicating that although many regulatory bodies incorporate research insights, significant gaps remain. The article provides insights into enhancing emerging climate risk policies, suggesting a need for an evidence-based approach that integrates climate risk disclosure standards, climate risk management, and climate research into framework development. Theoretically, this study advocates for institutional collaboration among regulators through a polycentric governance system, which will help facilitate the effective integration of scientific research to strengthen climate risk policy management and development into the future.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": false,
+      "pdf_url": "",
+      "url": "https://doi.org/10.3905/jesg.2026.011"
+    },
+    {
+      "id": "openalex-W7204750928",
+      "doi": "10.5281/zenodo.22191683",
+      "title": "Adaptive Formal Semantic Learning",
+      "title_zh": "",
+      "authors": [
+        "Jincheng Zhang"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "计算机科学",
+      "topics": [
+        "Cognitive Computing and Networks",
+        "Topic Modeling",
+        "Natural Language Processing Techniques"
+      ],
+      "abstract": "This paper proposes a novel approach to formal semantic learning, termed Adaptive Formal Semantic Learning (AFSL). The core idea is to enable a system to automatically discover and integrate new formal semantic rules from dynamic analysis of natural language text. Unlike traditional methods that rely heavily on manually crafted rules, AFSL leverages reinforcement learning to guide a model in this process. The model learns to extract and refine formal semantic rules based on contextual information and feedback, ultimately building a formal semantic knowledge base. The system's adaptive nature allows it to handle diverse linguistic phenomena and improve its understanding over time. This work addresses the limitations of static rule-based systems and presents a dynamic, self-improving framework for formal semantic learning. The key components of the system include a text analysis module, a rule learning engine utilizing reinforcement learning, and a formal semantic knowledge base. Evaluation demonstrates the system's ability to learn and apply complex semantic rules effectively.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22191683"
+    },
+    {
+      "id": "openalex-W7204751461",
+      "doi": "10.5281/zenodo.22197915",
+      "title": "Automated Theorem Proving via Large Language Model Orchestration",
+      "title_zh": "",
+      "authors": [
+        "Jincheng Zhang"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "计算机科学",
+      "topics": [
+        "Logic, programming, and type systems",
+        "Mathematics, Computing, and Information Processing",
+        "Polynomial and algebraic computation"
+      ],
+      "abstract": "This paper investigates the potential of Large Language Models (LLMs) to contribute to automated theorem proving. The core idea is to orchestrate an LLM through a series of carefully designed steps within the theorem proving process. This involves leveraging the LLM's ability to understand and generate natural language, combined with a structured prompt engineering approach, to handle tasks such as hypothesis formulation, lemma retrieval, and inference verification. We explore a system architecture where the LLM acts as a central component, executing specific tasks based on prompts and iteratively refining its approach. The novelty lies in applying LLMs to formal proof systems rather than solely relying on traditional automated reasoning techniques. We demonstrate the feasibility of this approach through conceptual design and outline a strategy for effective prompt engineering, highlighting the challenges and potential avenues for future research. The goal is to create a system that can assist mathematicians and logicians in their work, and potentially accelerate the discovery of new mathematical knowledge.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22197915"
+    },
+    {
+      "id": "openalex-W7204751690",
+      "doi": "10.5281/zenodo.22206781",
+      "title": "Arabic Emotion Classification Dataset for Large Language Model Evaluation",
+      "title_zh": "",
+      "authors": [
+        "Fady Alnajjar",
+        "Mohamed Almehrzi",
+        "Shaima Zeyad Alzubi",
+        "Omar Mubin",
+        "Ons Al-Shamaileh"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "跨学科",
+      "topics": [],
+      "abstract": "This dataset contains 1,002 Arabic text samples annotated for five emotion categories: anger, neutral, joy, sadness, and fear. The dataset was collected and initially annotated by Shaima Alzubi, with a second independent annotation performed by Mohammed Almehrzi. Annotation disagreements were reviewed and adjudicated by Fady Alnajjar. The annotation process was conducted under the supervision of Fady Alnajjar, Omar Mubin, and Ons Al-Shamaileh. The dataset was prepared to support the evaluation of large language models and Arabic language models for emotion classification. It accompanies the study “Deployment-Oriented Evaluation of Large Language Models for Arabic Emotion Classification.” The dataset includes the Arabic text samples and their corresponding gold-standard emotion labels. It is intended for research on Arabic natural language processing, emotion recognition, text classification, and benchmarking of large language models.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22206781"
+    },
+    {
+      "id": "openalex-W7204755139",
+      "doi": "10.5281/zenodo.22198396",
+      "title": "Neuro-Symbolic Program Synthesis via Relational Reasoning with Temporal Constraints",
+      "title_zh": "",
+      "authors": [
+        "Jincheng Zhang"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "计算机科学",
+      "topics": [
+        "AI-based Problem Solving and Planning",
+        "Software Engineering Research",
+        "Topic Modeling"
+      ],
+      "abstract": "This paper presents a novel approach to neuro-symbolic program synthesis that leverages relational reasoning and temporal constraints. The core idea is to bridge the gap between neural networks, which excel at pattern recognition, and symbolic reasoning, which provides explicit modeling of constraints and dependencies. We propose a system consisting of a neural network for learning program structure, a relational database representing problem constraints and temporal rules, and a symbolic inference engine for generating candidate code. This engine utilizes the relational database to derive program logic based on relational constraints and temporal dependencies. The neural network then validates the generated code, ensuring its correctness. This approach aims to create executable programs from natural language descriptions, offering a more robust and explainable solution compared to traditional methods. The system's architecture allows for both efficient learning and transparent reasoning, addressing key challenges in program synthesis. The proposed method incorporates temporal reasoning to handle dynamic scenarios, a significant improvement over static constraint-based systems. The system's performance is evaluated through a series of synthetic benchmarks, demonstrating its ability to generate programs that satisfy both the logical constraints and the temporal requirements. The overall goal is to achieve a synergistic combination of neural and symbolic capabilities, leading to a more reliable and understandable program synthesis process.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22198396"
+    },
+    {
+      "id": "openalex-W7204757998",
+      "doi": "10.5281/zenodo.22216280",
+      "title": "Supporting Artifacts for \"Drone-AI Mobile Sensing Intelligence for Smart X: A Multimodal Human-in-the-Loop Architecture\"",
+      "title_zh": "",
+      "authors": [
+        "Davy Ronald Hermanus"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "工程学",
+      "topics": [
+        "UAV Applications and Optimization",
+        "Air Traffic Management and Optimization",
+        "Mobile Crowdsensing and Crowdsourcing"
+      ],
+      "abstract": "This repository provides the supporting research materials for the study entitled “Drone-AI Mobile Sensing Intelligence for Smart X: A Multimodal Human-in-the-Loop Architecture.” The study proposes a reusable Drone-AI Mobile Sensing Intelligence architecture that reframes unmanned aerial vehicles from conventional flying cameras into multimodal mobile sensing platforms. The architecture integrates Drone-IoT payloads, telemetry, adaptive connectivity, edge-cloud artificial intelligence, data governance, and human-in-the-loop decision control to support accountable sensing and decision intelligence across multiple Smart X domains. The research follows a Design Science Research orientation and evaluates the proposed artifact analytically rather than through a full field deployment. The evaluation examines whether the architecture can support heterogeneous data capture, preserve telemetry and data quality, transform multimodal sensor streams into AI-based situational interpretation, and provide a governed pathway toward human-approved action. The repository is intended to support transparency, reproducibility, and future implementation of the proposed architecture. Supporting artifacts may include architectural diagrams, sensor taxonomies, workflow definitions, scenario parameters, analytical tables, illustrative PM2.5 data, readiness metrics, maturity levels, and other materials associated with the evaluation of the proposed Drone-AI sensing framework. The proposed architecture supports multiple sensing modalities, including: RGB, thermal, multispectral, hyperspectral, and LiDAR sensing; particulate and air-chemistry sensing such as PM2.5, PM10, CO₂, CO, SO₂, NO₂, O₃, and VOC; microclimate sensing including temperature, humidity, pressure, wind, rain, and cloudiness; acoustic sensing; telemetry including GPS, IMU, altitude, speed, battery status, route, and timestamp; and external contextual sources such as CCTV, satellite observations, fixed IoT stations, weather stations, and field reports. The repository also supports the paper’s data-to-decision workflow, in which sensing data pass through quality control, multimodal fusion, AI analytics, decision support, and post-mission learning, while a human-in-the-loop gate retains responsibility for anomaly validation, correction, approval, override, and response prioritization. The study demonstrates how the same sensing architecture can be adapted to smart city, smart environment, smart disaster, smart industry, smart mining, and smart campus applications. Representative use cases include air-quality monitoring, pollution mapping, fire and smoke detection, gas leakage inspection, dust detection, environmental assessment, safety monitoring, and institutional decision support. The current evaluation is conceptual and analytical. The PM2.5 scenario included in the study is illustrative and should not be interpreted as measured field data. Future work is expected to develop a staged prototype with modular Drone-IoT payloads, calibrated multimodal datasets, edge-cloud inference, and human-in-the-loop dashboard evaluation.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22216280"
+    },
+    {
+      "id": "openalex-W7204763867",
+      "doi": "10.35711/aimi.v7.i1.116377",
+      "title": "Artificial intelligence in oculoplasty: Current applications and future perspectives",
+      "title_zh": "",
+      "authors": [
+        "Bijnya Birajita Panda",
+        "T. S. Lingaraju",
+        "Priyadarshini Mishra",
+        "Bhagabat Nayak"
+      ],
+      "year": 2026,
+      "venue": "Artificial Intelligence in Medical Imaging",
+      "field": "医学",
+      "topics": [
+        "Sinusitis and nasal conditions",
+        "Facial Rejuvenation and Surgery Techniques",
+        "Nasal Surgery and Airway Studies"
+      ],
+      "abstract": "Artificial intelligence (AI) is rapidly transforming clinical ophthalmology, with most validated applications in retinal and corneal imaging. In contrast, oculoplastic surgery – which encompasses eyelid, orbital, lacrimal, and periocular disorders – has only recently begun to incorporate AI into clinical workflows. Emerging applications include automated image analysis for eyelid malpositions, deep learning-based interpretation of orbital imaging, AI-assisted planning for dacryocystorhinostomy, and predictive modeling in reconstructive and aesthetic procedures. Despite encouraging results, challenges such as limited datasets, imaging heterogeneity, lack of multimodal integration, and regulatory readiness continue to hinder widespread clinical adoption. This mini-review summarizes current AI applications in oculoplastic surgery, identifies key knowledge gaps, and discusses future directions toward personalized, multimodal, AI-driven surgical care.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.35711/aimi.v7.i1.116377"
+    },
+    {
+      "id": "openalex-W7204774853",
+      "doi": "10.5281/zenodo.22216279",
+      "title": "Supporting Artifacts for \"Drone-AI Mobile Sensing Intelligence for Smart X: A Multimodal Human-in-the-Loop Architecture\"",
+      "title_zh": "",
+      "authors": [
+        "Davy Ronald Hermanus"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "工程学",
+      "topics": [
+        "UAV Applications and Optimization",
+        "Air Traffic Management and Optimization",
+        "Mobile Crowdsensing and Crowdsourcing"
+      ],
+      "abstract": "This repository provides the supporting research materials for the study entitled “Drone-AI Mobile Sensing Intelligence for Smart X: A Multimodal Human-in-the-Loop Architecture.” The study proposes a reusable Drone-AI Mobile Sensing Intelligence architecture that reframes unmanned aerial vehicles from conventional flying cameras into multimodal mobile sensing platforms. The architecture integrates Drone-IoT payloads, telemetry, adaptive connectivity, edge-cloud artificial intelligence, data governance, and human-in-the-loop decision control to support accountable sensing and decision intelligence across multiple Smart X domains. The research follows a Design Science Research orientation and evaluates the proposed artifact analytically rather than through a full field deployment. The evaluation examines whether the architecture can support heterogeneous data capture, preserve telemetry and data quality, transform multimodal sensor streams into AI-based situational interpretation, and provide a governed pathway toward human-approved action. The repository is intended to support transparency, reproducibility, and future implementation of the proposed architecture. Supporting artifacts may include architectural diagrams, sensor taxonomies, workflow definitions, scenario parameters, analytical tables, illustrative PM2.5 data, readiness metrics, maturity levels, and other materials associated with the evaluation of the proposed Drone-AI sensing framework. The proposed architecture supports multiple sensing modalities, including: RGB, thermal, multispectral, hyperspectral, and LiDAR sensing; particulate and air-chemistry sensing such as PM2.5, PM10, CO₂, CO, SO₂, NO₂, O₃, and VOC; microclimate sensing including temperature, humidity, pressure, wind, rain, and cloudiness; acoustic sensing; telemetry including GPS, IMU, altitude, speed, battery status, route, and timestamp; and external contextual sources such as CCTV, satellite observations, fixed IoT stations, weather stations, and field reports. The repository also supports the paper’s data-to-decision workflow, in which sensing data pass through quality control, multimodal fusion, AI analytics, decision support, and post-mission learning, while a human-in-the-loop gate retains responsibility for anomaly validation, correction, approval, override, and response prioritization. The study demonstrates how the same sensing architecture can be adapted to smart city, smart environment, smart disaster, smart industry, smart mining, and smart campus applications. Representative use cases include air-quality monitoring, pollution mapping, fire and smoke detection, gas leakage inspection, dust detection, environmental assessment, safety monitoring, and institutional decision support. The current evaluation is conceptual and analytical. The PM2.5 scenario included in the study is illustrative and should not be interpreted as measured field data. Future work is expected to develop a staged prototype with modular Drone-IoT payloads, calibrated multimodal datasets, edge-cloud inference, and human-in-the-loop dashboard evaluation.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22216279"
+    },
+    {
+      "id": "openalex-W7204812056",
+      "doi": "10.3390/educsci16091400",
+      "title": "Translanguaging Through Play: PLAYMOBIL Pro-Mediated Serious Play as an Inclusive Assessment Framework in Multilingual Higher Education (UK, Albania, and Kosovo)",
+      "title_zh": "",
+      "authors": [
+        "Eleni Meletiadou"
+      ],
+      "year": 2026,
+      "venue": "Education Sciences",
+      "field": "社会科学",
+      "topics": [
+        "Second Language Learning and Teaching",
+        "Multilingual Education and Policy",
+        "EFL/ESL Teaching and Learning"
+      ],
+      "abstract": "Traditional assessment practices in multilingual higher education continue to privilege text-based and monolingual demonstrations of learning, often limiting multilingual students’ opportunities to draw on their full linguistic repertoires and increasing assessment-related anxiety. Responding to calls for more equitable and inclusive assessment, this study investigates PLAYMOBIL pro-mediated Serious Play integrated with translanguaging as an innovative multimodal assessment framework that supports reflection, conceptual understanding, communication, and socio-emotional well-being. Employing a qualitative, comparative action-research design, the study was conducted across three higher education institutions in the United Kingdom, Albania, and Kosovo through three iterative action-research cycles involving implementation, observation, reflection, and pedagogical refinement. Data were triangulated through students’ three-dimensional PLAYMOBIL pro models accompanied by multilingual oral narratives, end-of-module reflective reports, qualitative post-intervention surveys, and lecturers’ observational field notes. Reflexive thematic analysis revealed that PLAYMOBIL pro-mediated translanguaging created an inclusive, dialogic, and low-anxiety assessment environment in which students exercised greater agency by drawing on their full linguistic and semiotic repertoires. The tactile and spatial affordances of PLAYMOBIL pro models enabled students to connect abstract disciplinary concepts with personal, cultural, and socio-economic experiences. Comparative findings highlighted contextual variations across sites. Students in the United Kingdom frequently described reduced English communication anxiety and increased confidence in expressing complex ideas, whereas students in Albania and Kosovo more often drew on translanguaging and spatial representations when engaging with regional and international business concepts. Across all settings, successive action-research cycles were associated with richer reflection and more elaborate conceptual explanations, suggesting that iterative pedagogical refinement may have contributed to these developments alongside the affordances of the PLAYMOBIL pro-mediated approach. This study advances scholarship on multilingual assessment by proposing an evidence-informed framework with potential applicability across multilingual higher education contexts and by illustrating how PLAYMOBIL pro-mediated Serious Play may support equity, learner agency, and meaningful participation.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.3390/educsci16091400"
+    },
+    {
+      "id": "openalex-W7204822909",
+      "doi": "10.35711/aimi.v7.i1.117331",
+      "title": "Artificial intelligence in healthcare: Technical advances, clinical integration, and future perspectives",
+      "title_zh": "",
+      "authors": [
+        "Abdulkadir Yıldırım",
+        "Öner Özdemır"
+      ],
+      "year": 2026,
+      "venue": "Artificial Intelligence in Medical Imaging",
+      "field": "人工智能",
+      "topics": [
+        "Artificial Intelligence in Healthcare and Education",
+        "COVID-19 diagnosis using AI",
+        "Explainable Artificial Intelligence (XAI)"
+      ],
+      "abstract": "This narrative review examines the evolution of artificial intelligence (AI) in healthcare, with a focus on the transition from early rule-based systems to modern deep learning architectures and their integration into clinical practice. We examine foundational technologies, including convolutional neural networks for image interpretation, vision transformers for modeling long-range dependencies, and generative adversarial networks for image reconstruction and synthesis. The review further discusses the emergence of multimodal foundation models that integrate imaging with textual and genomic data to enhance diagnostic robustness. The application of these technologies is analyzed across three primary domains: Radiology (image enhancement and automated interpretation), cardiology (electrocardiographic and echocardiography analysis), and oncology (tumor classification and treatment planning). Specific attention is given to the national context in Türkiye, highlighting local initiatives such as TEKNOFEST and TÜBİTAK-supported projects that foster domestic AI development. While AI offers significant benefits in terms of diagnostic accuracy and treatment workflow optimization, challenges regarding data privacy, algorithmic bias, and interpretability (“black box” issues) persist. Future progress depends on the development of explainable AI, rigorous prospective validation, and the establishment of ethical regulatory frameworks.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.35711/aimi.v7.i1.117331"
+    },
+    {
+      "id": "openalex-W4407424148",
+      "doi": "10.1007/s10994-026-07148-1",
+      "title": "Generative Distribution Prediction: A Unified Approach to Multimodal Learning",
+      "title_zh": "",
+      "authors": [
+        "Xinyu Tian",
+        "Xiaotong Shen"
+      ],
+      "year": 2026,
+      "venue": "Machine Learning",
+      "field": "计算机科学",
+      "topics": [
+        "Time Series Analysis and Forecasting",
+        "Anomaly Detection Techniques and Applications"
+      ],
+      "abstract": "Abstract Accurate prediction for multimodal data—including tabular, textual, and visual inputs or outputs—is essential for advancing analytics across diverse application domains. Existing methods often struggle to integrate heterogeneous data types while maintaining strong predictive performance. We introduce Generative Distribution Prediction (GDP), a model-agnostic framework that leverages high-fidelity multimodal synthetic data generated from the conditional distribution of interest, such as via conditional diffusion models, to enhance prediction across both structured and unstructured modalities. GDP is compatible with any expressive generative model and naturally supports transfer learning for domain adaptation. We provide a rigorous theoretical foundation for GDP, establishing statistical guarantees on its predictive accuracy when diffusion models serve as the generative backbone. By estimating the underlying data-generating distribution and enabling loss-adapted risk minimization, GDP delivers accurate point predictions in broad multimodal settings. We empirically validate GDP on a range of supervised learning tasks, including adaptive quantile regression, modal regression, tabular prediction, image captioning, and question answering, demonstrating its versatility and effectiveness across domains.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1007/s10994-026-07148-1"
+    },
+    {
+      "id": "openalex-W7164900502",
+      "doi": "10.1038/s41467-026-77250-4",
+      "title": "An interpretable learning framework for exploring superelastic degradation of NiTi shape memory alloys using multimodal data",
+      "title_zh": "",
+      "authors": [
+        "Y Hu",
+        "Chuanjie Wang",
+        "Ming Chen",
+        "Gang Chen",
+        "Chuanjie Wang",
+        "Bin Guo",
+        "Mingwang Fu"
+      ],
+      "year": 2026,
+      "venue": "Nature Communications",
+      "field": "Materials Science",
+      "topics": [
+        "Shape Memory Alloy Transformations",
+        "Titanium Alloys Microstructure and Properties",
+        "Advanced Memory and Neural Computing"
+      ],
+      "abstract": "Abstract Superelastic degradation (SED), a progressive loss of functionality in NiTi shape memory alloys under cyclic loading, remains challenging to characterize precisely, thereby constraining their engineering applications and broader adoption. In this study, an interpretable learning framework was proposed to predict the SED of NiTi alloys and uncover the degradation mechanisms using interpretability analysis methods. The framework incorporates multi-source microstructure and loading conditions through a multi-branch architecture that effectively decouples and integrates heterogeneous features, achieving an R 2 of 0.981. The competition between slip and transformation was identified: at high amplitudes, SED is dominated by transformation regions with high Schmid factors, whereas at low amplitudes, dislocation slip on the {011}〈001〉 and {011}〈111〉 systems prevails. Subsequently, the influence of Ni 4 Ti 3 precipitates was quantified, revealing a loading-dependent and non-uniformly beneficial role. The results highlight the potential of interpretable machine learning in exploring the cyclic deformation process and pave the way for AI-driven research on smart materials.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1038/s41467-026-77250-4"
+    },
+    {
+      "id": "openalex-W7204746467",
+      "doi": "10.1063/5.0285118",
+      "title": "In silico methodologies in computational medicine: From complex disease modeling to virtual clinics",
+      "title_zh": "",
+      "authors": [
+        "Matteo Italia",
+        "José García Otero",
+        "Laura Azzimonti",
+        "José Manuel García‐Aznar",
+        "Fabio Dercole",
+        "Juan Belmonte-Beitia"
+      ],
+      "year": 2026,
+      "venue": "Biophysics Reviews",
+      "field": "生物学",
+      "topics": [
+        "Gene Regulatory Network Analysis",
+        "Machine Learning in Healthcare",
+        "Bioinformatics and Genomic Networks"
+      ],
+      "abstract": "Computational medicine leverages in silico methodologies, grounded in biophysical principles, to model, understand, and control complex diseases across multiple spatial and temporal scales. This review provides a comprehensive overview of the conceptual foundations and of a structured workflow—a general modus operandi—that guide these investigations. We discuss key modeling approaches, ranging from systems biology and network medicine to mechanobiological models and interpretable machine learning, highlighting their convergence into a cohesive in silico continuum. Central to translating these tools is the virtual clinic paradigm, encompassing virtual patients, digital twins, and virtual cohorts, whose predictive utility relies on rigorous parameter identification, multimodal data integration, and systematic validation. We examine the challenges of developing models that are simultaneously informative, predictive, tractable, validated, and clinically relevant and highlight how in silico approaches can personalize medicine, optimize treatment strategies, de-risk clinical trials, reduce costs, and address ethical concerns. Finally, we critically discuss the advantages and limitations of this emerging field—from multiscale predictive power to data dependency and regulatory hurdles—and existing barriers and cutting-edge trends to tackle them, such as high-resolution data integration, combining biophysical mechanistic modeling with data-driven approaches, and closed-loop control for adaptive treatments. This review aims to offer both a structured framework for newcomers and a critical, forward-looking perspective on how in silico methodologies are accelerating translational research and improving patient outcomes.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": false,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1063/5.0285118"
+    },
+    {
+      "id": "openalex-W7204747456",
+      "doi": "10.5281/zenodo.22191826",
+      "title": "Multimodal Data Fusion with Graph-to-Graph Models",
+      "title_zh": "",
+      "authors": [
+        "Jincheng Zhang"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "计算机科学",
+      "topics": [
+        "Multimodal Machine Learning Applications",
+        "Advanced Graph Neural Networks",
+        "Generative Adversarial Networks and Image Synthesis"
+      ],
+      "abstract": "This paper introduces a novel approach to multimodal data fusion utilizing graph-to-graph models. The core idea is to represent diverse data modalities—including text, images, and audio—as interconnected nodes within a graph structure. This graph facilitates the fusion of information and enables reasoning across modalities. We leverage Graph Neural Networks (GNNs) to learn latent representations from each modality and then map these representations to the graph structure. An Adversarial Training process, utilizing a Generative Adversarial Network (GAN), refines the graph representation, promoting coherence and realism. The proposed method addresses the challenge of integrating heterogeneous data by providing a unified framework for representation learning and inference. The resulting graph facilitates both data fusion and intelligent reasoning, offering a promising direction for applications requiring cross-modal understanding.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22191826"
+    },
+    {
+      "id": "openalex-W7204750844",
+      "doi": "10.25157/jwp.v13i2.25316",
+      "title": "Formulating a Visual Communication Design Competency Framework for Global Creative Competence in English Education Master’s Students",
+      "title_zh": "",
+      "authors": [
+        "Rozanah Katrina Herda",
+        "Novan Edo Pratama",
+        "Cinthia Reswari",
+        "Aida Roihana Zuhro",
+        "Ernita Destianingrum",
+        "Eri Sulistiyo",
+        "Zohaib Hassan Sain"
+      ],
+      "year": 2026,
+      "venue": "Jurnal Wahana Pendidikan",
+      "field": "计算机科学",
+      "topics": [
+        "Digital Media and Visual Art",
+        "Literacy, Media, and Education",
+        "Digital Storytelling and Education"
+      ],
+      "abstract": "Future educators must possess Visual Communication Design (VCD) competencies due to the growing significance of multimodal communication in global educational contexts. The purpose of this study was to explore how master’s students in English education perceive the role of VCD competencies in promoting global creative competence and to create a competency framework to encourage this development. The study involved 21 students in an English Education master’s program at a university in Yogyakarta, Indonesia, who participated in the study. The research design used a qualitative exploratory research design. Semi-structured interviews and classroom observations were used to gather data, which were then subjected to Braun and Clarke’s (2006) thematic analysis. The findings revealed that students perceived VCD competencies as essential for effective communication, creativity, audience engagement, and professional development. Four major themes emerged: the meaning of VCD competencies, global visual literacy, cross-cultural visual communication, and the need for VCD competency development. While students demonstrated foundational visual literacy and awareness of audience needs, the global and intercultural dimensions of visual communication remained underdeveloped. Observation data confirmed that VCD elements were integrated into learning activities, particularly through visual presentations, poster analysis, and design discussions. Based on these findings, a VCD competency framework is proposed that encompasses visual literacy, design thinking, digital content creation, cross-cultural visual communication, and global design awareness. The framework guides integrating VCD competencies into English Education master’s programs to enhance students’ global creative competence In conclusion, VCD competencies are essential for strengthening master’s students’ global creative competence by enabling them to communicate ideas visually, creatively, and appropriately across diverse cultural contexts. Therefore, English Education master’s programs are recommended to systematically integrate VCD competency development into their curricula through interdisciplinary, practice-based, and globally oriented learning activities.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": false,
+      "pdf_url": "",
+      "url": "https://doi.org/10.25157/jwp.v13i2.25316"
+    },
+    {
+      "id": "openalex-W7204752500",
+      "doi": "10.5281/zenodo.22202602",
+      "title": "##基于多模态情感同步的交互式AI",
+      "title_zh": "",
+      "authors": [
+        "Jincheng Zhang"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "社会科学",
+      "topics": [
+        "Emotion and Mood Recognition",
+        "Gaze Tracking and Assistive Technology",
+        "Face recognition and analysis"
+      ],
+      "abstract": "This paper explores the development and implementation of an interactive AI system designed to achieve emotion synchronization through the analysis of multimodal data. The core claim is that precise user emotion perception and synchronized responses can be achieved by integrating voice, facial expressions, and physiological signals. The proposed system utilizes deep learning models to fuse these diverse data streams into unified feature vectors, enabling accurate prediction of the user's current emotional state. Subsequently, the AI adapts its language, behavior, and visual presentation to align with the predicted emotion, resulting in a more natural and effective interactive experience. Current AI interaction methods primarily rely on single-modality data, leading to limited accuracy in capturing nuanced emotional changes. This research introduces a novel approach by leveraging the comprehensive understanding of multimodal data, offering a significant advancement in the field of human-computer interaction and emotional AI.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22202602"
+    },
+    {
+      "id": "openalex-W7204757743",
+      "doi": "10.5281/zenodo.22197681",
+      "title": "# Black Howler Monkey: A Novel Metaheuristic Algorithm Inspired by the Vocalizations of the Black Howler Monkey",
+      "title_zh": "",
+      "authors": [
+        "Jincheng Zhang"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "计算机科学",
+      "topics": [
+        "Metaheuristic Optimization Algorithms Research",
+        "Music Technology and Sound Studies",
+        "Advanced Multi-Objective Optimization Algorithms"
+      ],
+      "abstract": "This paper presents Black Howler Monkey (BHM), a new metaheuristic algorithm inspired by the complex and dynamic vocalizations of the Black Howler Monkey ( *Alouatta involucrata* ). BHM leverages the monkey's strategic use of sound, particularly its varying intensity and patterns, to mimic effective exploration and exploitation strategies within optimization problems. The algorithm incorporates a novel 'Vocalization Intensity Modulation' (VIM) mechanism, which dynamically adjusts the search agent's movement based on the perceived \"loudness\" (fitness value) of the surrounding solution space. Furthermore, BHM incorporates a 'Call Frequency' parameter to control the balance between exploration and exploitation. The core of BHM involves a population of agents, each representing a potential solution. These agents move through the search space, guided by the VIM and call frequency parameters. The algorithm's performance is evaluated on a range of benchmark optimization problems, demonstrating its competitive capability compared to established metaheuristic algorithms like Genetic Algorithms (GA) and Particle Swarm Optimization (PSO). The results indicate that BHM provides a robust and efficient approach to solving complex optimization challenges, particularly those with multimodal landscapes. Future research will focus on adapting BHM to different problem domains and integrating it with machine learning techniques for enhanced performance.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22197681"
+    },
+    {
+      "id": "openalex-W7204758384",
+      "doi": "10.3389/fnagi.2026.1876233",
+      "title": "Interpretable machine learning model based on multimodal MRI radiomics for Alzheimer's disease diagnosis",
+      "title_zh": "",
+      "authors": [
+        "Nuerbiya Keranmu",
+        "Dilireba Aizezi",
+        "Xingyong Pan",
+        "Longtao Yang",
+        "Ying Liu",
+        "Jun Liu"
+      ],
+      "year": 2026,
+      "venue": "Frontiers in Aging Neuroscience",
+      "field": "人工智能",
+      "topics": [
+        "Radiomics and Machine Learning in Medical Imaging",
+        "Dementia and Cognitive Impairment Research",
+        "Brain Tumor Detection and Classification"
+      ],
+      "abstract": "Objective Alzheimer's disease (AD), the most common neurodegenerative disorder, is a leading cause of cognitive impairment and dementia in older adults. This study aimed to develop an interpretable machine learning model using multimodal MRI radiomics for the diagnosis of Alzheimer's disease. Materials and methods A total of 110 subjects (48 AD, 62 healthy control subjects) underwent 3D T1WI, DWI, and T2WI scans. Radiomics features were extracted from eight AD-related brain regions and selected using a three-step approach: variance thresholding, independent t -test, and LASSO–all conducted strictly within the training cohort. Logistic regression (LR) and random forest (RF) models were constructed for single-sequence and combined-sequence data. Model performance was evaluated using ROC analysis, calibration curves, and decision curve analysis. SHapley Additive exPlanations (SHAP) was applied for interpretability. Results Sixteen core radiomics features were retained. Combined-sequence models outperformed single-sequence models, achieving test AUCs of 0.989 and 0.970 for LR and RF, respectively. The LR combined-sequence model achieved an accuracy of 0.882, sensitivity of 0.800, and specificity of 0.947. SHAP analysis identified texture features from the parietal lobe as key contributors. A nomogram integrating radiomics and clinical factors (homocysteine, triglycerides) demonstrated excellent calibration and clinical net benefit. Conclusion Multimodal MRI radiomics combined with interpretable machine learning provides an accurate and explainable tool for AD diagnosis, with the combined LR model exhibiting superior performance.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "https://www.frontiersin.org/journals/aging-neuroscience/articles/10.3389/fnagi.2026.1876233/pdf",
+      "url": "https://doi.org/10.3389/fnagi.2026.1876233"
+    },
+    {
+      "id": "openalex-W7204759703",
+      "doi": "10.5281/zenodo.22191855",
+      "title": "基于多模态上下文的动态程序抽象",
+      "title_zh": "",
+      "authors": [
+        "Jincheng Zhang"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "计算机科学",
+      "topics": [
+        "Model-Driven Software Engineering Techniques",
+        "Software Engineering Research",
+        "Embedded Systems Design Techniques"
+      ],
+      "abstract": "This paper introduces a novel approach to program abstraction that leverages the power of multimodal context. Traditional program abstraction techniques often rely on static code analysis, which limits their adaptability and understanding of program runtime behavior. Our method addresses this limitation by integrating diverse data modalities, including code execution traces, debugging logs, code repository metadata, and natural language descriptions. We propose a core claim: that adaptive and dynamic program abstraction can be achieved through this multimodal fusion. The proposed mechanism centers around constructing a multimodal knowledge graph. Deep learning models, specifically Transformers and Graph Neural Networks (GNNs), are employed to learn relationships and perform semantic reasoning across these modalities. This enables the dynamic generation and updating of program abstraction representations. The novelty of our approach lies in its ability to capture the dynamic nature of programs and the contextual information surrounding their execution, offering a more robust and flexible solution compared to static analysis methods. The system's adaptability allows for a more accurate and nuanced understanding of program logic, ultimately leading to improved abstraction quality.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22191855"
+    },
+    {
+      "id": "openalex-W7204763847",
+      "doi": "10.5281/zenodo.22191827",
+      "title": "Multimodal Data Fusion with Graph-to-Graph Models",
+      "title_zh": "",
+      "authors": [
+        "Jincheng Zhang"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "计算机科学",
+      "topics": [
+        "Multimodal Machine Learning Applications",
+        "Advanced Graph Neural Networks",
+        "Generative Adversarial Networks and Image Synthesis"
+      ],
+      "abstract": "This paper introduces a novel approach to multimodal data fusion utilizing graph-to-graph models. The core idea is to represent diverse data modalities—including text, images, and audio—as interconnected nodes within a graph structure. This graph facilitates the fusion of information and enables reasoning across modalities. We leverage Graph Neural Networks (GNNs) to learn latent representations from each modality and then map these representations to the graph structure. An Adversarial Training process, utilizing a Generative Adversarial Network (GAN), refines the graph representation, promoting coherence and realism. The proposed method addresses the challenge of integrating heterogeneous data by providing a unified framework for representation learning and inference. The resulting graph facilitates both data fusion and intelligent reasoning, offering a promising direction for applications requiring cross-modal understanding.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22191827"
+    },
+    {
+      "id": "openalex-W7204764160",
+      "doi": "10.5281/zenodo.22204727",
+      "title": "A BiGRU-Based Multimodal Framework for Emotion Recognition Using Text, Speech, and Conversational Context",
+      "title_zh": "",
+      "authors": [
+        " Abirami A1",
+        "Miranda Lakshmi T",
+        "Martin A"
+      ],
+      "year": 2026,
+      "venue": "International Journal of Scientific Research and Engineering Trends",
+      "field": "社会科学",
+      "topics": [
+        "Emotion and Mood Recognition",
+        "Sentiment Analysis and Opinion Mining",
+        "Mental Health via Writing"
+      ],
+      "abstract": "Conversational emotion recognition is inherently challenging because an utterance's emotional label does not depend on wording alone — it is shaped jointly by content, delivery, and the dialogue history surrounding it. This work introduces a multimodal deep-learning pipeline that fuses textual, acoustic, and contextual signals to classify emotion at the utterance level within conversations. Linguistic meaning is captured through pretrained BERT embeddings, broad acoustic patterns through Wav2Vec2 embeddings, and explicit vocal-affect cues through handcrafted prosodic descriptors (pitch statistics and short-time energy). Once concatenated at the utterance level, these heterogeneous features are passed into a Bidirectional Gated Recurrent Unit (BiGRU) that captures dependencies across dialogue turns, with a fully connected head performing the final classification. Because the benchmark dataset's seven-class emotion taxonomy is heavily skewed, a weighted cross-entropy loss built from inverse class-frequency statistics is applied to offset this imbalance during training. On the MELD (Multimodal EmotionLines Dataset) benchmark, the proposed pipeline reaches 77.56% overall accuracy and a weighted F1-score of 0.804, with per-class ROC-AUC spanning 0.89 to 0.96. Confusion-matrix and error analysis reveal that common emotions such as neutral and joy are classified reliably, whereas rarer emotions such as fear and disgust remain substantially harder to recognize even with class-weighted training — underlining how persistent the data-imbalance problem remains in this domain and pointing toward future work on stronger imbalance-handling and context-modelling techniques",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22204727"
+    },
+    {
+      "id": "openalex-W7204766902",
+      "doi": "10.5281/zenodo.22201580",
+      "title": "Building a Multimodal Perception-Based Ontology System",
+      "title_zh": "",
+      "authors": [
+        "Jincheng Zhang"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "计算机科学",
+      "topics": [
+        "Semantic Web and Ontologies",
+        "Speech and dialogue systems",
+        "Multimodal Machine Learning Applications"
+      ],
+      "abstract": "This paper proposes a novel system for constructing ontologies based on multimodal perception. The core claim is that automated construction of a physically-grounded ontology, integrating data from diverse sensory modalities (visual, auditory, tactile, etc.), is achievable. This system leverages a core mechanism of multimodal sensor fusion combined with deep learning and knowledge graph technologies. Raw sensor data is mapped to nodes and relationships within the ontology, and probabilistic inference algorithms are used to refine and expand the ontology. The system's innovation lies in its emphasis on automation and multimodal fusion, contrasting with traditional ontology construction methods reliant on manual annotation and rule-based definitions. The system's potential impact lies in enabling more sophisticated understanding and reasoning capabilities across a range of applications, from robotics and autonomous navigation to intelligent environments and data integration. ---",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22201580"
+    },
+    {
+      "id": "openalex-W7204768729",
+      "doi": "10.61970/adlitip.1818812",
+      "title": "Current Advances in Age and Sex Estimation Using Artificial Intelligence in Forensic Odontology",
+      "title_zh": "",
+      "authors": [
+        "Burak Çarıkçıoğlu"
+      ],
+      "year": 2026,
+      "venue": "Turkish Journal of Forensic Medicine",
+      "field": "社会科学",
+      "topics": [
+        "Forensic Anthropology and Bioarchaeology Studies",
+        "Dental Radiography and Imaging",
+        "Dental Health and Care Utilization"
+      ],
+      "abstract": "Forensic odontology plays a crucial role in human identification, particularly in estimating age and sex in individuals without official identification documents. Although traditional methods are widely used, they have significant limitations such as population variability, observer-related errors, and low reproducibility. In recent years, artificial intelligence (AI) and machine learning approaches have provided more objective, rapid, and reproducible alternatives. In particular, convolutional neural network-based algorithms have reduced mean absolute error in age estimation and achieved accuracy rates exceeding 90% in sex classification by automatically extracting discriminative features from panoramic radiographs and cone-beam computed tomography data. National and international studies support the reliability of these technologies, especially in pediatric and adolescent populations where traditional methods are less precise. However, dataset biases, population-specific variability, limited generalizability across ethnic groups, and the non-transparent nature of deep learning models continue to pose challenges for interpretability and legal admissibility. Therefore, ethical and regulatory frameworks emphasizing transparency, data protection, and explainable-AI (XAI) principles are essential for the responsible implementation of these technologies. Future progress will depend on large-scale, multicenter validation studies and the integration of multimodal datasets combining radiographic, morphological, and demographic information. The adoption of XAI frameworks is expected to enhance transparency, accountability, and forensic reliability, thereby enabling. AI-based systems to become scientifically robust and legally valid tools in forensic odontology.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.61970/adlitip.1818812"
+    },
+    {
+      "id": "openalex-W7204772189",
+      "doi": "10.3389/fneur.2026.1878729",
+      "title": "A multidisciplinary multicentric approach to the identification of predictive biomarkers of response to erenumab – the protocol of the phase 4, European, open-label controlled trial of the BIOMIGA project",
+      "title_zh": "",
+      "authors": [
+        "Daniele Martinelli",
+        "Edoardo Caronna",
+        "Hauke Basedau",
+        "Rosaria Greco",
+        "Maria Magdalena Pocora",
+        "Max Schönthaler",
+        "Roberto De Icco",
+        "Gloria Vaghi",
+        "Grazia Sances",
+        "Natascia Ghiotto",
+        "Elena Guaschino",
+        "Marta Allena"
+      ],
+      "year": 2026,
+      "venue": "Frontiers in Neurology",
+      "field": "医学",
+      "topics": [
+        "Migraine and Headache Studies",
+        "Sexual function and dysfunction studies",
+        "Pain Mechanisms and Treatments"
+      ],
+      "abstract": "Background Migraine is a highly prevalent disease and the leading cause of years lived with disability in women. The development of therapies targeting the calcitonin gene-related peptide (CGRP) pathway has provided the first mechanism-based approach for migraine prevention. Although these treatments have demonstrated substantial efficacy, 30–50% of patients do not achieve an adequate clinical response. This variability underscores the need of prospectively identifying responders and non-responders, thereby enabling precise treatment allocation and improving clinical outcomes. Objectives BIOMIGA is a multicentre phase IV study aimed at identifying biomarkers of response to anti-CGRP therapy in migraine through integrated clinical, molecular, genetic, and neuroimaging profiling, with patients stratified according to treatment response after 3 months treatment cycle with an mAB targeting the CGRP receptor (erenumab). Methods Individuals with episodic and chronic migraine eligible for treatment with erenumab are enrolled along with healthy control subjects. Biomarkers are collected longitudinally at baseline and at the end of a 3-month treatment with erenumab. Circulating levels of CGRP and cytokines, genetic polymorphisms, and DNA methylation are assessed. Advanced structural and functional MRI scans are performed simultaneously, and comprehensive psychometric scales are used to map central pain processing and clinical burden. The final multimodal dataset is analysed using machine learning to develop and evaluate integrated models of treatment response. Expected results The integration of multimodal data from patients and healthy controls, stratified according to treatment response, will enable the identification of a panel of biomarkers predictive of response to anti-CGRP therapy. Conclusion The BIOMIGA trial represents a major step forward in the management of migraine. By combining a comprehensive multimodal profiling with a real-world, multicentre cohort of patients treated with erenumab, the study provides a framework for identifying robust biomarkers of treatment response and lays the foundation for truly individualised migraine prevention strategies. Clinical trial registration ClinicalTrials.gov , identifier NCT04503083.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2026.1878729/pdf",
+      "url": "https://doi.org/10.3389/fneur.2026.1878729"
+    },
+    {
+      "id": "openalex-W7204773499",
+      "doi": "10.1145/3821537",
+      "title": "Dual-Stream Self-Supervised Synergistic Network for Robust RGB-T Fusion and Tracking",
+      "title_zh": "",
+      "authors": [
+        "Jie Hu",
+        "Yuanhao Zheng",
+        "Sixian Chan"
+      ],
+      "year": 2026,
+      "venue": "ACM Transactions on Intelligent Systems and Technology",
+      "field": "计算机科学",
+      "topics": [
+        "Video Surveillance and Tracking Methods",
+        "Advanced Technologies in Various Fields",
+        "Advanced Neural Network Applications"
+      ],
+      "abstract": "RGB-T tracking is a challenging task due to the various obstacles, including occlusion, illumination, thermal crossover, and so on. However, existing research focuses purely on multimodal interaction or fusion design, while overlooking the effective handling of robustness in the face of challenges. Additionally, these paradigms naively fuse the two modals, without any contemplation of a collaboratively dominated fusion scheme. To address these issues, we propose DS 4 Net, a Dual-Stream Self-Supervised Synergistic Network for robust RGB-T fusion and tracking. First, unlike the traditional One-Stream paradigm, we introduce a novel Dual-Stream architecture, with two distinct versions of RGB-T modalities as input for self-supervised training to achieve balanced target representation learning and localization, thus addresses target appearance deviations caused by challenging scenarios. Then, to effectively bridge two streams, we design a Modality Reciprocal Adapter (MRA), which enhances the synergistic interaction of target-appearance cues and target-background information between streams during the training phase. Furthermore, to enhance robust fusion for tracking, we introduce Collaboratively Dominated Multimodal Fusion (CDMF), aiming at learning the fluctuating identities of modalities under challenging conditions provided by the Dual-Stream and collaboratively leveraging the dominant and auxiliary modalities to realize a more robust fusion. Finally, extensive experiments conducted on three RGB-T benchmark datasets, i.e., LasHeR, RGBT234 and RGBT210, demonstrate the excellence and superiority of our proposed method. In particular, We achieve 71.1% PR on LasHeR, 88.4% PR on RGBT234 and 87.1% on RGBT210, outperforming the popular approaches.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": false,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1145/3821537"
+    },
+    {
+      "id": "openalex-W7204777303",
+      "doi": "10.24019/jtavr.257",
+      "title": "Extended reality for educational anatomy: DIVAVR®, a new Oculus Immersive human Atlas with LLM",
+      "title_zh": "",
+      "authors": [
+        "Jean François Uhl",
+        "Juan Pablo Reyes González",
+        "Carlos A Rodriguez Herrera",
+        "Aubin Nassif",
+        "Sophie Bernard",
+        "Joaquim Jorge",
+        "Patrick NATAF"
+      ],
+      "year": 2026,
+      "venue": "Journal of Theoretical and Applied Vascular Research",
+      "field": "工程学",
+      "topics": [
+        "Anatomy and Medical Technology",
+        "Surgical Simulation and Training",
+        "Augmented Reality Applications"
+      ],
+      "abstract": "Introduction: Immersive reality has emerged as a groundbreaking and promising approach for teaching anatomy, providing unique learning experiences while complementing traditional educational methods. Existing immersive atlas software offers valuable tools but can be limited in anatomical detail, interactivity, or affordability. Objective: creation of a novel educational platform featuring an immersive human atlas that integrates high-resolution anatomical slices from the Visible Korean Human dataset (male and female) into a dynamic 3D environment for the immersive reality mask Oculus Meta 3S. Moreover, DIVAVR® is the only software of its kind explaining the technical development of the tool. Description: this platform enhances anatomical visualization of original 3D mesh models built from real anatomical slices and incorporates a multimodal Large Language Model (LLM) that supports user interaction through text, voice commands (speech-to-text), and synthesized voice output (text-to-speech) in multiple languages. Conclusion: By combining precise anatomical slices with an interactive 3D model and an AI assistant, the atlas provides an enriched and comprehensive learning experience for medical education. Although a formal user evaluation has not yet been conducted, a plan for a preliminary validation study is outlined. Compared to other powerful immersive platforms, DIVAVR® is designed to be affordable, easy to use, and multifunctional.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.24019/jtavr.257"
+    },
+    {
+      "id": "openalex-W7204782380",
+      "doi": "10.5281/zenodo.22201579",
+      "title": "Building a Multimodal Perception-Based Ontology System",
+      "title_zh": "",
+      "authors": [
+        "Jincheng Zhang"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "计算机科学",
+      "topics": [
+        "Semantic Web and Ontologies",
+        "Speech and dialogue systems",
+        "Multimodal Machine Learning Applications"
+      ],
+      "abstract": "This paper proposes a novel system for constructing ontologies based on multimodal perception. The core claim is that automated construction of a physically-grounded ontology, integrating data from diverse sensory modalities (visual, auditory, tactile, etc.), is achievable. This system leverages a core mechanism of multimodal sensor fusion combined with deep learning and knowledge graph technologies. Raw sensor data is mapped to nodes and relationships within the ontology, and probabilistic inference algorithms are used to refine and expand the ontology. The system's innovation lies in its emphasis on automation and multimodal fusion, contrasting with traditional ontology construction methods reliant on manual annotation and rule-based definitions. The system's potential impact lies in enabling more sophisticated understanding and reasoning capabilities across a range of applications, from robotics and autonomous navigation to intelligent environments and data integration. ---",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22201579"
     },
     {
       "id": "arxiv-2403.05530",
