@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-09-14T00:14:20.192075+00:00",
+    "updated_at": "2026-09-15T00:40:50.156845+00:00",
     "source": "OpenAlex",
     "queries": [
       "artificial intelligence",
@@ -10,7 +10,7 @@
       "multimodal learning"
     ],
     "window_years": 10,
-    "count": 1681
+    "count": 1744
   },
   "papers": [
     {
@@ -333,6 +333,41 @@
       "open_access": false,
       "pdf_url": "",
       "url": "https://doi.org/10.1075/jicb.25003.bar"
+    },
+    {
+      "id": "openalex-W7212451900",
+      "doi": "10.1038/s41591-026-04488-2",
+      "title": "Clinical usability of an explainable AI decision support tool and evaluation of multimodal models in NSCLC",
+      "title_zh": "",
+      "authors": [
+        "Arsela Prelaj",
+        "V. Miskovic",
+        "Matteo Sacco",
+        "A. Ferrarin",
+        "Cristina Maria Licciardello",
+        "Leonardo Provenzano",
+        "Margherita Favali",
+        "Ludovica Lerma",
+        "A. Zec",
+        "Andrea Spagnoletti",
+        "Monica Ganzinelli",
+        "Daniele Lorenzini"
+      ],
+      "year": 2026,
+      "venue": "Nature Medicine",
+      "field": "人工智能",
+      "topics": [
+        "Radiomics and Machine Learning in Medical Imaging",
+        "Cancer Immunotherapy and Biomarkers",
+        "Lung Cancer Diagnosis and Treatment"
+      ],
+      "abstract": "Abstract Despite a decade in, immunotherapy (IO) treatment selection in non-small cell lung cancer (NSCLC) remains largely guided by subgroup analyses and imperfect programmed death ligand 1 (PD-L1) and clinical scores. To our knowledge, I 3 LUNG ( NCT05537922 ) is currently the largest international, real-world, multimodal, artificial intelligence (AI)-based study, enrolling 2,396 patients. We integrated real-world clinical and blood (CB) data, computed tomography (CT) images, digital pathology (DP), and genomics into machine learning early fusion (MLEF) and deep learning intermediate fusion (DLIF) models. Machine learning (ML) and deep learning (DL) CB-only models achieved consistent performance across outcomes with area under the curve (AUC) up to 0.77 in the test (TEST) set. Performance drop in external validation (EXVAL) likely reflects population differences (AUC range: 0.55–0.72). AI models significantly surpassed PD-L1, Eastern Cooperative Oncology Group performance status (ECOG PS), neutrophil-to-lymphocyte ratio (NLR), lactate dehydrogenase (LDH) and Lung Immune Prognostic Index (LIPI) score in the independent TEST set. The clinical usability study showed that lung expert and nonexpert physicians improved their prediction with the explainable AI (XAI) ML CB-only based tool. Although multimodal integration with MLEF (CB+CT+DP) was associated with higher performance, its incremental benefit remains uncertain, not translated in TEST and EXVAL. The I 3 LUNG project is a pioneering framework showing the clinical usefulness of AI tools. A prospective validation of the decision support system (both CB and multimodal) is currently undergoing in more than 2,000 patients.",
+      "abstract_zh": "",
+      "citations": 1,
+      "popularity": 25,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1038/s41591-026-04488-2"
     },
     {
       "id": "openalex-W7117973916",
@@ -737,7 +772,7 @@
         "Jingyao WANG"
       ],
       "year": 2026,
-      "venue": "OpenAlex",
+      "venue": "PhilPapers (PhilPapers Foundation)",
       "field": "工程学",
       "topics": [
         "Digital Transformation in Industry",
@@ -749,8 +784,8 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "url": "https://works.hcommons.org:8y1ah-73k52",
-      "pdf_url": ""
+      "url": "https://philpapers.org/rec/DONASO-4",
+      "pdf_url": "https://philpapers.org/archive/DONASO-4.pdf"
     },
     {
       "id": "openalex-W7170884066",
@@ -28947,7 +28982,7 @@
     {
       "id": "openalex-W7209386386",
       "doi": "",
-      "title": "Inverse Detection for Deterministic Safety Monitoring in Dynamic Industrial Environments",
+      "title": "Inverse Detectie voor Deterministische Veiligheidsbewaking in Dynamische Industriële Omgevingen",
       "title_zh": "",
       "authors": [
         "Gilles Verschueren"
@@ -39918,8 +39953,8 @@
       "abstract_zh": "",
       "citations": 0,
       "popularity": 18,
-      "open_access": false,
-      "pdf_url": "",
+      "open_access": true,
+      "pdf_url": "https://ijcope.org/wp-content/uploads/2026/09/Hybrid-Multi-Model-Deep-Learning-for-Forest-Fire-Prediction-and-Real-Time-Detection-FireGuard-AI.pdf",
       "url": "https://doi.org/10.55041/ijcope.v2i9.084"
     },
     {
@@ -39969,7 +40004,7 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "pdf_url": "",
+      "pdf_url": "https://jastt.org/index.php/jasttpath/article/download/1117/167",
       "url": "https://doi.org/10.38094/jastt721117"
     },
     {
@@ -41568,6 +41603,1480 @@
       "open_access": true,
       "pdf_url": "",
       "url": "https://doi.org/10.5281/zenodo.22719828"
+    },
+    {
+      "id": "openalex-W7212463030",
+      "doi": "",
+      "title": "Dynamische Veiligheidsargumentatie voor Autonome Systemen: Naar Continue Veiligheid in een Complexe en Veranderende Omgeving",
+      "title_zh": "",
+      "authors": [
+        "Laure Buysse"
+      ],
+      "year": 2026,
+      "venue": "Lirias (KU Leuven)",
+      "field": "工程学",
+      "topics": [
+        "Safety Systems Engineering in Autonomy",
+        "Autonomous Vehicle Technology and Safety",
+        "Formal Methods in Verification"
+      ],
+      "abstract": "Safety assurance of autonomous systems faces a fundamental challenge. Traditional static safety (case) methodologies, developed for predictable and rule-based systems, are increasingly misaligned with the dynamic and data-driven nature of modern autonomous systems. These systems operate in complex and often unpredictable environments, where behaviour is continuously shaped by real-time sensory input. Despite this, the safety arguments used to justify their operation remain largely pre-defined and disconnected from runtime realities, creating a growing gap between the claimed and the actual safety of the system. This thesis addresses this challenge by developing a comprehensive framework for dynamic safety cases, enabling continuous safety assurance throughout the lifecycle of autonomous systems. The work is structured around two complementary objectives: (1) strengthening safety assurance at design time and (2) extending it into runtime operation. First, the thesis investigates system-theoretic process analysis (STPA) as a foundation for risk assessments of autonomous systems. Through case studies on an autonomous mobile robot and a collaborative industrial robot, the thesis demonstrates how STPA captures interaction-driven hazards and unsafe control actions that are not readily identified by traditional techniques. To manage the complexity of such systems, structured modelling mechanisms, including hierarchical context lists, are introduced to support systematic analysis and traceability from hazards to safety constraints. Second, the thesis advances the structuring of safety arguments by proposing reusable safety case patterns and establishing interoperability between widely used notations, specifically GSN and SACM. A formal mapping and accompanying machine-readable schemas are developed, enabling consistent, modular, and tool-supported safety case construction. These contributions facilitate clearer communication, reuse, and integration of safety arguments across stakeholders and systems. Building upon this design-time foundation, the thesis extends and operationalises dynamic safety case. A structured framework is defined that enables safety cases to evolve in response to new evidence, system updates, and environmental changes. Central to this framework are explicit dimensions of dynamism (namely dimensions of monitorability, assessability, and updateability) provide a structured way to characterise dynamism, expose trade-offs, support systematic tailoring to specific systems and contexts, and bridge design-time reasoning with runtime assurance. To support runtime assurance, the thesis presents methods for the identification of safety performance indicators directly from graphical safety cases. These indicators enable continuous monitoring of safety-relevant properties and provide measurable evidence for assessing the validity of safety claims during operation. In addition, a safety-oriented \\gls{digital twin} architecture is proposed, integrating real-time data and virtual system models to enhance monitoring, prediction, and validation capabilities within a dynamic safety case The feasibility of the proposed approach is demonstrated through the development of a software framework that integrates safety case modelling, indicator extraction, runtime monitoring, and visualisation. Applied to robotic case studies, this framework illustrates how safety cases can transition from static documentation to active artefacts that support operational decision-making. In summary, this thesis establishes methodological and technical foundations for dynamic safety assurance of autonomous systems. By linking system-theoretic analysis, structured argumentation, and runtime monitoring, it enables safety cases to remain valid and meaningful in complex and evolving contexts, thereby supporting the safe and trusted deployment of autonomous technologies.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": false,
+      "pdf_url": "",
+      "url": "https://lirias.kuleuven.be/handle/20.500.12942/793172"
+    },
+    {
+      "id": "openalex-W7172028958",
+      "doi": "10.5281/zenodo.21725876",
+      "title": "Bilge ve Yonga: Bilgisayar Mimarisi Çocuk Kitapları Serisi — Cilt 1: Kumdan Bilgisayara",
+      "title_zh": "",
+      "authors": [
+        "Oğuz Ergin"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "计算机科学",
+      "topics": [
+        "Teaching and Learning Programming",
+        "Science Education and Perceptions",
+        "Advanced Materials and Mechanics"
+      ],
+      "abstract": "Bilge ve Yonga, 7-12 yaş çocuklar için yazılmış Türkçe bir bilgisayar mimarisi kitap serisidir. Meraklı bir çocuk olan Bilge ile küçük robot arkadaşı Yonga, bilgisayarların içinde neler olup bittiğini birlikte keşfeder. Bu cilt, serinin Kumdan Bilgisayara alt serisini oluşturan 11 kitabı bir arada sunar. Bir yonga nasıl doğar, bilgisayar nasıl çalışır ve nasıl düşünmeyi öğrenir. İçindekiler 1.1a Kumdan Bilgisayar — Bir avuç kumdan yongaya uzanan üretim yolculuğu 1.1b Bazen Geçer, Bazen Geçmez — Silisyum neden seçildi: yarı iletken ve transistörün doğuşu 1.2 Milyarlarca Küçük Anahtar — Transistörler, açık-kapalı anahtarlar ve ikili sayılar 1.3 Bilgisayarın Beş Arkadaşı — İşlemci, bellek, depo, giriş ve çıkış 1.4 Al, Anla, Yap! — Bir bilgisayar buyrukları nasıl adım adım işler 1.5 Soğanın Katmanları — Donanımdan uygulamalara yazılımın katmanları 1.6 Moore'un Sihirli Takvimi — Moore Yasası ve transistörlerin çoğalışı 1.7 İki Kardeş: RISC ve CISC — İki buyruk kümesi ailesi: az ama hızlı, çok ama güçlü 1.8 Açık Kapı — Açık kaynak donanım ve RISC-V: paylaşınca herkes büyür 1.9 Bilgisayarın Ateşi — Güç, ısı ve güç duvarı: bilgisayar neden ısınır 1.10 Bilgisayar Düşünmeyi Öğreniyor — Yapay zeka hızlandırıcıları: CPU, GPU, TPU, NPU Her kitap, tam sayfa çizimler ve sayfa başına kısa bir metinle ilerler; sonunda \"Bugün Ne Öğrendik?\" özeti bulunur. Görseller tek bir karakter föyüne bağlı kalınarak yapay zekâ araçlarıyla üretilmiş ve tek tek elden geçirilmiştir. Serinin tamamı, tarayıcı okuyucusu ve tek tek kitapların PDF/EPUB sürümleriyle birlikte https://bilgeveyonga.oguzergin.net adresinde açık erişimlidir.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.21725876"
+    },
+    {
+      "id": "openalex-W7212420172",
+      "doi": "10.5281/zenodo.22738768",
+      "title": "Sentinel: Resident Autonomous Guardians for Critical Infrastructure — Authority, Partition and the Case Where the Site Is Gone",
+      "title_zh": "",
+      "authors": [
+        "Nicolas Waern"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "工程学",
+      "topics": [
+        "Infrastructure Resilience and Vulnerability Analysis",
+        "Military Strategy and Technology",
+        "UAV Applications and Optimization"
+      ],
+      "abstract": "Critical infrastructure sites in Europe are acquiring permanent robotic residents. Quadruped and wheeled platforms already patrol substations, switchyards and process plants on fixed schedules; aerial systems conduct perimeter and post-event surveys; and the same class of hardware is being fielded at scale under fire in Ukraine. The engineering question is no longer whether a plant can host a resident multi-agent system. It is what that system is permitted to do, who decides, and what happens to those permissions when the network is cut, when one of the agents is compromised, or when the asset the system was commissioned to protect no longer exists. This paper argues that the binding constraint is authority rather than autonomy. Published analysis of SROS2, the security tooling for ROS 2, documents inadequate permission revocation that permits infected nodes to retain access after certificate revocation. Swarm research has shown that a single Byzantine agent holding a constant value can capture the consensus of an entire non-Byzantine population. Meanwhile the cryptography under all of it is scheduled for replacement on published national timelines. The paper proposes Sentinel, a reference architecture in which authority is bound to a mission mandate rather than to a site controller; every grant is short-lived, locally verifiable without contacting an issuer, and expressed against a shared site twin that both humans and agents read. It treats the loss of the protected object as a designed state rather than an undefined one, and specifies a degradation ladder that ends in escorted protection of credentialed persons. The construction is placed inside Swedish and European law as it stands in 2026, including the Swedish Cybersecurity Act, the Protective Security Act, the European Commission Action Plan on Drone and Counter-Drone Security of 11 February 2026, and the requirement for meaningful human control attaching to European Defence Fund research. Contribution: a specification that can be rehearsed in a national cyber range before it is relied upon, with a nine-month programme of work that produces a verified demonstrator rather than a study. Released as a draft for open review; corrections and counter-evidence are welcome and will be credited in the next version.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22738768"
+    },
+    {
+      "id": "openalex-W7212427155",
+      "doi": "10.5281/zenodo.22735134",
+      "title": "Biohybrid Robotics: Emergence, Regulation and Consequence",
+      "title_zh": "",
+      "authors": [
+        "India J. Cook",
+        "Abdullah B Afzal",
+        "Sergey Astakhov",
+        "Matt Ryan",
+        "Rafael Mestre"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "跨学科",
+      "topics": [],
+      "abstract": "This policy note sets out the scope of the emerging technology of ‘biohybrid robotics’ and makes the case for an anticipatory regulatory framework which maximises the likelihood of the emerging applications having a positive societal impact and mitigates against potential risks. To highlight the necessity of specific governance of biohybrid robotics, we first discuss the existing landscape of relevant regulations which are fragmented and non-specific. We then forecast the potential positive and negative societal implications of the emerging technology, highlighting the opportunities but also the consequences of unregulated dual-use applications. Finally, we summarise findings from a stakeholder policy workshop in which we facilitated discussions on the practical implementation of regulatory frameworks, and the necessity of building public trust alongside biohybrid robotic emergence.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22735134"
+    },
+    {
+      "id": "openalex-W7212430217",
+      "doi": "10.20944/preprints202609.0981.v1",
+      "title": "Dynamic LeJEPA: Maximum Entropy Representations for Sequential Prediction and Latent Planning with Theoretical Guarantees",
+      "title_zh": "",
+      "authors": [
+        "Mohsen Mostafa"
+      ],
+      "year": 2026,
+      "venue": "Preprints.org",
+      "field": "计算机科学",
+      "topics": [
+        "Adversarial Robustness in Machine Learning",
+        "Autonomous Vehicle Technology and Safety",
+        "Explainable Artificial Intelligence (XAI)"
+      ],
+      "abstract": "Joint-Embedding Predictive Architectures (JEPAs) are emerging as the backbone for latent world models in robotics and autonomous driving, yet inject-ing domain knowledge (physics, kinematics, geometry) into these models consistently degrades performance—with no theoretical explanation. We resolve this paradox by proving, through six theorems, that prediction and representation learning are strictly decoupled: sequential prediction losses do not alter the optimal maximum-entropy embedding distribution. This yields a world-model design principle with a provable guarantee: encoder maximum-entropy, predictor dynamics, decoder physics—and explains why prior physics-informed JEPAs failed: they constrained the encoder, where constraints provably destroy the entropy guarantee, instead of the decoder, where they are provably benign. We validate this principle across two domains through a phased protocol covering measurement artifacts (Proposition 1: the N/K ≥ 5 reliability threshold), powered statistical testing (60 seeded runs across autonomous driving and bimanual robotic manipulation, paired Wilcoxon significance in every com-parison), and a budget replication demonstrating that the encoder-physics violation deepens with training. Phase 3 additionally characterizes an entropy–utility frontier on low-intrinsic-dimension robotics data, discovering that per-dimension variance matching alone produces correlated collapse—a failure mode invisible on high-dimensional data—and that optimization budget, not regularization weight, is the binding entropy constraint. To test whether the placement rule matters beyond representation quality, we further probe its consequence for downstream control: a latent cross-entropy-method (CEM) planner built on the trained Phase 3 models consistently outperforms real-action replay on model-internal cost across all three abla-tion conditions—an impossible result for genuine planning, since replaying the true actions is itself the ground-truth solution. A model-exploitation diagnostic traces this to the planner discovering action sequences ∼26% of the action range away from the true trajectory while still lowering the learned decoder’s cost, uniformly regardless of physics placement. We report this transparently as a boundary condition on the practical claim: offline latent planning against a learned decoder is not, by itself, suffi-cient evidence that a representation supports downstream control, and we identify closed-loop, simulator-verified execution as the necessary next test. The result is the first formal, cross-domain-validated blueprint for physics-informed world models: place physics where the theorem says it is safe, never where intuition suggests—together with a concrete, reproducible cautionary result on how easily offline latent planning can be mistaken for evidence of control competence.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.20944/preprints202609.0981.v1"
+    },
+    {
+      "id": "openalex-W7212434573",
+      "doi": "10.5281/zenodo.22735133",
+      "title": "Biohybrid Robotics: Emergence, Regulation and Consequence",
+      "title_zh": "",
+      "authors": [
+        "India J. Cook",
+        "Abdullah B Afzal",
+        "Sergey Astakhov",
+        "Matt Ryan",
+        "Rafael Mestre"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "跨学科",
+      "topics": [],
+      "abstract": "This policy note sets out the scope of the emerging technology of ‘biohybrid robotics’ and makes the case for an anticipatory regulatory framework which maximises the likelihood of the emerging applications having a positive societal impact and mitigates against potential risks. To highlight the necessity of specific governance of biohybrid robotics, we first discuss the existing landscape of relevant regulations which are fragmented and non-specific. We then forecast the potential positive and negative societal implications of the emerging technology, highlighting the opportunities but also the consequences of unregulated dual-use applications. Finally, we summarise findings from a stakeholder policy workshop in which we facilitated discussions on the practical implementation of regulatory frameworks, and the necessity of building public trust alongside biohybrid robotic emergence.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22735133"
+    },
+    {
+      "id": "openalex-W7212439656",
+      "doi": "10.58344/jii.v5i9.8105",
+      "title": "Peran Robot Berbasis Kecerdasan Buatan dalam Pembelajaran",
+      "title_zh": "",
+      "authors": [
+        "Muhammad Arief Rochman"
+      ],
+      "year": 2026,
+      "venue": "Jurnal Impresi Indonesia",
+      "field": "社会科学",
+      "topics": [
+        "Educational Curriculum and Learning Methods",
+        "Online Learning Methods and Innovations",
+        "Educational Methods and Outcomes"
+      ],
+      "abstract": "Perkembangan kecerdasan buatan (AI) mendorong transformasi pendidikan melalui robot berbasis AI sebagai media dan mitra pembelajaran. Penelitian ini mengkaji peran robot berbasis AI dalam pembelajaran dengan menelaah 26 dokumen berbahasa Inggris dan Indonesia yang terbit pada 2016-2026. Penelitian menggunakan pendekatan deskriptif kualitatif, dengan dokumen sebagai sumber data, content analysis sebagai teknik pengumpulan data, purposive sampling sebagai teknik cuplikan, triangulasi teori sebagai teknik keabsahan data, sementara analisis data dilakukan dengan mengacu pada model interaktif Miles dan Huberman. Robot pembelajaran berperan multidimensi dalam meningkatkan keterlibatan, motivasi, berpikir kritis, dan penguasaan konsep STEM peserta didik. Literatur internasional menyoroti social robots sebagai rekan belajar dan objek riset human-robot interaction, sedangkan literatur Indonesia berfokus pada pelatihan robotika dan pemanfaatan AI generatif melalui kegiatan pengabdian masyarakat. Tantangan implementasi meliputi keterbatasan infrastruktur, kesenjangan kompetensi pendidik, dan pertimbangan etis. Arus riset internasional dan Indonesia saling melengkapi dan bersama-sama menjadi dasar pengembangan robot pembelajaran yang lebih efektif, inklusif, dan sesuai konteks lokal.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.58344/jii.v5i9.8105"
+    },
+    {
+      "id": "openalex-W7105914224",
+      "doi": "10.5281/zenodo.17633313",
+      "title": "Rethinking Statistics and Causality: Why Cause and Effect Cannot Be Inferred from Projected Observations",
+      "title_zh": "",
+      "authors": [
+        "Diau, Egil"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "社会科学",
+      "topics": [
+        "Philosophy and History of Science",
+        "Child and Animal Learning Development",
+        "Bayesian Modeling and Causal Inference"
+      ],
+      "abstract": "Statistical and causal inference have long lacked clear and stable definitions of cause and effect, leading to assumptions and representations that assign them without establishing why those assignments should hold. This has contributed directly to persistent replication failures and broader empirical crises, where statistical results fail to correspond to empirical reality. The underlying problem is the same as a standard problem in 3D computer vision: a 3D object is projected by a camera onto an image plane, while the goal is to understand the original object from its projection. Statistical inference has the same setting: a high-dimensional original system is observed through low-dimensional projections, often represented as 1D variables, while the goal is to determine its properties and responses to different inputs. Cause and effect concern these responses, yet statistical and causal inference operate only on projected observations through regression, conditioning, factorization, and related operations. These operations do not access the original system and therefore provide no information about its responses to different inputs or about cause and effect. Adding assumptions does not resolve the original problem; it replaces the problem of understanding an unknown high-dimensional system with a different problem posed under a prespecified mathematical structure. Accordingly, determining cause and effect requires direct intervention on the original system, or intervention through a representation whose mapping has been shown to preserve the relevant properties of that system, such as a validated simulation.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.17633313"
+    },
+    {
+      "id": "openalex-W7164837218",
+      "doi": "10.5281/zenodo.20649183",
+      "title": "A multimodal dataset of images, gas sensor responses, and microbiological measurements for assessing the freshness of rainbow trout fillets",
+      "title_zh": "",
+      "authors": [
+        "Mauricio Bolaños Ledezma",
+        "José Luís Arciniegas Herrera",
+        "Javier Revelo-Fuelagán",
+        "Fernando Ortega",
+        "Diego H. Peluffo-Ordóńez"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "跨学科",
+      "topics": [],
+      "abstract": "This dataset contains a multimodal collection of image, sensor, and microbiological data acquired from rainbow trout (Oncorhynchus mykiss) fillets during refrigerated storage for freshness assessment studies. The dataset was designed to support the development and evaluation of machine learning, computer vision, electronic-nose analysis, and multimodal learning approaches for non-destructive fish freshness monitoring. A total of 80 fillet portions obtained from 20 rainbow trout were included in the experimental campaign. Of these, 59 fillet portions were monitored longitudinally through non-destructive image acquisition, while 30 fillets from this group were selected each day for sensor measurements. A separate subset of 21 fillet portions was selected on the first storage day and transferred to an external laboratory for destructive microbiological analysis. All samples were stored under refrigerated conditions at 4 °C for seven consecutive days. Three microbiological samples were destructively analyzed per storage day. The dataset integrates three complementary sources of information: 1. Digital Images High-resolution RAW images acquired from the 59 longitudinally monitored fillets using a Canon EOS Rebel T5i camera and stored in CR2 format. Corresponding preprocessed images stored in JPEG format. Two surfaces were photographed for each fillet: Skin surface. Flesh (muscle) surface. A total of 826 RAW images were initially acquired. Six images were excluded during quality control because of blur or inadequate illumination, resulting in 820 RAW images and 820 corresponding JPEG derivatives in the final dataset. The availability of both RAW and processed images allows researchers to develop and evaluate customized image-processing and computer-vision workflows. 2. Sensor Measurements Sensor measurements were obtained from 30 fillets per storage day. Volatile compounds associated with fish deterioration were monitored using an electronic-nose system composed of five MQ-series sensors: MQ3 MQ5 MQ9 MQ135 MQ137 Environmental conditions inside the measurement chamber were also recorded using: DS18B20 temperature sensor (°C). DHT22 relative humidity sensor (%). 3. Microbiological Measurements An independent microbiological dataset was obtained from 21 fillet portions selected on the first storage day and stored at 4 °C at an external laboratory. Three samples were destructively analyzed on each storage day during the seven-day storage period using Total Viable Count (TVC) according to ISO 4833-1:2013. The individual microbiological measurements are provided in tvc_individual_measurementes.csv including the storage day, Microbiology Sample ID, TVC in CFU/g, corresponding log10 CFU/g value, analysis date, and laboratory certificate URL. The three individual TVC measurements obtained for each storage day were used to characterize the storage-day microbiological status. Based on the daily mean TVC and a threshold of 7 log10 CFU/g, days 1–5 were classified as Fresh and days 6–7 as Spoiled.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.20649183"
+    },
+    {
+      "id": "openalex-W7212405177",
+      "doi": "10.1145/3832810.3832839",
+      "title": "DiCTR: A Distributed Lightweight Second-Order Optimization Algorithm for Deep Model Training",
+      "title_zh": "",
+      "authors": [
+        "Ruidong Yan",
+        "Liang Jin",
+        "Li Wang",
+        "Hongwei Zhang",
+        "Zhenhua Guo",
+        "Yinan Tang"
+      ],
+      "year": 2026,
+      "venue": "OpenAlex",
+      "field": "跨学科",
+      "topics": [],
+      "abstract": "Optimization algorithms, also referred to as optimizers, play a critical role in accelerating deep neural network training. First-order optimizers based on stochastic gradients are widely adopted in fields such as computer vision and natural language processing due to their ease of implementation and low computational cost. However, their theoretical convergence rate remains unsatisfactory. In contrast, second-order optimizers, which leverage the Hessian or Fisher information matrix to refine gradient updates, are emerging as promising alternatives to first-order methods. Unfortunately, classic second-order optimizers face significant challenges in both computation and memory. In this paper, we propose a second-order optimizer named distributed Cholesky triangular replacement (DiCTR). It makes two main contributions: (1) it introduces a lightweight second-order method that employs efficient matrix factorization and sparse matrix replacement techniques to reduce system computation and memory overhead; (2) it designs a novel distributed training framework encompassing both data parallelism and model parallelism, utilizing more efficient communication primitives instead of unnecessary AllReduce operations. We evaluate DiCTR’s performance by training representative models such as ResNet and BERT on real-world datasets. Experimental results demonstrate that our algorithm outperforms the baseline methods. For instance, DiCTR achieves a 1.13 × to 2.64 × improvement in training time on the classic ResNet-20 model, and a 1.29 × to 1.45 × improvement on the BERT‑large model. Moreover, compared to the baseline methods, DiCTR reduces memory usage by at least 14.18%.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1145/3832810.3832839"
+    },
+    {
+      "id": "openalex-W7212417964",
+      "doi": "10.5281/zenodo.22737370",
+      "title": "The Architecture of Modern Epistemology: Integrating Generative Artificial Intelligence, Process-Aware Pedagogy, and Experiential Ecologies in 21st-Century Education",
+      "title_zh": "",
+      "authors": [
+        "Ismail A Mageed"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "Neuroscience",
+      "topics": [
+        "Neuroscience, Education and Cognitive Function",
+        "Educational Leadership and Innovation",
+        "Artificial Intelligence in Education"
+      ],
+      "abstract": "The rapid development of educational technology and generative AI tools has caused a drastic change in the field of international education, shifting the location of the pedagogical locus from traditional content-centered instruction to technology-mediated, learner-centric, and experiential frameworks (Arifani et al., 2026). The paper analyses modern innovative pedagogical practices and focuses on the structural intersection of process-aware instructional design, AI-driven adaptive learning ecosystems, and experiential approaches, including problem-based learning (PBL) and gamification. High-impact empirical and theoretical literature published in the period 2020-2026 is synthesized to analyze how contemporary pedagogies can enhance the cognitive, affective, and skill-based learning outcomes of the students. However, this research also identifies long-lasting problems and issues in the implementation of AI in education, such as digital divide, risk of cognitive offloading, algorithmic biases, legal constraints imposed by regulations like GDPR, etc., and analyzes the risks of computer vision syndrome and musculoskeletal disorder in the case of online education (Francis et al., 2025; Yerunkar, 2026). To describe future direction in the field of implementation of AI in education, critical open problems and the systematic roadmap are provided in this paper.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22737370"
+    },
+    {
+      "id": "openalex-W7212418472",
+      "doi": "10.46889/jcmr.2026.7301",
+      "title": "Beyond Behavioral Observation: Digital Biomarkers and Precision Sedation for Non-Verbal Dental Patients: Narrative Review",
+      "title_zh": "",
+      "authors": [
+        "Raquel Del Giudice",
+        "Yohana Rodriguez-Perez",
+        "Arlen Blanco-Rodriguez",
+        "Lucia Argüello-Lacayo",
+        "Alyssa Alvarez-Campa"
+      ],
+      "year": 2026,
+      "venue": "Journal of Clinical Medical Research",
+      "field": "Dentistry",
+      "topics": [
+        "Dental Anxiety and Anesthesia Techniques",
+        "Anesthesia and Sedative Agents",
+        "Dental Research and COVID-19"
+      ],
+      "abstract": "Behavioral assessment scales are widely used to evaluate dental anxiety in clinical practice; however, they have important limitations because they rely on subjective interpretation and may not accurately identify anxiety in non-verbal dental patients, including individuals with developmental disabilities and anxious pediatric patients with limited communication abilities. Recent advances in objective physiological monitoring and digital technologies offer promising alternatives for individualized anxiety assessment and precision sedation in this vulnerable population. This review examines whether objective digital biomarkers can overcome the limitations of behavioral assessment in non-verbal dental patients and how close these technologies are to clinical application in precision sedation. This narrative review synthesizes evidence on physiological biomarkers, including heart rate variability, electrodermal activity, pupillometry and respiratory variability, as well as computer vision, multimodal biosensing and closed-loop monitoring systems. We retrieved relevant literature from PubMed, Scopus and Google Scholar, prioritizing studies published from 2019 onward. Current evidence indicates that objective physiological biomarkers, computer vision and multimodal wearable biosensing provide complementary information for anxiety assessment in non-verbal dental patients. Integrating these digital biomarkers with artificial intelligence enables individualized monitoring and establishes the foundation for precision, closed-loop sedation; however, further clinical validation and standardization remain necessary. No single technique is sufficient on its own; rather, a multimodal, patient-specific approach is needed to improve the accuracy and safety of anxiety management in special care dentistry, particularly in populations for whom conventional behavioral observation is limited or unreliable.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.46889/jcmr.2026.7301"
+    },
+    {
+      "id": "openalex-W7212421684",
+      "doi": "10.5281/zenodo.22730836",
+      "title": "A multimodal dataset of images, gas sensor responses, and microbiological measurements for assessing the freshness of rainbow trout fillets",
+      "title_zh": "",
+      "authors": [
+        "Mauricio Bolaños Ledezma",
+        "José Luís Arciniegas Herrera",
+        "Javier Revelo-Fuelagán",
+        "Fernando Ortega",
+        "Diego H. Peluffo-Ordóńez"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "跨学科",
+      "topics": [],
+      "abstract": "This dataset contains a multimodal collection of image, sensor, and microbiological data acquired from rainbow trout (Oncorhynchus mykiss) fillets during refrigerated storage for freshness assessment studies. The dataset was designed to support the development and evaluation of machine learning, computer vision, electronic-nose analysis, and multimodal learning approaches for non-destructive fish freshness monitoring. A total of 80 fillet portions obtained from 20 rainbow trout were included in the experimental campaign. Of these, 59 fillet portions were monitored longitudinally through non-destructive image acquisition, while 30 fillets from this group were selected each day for sensor measurements. A separate subset of 21 fillet portions was selected on the first storage day and transferred to an external laboratory for destructive microbiological analysis. All samples were stored under refrigerated conditions at 4 °C for seven consecutive days. Three microbiological samples were destructively analyzed per storage day. The dataset integrates three complementary sources of information: 1. Digital Images High-resolution RAW images acquired from the 59 longitudinally monitored fillets using a Canon EOS Rebel T5i camera and stored in CR2 format. Corresponding preprocessed images stored in JPEG format. Two surfaces were photographed for each fillet: Skin surface. Flesh (muscle) surface. A total of 826 RAW images were initially acquired. Six images were excluded during quality control because of blur or inadequate illumination, resulting in 820 RAW images and 820 corresponding JPEG derivatives in the final dataset. The availability of both RAW and processed images allows researchers to develop and evaluate customized image-processing and computer-vision workflows. 2. Sensor Measurements Sensor measurements were obtained from 30 fillets per storage day. Volatile compounds associated with fish deterioration were monitored using an electronic-nose system composed of five MQ-series sensors: MQ3 MQ5 MQ9 MQ135 MQ137 Environmental conditions inside the measurement chamber were also recorded using: DS18B20 temperature sensor (°C). DHT22 relative humidity sensor (%). 3. Microbiological Measurements An independent microbiological dataset was obtained from 21 fillet portions selected on the first storage day and stored at 4 °C at an external laboratory. Three samples were destructively analyzed on each storage day during the seven-day storage period using Total Viable Count (TVC) according to ISO 4833-1:2013. The individual microbiological measurements are provided in tvc_individual_measurementes.csv including the storage day, Microbiology Sample ID, TVC in CFU/g, corresponding log10 CFU/g value, analysis date, and laboratory certificate URL. The three individual TVC measurements obtained for each storage day were used to characterize the storage-day microbiological status. Based on the daily mean TVC and a threshold of 7 log10 CFU/g, days 1–5 were classified as Fresh and days 6–7 as Spoiled.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22730836"
+    },
+    {
+      "id": "openalex-W7212429253",
+      "doi": "10.5281/zenodo.22734198",
+      "title": "Computer-Vision Measurement of Turbidity in Large-Volume Liquid Samples: Background Selection, Imaging Geometry, and Preliminary Evaluation Against NTU",
+      "title_zh": "",
+      "authors": [
+        "Melinda B. Chu"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "环境科学",
+      "topics": [
+        "Water Quality Monitoring Technologies",
+        "Water Quality Monitoring and Analysis",
+        "Biosensors and Analytical Detection"
+      ],
+      "abstract": "Turbidity is conventionally measured using dedicated optical instrumentation that interrogates a controlled sample volume. Camera-based measurement provides a complementary approach in which a substantially larger visible liquid field can be evaluated using intensity, color, spatial, textural, and potentially temporal information. This preliminary study evaluated smartphone-based computer-vision measurement of controlled turbidity conditions using a homogeneous coffee-creamer colloid as an optical surrogate. Six conditions spanning double-filtered water, tap water, and increasing creamer additions were measured using a handheld turbidimeter, producing reference values of 2.7, 8.0, 16.3, 21.0, 29.7, and 43.2 NTU. The same samples were photographed against white and blue backgrounds to investigate whether background selection influences computational measurement performance. Selected optical features were defined before analysis and included global grayscale and RGB intensity, normalized color features, background transmission/contrast, edge energy, and exploratory high-pass energy. Against a white background, mean grayscale intensity decreased with NTU (R² = 0.820; Spearman ρ = −0.943). Against a blue background, edge energy (R² = 0.720; ρ = −0.886) and high-pass energy (R² = 0.720; ρ = −0.771) tracked NTU more strongly than mean intensity (R² = 0.345). Importantly, the blue background did not uniformly improve all measurements. Instead, background selection changed which classes of optical information tracked turbidity most effectively: global intensity measurements performed better against white, whereas edge and high-frequency features performed substantially better against blue. These single-run observations do not establish analytical calibration, accuracy, detection limits, or equivalence to conventional turbidity measurement. They provide preliminary evidence that low-cost camera-derived optical measurements can track conventionally measured turbidity and that background and imaging geometry should be treated as measurement-design variables in computer-vision-based water analysis. Related Papers: 1. Chu MB. Introducing the Spatiotextural Computer Vision Approach to Optical Assays: A Framework for Quantitative Analysis of Assay-Generated Spatial Patterns and Texture. https://doi.org/10.5281/zenodo.22721277 2. Chu MB. Beyond Object Detection: AI for Optical Assays and Real-World Diagnostic Intelligence. Zenodo. 2026. https://doi.org/10.5281/zenodo.19873271 3. Chu MB. Signal Generation and Pattern-Based Detection: Microplastics-Nanoplastics, PCR, and ELISA. Zenodo. 2026. https://doi.org/10.5281/zenodo.19521084 4. Chu MB. Assay Design for Computer Vision: From Chemical Reactions to Spatiotextural Measurement in Water and Other Liquids. https://doi.org/10.5281/zenodo.22729884 5. Chu MB. Computer-Vision Measurement of Suspended Solids: A Preliminary Kaolin Model. https://doi.org/10.5281/zenodo.22732054 6. Chu MB. Spatiotemporal Computer-Vision Measurement of Flocculation and Settling: A Preliminary Kaolin–Polymer Model. https://doi.org/10.5281/zenodo.22733016.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22734198"
+    },
+    {
+      "id": "openalex-W7212429482",
+      "doi": "10.5281/zenodo.22737369",
+      "title": "The Architecture of Modern Epistemology: Integrating Generative Artificial Intelligence, Process-Aware Pedagogy, and Experiential Ecologies in 21st-Century Education",
+      "title_zh": "",
+      "authors": [
+        "Ismail A Mageed"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "Neuroscience",
+      "topics": [
+        "Neuroscience, Education and Cognitive Function",
+        "Educational Leadership and Innovation",
+        "Artificial Intelligence in Education"
+      ],
+      "abstract": "The rapid development of educational technology and generative AI tools has caused a drastic change in the field of international education, shifting the location of the pedagogical locus from traditional content-centered instruction to technology-mediated, learner-centric, and experiential frameworks (Arifani et al., 2026). The paper analyses modern innovative pedagogical practices and focuses on the structural intersection of process-aware instructional design, AI-driven adaptive learning ecosystems, and experiential approaches, including problem-based learning (PBL) and gamification. High-impact empirical and theoretical literature published in the period 2020-2026 is synthesized to analyze how contemporary pedagogies can enhance the cognitive, affective, and skill-based learning outcomes of the students. However, this research also identifies long-lasting problems and issues in the implementation of AI in education, such as digital divide, risk of cognitive offloading, algorithmic biases, legal constraints imposed by regulations like GDPR, etc., and analyzes the risks of computer vision syndrome and musculoskeletal disorder in the case of online education (Francis et al., 2025; Yerunkar, 2026). To describe future direction in the field of implementation of AI in education, critical open problems and the systematic roadmap are provided in this paper.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22737369"
+    },
+    {
+      "id": "openalex-W7212433569",
+      "doi": "10.70267/aitia.2026384389",
+      "title": "From Perception to Cognition: A Review of Neural- Symbolic AI for Computer Vision",
+      "title_zh": "",
+      "authors": [
+        "Luchang He"
+      ],
+      "year": 2026,
+      "venue": "Exploring Science Academic Conference Series",
+      "field": "跨学科",
+      "topics": [],
+      "abstract": "Deep learning has improved core computer vision tasks a great deal, but most perception-based methods still have weak symbol grounding, limited compositional reasoning, poor generalization, and low interpretability. Neural-Symbolic AI combines neural featu re learning with symbolic reasoning and has become an active approach for dealing with these problems. This paper reviews recent work on vision-focused Neural-Symbolic AI through the perception-reasoning-cognition pathway. It covers representative architec tures, including scene-graph reasoning models, neural modules with differentiable logic, knowledge-graph-enhanced frameworks, and 3D neuro-symbolic grounding methods, along with their applications in visual reasoning and scene understanding. The review examines the main achievements, current limitations, and future prospects of the field. Overall, Neural -Symbolic AI shifts computer vision from pure perception toward structured understanding and reasoning, although problems remain in scalable reasoning, knowledge integration, and real-world deployment. It offers a practical direction for building more explainable and reliable vision systems.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.70267/aitia.2026384389"
+    },
+    {
+      "id": "openalex-W7212433857",
+      "doi": "10.70267/aitia.2026435440",
+      "title": "The Impact of Artificial Intelligence on the Generative Design and Cross-Domain Performance of Athletic Footwear",
+      "title_zh": "",
+      "authors": [
+        "Zheyuan Liu"
+      ],
+      "year": 2026,
+      "venue": "Exploring Science Academic Conference Series",
+      "field": "跨学科",
+      "topics": [],
+      "abstract": "The athletic footwear industry is shifting from conventional linear R&D pipelines to advanced digital workflows driven by artificial intelligence (AI). This paper evaluates how AI-driven tools optimize established manufacturing paradigms, focusing on the s ystemic transition within sports shoe development rather than isolated technical breakthroughs. However, conventional pipelines face severe bottlenecks, including low concept iteration efficiency, prolonged finite element simulation latencies, and high tooling costs that impede mass customization. To address these challenges, this study analyzes a triple-transformation methodology. First, Latent Diffusion Models and Kansei Engineering are applied to quantify consumer perception and accelerate conceptual design. Second, machine learning surrogate models replace time-consuming simulations for rapid biomechanical and topological optimization. Third, computer vision frameworks are integrated with additive manufacturing to bypass physical molds and streamline personalized production pipelines. The evaluation demonstrates that the integration of predictive algorithms and 3D printing shortens development cycles while achieving precise gait customization. In conclusion, human-machine collaboration will emerge as the dominant paradigm in footwear en gineering, successfully balancing industrial economies of scale with absolute product personalization.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.70267/aitia.2026435440"
+    },
+    {
+      "id": "openalex-W7212443170",
+      "doi": "10.5281/zenodo.22732054",
+      "title": "Computer-Vision Measurement of Suspended Solids: A Preliminary Kaolin Model",
+      "title_zh": "",
+      "authors": [
+        "Melinda B. Chu"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "环境科学",
+      "topics": [
+        "Fecal contamination and water quality",
+        "Microplastics and Plastic Pollution",
+        "Soil Geostatistics and Mapping"
+      ],
+      "abstract": "Suspended solids alter the optical properties of water through attenuation, scattering, particulate distribution, and spatial heterogeneity. Conventional total suspended solids (TSS) measurement provides an established quantitative reference but generally requires collection and processing of a water sample. Camera-based measurement may provide a complementary, low-cost approach for rapid or repeated observation of suspended-solids conditions. This preliminary technical study evaluated whether controlled additions of kaolin clay produce distinguishable optical states under standardized large-field smartphone imaging. Water samples containing 0, 0.005, 0.025, and 0.250 g of added kaolin clay into 400 mL samples (zero, 12.5 mg/L, 62.5 mg/L and 625 mg/L concentration respectively) were photographed using a standardized imaging enclosure and fixed top-down acquisition geometry. Increasing kaolin loading produced readily apparent changes in transmission, opacity, background visibility, color/intensity distribution, and particulate appearance. The study is presented as a feasibility demonstration rather than a TSS calibration. Added kaolin mass was experimentally controlled but was not independently measured using a gravimetric TSS reference method. The observations support subsequent investigation of whether scalar, spatial, and spatiotextural image features can be calibrated against conventional TSS measurements to provide quantitative or screening-level estimates of suspended-solids. Related Papers: 1. Chu MB. Introducing the Spatiotextural Computer Vision Approach to Optical Assays: A Framework for Quantitative Analysis of Assay-Generated Spatial Patterns and Texture. https://doi.org/10.5281/zenodo.22721277 2. Chu MB. Beyond Object Detection: AI for Optical Assays and Real-World Diagnostic Intelligence. Zenodo. 2026. https://doi.org/10.5281/zenodo.19873271 3. Chu MB. Signal Generation and Pattern-Based Detection: Microplastics-Nanoplastics, PCR, and ELISA. Zenodo. 2026. https://doi.org/10.5281/zenodo.19521084 4. Chu MB. Assay Design for Computer Vision: From Chemical Reactions to Spatiotextural Measurement in Water and Other Liquids. https://doi.org/10.5281/zenodo.22729884",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22732054"
+    },
+    {
+      "id": "openalex-W7212443603",
+      "doi": "10.5281/zenodo.22731096",
+      "title": "Rethinking Statistics and Causality: Why Cause and Effect Cannot Be Inferred from Projected Observations",
+      "title_zh": "",
+      "authors": [
+        "Egil Diau"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "计算机科学",
+      "topics": [
+        "Bayesian Modeling and Causal Inference",
+        "Qualitative Comparative Analysis Research",
+        "Face Recognition and Perception"
+      ],
+      "abstract": "Statistical and causal inference have long lacked clear and stable definitions of cause and effect, leading to assumptions and representations that assign them without establishing why those assignments should hold. This has contributed directly to persistent replication failures and broader empirical crises, where statistical results fail to correspond to empirical reality. The underlying problem is the same as a standard problem in 3D computer vision: a 3D object is projected by a camera onto an image plane, while the goal is to understand the original object from its projection. Statistical inference has the same setting: a high-dimensional original system is observed through low-dimensional projections, often represented as 1D variables, while the goal is to determine its properties and responses to different inputs. Cause and effect concern these responses, yet statistical and causal inference operate only on projected observations through regression, conditioning, factorization, and related operations. These operations do not access the original system and therefore provide no information about its responses to different inputs or about cause and effect. Adding assumptions does not resolve the original problem; it replaces the problem of understanding an unknown high-dimensional system with a different problem posed under a prespecified mathematical structure. Accordingly, determining cause and effect requires direct intervention on the original system, or intervention through a representation whose mapping has been shown to preserve the relevant properties of that system, such as a validated simulation.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22731096"
+    },
+    {
+      "id": "openalex-W7212444719",
+      "doi": "10.5281/zenodo.22733016",
+      "title": "Spatiotemporal Computer-Vision Measurement of Flocculation and Settling: A Preliminary Kaolin–Polymer Model",
+      "title_zh": "",
+      "authors": [
+        "Melinda B. Chu"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "环境科学",
+      "topics": [
+        "Coagulation and Flocculation Studies",
+        "Fecal contamination and water quality",
+        "Minerals Flotation and Separation Techniques"
+      ],
+      "abstract": "Coagulation, flocculation, clarification, and settling are dynamic water-treatment processes that generate spatially and temporally evolving optical states. Conventional image-analysis approaches can characterize individual flocs, particle dimensions, or discrete image features; however, the entire liquid field may also contain information relevant to process-state measurement. This technical note presents a preliminary spatiotemporal computer-vision approach to flocculation and settling using a controlled kaolin suspension and a commercial charged-polymer clarifier. Side-view smartphone images were acquired at 0, 5, 10, 20, 30, and 60 minutes following polymer addition. The image sequence demonstrated progressive development of vertically heterogeneous optical zones, including clarification, redistribution of suspended material, and accumulation within lower regions of the liquid column. Polymer-treated samples were additionally compared with untreated kaolin and clear-water controls. The experiment extends the recently described Assay Design for Computer Vision framework by illustrating that camera orientation itself can be treated as a measurement-design variable. Whereas top-view imaging may preserve radial, surface, or planar spatial information, side-view imaging was more informative for the present process because gravity-driven settling and clarification generated predominantly vertical optical structure. A pre-existing Vertical Uniformity Index (VUI), previously developed independently for side-view analysis of time-resolved liquid suspensions, is proposed as an exploratory quantitative representation of this behavior. VUI measures grayscale-intensity variation across vertical regions of the liquid column, with increasing values corresponding to increasing vertical heterogeneity. The experiment is presented as a feasibility demonstration rather than an optimized coagulation/flocculation protocol or validated treatment measurement. The results support further investigation of low-cost camera systems for longitudinal monitoring of flocculation, clarification, settling, and related water and wastewater treatment processes. Related Papers: 1. Chu MB. Introducing the Spatiotextural Computer Vision Approach to Optical Assays: A Framework for Quantitative Analysis of Assay-Generated Spatial Patterns and Texture. https://doi.org/10.5281/zenodo.22721277 2. Chu MB. Beyond Object Detection: AI for Optical Assays and Real-World Diagnostic Intelligence. Zenodo. 2026. https://doi.org/10.5281/zenodo.19873271 3. Chu MB. Signal Generation and Pattern-Based Detection: Microplastics-Nanoplastics, PCR, and ELISA. Zenodo. 2026. https://doi.org/10.5281/zenodo.19521084 4. Chu MB. Assay Design for Computer Vision: From Chemical Reactions to Spatiotextural Measurement in Water and Other Liquids. https://doi.org/10.5281/zenodo.22729884 5. Computer-Vision Measurement of Suspended Solids: A Preliminary Kaolin Model. https://doi.org/10.5281/zenodo.22732054",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22733016"
+    },
+    {
+      "id": "openalex-W7212452302",
+      "doi": "10.5281/zenodo.22732053",
+      "title": "Computer-Vision Measurement of Suspended Solids: A Preliminary Kaolin Model",
+      "title_zh": "",
+      "authors": [
+        "Melinda B. Chu"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "环境科学",
+      "topics": [
+        "Fecal contamination and water quality",
+        "Microplastics and Plastic Pollution",
+        "Soil Geostatistics and Mapping"
+      ],
+      "abstract": "Suspended solids alter the optical properties of water through attenuation, scattering, particulate distribution, and spatial heterogeneity. Conventional total suspended solids (TSS) measurement provides an established quantitative reference but generally requires collection and processing of a water sample. Camera-based measurement may provide a complementary, low-cost approach for rapid or repeated observation of suspended-solids conditions. This preliminary technical study evaluated whether controlled additions of kaolin clay produce distinguishable optical states under standardized large-field smartphone imaging. Water samples containing 0, 0.005, 0.025, and 0.250 g of added kaolin clay into 400 mL samples (zero, 12.5 mg/L, 62.5 mg/L and 625 mg/L concentration respectively) were photographed using a standardized imaging enclosure and fixed top-down acquisition geometry. Increasing kaolin loading produced readily apparent changes in transmission, opacity, background visibility, color/intensity distribution, and particulate appearance. The study is presented as a feasibility demonstration rather than a TSS calibration. Added kaolin mass was experimentally controlled but was not independently measured using a gravimetric TSS reference method. The observations support subsequent investigation of whether scalar, spatial, and spatiotextural image features can be calibrated against conventional TSS measurements to provide quantitative or screening-level estimates of suspended-solids. Related Papers: 1. Chu MB. Introducing the Spatiotextural Computer Vision Approach to Optical Assays: A Framework for Quantitative Analysis of Assay-Generated Spatial Patterns and Texture. https://doi.org/10.5281/zenodo.22721277 2. Chu MB. Beyond Object Detection: AI for Optical Assays and Real-World Diagnostic Intelligence. Zenodo. 2026. https://doi.org/10.5281/zenodo.19873271 3. Chu MB. Signal Generation and Pattern-Based Detection: Microplastics-Nanoplastics, PCR, and ELISA. Zenodo. 2026. https://doi.org/10.5281/zenodo.19521084 4. Chu MB. Assay Design for Computer Vision: From Chemical Reactions to Spatiotextural Measurement in Water and Other Liquids. https://doi.org/10.5281/zenodo.22729884",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22732053"
+    },
+    {
+      "id": "openalex-W7212452446",
+      "doi": "10.5281/zenodo.22734197",
+      "title": "Computer-Vision Measurement of Turbidity in Large-Volume Liquid Samples: Background Selection, Imaging Geometry, and Preliminary Evaluation Against NTU",
+      "title_zh": "",
+      "authors": [
+        "Melinda B. Chu"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "环境科学",
+      "topics": [
+        "Water Quality Monitoring Technologies",
+        "Water Quality Monitoring and Analysis",
+        "Biosensors and Analytical Detection"
+      ],
+      "abstract": "Turbidity is conventionally measured using dedicated optical instrumentation that interrogates a controlled sample volume. Camera-based measurement provides a complementary approach in which a substantially larger visible liquid field can be evaluated using intensity, color, spatial, textural, and potentially temporal information. This preliminary study evaluated smartphone-based computer-vision measurement of controlled turbidity conditions using a homogeneous coffee-creamer colloid as an optical surrogate. Six conditions spanning double-filtered water, tap water, and increasing creamer additions were measured using a handheld turbidimeter, producing reference values of 2.7, 8.0, 16.3, 21.0, 29.7, and 43.2 NTU. The same samples were photographed against white and blue backgrounds to investigate whether background selection influences computational measurement performance. Selected optical features were defined before analysis and included global grayscale and RGB intensity, normalized color features, background transmission/contrast, edge energy, and exploratory high-pass energy. Against a white background, mean grayscale intensity decreased with NTU (R² = 0.820; Spearman ρ = −0.943). Against a blue background, edge energy (R² = 0.720; ρ = −0.886) and high-pass energy (R² = 0.720; ρ = −0.771) tracked NTU more strongly than mean intensity (R² = 0.345). Importantly, the blue background did not uniformly improve all measurements. Instead, background selection changed which classes of optical information tracked turbidity most effectively: global intensity measurements performed better against white, whereas edge and high-frequency features performed substantially better against blue. These single-run observations do not establish analytical calibration, accuracy, detection limits, or equivalence to conventional turbidity measurement. They provide preliminary evidence that low-cost camera-derived optical measurements can track conventionally measured turbidity and that background and imaging geometry should be treated as measurement-design variables in computer-vision-based water analysis. Related Papers: 1. Chu MB. Introducing the Spatiotextural Computer Vision Approach to Optical Assays: A Framework for Quantitative Analysis of Assay-Generated Spatial Patterns and Texture. https://doi.org/10.5281/zenodo.22721277 2. Chu MB. Beyond Object Detection: AI for Optical Assays and Real-World Diagnostic Intelligence. Zenodo. 2026. https://doi.org/10.5281/zenodo.19873271 3. Chu MB. Signal Generation and Pattern-Based Detection: Microplastics-Nanoplastics, PCR, and ELISA. Zenodo. 2026. https://doi.org/10.5281/zenodo.19521084 4. Chu MB. Assay Design for Computer Vision: From Chemical Reactions to Spatiotextural Measurement in Water and Other Liquids. https://doi.org/10.5281/zenodo.22729884 5. Chu MB. Computer-Vision Measurement of Suspended Solids: A Preliminary Kaolin Model. https://doi.org/10.5281/zenodo.22732054 6. Chu MB. Spatiotemporal Computer-Vision Measurement of Flocculation and Settling: A Preliminary Kaolin–Polymer Model. https://doi.org/10.5281/zenodo.22733016.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22734197"
+    },
+    {
+      "id": "openalex-W7212454376",
+      "doi": "10.5281/zenodo.22733015",
+      "title": "Spatiotemporal Computer-Vision Measurement of Flocculation and Settling: A Preliminary Kaolin–Polymer Model",
+      "title_zh": "",
+      "authors": [
+        "Melinda B. Chu"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "环境科学",
+      "topics": [
+        "Coagulation and Flocculation Studies",
+        "Fecal contamination and water quality",
+        "Minerals Flotation and Separation Techniques"
+      ],
+      "abstract": "Coagulation, flocculation, clarification, and settling are dynamic water-treatment processes that generate spatially and temporally evolving optical states. Conventional image-analysis approaches can characterize individual flocs, particle dimensions, or discrete image features; however, the entire liquid field may also contain information relevant to process-state measurement. This technical note presents a preliminary spatiotemporal computer-vision approach to flocculation and settling using a controlled kaolin suspension and a commercial charged-polymer clarifier. Side-view smartphone images were acquired at 0, 5, 10, 20, 30, and 60 minutes following polymer addition. The image sequence demonstrated progressive development of vertically heterogeneous optical zones, including clarification, redistribution of suspended material, and accumulation within lower regions of the liquid column. Polymer-treated samples were additionally compared with untreated kaolin and clear-water controls. The experiment extends the recently described Assay Design for Computer Vision framework by illustrating that camera orientation itself can be treated as a measurement-design variable. Whereas top-view imaging may preserve radial, surface, or planar spatial information, side-view imaging was more informative for the present process because gravity-driven settling and clarification generated predominantly vertical optical structure. A pre-existing Vertical Uniformity Index (VUI), previously developed independently for side-view analysis of time-resolved liquid suspensions, is proposed as an exploratory quantitative representation of this behavior. VUI measures grayscale-intensity variation across vertical regions of the liquid column, with increasing values corresponding to increasing vertical heterogeneity. The experiment is presented as a feasibility demonstration rather than an optimized coagulation/flocculation protocol or validated treatment measurement. The results support further investigation of low-cost camera systems for longitudinal monitoring of flocculation, clarification, settling, and related water and wastewater treatment processes. Related Papers: 1. Chu MB. Introducing the Spatiotextural Computer Vision Approach to Optical Assays: A Framework for Quantitative Analysis of Assay-Generated Spatial Patterns and Texture. https://doi.org/10.5281/zenodo.22721277 2. Chu MB. Beyond Object Detection: AI for Optical Assays and Real-World Diagnostic Intelligence. Zenodo. 2026. https://doi.org/10.5281/zenodo.19873271 3. Chu MB. Signal Generation and Pattern-Based Detection: Microplastics-Nanoplastics, PCR, and ELISA. Zenodo. 2026. https://doi.org/10.5281/zenodo.19521084 4. Chu MB. Assay Design for Computer Vision: From Chemical Reactions to Spatiotextural Measurement in Water and Other Liquids. https://doi.org/10.5281/zenodo.22729884 5. Computer-Vision Measurement of Suspended Solids: A Preliminary Kaolin Model. https://doi.org/10.5281/zenodo.22732054",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22733015"
+    },
+    {
+      "id": "openalex-W7212455196",
+      "doi": "10.70267/aitia.2026131139",
+      "title": "Application of Deep Learning in Visual Recognition of Unsafe Behaviors of Construction Personnel",
+      "title_zh": "",
+      "authors": [
+        "Feifan Peng"
+      ],
+      "year": 2026,
+      "venue": "Exploring Science Academic Conference Series",
+      "field": "跨学科",
+      "topics": [],
+      "abstract": "Unsafe behavior of construction personnel is a primary cause of the frequent safety accidents in the construction industry. The traditional manual inspection method has some disadvantages, such as limited coverage, strong subjectivity, poor real-time performance and so on. With the development of deep learning and computer vision technology, automatic recognition of unsafe behavior based on vision has become an important research direction of construction safety management. This paper systematically reviews the progress in the application of deep learning in visual recognition of unsafe behaviors of construction workers. Firstly, it analyzes the formation mechanism of unsafe behavior and the shortcomings of traditional management methods from the perspective of behavior safety theory. Then according to the technical route, the existing methods are divided into four categories: target detection, pose estimation, time series modeling and lightweight deployment. The principles, representative models and typical application scenarios of various methods are summarized respectively, and the applicability and limitations of various methods in the actual site application are analyzed. The analysis shows that the deep learning recognition method has been widely used in static protective equipment detection, dynamic dangerous action recognition and real-time early warning, but it still faces challenges such as small target detection difficulty, lack of robustness in complex environment, and difficulty in balancing real-time performance and accuracy. Future research should focus on multimodal fusion, video understanding of large models, online continuous learning and interpretable AI, thereby promoting the intelligent upgrading of construction safety management.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.70267/aitia.2026131139"
+    },
+    {
+      "id": "openalex-W7212457183",
+      "doi": "10.1016/j.autcon.2026.107268",
+      "title": "RGB-D multimodal fusion perception-to-action system for automated detection and robotic sorting of construction and demolition waste",
+      "title_zh": "",
+      "authors": [
+        "Quanxue Deng",
+        "Zuohua Li",
+        "Qin Huang",
+        "Qitao Yang",
+        "Jing Bai"
+      ],
+      "year": 2026,
+      "venue": "Automation in Construction",
+      "field": "工程学",
+      "topics": [
+        "Innovations in Concrete and Construction Materials",
+        "Recycled Aggregate Concrete Performance",
+        "Occupational Health and Safety Research"
+      ],
+      "abstract": "The integration of computer vision, grasp planning, and robotic execution enables automated sorting of construction and demolition (C&D) waste in cluttered environments. However, dust interference, depth noise, and spatial-temporal misalignment in dynamic scenes degrade sensing reliability, causing sample imbalance, unstable grasp prediction, spatial localization deviation, and redundant grasp execution. This paper proposes an RGB-D multimodal fusion perception-to-action system for detection, spatial localization, and robotic execution. A depth-aware preprocessing pipeline and adaptive denoising strategy improve feature quality, while focal loss addresses sample imbalance. A detection information selection mechanism refines outputs and suppresses redundant grasp commands, enhancing decision reliability. Inference efficiency is improved via decorator-based optimization. The system achieves real-time performance at 33.0 FPS, with a mean grasp angle error of 2.64° and an overall accuracy of 95.24%, outperforming the baseline by 33.34%. Robotic experiments show over 97% recognition accuracy and a weighted sorting effectiveness index of 95%, validating reliable perception-to-action integration.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1016/j.autcon.2026.107268"
+    },
+    {
+      "id": "openalex-W7212358732",
+      "doi": "10.25259/jmsr_344_2026",
+      "title": "Artificial intelligence in musculoskeletal surgery: Bridging innovation and evidence-based practice",
+      "title_zh": "",
+      "authors": [
+        "Anchal Thakur",
+        "Yash Partap"
+      ],
+      "year": 2026,
+      "venue": "Journal of Musculoskeletal Surgery and Research",
+      "field": "人工智能",
+      "topics": [
+        "Artificial Intelligence in Healthcare and Education",
+        "Surgical Simulation and Training",
+        "Total Knee Arthroplasty Outcomes"
+      ],
+      "abstract": "Artificial intelligence (AI) has emerged as one of the most transformative technologies in modern medicine, reshaping how diseases are diagnosed, treated, and monitored.In musculoskeletal (MSK) surgery, AI is rapidly progressing from research laboratories into routine clinical practice through applications in diagnostic imaging, pre-operative planning, robotic-assisted procedures, post-operative monitoring, and clinical workflow optimization.These developments have generated considerable enthusiasm because they promise greater precision, improved efficiency, and increasingly personalized patient care.However, technological innovation alone should not define clinical progress.The increasing availability of machine learning algorithms, deep learning models, computer vision, and generative AI offers unprecedented opportunities to enhance MSK practice.Nevertheless, successful implementation requires more than sophisticated algorithms.Clinical usefulness depends on robust validation, transparency, patient safety, ethical governance, and demonstrable improvements in patient outcomes.The challenge facing orthopedic surgeons is therefore not whether AI should be incorporated into practice, but how to integrate it responsibly while preserving clinical judgment, professional accountability, and evidence-based decision-making.Growing evidence suggests that successful implementation requires thoughtful integration into clinical workflows while ensuring that surgeons remain central to patient care and decision-making.[1][2][3] FROM INNOVATION TO CLINICAL PRACTICEMSK surgery has traditionally relied on the integration of patient history, physical examination, imaging, biomechanics, and surgical expertise.AI introduces an additional analytical dimension by enabling computers to identify complex patterns within large datasets that may not be readily apparent to clinicians.Recent advances in machine learning and deep learning have expanded AI applications across the entire patient journey, including diagnosis, operative planning, intraoperative navigation, rehabilitation, outcome prediction, administrative documentation, and research support.[4][5][6][7]",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "https://journalmsr.com/content/136/2026/0/1/pdf/JMSR-344-2026.pdf",
+      "url": "https://doi.org/10.25259/jmsr_344_2026"
+    },
+    {
+      "id": "openalex-W7212358263",
+      "doi": "10.1145/3832810.3832858",
+      "title": "RayFST: Accelerating Finite-State Transducer Composition with Ray Tracing Cores",
+      "title_zh": "",
+      "authors": [
+        "Tianao Ge",
+        "Xiaowen Chu",
+        "Hongyuan Liu"
+      ],
+      "year": 2026,
+      "venue": "OpenAlex",
+      "field": "跨学科",
+      "topics": [],
+      "abstract": "Finite-state transducer (FST) composition is a fundamental but computationally expensive operation in domains such as speech recognition and natural language processing. Despite the increasing computational power of GPUs, existing parallelization approaches for FST composition face challenges due to irregular memory access during traversal and the high computational cost of comparing transitions. In this work, we leverage specialized GPU ray tracing (RT) cores to accelerate this non-graphics computation. We introduce RayFST, which maps the FST structure into a 3D spatial representation and retrieves transitions through hardware-accelerated ray intersection. We also present two ray-based optimizations: Ray Forwarding, which performs label matching directly by emitting rays across the two FSTs, and Dynamic Ray Generation, which eliminates invalid rays and balances workloads across rays. Experiments on real-world FST benchmarks show an 8.9 × geometric mean speedup over the state-of-the-art GPU FST library and up to 1.61 × end-to-end training speedup on two FST applications.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1145/3832810.3832858"
+    },
+    {
+      "id": "openalex-W7212419060",
+      "doi": "10.6084/m9.figshare.33692224",
+      "title": "Comparative Analysis of Offensive Language in Political Discourse: A Machine Learning Approach Using Twitter Data",
+      "title_zh": "",
+      "authors": [
+        "Sareena Bilal"
+      ],
+      "year": 2026,
+      "venue": "Figshare",
+      "field": "计算机科学",
+      "topics": [
+        "Hate Speech and Cyberbullying Detection",
+        "Swearing, Euphemism, Multilingualism",
+        "Misinformation and Its Impacts"
+      ],
+      "abstract": "The proliferation of social media has transformed political communication, concurrently raising significant concerns regarding the prevalence of offensive and toxic language online. This study presents a comparative machine learning analysis of tweets posted by two prominent political figures: Geert Wilders (the Netherlands) and Boris Johnson (the United Kingdom). A dataset of 6,279 tweets was collected, preprocessed using a rigorous Natural Language Processing (NLP) pipeline, and vectorized using a Bag-of-Words (BoW) model augmented with a custom, domain-specific offensive lexicon. Seven machine learning classifiers were trained to perform authorship attribution, serving as a proxy for stylistic and lexical divergence. Empirical results indicate that the Artificial Neural Network (ANN) achieved the highest predictive performance with 96.82% accuracy, followed closely by Logistic Regression (96.74%). Conversely, K-Nearest Neighbors (KNN) exhibited poor performance (67.68%) due to the curse of dimensionality in high-dimensional text feature spaces. Furthermore, a lexicon-based frequency analysis revealed a higher prevalence of offensive content in the tweets of Geert Wilders compared to Boris Johnson. This paper details the methodology, model evaluation, and insights, while outlining future directions, including the integration of transformer-based models for deeper semantic understanding.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.6084/m9.figshare.33692224"
+    },
+    {
+      "id": "openalex-W7212421258",
+      "doi": "10.15157/tultechbook.2.c3",
+      "title": "Sustaining Heritage through Innovation: The Ajrakh Craft in a Changing World",
+      "title_zh": "",
+      "authors": [
+        "Dure Shehwar Mohibi",
+        "Anjali Karolia"
+      ],
+      "year": 2026,
+      "venue": "Ajakirjad. Journals by UT",
+      "field": "社会科学",
+      "topics": [
+        "Crafts, Textile, and Design",
+        "Fashion and Cultural Textiles",
+        "Architecture, Art, Education"
+      ],
+      "abstract": "This chapter examines the convergence of innovation, technology, and tradition through the case of Ajrakh, a resist-and-mordant block-printing craft rooted in Kutch, Gujarat, with historical links to Sindh and Barmer. Renowned for its intricate motifs, natural dye palette, and geometric precision, Ajrakh embodies India's craft heritage and ecological sensibility, having evolved from a regionally and functionally limited textile into a contemporary design language spanning apparel, home décor, and lifestyle products. Using practice-led and qualitative research, the study develops new motifs within the traditional framework of natural dyes and hand processes, for a diversified range of contemporary apparel and home-textile products, and examines how artisans and designers reinterpret traditional motifs and compositions to align with current aesthetic sensibilities while preserving authenticity. Through the lens of design innovation, sustainability, and cultural continuity, the chapter highlights how contemporary practitioners are redefining Ajrakh through eco-conscious methods, engineered layouts, mixed-media techniques, and digital collaboration, extending its applications into couture fashion, textile art, interior design, and socio-cultural activism while reinforcing its intrinsic values of geometry, precision, and ecological wisdom. The research argues that innovation in textile design need not abandon tradition but can reimagine it, introducing newness across generations to sustain relevance and expand markets, and positions Ajrakh as a living textile tradition bridging craft and modernity, function and art, sustainability and design innovation.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.15157/tultechbook.2.c3"
+    },
+    {
+      "id": "openalex-W7212421308",
+      "doi": "10.5281/zenodo.22735143",
+      "title": "An Edge-AI-Driven Crystal Structure Exploration Tool for Secondary School Chemistry: Design and Implementation",
+      "title_zh": "",
+      "authors": [
+        "Kerong He"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "人工智能",
+      "topics": [
+        "Machine Learning in Materials Science",
+        "Various Chemistry Research Topics",
+        "Science Education and Pedagogy"
+      ],
+      "abstract": "Crystal structure is one of the most abstract topics in secondary school chemistry. Textbookspresent three-dimensional lattices as flat diagrams, and physical models cannot be modified, sostudents often memorize conclusions such as \"NaCl has a coordination number of 6\" withoutunderstanding how structure determines properties. Professional crystallography software is powerfulbut far too complex for students, while online viewers are mostly read-only and cannot answer\"what-if\" questions. This project presents Crystallographer, an offline crystal exploration tool built on a four-layerarchitecture: (1) a natural-language understanding layer powered by on-device Gemma 4 E2B, whichtranslates student requests into standard tool calls; (2) a device-independent crystal structurefile layer; (3) a deterministic display and computation layer for 3D views, plane projections,cross-sections, density, packing fraction, coordination number, radius ratio and lattice energy;and (4) a teaching layer with guided task cards. The model is converted locally from HuggingFacesafetensors to GGUF Q4_K_M (3.19 GiB) together with a 940 MB multimodal projector (mmproj), andserved by llama.cpp with Vulkan. Using the OpenAI-compatible function-calling protocol, an agentwith 21 crystal tools builds or edits structures, validates them (electroneutrality, overlap,density, coordination) and self-corrects from the feedback. The system also embeds an offline MP-20 database of 44,217 inorganic crystals searchable bychemical formula, and a camera mode that recognizes Chinese exam questions from photos, reproducesthe unit cell and solves the problem with deterministic tools. Benchmarks on three Vulkan devicesshow that single-GPU inference reaches 1929 t/s prompt processing and 66 t/s generation, whereascross-device layer splitting is significantly slower for small models; the default strategy istherefore performance-first with multi-device options. A deterministic engine verified by 38 unittests matches literature values (e.g., NaCl density 2.163 g/cm3, coordination number 6, radiusratio 0.564), and Playwright end-to-end tests cover the full natural-language workflow.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22735143"
+    },
+    {
+      "id": "openalex-W7212423399",
+      "doi": "10.6084/m9.figshare.33698974",
+      "title": "Foundations of Natural Language Processing, 2015-2018: A 20-Part Archival Series",
+      "title_zh": "",
+      "authors": [
+        "Viveka Mohan Das"
+      ],
+      "year": 2026,
+      "venue": "Figshare",
+      "field": "计算机科学",
+      "topics": [
+        "Natural Language Processing Techniques",
+        "Language and cultural evolution",
+        "Topic Modeling"
+      ],
+      "abstract": "A 20-part archival series of research surveys on natural language processing, written between 2015 and 2018 and released publicly for the first time in 2026. Each part addresses a distinct area of NLP, from phonology and morphology through to methods, meaning and machine understanding, and surveys the computational and linguistic approaches current to that period. The series is published as an archival record of independent research conducted prior to 2018; it has not been updated to reflect developments since that date. Individual parts are collected below. Research undertaken 2015-2018 during independent consulting practice in natural language processing and applied linguistics.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.6084/m9.figshare.33698974"
+    },
+    {
+      "id": "openalex-W7212427091",
+      "doi": "10.68092/ijbict.01.01.10",
+      "title": "Twitter Sentiment Analysis for Al-Baha City",
+      "title_zh": "",
+      "authors": [
+        "Salma Mohammed",
+        "Jorry Jamal",
+        "Ebtihaj Saeed",
+        "Arwa Ali"
+      ],
+      "year": 2026,
+      "venue": "International Journal of Business and Information Communication Technologies",
+      "field": "计算机科学",
+      "topics": [
+        "Sentiment Analysis and Opinion Mining",
+        "Organizational and Employee Performance",
+        "Human Mobility and Location-Based Analysis"
+      ],
+      "abstract": "Social media platforms such as blogs, Twitter, Instagram, and Snapchat have become the most important and powerful sources of data. These platforms are full of thoughts and emotions because they enable all users to express their opinions and feelings freely on many topics, whether in words, images, or video. Twitter is a platform widely used by people to express their opinions and feelings. Sentiment analysis is a case of natural language processing that can determine the moods of people on any given topic. It is considered one of the most important current research projects. The purpose of this study is to analyse the Arabic content of people’s sentiment towards the Al-Baha region on Twitter to help entrepreneurs and decision makers develop the area through their knowledge of people’s opinions about Al-Baha and how to improve it. Thus, we collected more than 8000 tweets from the Twitter platform and proceeded to remove non-emotional content such as links and tags. Moreover, various supervised machine learning algorithms were applied, including Multinomial Naïve Bayes (MNB) algorithm, Support Vector Machine (SVM) algorithm and K-Nearest Neighbour (K-NN). Results show that the MNB obtained the highest accuracy of 78.21% comparing with SVM and K-NN.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": false,
+      "pdf_url": "",
+      "url": "https://doi.org/10.68092/ijbict.01.01.10"
+    },
+    {
+      "id": "openalex-W7212429545",
+      "doi": "10.30574/msarr.2026.18.1.0179",
+      "title": "ADVANCING FINANCIAL INTEGRITY IN U.S. HEALTHCARE THROUGH MACHINE LEARNING AND DATA ANALYTICS FOR FRAUD DETECTION",
+      "title_zh": "",
+      "authors": [
+        "BAKARE Abolore Raliat",
+        "ODEYALE Kehinde Musiliudeen",
+        "VISRAM Gabriel"
+      ],
+      "year": 2026,
+      "venue": "Magna Scientia Advanced Research and Reviews",
+      "field": "计算机科学",
+      "topics": [
+        "Imbalanced Data Classification Techniques",
+        "Artificial Intelligence in Healthcare and Education",
+        "Artificial Intelligence in Healthcare"
+      ],
+      "abstract": "The U.S. government has long recognized healthcare fraud as a serious concern and has introduced various measures over several decades to prevent and control fraudulent practices. Despite these efforts, healthcare fraud has become increasingly sophisticated and complex, continuing to create substantial financial pressures on the healthcare system and the wider economy. Recent developments in artificial intelligence (AI), particularly machine learning (ML), natural language processing (NLP), and neural networks, have strengthened the ability to analyze large-scale healthcare datasets and identify concealed patterns, anomalies, and potentially fraudulent activities. Collectively, the implementation of these AI-driven approaches offers considerable potential to safeguard public healthcare resources, reduce financial losses, and strengthen public confidence in the integrity of the U.S. healthcare system.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.30574/msarr.2026.18.1.0179"
+    },
+    {
+      "id": "openalex-W7212432106",
+      "doi": "10.63503/acset.86",
+      "title": "Enhancing Suicide Prevention Strategies Through Real-Time Sentiment Analysis Using Machine Learning",
+      "title_zh": "",
+      "authors": [
+        "M. A. Kumar",
+        "Kanika",
+        "Udaya Sri",
+        "Bhuvana",
+        "Dimpy Garg"
+      ],
+      "year": 2026,
+      "venue": "Adroid Conference Series Engineering and Technology",
+      "field": "跨学科",
+      "topics": [],
+      "abstract": "Suicide is a severe health concern in the community, and it is frequently aggravated by the fact that emotional distress remains unidentified at an early stage in online space. People often post their ideas and emotional states on the Internet, in their chats, and other online spheres and do not realize these danger signals. The given paper describes a machine-learning-based real-time sentiment analysis system, which will be used to detect the emotional state of depression, anxiety, and suicidal ideation through textual information. Sentiment classification and suicide risk prediction were performed with the help of Natural Language Processing methods and supervised machine learning models. The raw data were preprocessed and converted into an aspect that could be used in training the models. As the results of the experiments revealed, the proposed system exhibited the accuracy of 89, precision of 0.89, recall of 0.86, and F1-score of 0.86, meaning that its performance was rather stable and consistent. The system was effective in the detection of high-risk cases and creating alerts that aid in timely caregiver and mental health intervention. In sum, the suggested solution will offer a viable solution towards real-time mental health surveillance and preventing early suicide.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.63503/acset.86"
+    },
+    {
+      "id": "openalex-W7212433029",
+      "doi": "10.66144/2ro44y9",
+      "title": "A Computational Approach to Discovering Emergent Hate Speech on Social Media",
+      "title_zh": "",
+      "authors": [
+        "Patrick Y. Wu",
+        "Venkata Dhanush Kikkisetti",
+        "Suneela Maddineni",
+        "Nathalie Japkowicz"
+      ],
+      "year": 2026,
+      "venue": "Digital Hate Review",
+      "field": "计算机科学",
+      "topics": [
+        "Hate Speech and Cyberbullying Detection",
+        "Sentiment Analysis and Opinion Mining",
+        "Populism, Right-Wing Movements"
+      ],
+      "abstract": "The growth of social media has enabled unprecedented global connectivity and access to information, but social media platforms have also become channels for hate speech that targets individuals and groups based on identity and protected characteristics. While advances in machine learning and natural language processing have improved hate speech detection, these models are static and cannot be updated easily in an environment where terminology evolves continuously. Although manual inspection can identify emerging terminology, the volume of posts often proves prohibitive. We propose a novel computational methodology and app, the Hate Mitigation App (HMApp), that discovers emerging coded or non-coded hate speech terminology on social media. Specifically, the approach uses a set of researcher-selected anchor hate terms to identify new terminology associated with a specific type of hatred, such as antisemitism. We use this approach with five different types of hatred: antisemitism, anti-Black hatred, Islamophobia, anti-Asian hatred, and anti-LGBTQ+ hatred. Using two categories of evaluation metrics—one comparing discovered terms against existing lexicons and another validating them through online searches—we find that the approach identifies both established and novel terminology. Our findings underscore the potential of computational approaches to augment manual detection efforts and keep pace with the rapidly evolving nature of online hate speech. Though related to both, our approach is neither Hate Speech Detection nor Automated Terminology Extraction, which are often construed as classification tasks. Our method, in contrast, uses unsupervised learning, thus engaging in a discovery rather than a classification task, yielding ramifications for both our design and testing methodologies.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": false,
+      "pdf_url": "",
+      "url": "https://doi.org/10.66144/2ro44y9"
+    },
+    {
+      "id": "openalex-W7212433165",
+      "doi": "10.6084/m9.figshare.33691180.v1",
+      "title": "Comparative Textual Analysis of Global News Media: A Web Scraping and NLP Approach to Content Patterns Across Five Major News Outlets",
+      "title_zh": "",
+      "authors": [
+        "Sareena Bilal"
+      ],
+      "year": 2026,
+      "venue": "Figshare",
+      "field": "社会科学",
+      "topics": [
+        "Computational and Text Analysis Methods",
+        "Media Studies and Communication",
+        "Media Influence and Politics"
+      ],
+      "abstract": "This study presents a comprehensive comparative analysis of textual content patterns across five major international news organizations: BBC, CNN, Al Jazeera, The Guardian, and The New York Times. Using automated web scraping techniques, we collected 500 recent news articles from each outlet's RSS feed, totaling 2,500 articles. Natural Language Processing (NLP) methods including text preprocessing, TF-IDF vectorization, and exploratory data analysis were applied to identify linguistic patterns, content focus areas, and editorial differences. Class distribution analysis revealed varying content categorization patterns across outlets, with Al Jazeera showing a 60-40 split between categories, BBC demonstrating a 58-42 distribution, CNN exhibiting a 64-36 ratio, The New York Times showing a 60-40 split, and The Guardian displaying a 54-46 balance. Word cloud visualizations uncovered distinct thematic emphases: Al Jazeera focused on conflict-related terminology (\"military,\" \"attack,\" \"Israel,\" \"Palestinian\"), BBC emphasized political and economic terms (\"year,\" \"new,\" \"say,\" \"Russian\"), CNN highlighted governmental and political discourse (\"elect,\" \"country,\" \"nation,\" \"campaign\"), The New York Times centered on political figures and processes (\"president,\" \"vice,\" \"group,\" \"editorial\"), and The Guardian featured social and cultural topics (\"people,\" \"read,\" \"continue,\" \"strong\"). This research demonstrates the utility of automated text analysis for media bias detection and content characterization, providing a methodological framework for large-scale comparative media studies.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.6084/m9.figshare.33691180.v1"
+    },
+    {
+      "id": "openalex-W7212441319",
+      "doi": "10.5281/zenodo.22737583",
+      "title": "Homo Pacis: Peace Capability as an Evolutionary Task for Humanity",
+      "title_zh": "",
+      "authors": [
+        "Karin Tag"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "社会科学",
+      "topics": [
+        "Peace and Human Rights Education",
+        "Peacebuilding and International Security",
+        "Flannery O'Connor and Thomas Merton"
+      ],
+      "abstract": "Humanity has increased its ability to transform the external world on a scale that earlier generations could scarcely have anticipated. Science, technology, industrial production, global communication and military systems have multiplied the power of human action. The same developments have also extended the reach of potential harm. War, ecological destruction and threats to the foundations of shared life can now have consequences far beyond the immediate sphere of individuals and earlier societies. The Homo Pacis series addresses the developmental question that follows: what happens when a species’ external power grows faster than its capacity to deal with conflict, fear, difference, responsibility and the consequences of its own actions? Its central theoretical proposal is to understand peace capability as an evolutionary task for humanity. Evolution here means neither biological development into a new species nor inevitable historical progress. It refers to a cultural, ethical and psychosocial developmental step that requires learning and support, and that may also fail. The five volumes develop an interconnected architecture for this process. Peace capability is the foundational, action-oriented competence. Nine fields of experience and development describe different inner starting points for action. Consciousness capability refers to the ability to notice one’s own thoughts, feelings, bodily reactions and tendencies to act. Reality architecture examines how experience, language, emotional meaning, expectations and bodily experience structure subjective reality. This raises the question of how people can act responsibly together despite experiencing different emotional realities. The approach ultimately connects personal responsibility for practice with institutional conditions that make such development possible. The article reconstructs these connections and situates them in relation to approaches in peace psychology, peace education and evolutionary research. Homo Pacis serves as a guiding ideal of human maturity: the expansion of human power should be accompanied by a corresponding development of the capacity to take responsibility for its consequences. This task concerns both living together and our relationship with the natural world of which we are part. Personal learning acquires a cultural dimension when ways of acting that sustain peace are practised together, passed on and embedded in institutions.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22737583"
+    },
+    {
+      "id": "openalex-W7212442917",
+      "doi": "10.5281/zenodo.22735144",
+      "title": "An Edge-AI-Driven Crystal Structure Exploration Tool for Secondary School Chemistry: Design and Implementation",
+      "title_zh": "",
+      "authors": [
+        "Kerong He"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "人工智能",
+      "topics": [
+        "Machine Learning in Materials Science",
+        "Various Chemistry Research Topics",
+        "Science Education and Pedagogy"
+      ],
+      "abstract": "Crystal structure is one of the most abstract topics in secondary school chemistry. Textbookspresent three-dimensional lattices as flat diagrams, and physical models cannot be modified, sostudents often memorize conclusions such as \"NaCl has a coordination number of 6\" withoutunderstanding how structure determines properties. Professional crystallography software is powerfulbut far too complex for students, while online viewers are mostly read-only and cannot answer\"what-if\" questions. This project presents Crystallographer, an offline crystal exploration tool built on a four-layerarchitecture: (1) a natural-language understanding layer powered by on-device Gemma 4 E2B, whichtranslates student requests into standard tool calls; (2) a device-independent crystal structurefile layer; (3) a deterministic display and computation layer for 3D views, plane projections,cross-sections, density, packing fraction, coordination number, radius ratio and lattice energy;and (4) a teaching layer with guided task cards. The model is converted locally from HuggingFacesafetensors to GGUF Q4_K_M (3.19 GiB) together with a 940 MB multimodal projector (mmproj), andserved by llama.cpp with Vulkan. Using the OpenAI-compatible function-calling protocol, an agentwith 21 crystal tools builds or edits structures, validates them (electroneutrality, overlap,density, coordination) and self-corrects from the feedback. The system also embeds an offline MP-20 database of 44,217 inorganic crystals searchable bychemical formula, and a camera mode that recognizes Chinese exam questions from photos, reproducesthe unit cell and solves the problem with deterministic tools. Benchmarks on three Vulkan devicesshow that single-GPU inference reaches 1929 t/s prompt processing and 66 t/s generation, whereascross-device layer splitting is significantly slower for small models; the default strategy istherefore performance-first with multi-device options. A deterministic engine verified by 38 unittests matches literature values (e.g., NaCl density 2.163 g/cm3, coordination number 6, radiusratio 0.564), and Playwright end-to-end tests cover the full natural-language workflow.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22735144"
+    },
+    {
+      "id": "openalex-W7212446737",
+      "doi": "10.6084/m9.figshare.33698974.v1",
+      "title": "Foundations of Natural Language Processing, 2015-2018: A 20-Part Archival Series",
+      "title_zh": "",
+      "authors": [
+        "Viveka Mohan Das"
+      ],
+      "year": 2026,
+      "venue": "Figshare",
+      "field": "计算机科学",
+      "topics": [
+        "Natural Language Processing Techniques",
+        "Language and cultural evolution",
+        "Topic Modeling"
+      ],
+      "abstract": "A 20-part archival series of research surveys on natural language processing, written between 2015 and 2018 and released publicly for the first time in 2026. Each part addresses a distinct area of NLP, from phonology and morphology through to methods, meaning and machine understanding, and surveys the computational and linguistic approaches current to that period. The series is published as an archival record of independent research conducted prior to 2018; it has not been updated to reflect developments since that date. Individual parts are collected below. Research undertaken 2015-2018 during independent consulting practice in natural language processing and applied linguistics.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.6084/m9.figshare.33698974.v1"
+    },
+    {
+      "id": "openalex-W7212447237",
+      "doi": "10.6084/m9.figshare.33692224.v1",
+      "title": "Comparative Analysis of Offensive Language in Political Discourse: A Machine Learning Approach Using Twitter Data",
+      "title_zh": "",
+      "authors": [
+        "Sareena Bilal"
+      ],
+      "year": 2026,
+      "venue": "Figshare",
+      "field": "计算机科学",
+      "topics": [
+        "Hate Speech and Cyberbullying Detection",
+        "Swearing, Euphemism, Multilingualism",
+        "Misinformation and Its Impacts"
+      ],
+      "abstract": "The proliferation of social media has transformed political communication, concurrently raising significant concerns regarding the prevalence of offensive and toxic language online. This study presents a comparative machine learning analysis of tweets posted by two prominent political figures: Geert Wilders (the Netherlands) and Boris Johnson (the United Kingdom). A dataset of 6,279 tweets was collected, preprocessed using a rigorous Natural Language Processing (NLP) pipeline, and vectorized using a Bag-of-Words (BoW) model augmented with a custom, domain-specific offensive lexicon. Seven machine learning classifiers were trained to perform authorship attribution, serving as a proxy for stylistic and lexical divergence. Empirical results indicate that the Artificial Neural Network (ANN) achieved the highest predictive performance with 96.82% accuracy, followed closely by Logistic Regression (96.74%). Conversely, K-Nearest Neighbors (KNN) exhibited poor performance (67.68%) due to the curse of dimensionality in high-dimensional text feature spaces. Furthermore, a lexicon-based frequency analysis revealed a higher prevalence of offensive content in the tweets of Geert Wilders compared to Boris Johnson. This paper details the methodology, model evaluation, and insights, while outlining future directions, including the integration of transformer-based models for deeper semantic understanding.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.6084/m9.figshare.33692224.v1"
+    },
+    {
+      "id": "openalex-W7212448222",
+      "doi": "10.63503/acset.85",
+      "title": "An Artificial Neural Network-Powered Intelligent Chatbot System for Women’s Legal Rights Awareness and Assistance in India",
+      "title_zh": "",
+      "authors": [
+        "Ms. N. Nagaveni",
+        "Mr. G. Saidulu",
+        "Kappala Sai Sampath",
+        "D Shiva Kiran Goud",
+        "L S S Sreenadh"
+      ],
+      "year": 2026,
+      "venue": "Adroid Conference Series Engineering and Technology",
+      "field": "跨学科",
+      "topics": [],
+      "abstract": "In fact, many women in India may find it hard to get proper legal advice. This is mainly because lack of knowledge about legal terms and the complexity involved in legal procedures. Unfortunately, most of today’s legal chatbot solutions depend on set rules and are not very accurate to the different questions that users may have. This report presents a smart chat-bot solution using Artificial Neural Networks (ANNs), designed specifically to improve women’s knowledge of their legal rights and provide them with assistance all over India. The proposed solution combines natural language processing (NLP) techniques with an ANN based model to efficiently categorize the user’s queries into major legal categories. These include important issues such as domestic violence, dowry harassment, sexual misconduct in the workplace, cybercrimes, and property rights. Once the system has determined the specific need of the user, it provides straightforward explanations of the legal terms and procedures for resolving the issue. The learning ability of the ANN makes the system’s responses accurate and flexible, providing a better solution than the existing keyword-based approach. This ultimately makes it a very useful tool for legal assistance with a special focus on women.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.63503/acset.85"
+    },
+    {
+      "id": "openalex-W7212449786",
+      "doi": "10.6084/m9.figshare.33691180",
+      "title": "Comparative Textual Analysis of Global News Media: A Web Scraping and NLP Approach to Content Patterns Across Five Major News Outlets",
+      "title_zh": "",
+      "authors": [
+        "Sareena Bilal"
+      ],
+      "year": 2026,
+      "venue": "Figshare",
+      "field": "社会科学",
+      "topics": [
+        "Computational and Text Analysis Methods",
+        "Media Studies and Communication",
+        "Media Influence and Politics"
+      ],
+      "abstract": "This study presents a comprehensive comparative analysis of textual content patterns across five major international news organizations: BBC, CNN, Al Jazeera, The Guardian, and The New York Times. Using automated web scraping techniques, we collected 500 recent news articles from each outlet's RSS feed, totaling 2,500 articles. Natural Language Processing (NLP) methods including text preprocessing, TF-IDF vectorization, and exploratory data analysis were applied to identify linguistic patterns, content focus areas, and editorial differences. Class distribution analysis revealed varying content categorization patterns across outlets, with Al Jazeera showing a 60-40 split between categories, BBC demonstrating a 58-42 distribution, CNN exhibiting a 64-36 ratio, The New York Times showing a 60-40 split, and The Guardian displaying a 54-46 balance. Word cloud visualizations uncovered distinct thematic emphases: Al Jazeera focused on conflict-related terminology (\"military,\" \"attack,\" \"Israel,\" \"Palestinian\"), BBC emphasized political and economic terms (\"year,\" \"new,\" \"say,\" \"Russian\"), CNN highlighted governmental and political discourse (\"elect,\" \"country,\" \"nation,\" \"campaign\"), The New York Times centered on political figures and processes (\"president,\" \"vice,\" \"group,\" \"editorial\"), and The Guardian featured social and cultural topics (\"people,\" \"read,\" \"continue,\" \"strong\"). This research demonstrates the utility of automated text analysis for media bias detection and content characterization, providing a methodological framework for large-scale comparative media studies.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.6084/m9.figshare.33691180"
+    },
+    {
+      "id": "openalex-W7212451308",
+      "doi": "10.17605/osf.io/d4vp3",
+      "title": "Artificial Intelligence for Natural Language Processing of Low-Resource Indigenous Languages in the Americas: A Systematic Review of Methods, Applications, and Effectiveness",
+      "title_zh": "",
+      "authors": [
+        "JOSE EMMANUEL CRUZ DE LA CRUZ"
+      ],
+      "year": 2026,
+      "venue": "Open Science Framework",
+      "field": "跨学科",
+      "topics": [],
+      "abstract": "This registration documents the methodology and supporting materials of the systematic review entitled “Artificial Intelligence for Natural Language Processing of Low-Resource Indigenous Languages in the Americas: A Systematic Review of Methods, Applications, and Effectiveness.” The review examines the state of the art, methodological approaches, NLP applications, data-scarcity adaptation strategies, evaluation practices and reported effectiveness, and technical, linguistic, and socio-cultural challenges associated with artificial intelligence for natural language processing of low-resource Indigenous languages in the Americas. The review covers studies published from 2022 to 2026 and was conducted following PRISMA 2020. Literature retrieval included Scopus and IEEE sources and an additional Google Scholar search targeting publications available through the ACL Anthology using the site:aclanthology.org domain restriction. Searches were conducted on June 17, 2026. Retrieved records were managed using Zotero, which was also used for duplicate identification and removal. No additional backward or forward citation searching was performed. The study-selection process identified 281 records. After removal of 5 duplicates, 276 records underwent title and abstract screening, of which 49 were excluded. A total of 227 reports underwent full-text eligibility assessment; 18 were excluded following full-text eligibility verification, resulting in a final analytical corpus of 209 eligible studies. The evidence was analyzed across six dimensions: (1) state of the art; (2) artificial intelligence methodological approaches; (3) NLP applications; (4) data-scarcity adaptation strategies; (5) evaluation and effectiveness; and (6) challenges and future directions. The review distinguishes contextual mentions from methods and NLP tasks that were actually implemented or evaluated and maintains study-level traceability for the reconstructed quantitative results. This is a retrospective registration of a completed systematic review. The registration was created after completion of the initial literature search, screening, and review procedures to improve methodological transparency, reproducibility, and access to the supporting documentation. It does not constitute prospective preregistration of the review protocol.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.17605/osf.io/d4vp3"
+    },
+    {
+      "id": "openalex-W7212439268",
+      "doi": "10.37965/jdmd.2026.1988",
+      "title": "Diagnostics of Engineering Systems using Large Language Models",
+      "title_zh": "",
+      "authors": [
+        "Chuan Li",
+        "David He",
+        "Bin Yang",
+        "Xueyi Li"
+      ],
+      "year": 2026,
+      "venue": "Journal of Dynamics Monitoring and Diagnostics",
+      "field": "跨学科",
+      "topics": [],
+      "abstract": "Intelligent fault diagnosis underpins the safe and reliable operation of modern engineering systems. While large language models (LLMs) have advanced intelligent diagnostic technologies for industrial scenarios, their real-world deployment remains constrained by domain semantic gaps, insufficient physical fault knowledge, and inherent hallucination issues. This Special Issue compiles 9 original studies covering multi-scale signal processing, multimodal fusion, physical-coupled fault modeling, knowledge-driven domain adaptation, semantic optimization, multimodal LLM construction, few-shot learning, and physics-verifiable structural health monitoring. Validated across diverse engineering systems, these works collectively connect foundational diagnostic methods with emerging LLM-enabled approaches. This editorial summarizes the key contributions of the collected papers, discusses current technical limitations, and outlines future research directions. It aims to promote the practical integration of LLMs within engineering system diagnostics.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.37965/jdmd.2026.1988"
+    },
+    {
+      "id": "openalex-W7212403459",
+      "doi": "10.5281/zenodo.22729682",
+      "title": "Harmonic Intelligence: Recursive Analytic Meta-Geometry, Residual-Bearing Learning, and the Geometry of Solution Types — Integrated Edition",
+      "title_zh": "",
+      "authors": [
+        "Artiom Kovnatsky"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "数学",
+      "topics": [
+        "Algebraic and Geometric Analysis",
+        "Topological and Geometric Data Analysis",
+        "Homotopy and Cohomology in Algebraic Topology"
+      ],
+      "abstract": "[wAI ~ wErrors] «All models are wrong, but some are useful.» — George E. P. Box (1976) This preprint synthesizes a large exploratory notebook on metric atlases, spectral and harmonic representations, residual-bearing learning, recursive joint/meta-diagonalization, Galois and monodromy fingerprints, sheaf/cohomological local-to-global reasoning, exact-solution meta-learning, multimodal arbitration, rare-event handling, and S.V.E.-style verification. Its central proposal is Harmonic Intelligence: intelligence is not only optimization inside a representation, nor only the discovery of a better representation. It is also the capacity to discover or construct local operator languages in which a phenomenon admits compact analytic or structured laws; preserve the unresolved residual explicitly; learn across the geometry of solution types; and recursively refine this meta-geometry under held-out, interventional, and provenance constraints. The paper deliberately separates exact mathematics, implementable design, falsifiable hypotheses, speculative frontiers, theological motivation, and explicit non-claims. In particular, it rejects as unestablished the notebook's strongest claims that Perelman/Ricci flow necessarily collapses arbitrary semantic spaces to a unique 10-dimensional ball, that such a flow implies O(1) training/inference, that operator normality certifies truth, or that a universal semantic dimension/golden-ratio geometry has already been proved. The synthesis also defines interfaces to Geometry of Intelligence, ANT, CANTGBoost, .antcolony, CANTGit, FSIM, Phase/Clifford algebra, Systemic Geometry, Executable Intelligence, Academy, and S.V.E. Omega. S.V.E. Meta-License v5.0",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22729682"
+    },
+    {
+      "id": "openalex-W7212419090",
+      "doi": "10.5281/zenodo.22733593",
+      "title": "Harmonic Intelligence: Recursive Analytic Meta-Geometry, Residual-Bearing Learning, and the Geometry of Solution Types — Integrated Edition",
+      "title_zh": "",
+      "authors": [
+        "Artiom Kovnatsky"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "数学",
+      "topics": [
+        "Algebraic and Geometric Analysis",
+        "Topological and Geometric Data Analysis",
+        "Homotopy and Cohomology in Algebraic Topology"
+      ],
+      "abstract": "[wAI ~ wErrors] «All models are wrong, but some are useful.» — George E. P. Box (1976) This preprint synthesizes a large exploratory notebook on metric atlases, spectral and harmonic representations, residual-bearing learning, recursive joint/meta-diagonalization, Galois and monodromy fingerprints, sheaf/cohomological local-to-global reasoning, exact-solution meta-learning, multimodal arbitration, rare-event handling, and S.V.E.-style verification. Its central proposal is Harmonic Intelligence: intelligence is not only optimization inside a representation, nor only the discovery of a better representation. It is also the capacity to discover or construct local operator languages in which a phenomenon admits compact analytic or structured laws; preserve the unresolved residual explicitly; learn across the geometry of solution types; and recursively refine this meta-geometry under held-out, interventional, and provenance constraints. The paper deliberately separates exact mathematics, implementable design, falsifiable hypotheses, speculative frontiers, theological motivation, and explicit non-claims. In particular, it rejects as unestablished the notebook's strongest claims that Perelman/Ricci flow necessarily collapses arbitrary semantic spaces to a unique 10-dimensional ball, that such a flow implies O(1) training/inference, that operator normality certifies truth, or that a universal semantic dimension/golden-ratio geometry has already been proved. The synthesis also defines interfaces to Geometry of Intelligence, ANT, CANTGBoost, .antcolony, CANTGit, FSIM, Phase/Clifford algebra, Systemic Geometry, Executable Intelligence, Academy, and S.V.E. Omega. S.V.E. Meta-License v5.0",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22733593"
+    },
+    {
+      "id": "openalex-W7212419251",
+      "doi": "10.5281/zenodo.22737831",
+      "title": "АГЕНТНІ СИСТЕМИ ШТУЧНОГО ІНТЕЛЕКТУ Архітектура, планування, пам'ять, інструментальність, координація та оцінювання",
+      "title_zh": "",
+      "authors": [
+        "Dmytro Prokopovych-Tkachenko"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "工程学",
+      "topics": [
+        "Military Technology and Strategies",
+        "Education and Social Development in Ukraine",
+        "Labor Market and Education"
+      ],
+      "abstract": "АНОТАЦІЯ Монографію присвячено системному дослідженню агентних систем штучного інтелекту як багатокомпонентних конфігурацій, у яких мовна або мультимодальна модель поєднується з цілями, плануванням, пам’яттю, інструментальним шаром, середовищем дії, верифікацією та людським наглядом. У п’ятнадцяти розділах сформовано понятійний і методологічний апарат агентності; запропоновано еталонну архітектуру агента; розкрито механізми цілепокладання, декомпозиції задач, контексту, довготривалої пам’яті та контрактної інструментальної дії. Окремо досліджено цифрові полігони й втілених агентів, багатоагентну координацію, кероване накопичення навичок і багатовимірне оцінювання. Завершальні розділи охоплюють надійність, безпеку та людський нагляд, людсько-агентну взаємодію і співтворчість, застосування в освіті, науці та інженерному проєктуванні, інфраструктуру, ресурсну ціну і сталість, а також дорожню карту подальших досліджень. Наукову новизну становить цілісна рамка, у якій агентність трактується як властивість організації системи, а допустима автономія — як функція перевірюваних цілей, дозволів, журналів, процедур зупинки, ресурсних бюджетів і відповідального людського або інституційного рішення. Ключові слова: агентний штучний інтелект; агентні системи; архітектура; планування; пам’ять; інструментальність; цифровий полігон; багатоагентна координація; навчання агентів; оцінювання; безпека; людський нагляд; співтворчість; ресурсна сталість; дорожня карта досліджень. ABSTRACT The monograph presents a systemic study of agentic artificial intelligence as a multi-component configuration in which a language or multimodal model is combined with goals, planning, memory, a tool layer, an action environment, verification and human oversight. Across fifteen chapters, it develops a conceptual and methodological apparatus for agency, proposes a reference agent architecture, examines goal setting and task decomposition, distinguishes context from governed long-term memory, and defines a tool as an action contract with access rights, logging and post-conditions. Separate chapters address digital proving grounds and embodied agents, multi-agent coordination, governed skill accumulation and multidimensional evaluation. The concluding chapters cover reliability, safety and human oversight; human-agent interaction and co-creation; applications in education, science and engineering design; infrastructure, resource cost and sustainability; and a roadmap for further research. The principal contribution is an integrated framework in which agency is treated as a property of system organization, while acceptable autonomy depends on verifiable goals, permissions, logs, stopping procedures, resource budgets and accountable human or institutional decision-making. Keywords: agentic artificial intelligence; agentic systems; architecture; planning; memory; tools; digital proving ground; multi-agent coordination; agent learning; evaluation; safety; human oversight; co-creation; resource sustainability; research roadmap.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22737831"
+    },
+    {
+      "id": "openalex-W7212425458",
+      "doi": "10.5281/zenodo.22734887",
+      "title": "SVE/CANT Atlas: Geometric Learning, Analytic Knowledge, Verification, and Executable Research",
+      "title_zh": "",
+      "authors": [
+        "Artiom Kovnatsky"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "社会科学",
+      "topics": [
+        "Scientific Computing and Data Management",
+        "Cognitive Computing and Networks",
+        "Cold Fusion and Nuclear Reactions"
+      ],
+      "abstract": "[wAI ~ wErrors] «All models are wrong, but some are useful.» — George E. P. Box (1976) This expanded preprint converts the extensive SVE/CANT idea archive into an addressable research atlas. The source register reports 680,279 input lines, 35,309 unique blocks, 225,423 occurrences, and 212 editorial cards across twenty-five categories. Near-duplicates, competing versions, and modality-specific variants are consolidated into 116 major idea families arranged as eleven themes. Each family is presented through a research proposition, formal or computational object, engineering route, decisive evidence programme, falsifier, and explicit subsystem interfaces. The atlas covers foundations and passports; spectral, matrix, and phase computation; metric, transport, and topological geometry; Clifford, hypercomplex, p-adic, Galois, and analytic algebra; ANT and CogOS; CANTGBoost, witnesses, calibration, and risk; CANTGit and knowledge lifecycle; multimodal data, missingness, and model digestion; systems, hardware, and distributed infrastructure; verification, governance, open science, and theology; and applications, benchmarks, education, publications, and portfolio strategy. The falsifiable experimental spine is: typed observation → local operators → preservation of symmetric and directed structure, optionally H=S+iW → compatibility proposals from commutators or competing diagnostics → held-out JAD and downstream verification → calibrated ALLOW/ABSTAIN/QUARANTINE gate → content-addressed law object with scope, residual, evidence, resource cost, provenance, replay, merge, rollback, and retirement. The paper explicitly rejects unsupported inferences: Perelman monotonicity does not prove universal semantic convergence; reverse Ricci flow is not generally well posed; commutativity is not truth; directed association is not causality; Abel–Ruffini does not impose a universal four-object cognitive limit; no fixed semantic dimension or golden threshold is established; and extreme compression, zero hallucinations, or universal superiority require independent end-to-end evidence. Epistemic status Expanded architecture and research-programme synthesis. Standard mathematics, source-reported measurements, designs, hypotheses, speculative frontiers, theological interpretations, negative results, NOT_RUN items, and explicit non-claims are separated. The work is not evidence of universal model superiority, guaranteed truth, zero hallucinations, a completed theory of intelligence, clinical safety, or realized custom hardware. Related identifiers CANTGBoost candidate relation: https://doi.org/10.5281/zenodo.21699806 S.V.E. Meta-License: https://doi.org/10.5281/zenodo.19373736 S.V.E. Meta-License v5.0",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22734887"
+    },
+    {
+      "id": "openalex-W7212430814",
+      "doi": "10.5281/zenodo.22737832",
+      "title": "АГЕНТНІ СИСТЕМИ ШТУЧНОГО ІНТЕЛЕКТУ Архітектура, планування, пам'ять, інструментальність, координація та оцінювання",
+      "title_zh": "",
+      "authors": [
+        "Dmytro Prokopovych-Tkachenko"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "工程学",
+      "topics": [
+        "Military Technology and Strategies",
+        "Education and Social Development in Ukraine",
+        "Labor Market and Education"
+      ],
+      "abstract": "АНОТАЦІЯ Монографію присвячено системному дослідженню агентних систем штучного інтелекту як багатокомпонентних конфігурацій, у яких мовна або мультимодальна модель поєднується з цілями, плануванням, пам’яттю, інструментальним шаром, середовищем дії, верифікацією та людським наглядом. У п’ятнадцяти розділах сформовано понятійний і методологічний апарат агентності; запропоновано еталонну архітектуру агента; розкрито механізми цілепокладання, декомпозиції задач, контексту, довготривалої пам’яті та контрактної інструментальної дії. Окремо досліджено цифрові полігони й втілених агентів, багатоагентну координацію, кероване накопичення навичок і багатовимірне оцінювання. Завершальні розділи охоплюють надійність, безпеку та людський нагляд, людсько-агентну взаємодію і співтворчість, застосування в освіті, науці та інженерному проєктуванні, інфраструктуру, ресурсну ціну і сталість, а також дорожню карту подальших досліджень. Наукову новизну становить цілісна рамка, у якій агентність трактується як властивість організації системи, а допустима автономія — як функція перевірюваних цілей, дозволів, журналів, процедур зупинки, ресурсних бюджетів і відповідального людського або інституційного рішення. Ключові слова: агентний штучний інтелект; агентні системи; архітектура; планування; пам’ять; інструментальність; цифровий полігон; багатоагентна координація; навчання агентів; оцінювання; безпека; людський нагляд; співтворчість; ресурсна сталість; дорожня карта досліджень. ABSTRACT The monograph presents a systemic study of agentic artificial intelligence as a multi-component configuration in which a language or multimodal model is combined with goals, planning, memory, a tool layer, an action environment, verification and human oversight. Across fifteen chapters, it develops a conceptual and methodological apparatus for agency, proposes a reference agent architecture, examines goal setting and task decomposition, distinguishes context from governed long-term memory, and defines a tool as an action contract with access rights, logging and post-conditions. Separate chapters address digital proving grounds and embodied agents, multi-agent coordination, governed skill accumulation and multidimensional evaluation. The concluding chapters cover reliability, safety and human oversight; human-agent interaction and co-creation; applications in education, science and engineering design; infrastructure, resource cost and sustainability; and a roadmap for further research. The principal contribution is an integrated framework in which agency is treated as a property of system organization, while acceptable autonomy depends on verifiable goals, permissions, logs, stopping procedures, resource budgets and accountable human or institutional decision-making. Keywords: agentic artificial intelligence; agentic systems; architecture; planning; memory; tools; digital proving ground; multi-agent coordination; agent learning; evaluation; safety; human oversight; co-creation; resource sustainability; research roadmap.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22737832"
+    },
+    {
+      "id": "openalex-W7212431713",
+      "doi": "10.5281/zenodo.22726410",
+      "title": "Global 3D Chlorophyll-a Dataset Derived from Multimodal Deep Learning Reconstruction (2005–2025)",
+      "title_zh": "",
+      "authors": [
+        "Ziyue Meng",
+        "Yuntao Wang",
+        "Lei Han"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "跨学科",
+      "topics": [],
+      "abstract": "This dataset provides monthly global three-dimensional chlorophyll-a (Chl-a) fields from January 2005 to June 2025 on a 1° × 1° horizontal grid and 50 standard depth levels from 10 to 500 m. The dataset was reconstructed using a multimodal deep learning framework that integrates Core-Argo temperature and salinity profiles with MODIS surface Chl-a observations and is trained using quality-controlled BGC-Argo Chl-a profiles. It is designed to support analyses of the global vertical distribution, variability, and long-term changes of oceanic chlorophyll-a.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22726410"
+    },
+    {
+      "id": "openalex-W7212432164",
+      "doi": "10.1016/j.aei.2026.105193",
+      "title": "Risk-aware eVTOL path planning for urban fixed-altitude cruise: A multimodal fusion reinforcement learning approach",
+      "title_zh": "",
+      "authors": [
+        "Quanbao Lin",
+        "Fang Chen",
+        "H. Gou",
+        "Peidong Tian"
+      ],
+      "year": 2026,
+      "venue": "Advanced Engineering Informatics",
+      "field": "计算机科学",
+      "topics": [
+        "Robotic Path Planning Algorithms",
+        "Air Traffic Management and Optimization",
+        "Autonomous Vehicle Technology and Safety"
+      ],
+      "abstract": "The complexity and uncertainty of urban environments create an urgent need for safety-enhanced path planning in the autonomous navigation of electric vertical take-off and landing (eVTOL) aircraft. However, existing methods often focus solely on binary collision outcomes or suffer from local optima entrapment, failing to guarantee global path safety and thereby increasing the operational risks. To address these challenges, this paper proposes a risk-aware reinforcement learning (RL)-based framework for eVTOL path planning during fixed-altitude cruise. First, we quantitatively characterize potential and real-time risks by constructing prior risk maps and exploiting temporal radar data, respectively. Subsequently, to mitigate heterogeneous risks comprehensively, we develop a multimodal fusion soft actor-critic (SAC) algorithm, termed MOSSAC. This algorithm leverages a specifically designed encoder to efficiently fuse map, observation, and ego-state information, thereby enhancing the agent’s situational awareness of the quantified risk environment. Ultimately, under the guidance of the risk assessment mechanism, the framework achieves near-optimal path safety performance in real-time navigation. Experimental results demonstrate the superior generalization and robustness of the proposed method. Notably, compared to baseline methods, our method achieves a significant safety improvement of up to 10.84% in dynamic scenarios, with a marginal path length increase of less than 2%.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1016/j.aei.2026.105193"
+    },
+    {
+      "id": "openalex-W7212433690",
+      "doi": "10.70267/jlce.v3n5.4147",
+      "title": "Research on Multimodal Pathways for the Digital Narrative of Qilu Culture from the Perspective of Cross-Cultural Communication",
+      "title_zh": "",
+      "authors": [
+        "Junting He",
+        "Qiming Liu"
+      ],
+      "year": 2026,
+      "venue": "Journal of language, culture and education.",
+      "field": "计算机科学",
+      "topics": [
+        "Advanced Technologies in Various Fields",
+        "Digital Storytelling and Education",
+        "Telecommunications and Broadcasting Technologies"
+      ],
+      "abstract": "Qilu culture is an important representative of the Yellow River civilization. It is not only a peak of Chinese civilization, but also a vivid witness to the long-term continuation of river civilization. Nowadays, with the continuous advancement of digitization and globalization, this paper believes that Qilu culture should assume the role of promoting mutual learning of global civilization. As far as the current cross-cultural communication practice of Qilu culture is concerned, it is necessary to sort out its current situation and try to design a multi-modal digital narrative communication mode according to its characteristics. To do so, first, it can provide theoretical basis and practical operation scheme for the construction of Chinese civilization identity system and the promotion of international influence; second, it can also provide a reference sample for the effective dissemination of culture in other regions.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.70267/jlce.v3n5.4147"
+    },
+    {
+      "id": "openalex-W7212434159",
+      "doi": "10.5281/zenodo.22731076",
+      "title": "Breast Cancer Overall-Survival Risk Stratification on METABRIC: A Reproducible Cox Baseline and a Complete Negative-Result Arc",
+      "title_zh": "",
+      "authors": [
+        "Yankai Niu"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "生物学",
+      "topics": [
+        "BRCA gene mutations in cancer",
+        "Breast Cancer Treatment Studies",
+        "Radiomics and Machine Learning in Medical Imaging"
+      ],
+      "abstract": "We build a reproducible, group-level overall-survival (OS) risk-stratification baseline on the public METABRIC cohort (analysis n=1,980; 1,144 deaths) and quantify honestly how far clinical, genomic, architectural, and multimodal modeling can go under a fixed data budget. A multivariable Cox PH model with 35 clinical covariates reaches a test C-index of 0.671 (bootstrap 95% CI reported), significantly above the classical NPI baseline (0.633); random survival forests peak at 0.692; high/low-risk groups separate with log-rank p<1e-10 and 5-year calibration is good. A 78-gene panel adds no multivariable gain because the proliferation signal is already absorbed by clinical variables; TCGA-BRCA external validation fails; stacking, multi-task learning, AFT models, and ABMIL/TransMIL whole-slide multimodal learning (620 slides) do not beat clinical-only models. We report the complete negative-result arc (13 models) and enforce a strict ethical boundary: only group-level risk strata and survival statistics are produced; individual survival-time prediction is neither generated nor supported.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22731076"
+    },
+    {
+      "id": "openalex-W7212434524",
+      "doi": "10.21275/sr26910150333",
+      "title": "Sleep Measurement Tools: A Narrative Review of Recent Advances",
+      "title_zh": "",
+      "authors": [
+        "Darshana Nariya"
+      ],
+      "year": 2026,
+      "venue": "International Journal of Science and Research (IJSR)",
+      "field": "社会科学",
+      "topics": [
+        "Sleep and related disorders",
+        "Non-Invasive Vital Sign Monitoring",
+        "Obstructive Sleep Apnea Research"
+      ],
+      "abstract": "Background: Accurate sleep measurement underpins clinical diagnosis, research, and consumer health tracking. Over the past decade the field has expanded beyond laboratory polysomnography (PSG) to include actigraphy, consumer wearables, contactless sensors, smartphone applications, and AI-driven signal analysis. Objective: This narrative review synthesizes recent advances (2020-2026) in sleep measurement tools, evaluates their comparative validity, and outlines future directions. Methods: A structured, non-systematic search of PubMed and Embase used MeSH terms and free-text keywords covering polysomnography, actigraphy, wearable and contactless sensors, artificial intelligence, and sleep questionnaires, restricted to English-language articles published between January 2019 and July 2026; reference lists of key reviews were hand-searched. Results: PSG remains the diagnostic reference standard but is limited by cost, access, and the first-night effect. Actigraphy reliably estimates total sleep time and efficiency but performs poorly at multi-stage classification. Consumer wrist wearables and smart rings combining accelerometry, photoplethysmography, and skin-temperature sensing approach 90-95% agreement with PSG for sleep-wake detection, though wake specificity remains variable. Contactless radar and under-mattress sensors permit unobtrusive, longitudinal cardiorespiratory monitoring. Deep-learning and foundation models increasingly automate PSG scoring and extract prognostic information. Subjective instruments such as the Pittsburgh Sleep Quality Index and Epworth Sleepiness Scale remain valuable for perceived sleep quality but show limited criterion validity against objective sleep disorders. Conclusions: No single tool is universally superior; each occupies a niche defined by trade-offs among accuracy, scalability, cost, and patient burden. Rigorous, standardised validation across diverse populations remains the principal need as the field moves toward AI-augmented, multimodal, home-based sleep assessment.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.21275/sr26910150333"
+    },
+    {
+      "id": "openalex-W7212435841",
+      "doi": "10.70267/aitia.20265055",
+      "title": "Evolution of Few-Shot Image Classification: A Survey from Metric Learning to Large Model Fine-Tuning",
+      "title_zh": "",
+      "authors": [
+        "Yuhang Ji"
+      ],
+      "year": 2026,
+      "venue": "Exploring Science Academic Conference Series",
+      "field": "跨学科",
+      "topics": [],
+      "abstract": "While deep learning has achieved remarkable success in image recognition, it relies heavily on massive amounts of labeled data. In real-world scenarios like medical imaging, collecting such large datasets is often expensive or impossible. To overcome this critical bottleneck, Few-Shot Image Classification (FSIC) has emerged as a vital domain, enabling models to learn new categories from extremely limited samples. Based on a comprehensive review of recent literature, this paper systematically divides mainstream FSIC methods into three categories: Metric Learning, Optimization/Meta-Learning, and Transfer Learning with Large Model Fine-Tuning. This survey comprehensively evaluates the underlying mechanisms, inherent strengths, and specific weaknesses of each category. Additionally, the paper provides a clear performance comparison to illustrate the evolutionary impact of these different approaches. Finally, the paper deeply discusses remaining technical challenges, specifically detailing issues like cross-domain generalization and computational dependence, and outlines promising future research directions, such as multimodal knowledge fusion, to further advance the field.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.70267/aitia.20265055"
+    },
+    {
+      "id": "openalex-W7212436423",
+      "doi": "10.70267/aitia.20261925",
+      "title": "The Combination of RAG and RL: A Technological Breakthrough and Future Directions in Mathematical Reasoning with LLMs",
+      "title_zh": "",
+      "authors": [
+        "Yuchen Wang"
+      ],
+      "year": 2026,
+      "venue": "Exploring Science Academic Conference Series",
+      "field": "跨学科",
+      "topics": [],
+      "abstract": "Large language models (LLMs) face challenges in mathematical reasoning tasks, including logical disjunction, process hallucination, and a loss of creativity, which severely restricts the reliability and application of LLMs for this purpose. To tackle these issues, this paper applies secondary research, systematically explores the mathematical logic of fusing retrieval-augmented generation and reinforcement learning, and constructs a three-dimensional fusion framework of ‘fusion object –optimization granulari ty–application scenario’. We identify three core technical paths: RL-optimized RAG retrieval strategies, RL-enhanced RAG reasoning chains, and RL-adapted RAG knowledge fusion. According to the results, the precision, sturdiness, and comprehension of mathem atical reasoning can be improved remarkably with the help of this ‘Knowledge Supply-Strategy Optimization’ closed-loop framework. It gets 10% -20% accuracy improvement on the benchmark datasets like MATH and AIME that also controls process hallucination bel ow 5%. This paper further analyzes the limitation of current technologies in terms of cross-domain theorem association, multimodal adaptations, and low-resource scenarios. The article also proposes future research ideas, including agent-based fusion framework and lightweight process supervision, which can efficiently and reliably support mathematics education, scientific research assistance, and engineering computation.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.70267/aitia.20261925"
+    },
+    {
+      "id": "openalex-W7212436643",
+      "doi": "10.70267/aitia.2026174181",
+      "title": "The Utilization of Convolutional Neural Network (CNN) in Leukemia Detection",
+      "title_zh": "",
+      "authors": [
+        "Yiren Liu"
+      ],
+      "year": 2026,
+      "venue": "Exploring Science Academic Conference Series",
+      "field": "跨学科",
+      "topics": [],
+      "abstract": "Leukemia is one of the major types of cancer around the world; traditional detection methods of blood smear are time-consuming, subjective, and error-prone. This review provides an overview of the application of Convolutional Neural Networks (CNNs) for detecting leukemia in microscope images. This research investigates the main methods, latest developments, and root causes of the ongoing challenges in CNN-based leukemia detection. This review follows a systematic literature review approach. Grouping recent CNN models in technical routes: (i)pre-training architecture based on transfer learning (e.g., VGG19, AlexNet ) and (ii)dataset augmentation and hyperparameter optimization, against the typical five-step diagnosis workflow. The key findings suggest that CNN significantly improves detection accuracy, speed, and automation. With transfer learning, one of the CNN designs achieved the best results, achieving 99.1% accuracy. Compared with other machine learning methods, accuracy has increased by 2% to 8%. However, most models still suffer from poor dataset quality and diversity, leading to overfitting and poor generaliz ability. This study proposes three complementary solutions: ( i) transfer learning, (ii) unsupervised/semi-supervised learning, and (iii) multimodal data fusion. In conclusion, this review provides a clear roadmap that bridges current technical maps. By integrating three directions, future CNN models can be more robust, low-cost, and clinically viable, thus accelerating the reliable detection of leukemia worldwide.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.70267/aitia.2026174181"
+    },
+    {
+      "id": "openalex-W7212437773",
+      "doi": "10.5281/zenodo.22734886",
+      "title": "SVE/CANT Atlas: Geometric Learning, Analytic Knowledge, Verification, and Executable Research",
+      "title_zh": "",
+      "authors": [
+        "Artiom Kovnatsky"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "社会科学",
+      "topics": [
+        "Scientific Computing and Data Management",
+        "Cognitive Computing and Networks",
+        "Cold Fusion and Nuclear Reactions"
+      ],
+      "abstract": "[wAI ~ wErrors] «All models are wrong, but some are useful.» — George E. P. Box (1976) This expanded preprint converts the extensive SVE/CANT idea archive into an addressable research atlas. The source register reports 680,279 input lines, 35,309 unique blocks, 225,423 occurrences, and 212 editorial cards across twenty-five categories. Near-duplicates, competing versions, and modality-specific variants are consolidated into 116 major idea families arranged as eleven themes. Each family is presented through a research proposition, formal or computational object, engineering route, decisive evidence programme, falsifier, and explicit subsystem interfaces. The atlas covers foundations and passports; spectral, matrix, and phase computation; metric, transport, and topological geometry; Clifford, hypercomplex, p-adic, Galois, and analytic algebra; ANT and CogOS; CANTGBoost, witnesses, calibration, and risk; CANTGit and knowledge lifecycle; multimodal data, missingness, and model digestion; systems, hardware, and distributed infrastructure; verification, governance, open science, and theology; and applications, benchmarks, education, publications, and portfolio strategy. The falsifiable experimental spine is: typed observation → local operators → preservation of symmetric and directed structure, optionally H=S+iW → compatibility proposals from commutators or competing diagnostics → held-out JAD and downstream verification → calibrated ALLOW/ABSTAIN/QUARANTINE gate → content-addressed law object with scope, residual, evidence, resource cost, provenance, replay, merge, rollback, and retirement. The paper explicitly rejects unsupported inferences: Perelman monotonicity does not prove universal semantic convergence; reverse Ricci flow is not generally well posed; commutativity is not truth; directed association is not causality; Abel–Ruffini does not impose a universal four-object cognitive limit; no fixed semantic dimension or golden threshold is established; and extreme compression, zero hallucinations, or universal superiority require independent end-to-end evidence. Epistemic status Expanded architecture and research-programme synthesis. Standard mathematics, source-reported measurements, designs, hypotheses, speculative frontiers, theological interpretations, negative results, NOT_RUN items, and explicit non-claims are separated. The work is not evidence of universal model superiority, guaranteed truth, zero hallucinations, a completed theory of intelligence, clinical safety, or realized custom hardware. Related identifiers CANTGBoost candidate relation: https://doi.org/10.5281/zenodo.21699806 S.V.E. Meta-License: https://doi.org/10.5281/zenodo.19373736 S.V.E. Meta-License v5.0",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22734886"
+    },
+    {
+      "id": "openalex-W7212440161",
+      "doi": "10.1016/j.oceaneng.2026.127900",
+      "title": "A risk-aware multimodal temporal reinforcement learning approach for collision avoidance of unmanned surface vehicles in multi-dynamic-obstacle scenarios",
+      "title_zh": "",
+      "authors": [
+        "Sijin Yu",
+        "Yunbo Li",
+        "Jiaye Gong"
+      ],
+      "year": 2026,
+      "venue": "Ocean Engineering",
+      "field": "工程学",
+      "topics": [
+        "Maritime Navigation and Safety",
+        "Maritime Transport Emissions and Efficiency",
+        "Robotic Path Planning Algorithms"
+      ],
+      "abstract": "This study addresses autonomous collision avoidance for unmanned surface vehicles in multi-dynamic-obstacle maritime scenarios, where the number of obstacles varies, risk interactions are complex, and dynamic environmental evolution is difficult to exploit effectively. A Risk-Aware Multimodal Temporal Proximal Policy Optimization algorithm is proposed. First, a collision risk index is defined based on the relative motion between the own ship and the obstacle vessels. Through spatial diffusion and risk fusion, obstacle sets with variable cardinality are transformed into a structured high-dimensional risk representation independent of obstacle population size. Second, a Transformer-based risk-aware multimodal temporal policy network is designed to jointly encode historical risk maps and vehicle states, enabling the extraction of spatiotemporal features and improving the modeling of risk evolution in complex environments. The framework is then integrated with proximal policy optimization and enhanced by curriculum learning to realize progressive training from simple to complex tasks. Simulation results show that the proposed method achieves favorable convergence, adaptability, and robustness, and outperforms baseline methods in success rate, average return, turning responses, and safety.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1016/j.oceaneng.2026.127900"
+    },
+    {
+      "id": "openalex-W7212442761",
+      "doi": "10.70267/aitia.2026293299",
+      "title": "AI-Driven Implicit Consumer Emotion Measurement in Food Sensory Evaluation: Research Progress and Future Directions",
+      "title_zh": "",
+      "authors": [
+        "Tianyang Pei"
+      ],
+      "year": 2026,
+      "venue": "Exploring Science Academic Conference Series",
+      "field": "跨学科",
+      "topics": [],
+      "abstract": "Traditional food sensory evaluation relies heavily on explicit judgments such as descriptive analysis, check - all-that-apply questions, and hedonic ratings. These methods remain indispensable, yet they are vulnerable to memory limits, social desirability, f atigue, contextual bias, and the difficulty of verbalizing weak or rapidly changing affective states. This review examines how artificial intelligence is accelerating implicit consumer emotion measurement in food sensory evaluation. We synthesize recent progress in facial expression analysis, eye tracking, and electroencephalography, with attention to the affective signals each modality can capture, the signal-processing and machine-learning methods that make those signals usable, and the role of multimodal fusion in more robust preference prediction. The review argues that implicit measurement should be treated as a complementary layer rather than a substitute for explicit sensory science. Its future value depends on calibrated multimodal protocols, transpa rent models, ecological test environments, and strict ethical governance of biometric data.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.70267/aitia.2026293299"
+    },
+    {
+      "id": "openalex-W7212443184",
+      "doi": "10.5281/zenodo.22726409",
+      "title": "Global 3D Chlorophyll-a Dataset Derived from Multimodal Deep Learning Reconstruction (2005–2025)",
+      "title_zh": "",
+      "authors": [
+        "Ziyue Meng",
+        "Yuntao Wang",
+        "Lei Han"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "跨学科",
+      "topics": [],
+      "abstract": "This dataset provides monthly global three-dimensional chlorophyll-a (Chl-a) fields from January 2005 to June 2025 on a 1° × 1° horizontal grid and 50 standard depth levels from 10 to 500 m. The dataset was reconstructed using a multimodal deep learning framework that integrates Core-Argo temperature and salinity profiles with MODIS surface Chl-a observations and is trained using quality-controlled BGC-Argo Chl-a profiles. It is designed to support analyses of the global vertical distribution, variability, and long-term changes of oceanic chlorophyll-a.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22726409"
+    },
+    {
+      "id": "openalex-W7212445005",
+      "doi": "10.5281/zenodo.22733117",
+      "title": "Harmonic Intelligence: Recursive Analytic Meta-Geometry, Residual-Bearing Learning, and the Geometry of Solution Types — Integrated Edition",
+      "title_zh": "",
+      "authors": [
+        "Artiom Kovnatsky"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "数学",
+      "topics": [
+        "Algebraic and Geometric Analysis",
+        "Topological and Geometric Data Analysis",
+        "Homotopy and Cohomology in Algebraic Topology"
+      ],
+      "abstract": "[wAI ~ wErrors] «All models are wrong, but some are useful.» — George E. P. Box (1976) This preprint synthesizes a large exploratory notebook on metric atlases, spectral and harmonic representations, residual-bearing learning, recursive joint/meta-diagonalization, Galois and monodromy fingerprints, sheaf/cohomological local-to-global reasoning, exact-solution meta-learning, multimodal arbitration, rare-event handling, and S.V.E.-style verification. Its central proposal is Harmonic Intelligence: intelligence is not only optimization inside a representation, nor only the discovery of a better representation. It is also the capacity to discover or construct local operator languages in which a phenomenon admits compact analytic or structured laws; preserve the unresolved residual explicitly; learn across the geometry of solution types; and recursively refine this meta-geometry under held-out, interventional, and provenance constraints. The paper deliberately separates exact mathematics, implementable design, falsifiable hypotheses, speculative frontiers, theological motivation, and explicit non-claims. In particular, it rejects as unestablished the notebook's strongest claims that Perelman/Ricci flow necessarily collapses arbitrary semantic spaces to a unique 10-dimensional ball, that such a flow implies O(1) training/inference, that operator normality certifies truth, or that a universal semantic dimension/golden-ratio geometry has already been proved. The synthesis also defines interfaces to Geometry of Intelligence, ANT, CANTGBoost, .antcolony, CANTGit, FSIM, Phase/Clifford algebra, Systemic Geometry, Executable Intelligence, Academy, and S.V.E. Omega. S.V.E. Meta-License v5.0",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22733117"
     },
     {
       "id": "arxiv-2403.05530",
