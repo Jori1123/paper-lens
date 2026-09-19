@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-09-18T00:23:24.664963+00:00",
+    "updated_at": "2026-09-19T00:23:26.108114+00:00",
     "source": "OpenAlex",
     "queries": [
       "artificial intelligence",
@@ -10,7 +10,7 @@
       "multimodal learning"
     ],
     "window_years": 10,
-    "count": 1977
+    "count": 2003
   },
   "papers": [
     {
@@ -47403,7 +47403,7 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "pdf_url": "",
+      "pdf_url": "https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2026.1857066/pdf",
       "url": "https://doi.org/10.3389/fcomm.2026.1857066"
     },
     {
@@ -47507,7 +47507,7 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "pdf_url": "",
+      "pdf_url": "https://wseas.com/journals/isa/2026/b045109-021(2026).pdf",
       "url": "https://doi.org/10.37394/23209.2026.23.50"
     },
     {
@@ -47604,8 +47604,8 @@
       "abstract_zh": "",
       "citations": 0,
       "popularity": 18,
-      "open_access": false,
-      "pdf_url": "",
+      "open_access": true,
+      "pdf_url": "https://doi.org/10.25258/ijddt.16.81s.55",
       "url": "https://doi.org/10.25258/ijddt.16.81s.55"
     },
     {
@@ -47692,7 +47692,7 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "pdf_url": "",
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007/s44163-026-02200-4.pdf",
       "url": "https://doi.org/10.1007/s44163-026-02200-4"
     },
     {
@@ -47961,7 +47961,7 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "pdf_url": "",
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007/s44163-026-02204-0.pdf",
       "url": "https://doi.org/10.1007/s44163-026-02204-0"
     },
     {
@@ -48421,8 +48421,8 @@
       "abstract_zh": "",
       "citations": 0,
       "popularity": 18,
-      "open_access": false,
-      "pdf_url": "",
+      "open_access": true,
+      "pdf_url": "https://doi.org/10.48081/btouph3.2026/459-472",
       "url": "https://doi.org/10.48081/btouph3.2026/459-472"
     },
     {
@@ -48651,7 +48651,7 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "pdf_url": "",
+      "pdf_url": "https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2026.1893119/pdf",
       "url": "https://doi.org/10.3389/fnhum.2026.1893119"
     },
     {
@@ -48792,7 +48792,7 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "pdf_url": "",
+      "pdf_url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1956337/pdf",
       "url": "https://doi.org/10.3389/fpsyg.2026.1956337"
     },
     {
@@ -49017,7 +49017,7 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "pdf_url": "",
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007/s44163-026-02246-4.pdf",
       "url": "https://doi.org/10.1007/s44163-026-02246-4"
     },
     {
@@ -49130,6 +49130,628 @@
       "open_access": false,
       "pdf_url": "",
       "url": "https://doi.org/10.4018/979-8-2600-1533-9.ch008"
+    },
+    {
+      "id": "openalex-W7170032440",
+      "doi": "10.5281/zenodo.21500714",
+      "title": "ActionABI: Evidence-first auditing of robot action-tensor contracts",
+      "title_zh": "",
+      "authors": [
+        "Krishi Attri"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "跨学科",
+      "topics": [],
+      "abstract": "A C++20/CUDA research tool for forensic recovery of undocumented robot action-tensor contracts. It scores a finite declared grammar on held-out trajectory episodes, retains calibrated equivalence sets instead of breaking ties, proposes bounded safe separating probes, and emits a converter only when every required field is supported by evidence. Its defining discipline is calibrated abstention, and its scoring core is exposed as a pybind11 fusion backend.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.21500714"
+    },
+    {
+      "id": "openalex-W7170046954",
+      "doi": "10.5281/zenodo.21500712",
+      "title": "ActionShift: Hidden compositional action-interface adaptation benchmark",
+      "title_zh": "",
+      "authors": [
+        "Krishi Attri"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "跨学科",
+      "topics": [],
+      "abstract": "A benchmark and experimental DualABI controller for task-regret-aware adaptation to hidden compositional robot action-interface contracts (permutation, sign, scale, target, frame, lag, and gripper semantics), with a matched-privilege method ladder over real ManiSkill tasks.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.21500712"
+    },
+    {
+      "id": "openalex-W7213497132",
+      "doi": "10.5281/zenodo.22821007",
+      "title": "ActionABI: Evidence-first auditing of robot action-tensor contracts",
+      "title_zh": "",
+      "authors": [
+        "Krishi Attri"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "跨学科",
+      "topics": [],
+      "abstract": "A C++20/CUDA research tool for forensic recovery of undocumented robot action-tensor contracts. It scores a finite declared grammar on held-out trajectory episodes, retains calibrated equivalence sets instead of breaking ties, proposes bounded safe separating probes, and emits a converter only when every required field is supported by evidence. Its defining discipline is calibrated abstention, and its scoring core is exposed as a pybind11 fusion backend.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22821007"
+    },
+    {
+      "id": "openalex-W7213510202",
+      "doi": "10.5281/zenodo.22821207",
+      "title": "THE MIND OF EL-RAKHAWI WHEN ROBOTS LEARN TO BREATHE, FEEL, AND THINK LIKE NATURE ITSELF",
+      "title_zh": "",
+      "authors": [
+        "mohamed kamal arafa el-rakhawi"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "社会科学",
+      "topics": [
+        "Medieval and Classical Philosophy",
+        "Islamic Studies and History",
+        "Historical Astronomy and Related Studies"
+      ],
+      "abstract": "THE MIND OF EL-RAKHAWI WHEN ROBOTS LEARN TO BREATHE, FEEL, AND THINK LIKE NATURE ITSELF",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22821207"
+    },
+    {
+      "id": "openalex-W7213514278",
+      "doi": "10.5281/zenodo.22821208",
+      "title": "THE MIND OF EL-RAKHAWI WHEN ROBOTS LEARN TO BREATHE, FEEL, AND THINK LIKE NATURE ITSELF",
+      "title_zh": "",
+      "authors": [
+        "mohamed kamal arafa el-rakhawi"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "社会科学",
+      "topics": [
+        "Medieval and Classical Philosophy",
+        "Islamic Studies and History",
+        "Historical Astronomy and Related Studies"
+      ],
+      "abstract": "THE MIND OF EL-RAKHAWI WHEN ROBOTS LEARN TO BREATHE, FEEL, AND THINK LIKE NATURE ITSELF",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22821208"
+    },
+    {
+      "id": "openalex-W7213519064",
+      "doi": "10.5281/zenodo.22820941",
+      "title": "ActionABI: Evidence-first auditing of robot action-tensor contracts",
+      "title_zh": "",
+      "authors": [
+        "Krishi Attri"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "跨学科",
+      "topics": [],
+      "abstract": "A C++20/CUDA research tool for forensic recovery of undocumented robot action-tensor contracts. It scores a finite declared grammar on held-out trajectory episodes, retains calibrated equivalence sets instead of breaking ties, proposes bounded safe separating probes, and emits a converter only when every required field is supported by evidence. Its defining discipline is calibrated abstention, and its scoring core is exposed as a pybind11 fusion backend.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22820941"
+    },
+    {
+      "id": "openalex-W7213525356",
+      "doi": "10.5281/zenodo.22820932",
+      "title": "ActionShift: Hidden compositional action-interface adaptation benchmark",
+      "title_zh": "",
+      "authors": [
+        "Krishi Attri"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "跨学科",
+      "topics": [],
+      "abstract": "A benchmark and experimental DualABI controller for task-regret-aware adaptation to hidden compositional robot action-interface contracts (permutation, sign, scale, target, frame, lag, and gripper semantics), with a matched-privilege method ladder over real ManiSkill tasks.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22820932"
+    },
+    {
+      "id": "openalex-W7213528425",
+      "doi": "10.63254/acsse.v2i2.49",
+      "title": "Knowledge-Based Label Construction and Machine Learning Classification for ASD Technology Recommendation",
+      "title_zh": "",
+      "authors": [
+        "Jeyarani Periasamy",
+        "Lukminal Feri Julian"
+      ],
+      "year": 2026,
+      "venue": "Applied Computer Science and Software Engineering",
+      "field": "Neuroscience",
+      "topics": [
+        "Autism Spectrum Disorder Research",
+        "Child Nutrition and Feeding Issues",
+        "Digital Mental Health Interventions"
+      ],
+      "abstract": "Autism Spectrum Disorder (ASD) is a neurodevelopmental disorder with heterogeneous behavioral profiles, including impairments in communication, social interaction, repetitive behaviors, and sensory sensitivities. Public ASD datasets only provide binary diagnostic labels without technology intervention recommendations, leaving behavioral profiles underutilized for recommendation purposes. This study proposes a knowledge-based labeling approach using soft scoring to construct five technology recommendation labels: AAC, Serious Game, Social Robot, Sensory App, and Video Modeling, from AQ-10 behavioral profiles derived from verified clinical literature. The dataset combines UCI ML Repository (ID=419) and Kaggle All Ages Combined, totaling 5,505 instances with 14 input features. Seven machine learning algorithms were compared using test-set evaluation, 10-Fold Stratified Cross-Validation, hyperparameter tuning, and SHapley Additive exPlanations (SHAP), with class imbalance handled via Synthetic Minority Oversampling Technique (SMOTE). Tuned Gradient Boosting achieved the best performance with accuracy 96.73%, F1-macro 96.54%, and CV accuracy 94.68% ± 0.79%. SHAP analysis confirmed prediction patterns consistent with the knowledge-based labeling design, while demographic features contributed minimally. The system is designed as a decision-support tool for practitioners, not a substitute for comprehensive clinical assessment.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": false,
+      "pdf_url": "",
+      "url": "https://doi.org/10.63254/acsse.v2i2.49"
+    },
+    {
+      "id": "openalex-W7124427543",
+      "doi": "10.5281/zenodo.18263735",
+      "title": "Jehang-jaerip-ron [EO-IRE]: A Bio-Strategic Theory of the Behavioral Patterns and Future Trajectories of State and Corporate Entities",
+      "title_zh": "",
+      "authors": [
+        "HAKHOON KIM"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "社会科学",
+      "topics": [
+        "Innovation, Sustainability, Human-Machine Systems",
+        "Leadership, Behavior, and Decision-Making Studies",
+        "Military Strategy and Technology"
+      ],
+      "abstract": "Also available on SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6169986 Abstract / Description (Refined) This paper introduces Jehang-jaerip-ron [EO-IRE], a novel theoretical framework designed to analyze the survival, growth, and interactions of complex human organizations, such as states and corporations. EO-IRE adopts a relational ontology defining existence through relational bundles formed via alignment and extrication processes. Grounded in structural homology with biological life processes, the theory conceptualizes organizational dynamics through the principles of order restoration and disequilibrium resolution. The core innovation of this framework is Sangsonik (RRR; Relative Resource-Return), a relational analytical variable shaping alignment/extrication relations (Maet-gwangye [AR] / Tte-gwangye [ER]) and their associated stakes. RRR is conceptually structured to permit future operationalization and quantification, while functioning in the present framework primarily as an analytical principle for evaluating changes in relational configurations and their implications for survival. Unlike conventional distinctions such as connected/disconnected or positive/negative ties, EO-IRE treats Maet-gwangye (AR) and Tte-gwangye (ER) as distinct relational statuses: relations that an entity must establish, sustain, or strengthen for survival and goal attainment, and relations from which it must detach or that it must weaken or remove, respectively. Changes in RRR can induce transitions between these statuses, thereby reconfiguring the broader relational bundle. EO-IRE provides a systemic, mechanistic framework for analyzing and anticipating organizational behavior through relational dynamics conceptualized differently from those in conventional evolutionary or economic models. As the fundamental principle of EO-IRE©Ido, the world operates as a constant process of re-establishing order, with underlying energy resolving disequilibrium via alignment/extrication processes. The document also provides canonical definitions, operational rules, and illustrative case studies, including the US stock market, NATO collapse, Sino-Russian relations, Korea-Japan relations, and the AI-Robot era. Statement on AI Assistance The EO-IRE framework was developed through the author’s sustained process of reading historical books, reflecting on the behavior of states and organizations, and repeatedly recording and refining those reflections in handwritten notes, prior to any use of generative AI. This process of independent reading, reflection, and handwritten note-taking began prior to the author's use of generative AI and has continued since then. The practice of dating these handwritten notes was adopted subsequently and remains ongoing. Generative AI was not used in the formation of the EO-IRE theoretical system or in the original development of its concepts and principles. AI tools were first used only after this original theoretical development, for auxiliary purposes such as translation and procedural assistance in preparing the independently developed framework for public dissemination through Zenodo. All concepts, generative principles, theoretical logic and lines of reasoning, structural elements, and other theoretical content of EO-IRE, as elaborated in Maet-Tte [맺떼] (EO-IRE Strategic Philosophy System [EO-IRE 전략사상체계]), were independently developed by the author. Citation Guidance For consistency, readers are encouraged to cite this document as the reference version of the EO-IRE (Jehang-jaerip-ron) framework. This document represents EO-IRE v19.7 (2026) and serves as the reference definition of EO-IRE©Ido (Hakhoon Kim). License This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0). This license is intended to foster academic expansion and case-study applications while strictly reserving commercial rights to the author. See full license terms within the document. Updates & Source The Water War in South Korea, originally released in installments on the author’s blog between July 10 and September 5, 2026, was subsequently revised and edited in part and published on September 15, 2026, under the title Why We Fight Without Being Deprived: A Future Scenario of the Water War in South Korea. ISBN 9791112294876 (2026-09-16) Update note (11 September 2026): A Statement on AI Assistance was added to the description to clarify the scope and nature of generative AI use. The theoretical content itself was not revised as part of this update. The Brunch article \"Scenarios the Korean Government May Face Around 2030\" (Korean: 2030 전후 반도체, 정부가 맞이할 수 있는 시나리오), first published on 17 July 2026, was expanded and published as a book on 28 July 2026. ISBN 9791112248602. (2026-07-28) Added the concept and definition of Blindfolded Racehorse Rush©Ido (BRR) (2026-07-21) Added Yang-Gyunhyung (Positive Equilibrium) and Eum-Gyunhyung (Negative Equilibrium) (2026-07-11) Added the concept and definition of Inter-Anomaly Encounter (IAE) (2026-07-11) Added HyeHae [BH] (Benefit-to-Harm) and HaeHye [HB] (Harm-to-Benefit) (2026-07-06) RRR definition refined for conciseness and greater clarity conciseness. (2026-06-26) Added 'Boundary Within Boundary'©Ido [BWB] as a formal concept within the EO-IRE framework. (2026-06-19) RRR definition refined for clarity and precision. (2026-06-15) Expanded the EO-IRE framework by formalizing Maet-mok (AS), Tte-mok (ES), and Mok (AES), and introducing the Distribution Principle of Stakes. This revision clarifies the relationship between Maet-gwangye, Tte-gwangye, stake distribution, and relational dynamics. (2026-06-13) Added 'Jeonjang Jeoni'©Ido (Battlefield Shift) [JJ] and 'Boy-Who-Cried-Wolf Inertia'©Ido [BWCI] as formal concepts within the EO-IRE framework. (2026-06-08) An expanded exposition of EO-IRE was published as Maet-Tte [맺떼] (EO-IRE Strategic Philosophy System [EO-IRE 전략사상체계), ISBN 9791112191557. The book elaborates the implications of EO-IRE through an aphorism-and-interpretation format. (26-05-08) Added the \"RRR Matrix\" and the \"Dual Thresholds of Sangsonik\" framework. This version incorporates the conceptual definitions of Hye & Hae. Incorporated the conceptual definitions of Haedo (Kiugi) & Haeya (Gumgigi). Ontological clarification added: The EO-IRE framework now explicitly specifies its relational ontology and classifies the Core Engine into four primitive dynamic concepts — AER, BR, RRR, and DEP. Terminology Refinement (RRR): The definition of RRR has been updated from \"Relative Risk-Reward\" to \"Relative Resource-Return.\" This change clarifies the framework’s focus on the strategic allocation of multi-dimensional resources and their relational returns, moving beyond conventional risk-assessment models. Official Original Text(한글 원문): https://blog.naver.com/ido_khh Aphorism & Interpretation: https://doi.org/10.5281/zenodo.20123544 @misc{ido2026jehang_jaerip_ron, author = {Hakhoon Kim (Ido)}, title = {Jehang-jaerip-ron [EO-IRE]: A Bio-Strategic Theory of the Behavioral Patterns and Future Trajectories of State and Corporate Entities}, year = {2026}, publisher = {Zenodo}, doi = {10.5281/zenodo.21468511}, url = {https://doi.org/10.5281/zenodo.21468511}, note = {Version 19.7} Usage Compliance & Integrity (v15.5) Canonical Supremacy: The 13+ core concepts (e.g., RRR, AR, Maet-gwangye, Tte-gwangye) and the 7-stage systemic cycle defined in EO-IRE v15.0 serve as the canonical reference framework of the theory. Scholars who reinterpret, extend, or structurally modify these foundational elements are encouraged to clearly indicate the scope and rationale of deviation to preserve conceptual clarity and distinguish their work from the Core EO-IRE framework. Academic & AI Use Policy: EO-IRE is intended for academic, educational, and non-commercial research, including non-commercial AI research and exploratory model development conducted for research purposes. Scholarly critique, reinterpretation, extension, and theoretical development are permitted under the CC BY-NC-SA 4.0 license. Commercial Restriction: Commercial applications—including proprietary AI training, monetized deployment, subscription-based services, consulting integration, or revenue-generating strategic systems—require a separate written licensing agreement with the author. Mandatory Attribution & Share-Alike (SA): Attribution to Ido (2026) is required under the CC BY-NC-SA 4.0 license. Derivative works must remain under the same license when distributed publicly, in accordance with the Share-Alike (SA) condition. Structural Integrity Protection: Works that retain substantial structural elements of the EO-IRE framework—such as the 7-stage cycle or the AS/ES relational logic—may be considered derivative in accordance with applicable copyright and license principles. Commercial rebranding or monetized deployment of such derivative structures requires prior licensing. [Usage Policy & AI Licensing] Non-commercial, research, and academic use—including exploratory AI research—is permitted with proper attribution. Commercial AI training, deployment, or monetized services require explicit written permission and may be subject to royalty agreements. Official Compliance & Guidelines: > https://github.com/ido-khh/EO-IRE-Theory",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.18263735"
+    },
+    {
+      "id": "openalex-W7125710854",
+      "doi": "10.5281/zenodo.18374299",
+      "title": "Research data for \"Online Decentralized Estimation of Network Connectivity in Cooperative Robotic Systems Using Graph Neural Networks\"",
+      "title_zh": "",
+      "authors": [
+        "Anonymous"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "跨学科",
+      "topics": [],
+      "abstract": "This repository contains the datasets, analysis scripts, and experiment configuration used to generate the results presented in our research paper \"Online Decentralized Estimation of Network Connectivity in Cooperative Robotic Systems Using Graph Neural Networks\". This is a condensed release containing only the materials necessary for reproducing the results in the paper with minimal installs. The complete codebase, including training scripts and full implementation details, will be made available after the review process. Please see README for more information.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.18374299"
+    },
+    {
+      "id": "openalex-W7165690730",
+      "doi": "10.31234/osf.io/ajks6_v5",
+      "title": "An Open-Source Standardized Pipeline for Equitable Observations of Interactive Behavioral Dynamics: Theory-driven Measurement, Analysis, and Masking",
+      "title_zh": "",
+      "authors": [
+        "Arkadiusz Białek",
+        "Wim Pouw",
+        "James P. Trujillo",
+        "Fred Hasselman",
+        "Babajide Owoyele",
+        "Natalia Siekiera",
+        "Joanna Rączaszek‐Leonardi",
+        "Travis J. Witshire"
+      ],
+      "year": 2026,
+      "venue": "OpenAlex",
+      "field": "社会科学",
+      "topics": [
+        "Action Observation and Synchronization",
+        "Child and Animal Learning Development",
+        "Social Robot Interaction and HRI"
+      ],
+      "abstract": "Behavioral observation has a longstanding tradition in psychology. However, its reliance on manual coding makes observational methods costly and prone to biases that arise from the inherent limits of coding schemes and from the subjectivity of human raters. Behavioral observation research therefore has drawbacks in terms of applicability, accessibility, reproducibility, and equitability. Computer vision (CV) methods have promise in this regard. In the context of quantifying human movement, CV approaches to pose estimation are becoming increasingly precise and have the benefit of being non-intrusive, reproducible, and low-cost. With such methods, human movement in videos can be processed as multivariate time-series data, offering a basis for a more comprehensive analysis of individual, interpersonal, and social dynamics, opening up the possibility for the widespread study of diverse populations in out-of-lab real-world contexts. Fulfilling such a promise goes beyond technical progress, it requires a theory-driven implementation of new accessible observational methods made equitable to learn. To showcase this promise, we present a CV pipeline with analyses of the temporal dynamics of dyadic interactions, including a cross-cultural investigation of movement fluidity in sibling cooperation during task-focused interactions and longitudinal assessments of infant-caregiver coordination during free-play sessions. The pipeline incorporates a pedagogical computational notebook, pose estimation (YOLOv8), theory-driven linear and non-linear time series analysis, and a CV method for more privacy-aware video data archiving. Together, this pipeline showcases a promising advancement in behavioral observation methods, expanding both who can conduct research and who can benefit from it.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.31234/osf.io/ajks6_v5"
+    },
+    {
+      "id": "openalex-W7212277098",
+      "doi": "10.17632/5yw4y9n5c2",
+      "title": "Himalayan Medicinal Plant Image Dataset – 20 Native Species",
+      "title_zh": "",
+      "authors": [
+        "Chandramouli Haldar",
+        "Tushkar Karmakar",
+        "Mahamuda Sultana"
+      ],
+      "year": 2026,
+      "venue": "Mendeley Data",
+      "field": "跨学科",
+      "topics": [],
+      "abstract": "This dataset contains publicly available images of 20 Himalayan-native medicinal plant species collected from various online sources. It includes two main folders: one containing the raw images as collected, and another containing the images organized into training, validation, and test sets. The dataset is intended for research and applications in medicinal plant identification, image classification, and computer vision.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.17632/5yw4y9n5c2"
+    },
+    {
+      "id": "openalex-W7213433876",
+      "doi": "10.17632/t66ytdrhf2",
+      "title": "MOPG-7: A Multi-Clinic Dental Panoramic Radiograph Dataset with Expert YOLO Labels",
+      "title_zh": "",
+      "authors": [
+        "Faiza Feroz",
+        "Md. Taufiq Hasan",
+        "Eyevi Talukder Samapti",
+        "Md. Tanvir Hasan",
+        "Shuvo Singh Partho",
+        "Jinia Talukder",
+        "Chowdhury Afrina Parvin",
+        "Md. Zahid Hasan",
+        "Md. Hasan Imam Bijoy",
+        "Md Abdus Samad"
+      ],
+      "year": 2026,
+      "venue": "Mendeley Data",
+      "field": "跨学科",
+      "topics": [],
+      "abstract": "This publicly available, multi-clinic dental imaging dataset advances research in artificial intelligence (AI), computer vision, and computer-aided diagnosis (CAD) using panoramic dental radiographs (orthopantomogram, OPG). It contains 2,095 fully anonymized panoramic radiographs retrospectively collected from four dental centers in Bangladesh: Sonia Nursing Home, Tangail (1,433); Ibn Sina D. Lab & Consultation Center, Dayaganj (533); Niramoy Diagnostic Center, Tangail (114); and Health City Diagnostic Center, Gaibandha (15). This study was reviewed and approved by the Research Ethics Committee (Institutional Review Board), Daffodil International University (IRB Ref. No: REC-FSIT-2026/No: 12566, approved December 02, 2025). Every image comes with bounding box annotations in both YOLO (.txt) and standard COCO JSON format, validated by experts, making the dataset easy to use with frameworks such as Ultralytics YOLO as well as any COCO-compatible model or data loader. Initial bounding boxes were drawn by a licensed dentist and independently reviewed by a second dental professional. A rigorous quality-control process followed, removing 127 substandard bounding boxes, resulting in 9,834 validated bounding boxes. Dataset Classes The dataset includes annotations for seven clinically relevant dental categories: - Missing Teeth: 2,609 annotations - Dental Crown: 1,984 annotations - Root Canal: 1,956 annotations - Caries: 1,410 annotations - Wisdom Teeth: 869 annotations - Broken Down Teeth: 795 annotations - Healthy OPG: 211 annotations Dataset Contents The released dataset includes: - Panoramic dental radiographs (.jpg) - COCO-format JSON annotation files (instances_train.json, instances_val.json, instances_test.json) - YOLO bounding-box annotation files (.txt) - Metadata files (class_definitions.csv, image_metadata.csv, split_assignments.csv) - Documentation (README.md) describing the dataset structure, annotation format, and usage instructions Potential Research Applications This dataset supports multi-class dental object detection, localization of dental abnormalities, CAD, deep learning for medical imaging, computer vision research, transfer learning and foundation models, explainable AI (XAI), medical image analysis, object detection benchmarking, AI-enabled dental diagnosis, dental AI learning, and reproducibility research. Benchmark Performance Three YOLO variants were evaluated to establish a baseline. YOLOv8m achieved the highest precision (71.9%) and mAP@0.5 (72.9%), with the fastest inference latency (1.9 ms per radiograph). YOLOv10m achieved the highest recall (74.2%) and mAP@0.5:0.95 (34.4%), with a latency of 3.4 ms. YOLOv11m reached a precision of 70.9%, recall of 71.6%, mAP@0.5 of 71.7%, and mAP@0.5:0.95 of 33.5%, with a latency of 4.2 ms. These results show the comparative detection performance and computational efficiency of the evaluated YOLO variants on this dataset.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.17632/t66ytdrhf2"
+    },
+    {
+      "id": "openalex-W7213442946",
+      "doi": "10.7759/cureus.116433",
+      "title": "Physiotherapy Management of Computer Vision Syndrome and Associated Musculoskeletal Dysfunction in Young Adults: A Systematic Review of Evidence-Based Rehabilitation Approaches",
+      "title_zh": "",
+      "authors": [
+        "Mayuri Rajesh Shah",
+        "T Poovishnu Devi"
+      ],
+      "year": 2026,
+      "venue": "Cureus",
+      "field": "社会科学",
+      "topics": [
+        "Ergonomics and Musculoskeletal Disorders",
+        "Musculoskeletal pain and rehabilitation",
+        "Occupational health in dentistry"
+      ],
+      "abstract": "Introduction: Computer vision syndrome (CVS) is a cluster of ocular and musculoskeletal complaints linked to heavy digital device use, and a growing body of evidence ties CVS to postural strain in the neck, shoulders, and upper back. Even so, physiotherapy-based management of this combined presentation remains poorly consolidated in the literature. This review appraised the available evidence on physiotherapy interventions for CVS and its associated musculoskeletal dysfunction in young adults. Methods: A systematic search of PubMed (National Center for Biotechnology Information, Bethesda, Maryland), PEDro (Institute for Musculoskeletal Health, University of Sydney, Sydney, Australia), Scopus (Elsevier, Amsterdam, the Netherlands), and Web of Science (Clarivate, Philadelphia, Pennsylvania) was performed for studies published between January 2020 and May 2026, supplemented by manual reference checking. Study selection followed the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) framework through identification, screening, eligibility, and inclusion stages. Methodological quality was appraised with the PEDro scale for randomized trials, the Newcastle-Ottawa Scale for observational studies, and the Joanna Briggs Institute checklist for quasi-experimental designs. Given the anticipated heterogeneity in interventions and outcome measures, findings were synthesized narratively. Results: Of the 1,248 records identified across the four databases, 20 studies met the eligibility criteria. Of these, 14 studies had complete and extractable data and were included in the final qualitative synthesis. Included studies evaluated cervical stabilization exercise, scapular strengthening, stretching, postural correction training, proprioceptive and motor-learning-based training, telerehabilitation, ergonomic counseling, and visual hygiene education, using tools such as the Computer Vision Syndrome Questionnaire (CVS-Q), Neck Disability Index, craniovertebral angle, Visual Analogue Scale, tear film break-up time, near point of convergence, and cervical range of motion. Physiotherapy interventions were consistently associated with reduced neck and shoulder pain, improved cervical alignment and mobility, and lower digital eye strain scores, with multimodal programs generally outperforming single-component approaches. Conclusions: Physiotherapy-based rehabilitation appears to be a useful, non-pharmacological strategy for addressing both the visual and musculoskeletal dimensions of CVS in young adults. The current evidence base is dominated by small, short-duration studies with variable designs, underscoring the need for larger trials with standardized protocols and longer follow-up before firm clinical guidelines can be established.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.7759/cureus.116433"
+    },
+    {
+      "id": "openalex-W7213492608",
+      "doi": "10.9744/ced.28.2.193-203",
+      "title": "Enhancing Construction Site Safety through Automated PPE Monitoring: A Computer Vision-based Approach",
+      "title_zh": "",
+      "authors": [
+        "Chetan G. More"
+      ],
+      "year": 2026,
+      "venue": "Civil Engineering Dimension",
+      "field": "Health Professions",
+      "topics": [
+        "Occupational Health and Safety Research",
+        "BIM and Construction Integration",
+        "Construction Engineering and Safety"
+      ],
+      "abstract": "The construction industry is known as one of the most accident-prone industries, where conventional Personal Protective Equipment (PPE) compliance checks remain laborious and inadequate for real-time safety monitoring. Although several sensor-based and AI-driven systems exist, many remain limited in scope, difficult to scale, or unsuitable for low-compute environments. This study developed a practical, multi-class, real-time PPE monitoring framework using an optimized YOLOv5s model aligned with industry insights. A PRISMA-based literature review and a semi-structured survey of 74 professionals identified critical PPE items and implementation barriers, informing dataset design and model requirements. Trained on hybrid datasets, the model achieved a mean average precision (mAP) of 86.5% at an Intersection over Union (IoU) threshold of 0.5, along with 91.4% precision, 87.5% recall, and an inference speed of approximately 140 frames per second (FPS). The resulting framework provides a scalable and easily deployable solution that integrates with existing CCTV systems to automate PPE compliance monitoring on construction sites.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.9744/ced.28.2.193-203"
+    },
+    {
+      "id": "openalex-W7213495687",
+      "doi": "10.1111/1467-8454.70040",
+      "title": "The Price Effect on Property Image Quality in Rural Airbnb: Theory and Evidence From Shanghai, China",
+      "title_zh": "",
+      "authors": [
+        "Shaohui Gao",
+        "Yiming He"
+      ],
+      "year": 2026,
+      "venue": "Australian Economic Papers",
+      "field": "社会科学",
+      "topics": [
+        "Sharing Economy and Platforms",
+        "FinTech, Crowdfunding, Digital Finance",
+        "Transportation and Mobility Innovations"
+      ],
+      "abstract": "ABSTRACT We study the effects of rental prices on property image quality under the theoretical framework of a peer‐to‐peer market equilibrium among a platform, guests, and farmers. To examine the theoretical predictions, we use individual‐level data from the rural Airbnb platform in Shanghai, China. We measure the property image quality by computer vision. Based on this, our empirical findings further confirm that an increase in rent leads to higher property image quality scores. This positive price effect on property image quality is generally robust and holds in two‐stage least squares regressions that control for geographic heterogeneity.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": false,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1111/1467-8454.70040"
+    },
+    {
+      "id": "openalex-W7213498396",
+      "doi": "10.17632/gtmz34sjvc",
+      "title": "GuavaLeafBD: A Labeled Image Dataset of Guava Leaf Diseases for image based classification",
+      "title_zh": "",
+      "authors": [
+        "Jobaet Hasan Ayet",
+        "Golam Mostafa"
+      ],
+      "year": 2026,
+      "venue": "Mendeley Data",
+      "field": "跨学科",
+      "topics": [],
+      "abstract": "This dataset supports research in plant pathology and computer vision by providing a labeled image collection of guava leaf diseases and healthy leaves collected from guava gardens in the Chittagong Division of Bangladesh. The dataset contains 524 images representing five categories: Red Rust, Yellow Spot, Healthy, Caterpillar, and Die Back. The guava leaf images were collected from guava gardens in Kanchannagar , Chandanaish, Chittagong, Bangladesh, an area well known for guava cultivation. The images were captured using two high-end smartphones, Samsung Galaxy S25 Ultra and iPhone 15 Pro Max. The dataset contains the following class distribution: • Red Rust: 73 images • Yellow Spot: 106 images • Healthy: 101 images • Caterpillar: 207 images • Die Back: 37 images",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.17632/gtmz34sjvc"
+    },
+    {
+      "id": "openalex-W7213499784",
+      "doi": "10.5281/zenodo.22819622",
+      "title": "MEHNAT MUHOFAZASI VA TEXNIKA XAVFSIZLIGINI BOSHQARISH TIZIMIDA SUN'IY INTELLEKTDAN FOYDALANISH (SPORT VA JISMONIY TARBIYA SOHASI MISOLIDA)",
+      "title_zh": "",
+      "authors": [
+        "Xamrayeva Ominaxon Nu'monjon qizi",
+        "Worldly Knowledge Publishing Centre"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "跨学科",
+      "topics": [],
+      "abstract": ":Ushbu maqolada jismoniy tarbiya va sport sohasida mehnat muhofazasi hamda texnika xavfsizligini boshqarish tizimida sun’iy intellekt (SI) texnologiyalaridan foydalanish imkoniyatlari va samaradorligi tahlil qilingan. Tadqiqotda kiyiladigan (wearable) sensorlar, machine learning (mashinali o‘rgatish) va computer vision (kompyuter ko‘rishi) texnologiyalarining jarohat xavfini kamaytirish, real vaqt rejimidagi monitoring va mashg‘ulotlarni optimallashtirishdagi o‘rni ko‘rib chiqilgan. Shuningdek, SI texnologiyalarini joriy etishning afzalliklari, mavjud cheklovlari hamda O‘zbekiston sport tizimida ushbu usullarni qo‘llash bo‘yicha amaliy tavsiyalar berilgan.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22819622"
+    },
+    {
+      "id": "openalex-W7213503609",
+      "doi": "10.17632/gtmz34sjvc.1",
+      "title": "GuavaLeafBD: A Labeled Image Dataset of Guava Leaf Diseases for image based classification",
+      "title_zh": "",
+      "authors": [
+        "Jobaet Hasan Ayet",
+        "Golam Mostafa"
+      ],
+      "year": 2026,
+      "venue": "Mendeley Data",
+      "field": "跨学科",
+      "topics": [],
+      "abstract": "This dataset supports research in plant pathology and computer vision by providing a labeled image collection of guava leaf diseases and healthy leaves collected from guava gardens in the Chittagong Division of Bangladesh. The dataset contains 524 images representing five categories: Red Rust, Yellow Spot, Healthy, Caterpillar, and Die Back. The guava leaf images were collected from guava gardens in Kanchannagar , Chandanaish, Chittagong, Bangladesh, an area well known for guava cultivation. The images were captured using two high-end smartphones, Samsung Galaxy S25 Ultra and iPhone 15 Pro Max. The dataset contains the following class distribution: • Red Rust: 73 images • Yellow Spot: 106 images • Healthy: 101 images • Caterpillar: 207 images • Die Back: 37 images",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.17632/gtmz34sjvc.1"
+    },
+    {
+      "id": "openalex-W7213504979",
+      "doi": "10.17632/5yw4y9n5c2.2",
+      "title": "Himalayan Medicinal Plant Image Dataset – 20 Native Species",
+      "title_zh": "",
+      "authors": [
+        "Chandramouli Haldar",
+        "Tushkar Karmakar",
+        "Mahamuda Sultana"
+      ],
+      "year": 2026,
+      "venue": "Mendeley Data",
+      "field": "跨学科",
+      "topics": [],
+      "abstract": "This dataset contains publicly available images of 20 Himalayan-native medicinal plant species collected from various online sources. It includes two main folders: one containing the raw images as collected, and another containing the images organized into training, validation, and test sets. The dataset is intended for research and applications in medicinal plant identification, image classification, and computer vision.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.17632/5yw4y9n5c2.2"
+    },
+    {
+      "id": "openalex-W7213521382",
+      "doi": "10.54963/dtra.v5i3.6714",
+      "title": "Language Ideology Formation in AI-Mediated Educational Context: A Sociolinguistic Analysis",
+      "title_zh": "",
+      "authors": [
+        "Rugaiyah",
+        "Andi Idayani",
+        "Roziah",
+        "Nunuk Suryanti",
+        "Novri Gazali"
+      ],
+      "year": 2026,
+      "venue": "Digital Technologies Research and Applications",
+      "field": "社会科学",
+      "topics": [
+        "Computational and Text Analysis Methods",
+        "Multilingual Education and Policy",
+        "Text Readability and Simplification"
+      ],
+      "abstract": "This study explores the evolving intersection between Artificial Intelligence (AI) and Sociolinguistics by combining bibliometric mapping with keyword-driven content analysis. Drawing on 69 unique publications identified after a systematic deduplication process (2013–2024), the research integrates quantitative trend analysis with keyword-based thematic interpretation. From an initial dataset of 98 records retrieved from Scopus (n = 64) and Web of Science (n = 34), a subset of 48 publications was selected for deeper examination based on their conceptual relevance. Bibliometric analysis was conducted using ScientoPy and VOSviewer to identify publication trajectories, leading contributors, influential journals, geographical distribution, and emerging research clusters. This mapping was complemented by a qualitative analysis centred on five key terms—Computational Sociolinguistics, Natural Language Processing (NLP), ChatGPT, language, and machine learning—allowing the study to trace dominant themes and conceptual developments shaping the field. The findings show a clear increase in scholarly attention to the sociolinguistic dimensions of AI-mediated communication, with particular emphasis on language ideology, identity formation, and the role of algorithms in shaping discourse. Rather than presenting computational approaches solely as neutral tools, the analysis suggests that technologies such as NLP and large language models may both reproduce and challenge existing linguistic hierarchies, raising important questions about representation, diversity, and equity in digital environments. This study maps the intersection of AI and Sociolinguistics by combining bibliometric mapping with keyword-based interpretation, providing an overview of the field’s development over time. These findings suggest that discussions around ethical and culturally inclusive AI design are becoming increasingly visible within the literature.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.54963/dtra.v5i3.6714"
+    },
+    {
+      "id": "openalex-W7167236288",
+      "doi": "10.17632/9gffsw9mjy",
+      "title": "A Benchmark Dataset for Human Vs. AI-Rewritten Bengali Text Detection",
+      "title_zh": "",
+      "authors": [
+        "Koushik Roy",
+        "Sayma Akter Rupa"
+      ],
+      "year": 2026,
+      "venue": "Mendeley Data",
+      "field": "跨学科",
+      "topics": [],
+      "abstract": "This dataset provides a benchmark resource for AI-rewritten Bengali text detection. It contains 4,008 labeled Bengali text samples, comprising 2,004 original human-written texts and 2,004 corresponding AI-rewritten texts. The human-written texts were collected from authentic Bengali sources, including National Curriculum and Textbook Board (NCTB) textbooks, Bengali literary works available through Wikisource, and Bengali Wikinews articles published before 2020. Each original text was rewritten using one of four widely used large language models, namely ChatGPT, Claude, Gemini, or DeepSeek, through a standardized prompt designed to preserve the original semantic meaning, writing style, and approximate text length. Each human-written text is paired with its corresponding AI-rewritten version through a unique Pair_ID, enabling direct comparison between original and rewritten texts. The dataset includes metadata such as the text source or rewriting model, content category, word count, and class label. Covering multiple domains, including Education, Bengali Literature, and News, this dataset is intended to support research on AI-rewritten text detection, stylometric analysis, authorship attribution, paraphrase identification, and other Bengali natural language processing tasks.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.17632/9gffsw9mjy"
+    },
+    {
+      "id": "openalex-W7213460597",
+      "doi": "10.1016/j.ijhm.2026.104904",
+      "title": "Adult-only: When excluding children reveals a flaw in hospitality management approach",
+      "title_zh": "",
+      "authors": [
+        "Kévin Grande",
+        "Jean-Philippe Galan",
+        "Hugues Séraphin"
+      ],
+      "year": 2026,
+      "venue": "International Journal of Hospitality Management",
+      "field": "Health Professions",
+      "topics": [
+        "Adolescent and Pediatric Healthcare",
+        "Global Healthcare and Medical Tourism",
+        "Intergenerational Family Dynamics and Caregiving"
+      ],
+      "abstract": "This research note explores social servicescape in hospitality settings, considering recent regulatory debates questioning the exclusion of children. Although children are often positioned as either sovereign consumers or a marginalised group, their impact on guest satisfaction remains largely unexplored. Drawing on 90,045 TripAdvisor reviews from 72 international resorts, we applied advanced natural language processing techniques, including BERT-based sentiment analysis and child-reference classification using a local Large Language Model to examine whether references to children influence customer evaluations. By comparing satisfaction scores across reviews that mention or omit children, we explore whether these differences reflect broader managerial, academic, and policy-related challenges. This study contributes to ongoing debates on adult-only vs inclusive hospitality by highlighting how children’s presence is addressed in guest feedback, and by raising questions about the potential limitations in current hospitality management practices.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1016/j.ijhm.2026.104904"
+    },
+    {
+      "id": "openalex-W7213448724",
+      "doi": "10.1016/j.trip.2026.102246",
+      "title": "Driving the change: Stakeholder insights into the challenges of India’s electric bus system",
+      "title_zh": "",
+      "authors": [
+        "Lipsa Routray",
+        "Abhishek Shrivastava",
+        "Priyankoo Sarmah",
+        "Bimlesh Kumar"
+      ],
+      "year": 2026,
+      "venue": "Transportation Research Interdisciplinary Perspectives",
+      "field": "工程学",
+      "topics": [
+        "Electric Vehicles and Infrastructure",
+        "Energy and Environment Impacts",
+        "Hybrid Renewable Energy Systems"
+      ],
+      "abstract": "The rapid electrification of public transport is reshaping urban mobility worldwide. Electric buses (E-buses) promise cleaner, quieter travel but introduce new operational and human–machine interaction challenges. This study examines stakeholder perspectives on the operation, charging, and maintenance of E-buses in India, focusing on drivers’ experiences with digital dashboards and their adaptation to emerging technologies. The aim is to inform design strategies for safer, more usable, and efficient E-bus interfaces. A qualitative study was conducted with 14 stakeholders, including managers, engineers, designers, and test drivers from a leading Indian Original Equipment Manufacturer (OEM). Semi-structured interviews followed a funnel-shaped sequence, progressing from open discussions to targeted inquiries. Thematic analysis identified key usability concerns and design recommendations. Three main human factors challenges emerged. First, participants described cognitive demands associated with dense, text-heavy dashboards. Second, inconsistent charging infrastructure and range uncertainty reduce driver confidence and disrupt operations. Third, drivers face a steep learning curve as they adapt to digital interfaces with limited training and varying technological readiness. These findings highlight the need for human-centered interface redesigns that simplify information, enhance situational awareness, and support multimodal feedback suited to diverse user skill levels. The study provides actionable insights for improving E-bus instrument clusters and advancing human–machine interface (HMI) design toward safer and more intuitive urban transit systems.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1016/j.trip.2026.102246"
+    },
+    {
+      "id": "openalex-W7213452767",
+      "doi": "10.1038/s41598-026-69420-7",
+      "title": "Hybrid multimodal method for workers’ activity fatigue detection featuring human activity recognition",
+      "title_zh": "",
+      "authors": [
+        "Jamil Ahmad",
+        "Sergio Leggieri",
+        "Darwin Caldwell",
+        "Christian Di Natali"
+      ],
+      "year": 2026,
+      "venue": "Scientific Reports",
+      "field": "计算机科学",
+      "topics": [
+        "Context-Aware Activity Recognition Systems",
+        "Sleep and Work-Related Fatigue",
+        "Emotion and Mood Recognition"
+      ],
+      "abstract": "Work-related musculoskeletal disorders (WMSDs) are among the most common occupational diseases, resulting from prolonged engagement in physically demanding tasks such as manual material handling (MMH). Physical fatigue is a primary risk factor contributing to the onset of WMSDs. Hence, monitoring and estimating fatigue during task execution is crucial for effective risk mitigation. This study proposes a novel hybrid multimodal system architecture, termed hybrid multimodal fatigue estimation algorithm (HMFEA), which integrates a kinematic model, artificial intelligence (AI), and a physiological model in a hierarchical cascade framework to model and estimate physical fatigue. The novel HMFEA architecture relies on a hierarchical approach in which modules are arranged in a sequential order. A set of inertial measurement units integrated into a proprietary smart clothing, the Smart Suit provides the algorithm with continuous data streaming. Two neural network models, trained on data from 14 participants performing various MMH tasks in a controlled laboratory environment, enable task recognition. Then, a physiology-inspired model based on metabolic energy consumption allows for fatigue estimation. This cascading design offers modularity by enabling independent development of each component and improved interpretability by combining physics- and physiology-based models with data-driven learning in near-real-time operation. The HMFEA architecture is further validated on five construction workers during relevant tasks on site. AI-based activity recognition achieved 94.6% accuracy, while the HMFEA estimates fatigue with a mean absolute error of 7.1% against workers’ self-reported questionnaires. The proposed system demonstrates high accuracy and continuous fatigue estimation during work activities, resulting in a valid method to improve workplace safety while preventing injuries.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1038/s41598-026-69420-7"
+    },
+    {
+      "id": "openalex-W7213454998",
+      "doi": "10.1016/j.iotech.2026.101614",
+      "title": "A multimodal AI biomarker PATH-ORACLE improves prediction of recurrence in stage I lung adenocarcinoma",
+      "title_zh": "",
+      "authors": [
+        "O. Kılım",
+        "Orsolya Pipek",
+        "Z. Sztupinszki",
+        "M. Diossy",
+        "A. Prosz",
+        "Cristina Naceur‐Lombardelli",
+        "S. Veeriah",
+        "D. Moore",
+        "Mariam Jamal‐Hanjani",
+        "A. Hackshaw",
+        "J. Fillinger",
+        "Judit Moldvay"
+      ],
+      "year": 2026,
+      "venue": "Immuno-Oncology Technology",
+      "field": "医学",
+      "topics": [
+        "Lung Cancer Diagnosis and Treatment",
+        "Lung Cancer Research Studies",
+        "AI in cancer detection"
+      ],
+      "abstract": "Background Surgical resection is the standard treatment for stage I lung adenocarcinoma, in most cases without additional systemic adjuvant treatment. A substantial proportion of stage I cases recur, with a 5-year survival rate <50%. Clinical data suggest that adjuvant treatment, including immune checkpoint inhibitor therapy, may improve survival in such recurrent cases. Previously evaluated predictors, including the International Association for the Study of Lung Cancer (IASLC) grading system applied to histological sections and transcriptomic profiles, have not been sufficiently accurate or consistent for risk stratification or to guide therapeutic intervention. We hypothesized that these diverse diagnostic measurements carry complementary information that may provide higher prognostic power when combined. Materials and methods We developed PATH-ORACLE, a multimodal deep learning biomarker built on top of the prospectively validated transcriptomic-based Outcome Risk Associated Clonal Lung Expression (ORACLE) score, with the addition of routine histological sections processed by pretrained foundation models. Predictive performance was assessed in two independent cohorts. Results The histology-only predictor outperformed automated IASLC grading and remained prognostic after adjustment for tumor size, grade and T-stage. PATH-ORACLE exceeded both constituent modalities, predicting 1-year recurrence with an area under the curve of 0.86 and 0.84 in the two independent validation cohorts, and separated high- and low-risk groups using a single prespecified cut-off. Conclusions Extensive validation will be needed to convert PATH-ORACLE from a prognostic biomarker to a predictive biomarker that could be used to prioritize stage IB patients for adjuvant targeted therapy, chemotherapy, or immune checkpoint inhibitor therapy with or without liquid biopsy-based monitoring.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1016/j.iotech.2026.101614"
     },
     {
       "id": "arxiv-2403.05530",
