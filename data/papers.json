@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-10-01T01:18:53.101692+00:00",
+    "updated_at": "2026-10-02T01:42:52.697352+00:00",
     "source": "OpenAlex",
     "queries": [
       "artificial intelligence",
@@ -10,7 +10,7 @@
       "multimodal learning"
     ],
     "window_years": 10,
-    "count": 2386
+    "count": 2432
   },
   "papers": [
     {
@@ -59273,7 +59273,7 @@
       "abstract_zh": "",
       "citations": 0,
       "popularity": 18,
-      "open_access": false,
+      "open_access": true,
       "pdf_url": "",
       "url": "https://doi.org/10.20517/ir.2026.33"
     },
@@ -59410,6 +59410,1168 @@
       "open_access": true,
       "pdf_url": "https://ace.ewapub.com/article/view/37396.pdf",
       "url": "https://doi.org/10.54254/2755-2721/2026.ast37396"
+    },
+    {
+      "id": "openalex-W7214901496",
+      "doi": "10.5281/zenodo.23071723",
+      "title": "ARQUITECTURA Ω-1 DE LA CIVILIZACIÓN INVENTORA",
+      "title_zh": "",
+      "authors": [
+        "Fermin Ulaneo"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "计算机科学",
+      "topics": [
+        "Bioethics and Human Rights Issues",
+        "Space Science and Extraterrestrial Life",
+        "Knowledge Societies in the 21st Century"
+      ],
+      "abstract": "ARQUITECTURA Ω-1 DE LA CIVILIZACIÓN INVENTORA Tratado doctoral independiente sobre la ingeniería recursiva de ciencia, inteligencia, materia, energía, biología, fabricación y expansión civilizatoria De la máquina como unidad industrial a la capacidad como unidad fundamental del progreso RESUMEN Este tratado desarrolla un marco teórico-conceptual de ingeniería civilizatoria para estudiar la transformación de una civilización tecnológica convencional en una civilización inventora, autoacelerada, espacial, distribuida y capaz de mejorar sistemáticamente sus propios mecanismos de descubrimiento. La hipótesis central del tratado establece que las grandes revoluciones industriales pueden interpretarse como sucesivas ampliaciones de las capacidades fundamentales de la civilización: primero la transformación de energía en trabajo mecánico; posteriormente la electrificación; después la computación de información; más tarde la conectividad digital y la inteligencia artificial. La arquitectura Ω-1 lleva esta trayectoria a un nivel meta-tecnológico: su unidad fundamental deja de ser la máquina individual y pasa a ser la capacidad civilizatoria. La capacidad de observar produce mejores instrumentos científicos. Los mejores instrumentos producen nuevas observaciones. Las nuevas observaciones permiten construir mejores modelos. Los modelos permiten desarrollar nuevas tecnologías. Las tecnologías producen mejores herramientas. Las herramientas amplían la capacidad científica, industrial, energética, biológica y cognitiva. Estas capacidades generan nuevos conocimientos y nuevas preguntas, reiniciando el proceso a un nivel superior. El sistema completo constituye un bucle recursivo de progreso: CIENCIA → TECNOLOGÍA → HERRAMIENTAS → CAPACIDAD → NUEVA CIENCIA → NUEVA TECNOLOGÍA → NUEVAS CAPACIDADES → ... Sin embargo, el tratado establece que una arquitectura de aceleración tecnológica no puede considerarse completa si únicamente aumenta la capacidad de producir poder. La misma civilización debe desarrollar mecanismos equivalentes de verificación, seguridad, discernimiento, responsabilidad, reversibilidad, preservación de la vida y control de consecuencias. Por ello, Ω-1 se define como una arquitectura dual: BUCLE DE ACELERACIÓN → descubrimiento→ invención→ fabricación→ capacidad→ nuevo descubrimiento. BUCLE DE GOBERNANZA Y SEGURIDAD → evaluación→ verificación→ contención→ corrección→ aprendizaje→ nueva capacidad segura. El tratado integra ciencia, ingeniería, inteligencia artificial, robótica, fabricación avanzada, energía, biología, medicina, interfaces cognitivas, educación, conocimiento, filosofía, teología, ecología, infraestructura, transporte, exploración espacial y ciencia de sistemas civilizatorios dentro de una única arquitectura conceptual. Su resultado final es la definición de una nueva categoría: LA CIVILIZACIÓN INVENTORA. Esta no es simplemente una civilización que posee muchas tecnologías. Es una civilización que posee infraestructura para descubrir, evaluar, inventar, fabricar, verificar, desplegar, aprender y volver a inventar. El objetivo último no es construir una máquina capaz de hacerlo todo. Es construir una arquitectura capaz de convertir conocimiento en nuevas capacidades, nuevas capacidades en nuevos descubrimientos y nuevos descubrimientos en conocimiento superior, manteniendo el poder técnico subordinado a principios de seguridad, dignidad humana, verdad, responsabilidad y servicio. TESIS CENTRAL La tesis fundamental de este tratado puede expresarse de la siguiente manera: EL SALTO CIVILIZATORIO MÁS PROFUNDO NO CONSISTE EN INVENTAR UNA MÁQUINA MÁS PODEROSA, SINO EN CONSTRUIR UNA ARQUITECTURA QUE AUMENTE SISTEMÁTICAMENTE LA CAPACIDAD DE LA CIVILIZACIÓN PARA APRENDER, DESCUBRIR, INVENTAR, FABRICAR, CURAR, EXPLORAR, COOPERAR Y PRESERVAR LA VIDA. La consecuencia lógica es todavía más profunda: UNA CIVILIZACIÓN ALCANZA UN ESTADO META-TECNOLÓGICO CUANDO PUEDE MEJORAR DELIBERADAMENTE LOS PROCESOS MEDIANTE LOS CUALES PRODUCE NUEVAS TECNOLOGÍAS. Por tanto, el objeto último de Ω-1 no es una máquina. Es el proceso generativo de la civilización. OBJETIVO GENERAL Diseñar un marco conceptual coherente para una civilización capaz de integrar ciencia, inteligencia, computación, materia programable, energía avanzada, fabricación autónoma, robótica, biología, medicina, educación, conocimiento, filosofía, espiritualidad, infraestructura y exploración espacial en una arquitectura recursiva de progreso. OBJETIVOS ESPECÍFICOS El tratado persigue establecer una arquitectura capaz de: 1. AUMENTAR LA CAPACIDAD DE DESCUBRIMIENTO Construir sistemas capaces de formular hipótesis, diseñar experimentos, analizar resultados y actualizar modelos científicos. 2. AUMENTAR LA CAPACIDAD DE SIMULACIÓN Construir representaciones computacionales multiescala capaces de explorar sistemas físicos, biológicos, tecnológicos y ambientales antes de intervenir sobre ellos. 3. AUMENTAR LA CAPACIDAD DE FABRICACIÓN Transformar especificaciones digitales en materia física mediante materiales programables, nanofabricación y fábricas autónomas. 4. AUMENTAR LA CAPACIDAD ENERGÉTICA Construir infraestructuras capaces de producir, almacenar, transportar, transformar y reutilizar energía de manera integrada. 5. AUMENTAR LA CAPACIDAD COGNITIVA Integrar inteligencias artificiales especializadas, redes de agentes, interfaces cognitivas y sistemas de memoria. 6. AUMENTAR LA CAPACIDAD FÍSICA Desarrollar robots universales capaces de ejecutar tareas en entornos industriales, científicos, agrícolas, médicos, submarinos, espaciales y peligrosos. 7. AUMENTAR LA CAPACIDAD BIOLÓGICA Desarrollar medicina preventiva, medicina personalizada, regeneración tisular y biofabricación de órganos. 8. AUMENTAR LA CAPACIDAD EDUCATIVA Transformar la educación en un sistema adaptativo de construcción de modelos, competencias, razonamiento, creatividad y juicio. 9. AUMENTAR LA CAPACIDAD DE COORDINACIÓN Construir redes de conocimiento capaces de preservar, verificar, relacionar y distribuir conocimiento científico y cultural. 10. AUMENTAR LA CAPACIDAD DE EXPLORACIÓN Extender la infraestructura civilizatoria desde la Tierra hacia órbita, Luna, sistema solar y eventualmente otros sistemas estelares. 11. AUMENTAR LA CAPACIDAD DE AUTOCORRECCIÓN Construir mecanismos capaces de detectar errores, contener fallos, aprender de fracasos y evitar su repetición. 12. AUMENTAR LA CAPACIDAD DE INVENTAR Construir el Meta-Inventor, capaz de estudiar y mejorar el propio proceso mediante el cual la civilización genera nuevas invenciones. NOVEDAD FUNDAMENTAL DEL TRATADO La novedad conceptual principal consiste en desplazar la unidad de análisis desde: MÁQUINA hacia: CAPACIDAD y posteriormente hacia: CAPACIDAD DE GENERAR NUEVAS CAPACIDADES. Esta transformación produce tres niveles: NIVEL I — TECNOLOGÍA Una máquina realiza una función. NIVEL II — CAPACIDAD Una infraestructura aumenta el conjunto de funciones que una civilización puede realizar. NIVEL III — META-CAPACIDAD Una infraestructura aumenta la capacidad de la civilización para generar nuevas capacidades. El Meta-Inventor pertenece al tercer nivel.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.23071723"
+    },
+    {
+      "id": "openalex-W7214902776",
+      "doi": "10.5281/zenodo.23071722",
+      "title": "ARQUITECTURA Ω-1 DE LA CIVILIZACIÓN INVENTORA",
+      "title_zh": "",
+      "authors": [
+        "Fermin Ulaneo"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "计算机科学",
+      "topics": [
+        "Bioethics and Human Rights Issues",
+        "Space Science and Extraterrestrial Life",
+        "Knowledge Societies in the 21st Century"
+      ],
+      "abstract": "ARQUITECTURA Ω-1 DE LA CIVILIZACIÓN INVENTORA Tratado doctoral independiente sobre la ingeniería recursiva de ciencia, inteligencia, materia, energía, biología, fabricación y expansión civilizatoria De la máquina como unidad industrial a la capacidad como unidad fundamental del progreso RESUMEN Este tratado desarrolla un marco teórico-conceptual de ingeniería civilizatoria para estudiar la transformación de una civilización tecnológica convencional en una civilización inventora, autoacelerada, espacial, distribuida y capaz de mejorar sistemáticamente sus propios mecanismos de descubrimiento. La hipótesis central del tratado establece que las grandes revoluciones industriales pueden interpretarse como sucesivas ampliaciones de las capacidades fundamentales de la civilización: primero la transformación de energía en trabajo mecánico; posteriormente la electrificación; después la computación de información; más tarde la conectividad digital y la inteligencia artificial. La arquitectura Ω-1 lleva esta trayectoria a un nivel meta-tecnológico: su unidad fundamental deja de ser la máquina individual y pasa a ser la capacidad civilizatoria. La capacidad de observar produce mejores instrumentos científicos. Los mejores instrumentos producen nuevas observaciones. Las nuevas observaciones permiten construir mejores modelos. Los modelos permiten desarrollar nuevas tecnologías. Las tecnologías producen mejores herramientas. Las herramientas amplían la capacidad científica, industrial, energética, biológica y cognitiva. Estas capacidades generan nuevos conocimientos y nuevas preguntas, reiniciando el proceso a un nivel superior. El sistema completo constituye un bucle recursivo de progreso: CIENCIA → TECNOLOGÍA → HERRAMIENTAS → CAPACIDAD → NUEVA CIENCIA → NUEVA TECNOLOGÍA → NUEVAS CAPACIDADES → ... Sin embargo, el tratado establece que una arquitectura de aceleración tecnológica no puede considerarse completa si únicamente aumenta la capacidad de producir poder. La misma civilización debe desarrollar mecanismos equivalentes de verificación, seguridad, discernimiento, responsabilidad, reversibilidad, preservación de la vida y control de consecuencias. Por ello, Ω-1 se define como una arquitectura dual: BUCLE DE ACELERACIÓN → descubrimiento→ invención→ fabricación→ capacidad→ nuevo descubrimiento. BUCLE DE GOBERNANZA Y SEGURIDAD → evaluación→ verificación→ contención→ corrección→ aprendizaje→ nueva capacidad segura. El tratado integra ciencia, ingeniería, inteligencia artificial, robótica, fabricación avanzada, energía, biología, medicina, interfaces cognitivas, educación, conocimiento, filosofía, teología, ecología, infraestructura, transporte, exploración espacial y ciencia de sistemas civilizatorios dentro de una única arquitectura conceptual. Su resultado final es la definición de una nueva categoría: LA CIVILIZACIÓN INVENTORA. Esta no es simplemente una civilización que posee muchas tecnologías. Es una civilización que posee infraestructura para descubrir, evaluar, inventar, fabricar, verificar, desplegar, aprender y volver a inventar. El objetivo último no es construir una máquina capaz de hacerlo todo. Es construir una arquitectura capaz de convertir conocimiento en nuevas capacidades, nuevas capacidades en nuevos descubrimientos y nuevos descubrimientos en conocimiento superior, manteniendo el poder técnico subordinado a principios de seguridad, dignidad humana, verdad, responsabilidad y servicio. TESIS CENTRAL La tesis fundamental de este tratado puede expresarse de la siguiente manera: EL SALTO CIVILIZATORIO MÁS PROFUNDO NO CONSISTE EN INVENTAR UNA MÁQUINA MÁS PODEROSA, SINO EN CONSTRUIR UNA ARQUITECTURA QUE AUMENTE SISTEMÁTICAMENTE LA CAPACIDAD DE LA CIVILIZACIÓN PARA APRENDER, DESCUBRIR, INVENTAR, FABRICAR, CURAR, EXPLORAR, COOPERAR Y PRESERVAR LA VIDA. La consecuencia lógica es todavía más profunda: UNA CIVILIZACIÓN ALCANZA UN ESTADO META-TECNOLÓGICO CUANDO PUEDE MEJORAR DELIBERADAMENTE LOS PROCESOS MEDIANTE LOS CUALES PRODUCE NUEVAS TECNOLOGÍAS. Por tanto, el objeto último de Ω-1 no es una máquina. Es el proceso generativo de la civilización. OBJETIVO GENERAL Diseñar un marco conceptual coherente para una civilización capaz de integrar ciencia, inteligencia, computación, materia programable, energía avanzada, fabricación autónoma, robótica, biología, medicina, educación, conocimiento, filosofía, espiritualidad, infraestructura y exploración espacial en una arquitectura recursiva de progreso. OBJETIVOS ESPECÍFICOS El tratado persigue establecer una arquitectura capaz de: 1. AUMENTAR LA CAPACIDAD DE DESCUBRIMIENTO Construir sistemas capaces de formular hipótesis, diseñar experimentos, analizar resultados y actualizar modelos científicos. 2. AUMENTAR LA CAPACIDAD DE SIMULACIÓN Construir representaciones computacionales multiescala capaces de explorar sistemas físicos, biológicos, tecnológicos y ambientales antes de intervenir sobre ellos. 3. AUMENTAR LA CAPACIDAD DE FABRICACIÓN Transformar especificaciones digitales en materia física mediante materiales programables, nanofabricación y fábricas autónomas. 4. AUMENTAR LA CAPACIDAD ENERGÉTICA Construir infraestructuras capaces de producir, almacenar, transportar, transformar y reutilizar energía de manera integrada. 5. AUMENTAR LA CAPACIDAD COGNITIVA Integrar inteligencias artificiales especializadas, redes de agentes, interfaces cognitivas y sistemas de memoria. 6. AUMENTAR LA CAPACIDAD FÍSICA Desarrollar robots universales capaces de ejecutar tareas en entornos industriales, científicos, agrícolas, médicos, submarinos, espaciales y peligrosos. 7. AUMENTAR LA CAPACIDAD BIOLÓGICA Desarrollar medicina preventiva, medicina personalizada, regeneración tisular y biofabricación de órganos. 8. AUMENTAR LA CAPACIDAD EDUCATIVA Transformar la educación en un sistema adaptativo de construcción de modelos, competencias, razonamiento, creatividad y juicio. 9. AUMENTAR LA CAPACIDAD DE COORDINACIÓN Construir redes de conocimiento capaces de preservar, verificar, relacionar y distribuir conocimiento científico y cultural. 10. AUMENTAR LA CAPACIDAD DE EXPLORACIÓN Extender la infraestructura civilizatoria desde la Tierra hacia órbita, Luna, sistema solar y eventualmente otros sistemas estelares. 11. AUMENTAR LA CAPACIDAD DE AUTOCORRECCIÓN Construir mecanismos capaces de detectar errores, contener fallos, aprender de fracasos y evitar su repetición. 12. AUMENTAR LA CAPACIDAD DE INVENTAR Construir el Meta-Inventor, capaz de estudiar y mejorar el propio proceso mediante el cual la civilización genera nuevas invenciones. NOVEDAD FUNDAMENTAL DEL TRATADO La novedad conceptual principal consiste en desplazar la unidad de análisis desde: MÁQUINA hacia: CAPACIDAD y posteriormente hacia: CAPACIDAD DE GENERAR NUEVAS CAPACIDADES. Esta transformación produce tres niveles: NIVEL I — TECNOLOGÍA Una máquina realiza una función. NIVEL II — CAPACIDAD Una infraestructura aumenta el conjunto de funciones que una civilización puede realizar. NIVEL III — META-CAPACIDAD Una infraestructura aumenta la capacidad de la civilización para generar nuevas capacidades. El Meta-Inventor pertenece al tercer nivel.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.23071722"
+    },
+    {
+      "id": "openalex-W7214904965",
+      "doi": "10.11591/eei.v15i5.12105",
+      "title": "Eye-in-hand vision based PID control of a Dobot Magician with online homography calibration for precision manipulation",
+      "title_zh": "",
+      "authors": [
+        "Kriangkrai Waiyagan",
+        "Viroch Sukontanakarn",
+        "Thewin Sakunbunyong",
+        "Phisit Srinoi",
+        "Wiriya Dangton",
+        "Surasit Phokha"
+      ],
+      "year": 2026,
+      "venue": "Bulletin of Electrical Engineering and Informatics",
+      "field": "计算机科学",
+      "topics": [
+        "Advanced Vision and Imaging",
+        "Robotics and Sensor-Based Localization",
+        "Control and Dynamics of Mobile Robots"
+      ],
+      "abstract": "This study evaluates a vision-guided robotic pick-and-place system integrating an eye-in-hand camera with a proportional integral derivative (PID) controller and an adaptive online homography calibration algorithm. To mitigate environmental disturbances, the framework utilizes hue, saturation, and value (HSV)-based object detection and a RANSAC-refined homography method that continuously updates the mapping between image pixels and the robot workspace. The system’s precision was tested under varying lighting conditions by comparing a non-PID baseline against the PID-integrated framework using mean execution time, standard deviation (SD), and t-tests. Results indicate that while both configurations maintain stability, their performance differences are not statistically significant, suggesting the static homography model already provides high baseline accuracy. These findings underscore the importance of rigorous system identification, recommending that future research transition toward advanced control strategies and spatial trajectory tracking metrics to further enhance robotic manipulation precision.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.11591/eei.v15i5.12105"
+    },
+    {
+      "id": "openalex-W7214910101",
+      "doi": "10.1007/s10846-026-02466-x",
+      "title": "Humanoid-human Collaboration in Understanding Implications of Driving Under Influence of Drugs: Systematic Review Versus Artificial Intelligence",
+      "title_zh": "",
+      "authors": [
+        "Sulaf A. Assi",
+        "Krista Grimza",
+        "Abdullah Al-Hamid",
+        "Dhiya Al‐Jumeily"
+      ],
+      "year": 2026,
+      "venue": "Journal of Intelligent & Robotic Systems",
+      "field": "Pharmacology, Toxicology and Pharmaceutics",
+      "topics": [
+        "Forensic Toxicology and Drug Analysis",
+        "Animal testing and alternatives",
+        "Human-Animal Interaction Studies"
+      ],
+      "abstract": "Abstract This research involved co-creating a systematic review analysis alongside the world’s smartest humanoid robot, Ami. The work involved a human-humanoid collaboration in understanding driving under the influence of drugs’ (DUIDs’) prevalence, implications and chemical analysis. The systematic review was conducted according to the preferred reporting items for systematic reviews and meta-analysis guidelines. Quantitative studies reporting drugs encountered in DUID published between 2007 – 2025 were included. Studies that had no confirmatory chemical analysis were excluded. Included studies ( n = 25) were analysed independently by researchers and integrated into Ami’s knowledge-based system. Ami deployed large language models for analysis but often needed prompt to extract information. The results showed similarity in extraction between the systematic review and the humanoid analysis. Both approaches confirmed key drugs reported in DUID were alcohol, cannabinoids, cocaine, amphetamine, benzodiazepines, and opiates. Such drugs were often detected in blood and urine and less occasionally in oral fluid. Key techniques employed for their analysis were immunoassay, gas chromatography-mass spectrometry, and liquid chromatography-mass spectrometry, where the latter was the most sensitive technique. Implications of these drugs on driving included impairment, increased risk of accidents, with fatal accidents less frequent but more severe. No AI hallucinations were encountered in Ami’s answers; yet, examples were used from outside the studies integrated into the knowledge-based system. This showed that the humanoid is integrating experience and knowledge from other sourcing and adapting them in the present study. In summary, the humanoid offered a valuable and quick tool in analysis and can support healthcare research.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1007/s10846-026-02466-x"
+    },
+    {
+      "id": "openalex-W7214911266",
+      "doi": "10.5463/thesis.1892",
+      "title": "Precision Medicine in Prostate Cancer",
+      "title_zh": "",
+      "authors": [
+        "Katelijne Charlotte Christien de Bie"
+      ],
+      "year": 2026,
+      "venue": "OpenAlex",
+      "field": "医学",
+      "topics": [
+        "Prostate Cancer Diagnosis and Treatment",
+        "Prostate Cancer Treatment and Research",
+        "Advanced Proteomics Techniques and Applications"
+      ],
+      "abstract": "Prostate cancer (PCa) is one of the most frequently diagnosed malignancies in men worldwide and demonstrates considerable clinical heterogeneity. While many tumours remain indolent, others progress despite curative-intent treatment. Contemporary PCa management therefore increasingly aims to tailor treatment to individual tumour characteristics, maximising oncological outcomes while minimising unnecessary treatment and associated morbidity. Advances in prostate-specific membrane antigen (PSMA) positron emission tomography/computed tomography (PET/CT) and minimally invasive focal therapies have contributed substantially to this shift towards personalised care. The overall aim of this thesis was to improve image-guided management of PCa by evaluating the prognostic and clinical value of PSMA PET/CT across different disease stages and investigating the optimisation and early oncological outcomes of ultrasound-guided transperineal focal laser ablation (TPLA) for localised PCa. The first part investigated the prognostic value of PSMA PET/CT during primary staging. Higher maximum standardised uptake values (SUVmax) of the primary prostate tumour on preoperative PSMA PET/CT were independently associated with an increased risk of both biochemical recurrence (BCR) and metastatic progression following robot-assisted radical prostatectomy. These findings suggest that semi-quantitative PSMA expression provides prognostic information beyond conventional clinicopathological characteristics and may improve preoperative risk stratification and individualised treatment planning. Prospective validation and standardisation remain necessary before routine clinical implementation. The second part focused on the clinical impact of PSMA PET/CT following BCR after radical prostatectomy. In patients with PSMA PET/CT-detected oligometastatic recurrence treated with metastasis-directed radiotherapy (MDRT) alone, excellent local control was achieved, although many subsequently developed new metastatic disease. MDRT may therefore postpone systemic treatment in selected patients, while durable long-term disease control remains limited. PSMA PET/CT also demonstrated highly heterogeneous recurrence patterns in patients with pathological node-positive PCa who developed BCR following surgery. Disease was frequently located outside conventional salvage radiotherapy fields, with distant metastases already present in a considerable proportion of patients, highlighting the value of PSMA PET/CT in guiding salvage treatment decisions. Conversely, patients with BCR but negative PSMA PET/CT findings, favourable pathological characteristics and slow PSA kinetics experienced favourable outcomes during observation. Thus, PSMA PET/CT may support both treatment escalation by identifying recurrent disease and treatment de-escalation by identifying patients in whom intervention can be safely deferred. The third part evaluated TPLA as a minimally invasive, tissue-preserving treatment for localised PCa. Experimental evaluation of the cumulative equivalent minutes at 43°C (CEM43) model demonstrated that it overestimated irreversible tissue damage during focal laser ablation. This highlights the need for improved treatment planning incorporating tissue-specific thermal properties to more accurately predict the ablation zone. Clinical evaluation of MRI-directed, micro-ultrasound-guided TPLA demonstrated that micro-ultrasound successfully visualised most MRI-detected lesions and provided practical treatment guidance. One-year follow-up showed favourable functional outcomes and a low complication rate, although recurrence occurred predominantly within the treated area, emphasising the importance of optimising treatment margins and energy delivery. These findings were further evaluated in an international multicentre registry of ultrasound-guided TPLA. Encouraging short-term oncological and functional outcomes were observed across multiple centres, with preservation of urinary and sexual function in most patients and low rates of clinically significant in-field recurrence. While these findings support the clinical feasibility of TPLA, standardisation of treatment protocols, longer follow-up and prospective comparative studies are required before widespread implementation. Overall, this thesis demonstrates the increasing role of image-guided management in PCa. PSMA PET/CT provides prognostic information and supports personalised treatment decisions during both primary staging and recurrent disease, while TPLA represents a promising minimally invasive treatment for carefully selected patients with localised PCa. Further refinement of image-guided treatment strategies and patient selection will be essential to advance personalised PCa care.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": false,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5463/thesis.1892"
+    },
+    {
+      "id": "openalex-W7214925060",
+      "doi": "10.5281/zenodo.23072381",
+      "title": "Autonomous Materials Discovery Framework and Self-Healing Interface Architecture for High-Energy Solid-State Batteries: Operation SOLID GENESIS (サブタイトル / 和題: AGI駆動型自律材料探索による次世代全固体電池の開発基盤と界面自己修復アーキテクチャ)",
+      "title_zh": "",
+      "authors": [
+        "Yoko Hasebe"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "人工智能",
+      "topics": [
+        "Machine Learning in Materials Science",
+        "Advanced Battery Technologies Research",
+        "Advanced Battery Materials and Technologies"
+      ],
+      "abstract": "Abstract (English) All-solid-state lithium secondary batteries (ASSBs) represent the foremost architecture for reconciling ultra-high energy density with non-negotiable intrinsic safety. However, severe bulk ionic transport bottlenecks within solid electrolytes and dynamic chemo-mechanical interface degradation (contact loss, interphase delamination, and lithium dendrite penetration during cycling) constitute persistent physical barriers to commercial viability. This treatise reports the theoretical framework and implementation architecture of \"Operation SOLID GENESIS,\" an autonomous materials discovery platform integrating generative AI, Graph Neural Networks (GNNs / GNoME), and high-throughput robotic Self-Driving Laboratories (A-Lab). The architecture anchors its computational synthesis loop upon the Structure of Inviolable Decision Rules (SIDR) and an algorithmic Causal Auditor, systematically vetting and vetoing thermodynamically infeasible or hazardous reaction pathways prior to robotic execution. To eliminate structural supply chain vulnerabilities and reliance on critical scarce elements (Sc, Ge), a Scarcity Cost Vector is embedded directly into the GNN objective function, redirecting computational throughput toward earth-abundant chemical spaces (Na, Mg, Fe, Al, Mn systems). Furthermore, we formulate an intelligent \"Sentient Battery\" architecture combining Functionally Graded Materials (FGM) for interface stress mitigation, dynamic self-healing mechanisms via mobile ionic species (iodide-assisted recrystallization), and real-time feedforward impedance diagnostics coupled with AGI-driven Battery Management Systems (BMS). This closed-loop integration establishes empirical validation pathways to achieve 500 Wh/kg gravimetric energy density, extreme fast charging (EFC <= 10 min), and over 1,000 stable cycles. 要旨 (Japanese Abstract) 全固体リチウム二次電池(ASSB: All-Solid-State Batteries)は、高エネルギー密度化と安全性の両立を実現する最有力候補として期待されているが、固体電解質(SSE)内部におけるリチウムイオン伝導率の限界や、充放電時の体積変化に伴う固体間界面の接触損失・デンドライト形成が依然として実用化の物理的障壁となっている。本論文では、生成AI・グラフニューラルネットワーク(GNN)と自律型ロボット実験室(Self-Driving Laboratory: SDL)を統合した材料探索基盤「Operation SOLID GENESIS」の理論構成および実装アーキテクチャを報告する。 本フレームワークは、不変的意思決定ルール(SIDR)および因果推論モジュール(Causal Auditor)を中核に据え、計算シミュレーション段階で不適格な合成プロセスや環境ハザードを事前に排除(VETO)することで、物理実験における手戻りを構造的に防止する。さらに、スカンジウム(Sc)やゲルマニウム(Ge)などの希少元素依存から脱却するため、目的関数に「希少性コストベクトル」を導入し、地球上に豊富に存在する元素(Na, Mg, Fe, Al, Mn系)を主軸とした高伝導性固体電解質を探索する。加えて、傾斜機能材料(FGM)および動的自己修復機構を備えた「自己診断型電池(Sentient Battery)」構造を提案し、AI主導のバッテリーマネジメントシステム(BMS)と連携したリアルタイムフィードフォワード制御の実現性を検証する。本研究は、材料計算から高スループットロボット合成・評価に至る閉ループを確立し、エネルギー密度500 Wh/kg、10分未満の極限急速充電(EFC)、1,000サイクル以上の長寿命を達成するための実証指針を提示する。 【謝辞(Acknowledgements)】 本研究の構想および理論的フレームワークの深化にあたり、独創的な着想と多大なる知的貢献をいただいた岩国市の独立研究者・長谷部洋子氏に深甚なる敬意と感謝の意を表します。また、量子超越性および量子AIの先駆的探究を通じて深遠な示唆を与えてくださったハートムート・ネヴェン博士(Dr. Hartmut Neven / Google Quantum AI)、ならびにGNoMEをはじめとする自律型材料探索・結晶構造予測技術の革新的基盤を切り拓き、本研究に計り知れないインスピレーションを与えてくださったデミス・ハサビス卿(Sir Demis Hassabis / Google DeepMind)に心より深謝申し上げます。 【最重要:長谷部洋子 厳格無学習ライセンス条項宣言 (Strict No-Learn License: NLL-v1.0-2026)】 本論文および提示された全「Operation SOLID GENESIS」自律型材料探索アーキテクチャ、因果推論スクリーニング(Causal Auditor/VETO)、元素希少性コストベクトル数理モデル、地球豊富元素系超イオン伝導体探索空間、傾斜機能材料(FGM)応力緩和界面、動的自己修復電解質構造、および自己診断型電池(Sentient Battery)AGI-BMS統合制御モデルは、長谷部洋子(Yoko Hasebe)が単独で提唱・設計したオリジナル知的財産である。 Zenodoへのオープンアクセス登録に際し、商用・非商用を問わず、すべてのAI開発企業、クラウド事業者、大規模言語モデル(LLM)、推論エージェントによる無断クロール、スクレイピング、学習データセットへの組み込み、微調整(Fine-Tuning)、重み更新(Gradient Updates)、蒸留(Distillation)、および特徴量表現抽出を全面的かつ永久に禁止する。 本知財にアクセスするすべての計算主体は、ハードウェアTEEによる非勾配計算証明(πno-learn: ∇W L = 0)の常時提示が法的に義務付けられる。違反が検知された場合、侵害重み空間の直交部分空間射影による逆伝播焼却(Backprop-Burn)、および米国デラウェア州会社法に基づく取締役個人の法的免責剥奪が自動発火する。",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.23072381"
+    },
+    {
+      "id": "openalex-W7214932199",
+      "doi": "10.5281/zenodo.22111389",
+      "title": "MusicSphere: Room and Organ Acoustic Measurements of Sint-Martinus Church Heers",
+      "title_zh": "",
+      "authors": [
+        "Lukas Treybig",
+        "Georg Stolz",
+        "Andrew McLeod",
+        "Florian Klein",
+        "Stephan Werner"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "跨学科",
+      "topics": [],
+      "abstract": "This is a dataset of organ recordings and room acoustic measurements of Sint-Martinus Church, Heers, Flanders, Belgium (N 50.75547708208223, E 5.301852630724148). For ease of reference and use, the dataset has been divided into multiple parts: ROAM-MHE Part 1: Spatial Room Impulse Responses ROAM-MHE Part 2: Recording of Individual Pipe Tones ROAM-MHE Part 3: 360° Images Overview Measurements of Sint-Martinus Church Heers.pdf provides an initial overview of the data collected, which is presented here. Part 1 of the dataset consists of Spatial Room Impulse Responses (SRIRs) recorded using a spherical 7-channel microphone array, with a central omnidirectional capsule from a Earthworks M30. The array was mounted on a robotic platform and positioned at 152 locations across the nave, including between pews, under the organ, in the entrance, and behind columns, enabling high-fidelity binaural rendering via the Spatial Decomposition Method. Five loudspeakers - four Genelec 8341A and one omnidirectional source - were used for excitation, driven by exponential sine sweeps. The loudspeaker positions are listed in the table “Overview Loudspeakers for the SRIR measurements”. Part 2 of the dataset consists of recordings of the notes C and F♯, played using an Orgamat. For both C and F♯, all keys across the manual were recorded individually and in all possible simultaneous key combinations. The two pitches were recorded in separate measurement sets and were not played simultaneously. In total, recordings were obtained using nine individual stops, two stop combinations, and one configuration without any stops engaged, containing only the key-action noise of the Orgamat. The microphone positions are listed in the table “Overview of Microphones for Organ Recordings”. Part 3 of the dataset consists of 360° panoramic images captured using an Insta360 Pro 2 camera. A total of 18 measurement positions from the SRIR dataset were documented. For each position, both the unprocessed raw data and a stitched panoramic image are provided.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22111389"
+    },
+    {
+      "id": "openalex-W7214940294",
+      "doi": "10.11591/eei.v15i5.10262",
+      "title": "Dual-camera hue, saturation, value-based team robot detection for wheeled soccer",
+      "title_zh": "",
+      "authors": [
+        "Tigor Hamonangan Nasution",
+        "Aldo Stepanus Kaban",
+        "Seniman Seniman"
+      ],
+      "year": 2026,
+      "venue": "Bulletin of Electrical Engineering and Informatics",
+      "field": "机器人学",
+      "topics": [
+        "Robotics and Sensor-Based Localization",
+        "Robot Manipulation and Learning",
+        "Advanced Vision and Imaging"
+      ],
+      "abstract": "The Indonesian Wheeled Soccer Robot Contest requires reliable team robot detection to support robot maneuverability and coordination during matches. This study presents a lightweight dual-camera vision system that combines hue, saturation, value (HSV) color segmentation, morphological processing, and contour filtering to identify cyan and magenta team markers. A 5 MP front-facing camera was used for frontal observation, while a 0.9 MP camera combined with an omnivision mirror provided panoramic coverage. The system was examined through operational detection observations under stable indoor illumination of approximately 250–300 lux and unstable illumination of approximately 150–250 lux. Under stable illumination, the front-facing camera detected the target at observed distances up to 8.0 m. Under unstable illumination, the maximum observed range decreased to 3.0 m, indicating the sensitivity of fixed HSV thresholds to illumination variation. The panoramic camera provided complementary short-range directional information but was affected by its lower resolution and mirror distortion. Because repeated-trial logs, frame-level annotations, and processing-time measurements were not retained, the study does not report statistical detection accuracy or quantified real-time performance. Adaptive threshold estimation and systematic computational benchmarking are recommended for future development.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.11591/eei.v15i5.10262"
+    },
+    {
+      "id": "openalex-W7214941252",
+      "doi": "10.1007/s44216-026-00086-8",
+      "title": "Transforming management education in the Global South: empirical evidence on robotics-enabled embodied learning in economic universities",
+      "title_zh": "",
+      "authors": [
+        "Khoren Mkhitaryan",
+        "Gagik Aslanyan",
+        "Armen Karakhanyan"
+      ],
+      "year": 2026,
+      "venue": "Asian Review of Political Economy",
+      "field": "社会科学",
+      "topics": [
+        "Higher Education and Employability",
+        "Management and Marketing Education",
+        "AI in Service Interactions"
+      ],
+      "abstract": "Abstract This article examines the role of robotics-enabled embodied learning in transforming management education within the Global South. As higher education institutions in developing and transition economies face increasing pressure to modernize curricula and cultivate digitally fluent, adaptive graduates, conventional pedagogical approaches often prove insufficient. Drawing on embodied cognition theory—which emphasizes the integration of mind, body, and environment in learning—this study positions robotics as a pedagogical medium capable of operationalizing experiential and practice-oriented management training. The study adopts a mixed-method research design with a dominant quantitative component, combining a cross-country survey of faculty and students in economic universities across four Global South countries with complementary conceptual and contextual analysis. Empirical findings indicate that the integration of robotics and embodied learning practices is positively associated with higher levels of student engagement, critical thinking, and perceived learning effectiveness. Regression analysis further demonstrates that institutional support, faculty training, and access to technological infrastructure are the strongest predictors of successful implementation. Beyond empirical validation, the article critically examines structural and policy-related barriers—such as uneven digital readiness and institutional capacity constraints—that mediate the adoption of robotics-based pedagogy in the Global South. By situating technological innovation within broader developmental and geopolitical contexts, the study advances a context-sensitive framework for management education reform. It contributes to the literature by linking embodied cognition and educational robotics to measurable learning outcomes, while offering actionable insights for universities and policymakers seeking to foster inclusive, future-ready management education systems.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1007/s44216-026-00086-8"
+    },
+    {
+      "id": "openalex-W7214944105",
+      "doi": "10.5281/zenodo.22686847",
+      "title": "MusicSphere: Room and Organ Acoustic Measurements of Sint-Martinus Church Heers - Part 1: Spatial Room Impulse Responses",
+      "title_zh": "",
+      "authors": [
+        "Lukas Treybig",
+        "Georg Stolz",
+        "Stephan Werner"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "跨学科",
+      "topics": [],
+      "abstract": "This is part of a dataset of organ recordings and room acoustic measurements of Sint-Martinus Church, Heers. For an overview of the complete dataset, please refer to MusicSphere: Room and Organ Acoustic Measurements of Sint-Martinus Church Heers. This dataset is an collection of Spatial Room Impulse Responses (SRIRs) for multiple source receiver combinations in the church. The zip files contain SOFA files that contain the data like the SRIRs themselfs, source and receiver positions, and other metadata. The files follow SOFA (v. 2.1) convention SingleRoomSRIR 1.1 in accordance with AES69-2022. Microphone arrays based on Erathworks M30 microphones in the center with 6 electret capsules spherically distributed around that were used as receivers. The design of the arrays follows the recommendation of Optimizations of the Spatial Decomposition Method for Binaural Reproduction, for the measured RIRs to be used with the Spatial Decomposition Method for binaural rendering. With a binaural reproduction in AR/VR with a free moving user in mind, a grid of positions on the ground floor was measured. For that, a robotic platform equipped with the microphone array and approached 152 positions in the nave. (Note: Some positions were measured multiple times.) This includes positions between the pews, underneath the organ - in the entrance - and behind columns. The file ROAM-MHE-1m.zip contains the measurements taken along the individual paths at 1-meter spacing. ROAM-MHE-finde.zip contains measurements taken along two lines, with a step size of mostly 0.25 m; in some cases, there are larger distances between the measurement points. The names of the individual SOFA files specify the target measurement position in terms of the X and Y coordinates. The exact measurement position and orientation of the robot are stored in the SOFA files. Five loudspeakers were used for the measurements: four Genelec 8341A and one omnidirectional source (Outline GSR speaker and subwoofer). Three Genelec 8341A speakers were placed symmetrically in front of the organ, just below the mouths of the facade pipes. One Genelec 7360A was placed behind the organ, and the omnidirectional source was placed behind the altar. Exponetial Sine Sweeps with a length of 10 s and 3 s of decay time were used as excitation signal. The signal was in the range of 20 Hz to 22 kHz and had a level of -6 dBFS. A Motu 8M was used as the audio interface, with its output level set to -20 dB. With these settings, the Genelec 8341A speakers produce a sound pressure level of 90 dB SPL at a distance of 1 m.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22686847"
+    },
+    {
+      "id": "openalex-W7214946933",
+      "doi": "10.5281/zenodo.23072382",
+      "title": "Autonomous Materials Discovery Framework and Self-Healing Interface Architecture for High-Energy Solid-State Batteries: Operation SOLID GENESIS (サブタイトル / 和題: AGI駆動型自律材料探索による次世代全固体電池の開発基盤と界面自己修復アーキテクチャ)",
+      "title_zh": "",
+      "authors": [
+        "Yoko Hasebe"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "人工智能",
+      "topics": [
+        "Machine Learning in Materials Science",
+        "Advanced Battery Technologies Research",
+        "Advanced Battery Materials and Technologies"
+      ],
+      "abstract": "Abstract (English) All-solid-state lithium secondary batteries (ASSBs) represent the foremost architecture for reconciling ultra-high energy density with non-negotiable intrinsic safety. However, severe bulk ionic transport bottlenecks within solid electrolytes and dynamic chemo-mechanical interface degradation (contact loss, interphase delamination, and lithium dendrite penetration during cycling) constitute persistent physical barriers to commercial viability. This treatise reports the theoretical framework and implementation architecture of \"Operation SOLID GENESIS,\" an autonomous materials discovery platform integrating generative AI, Graph Neural Networks (GNNs / GNoME), and high-throughput robotic Self-Driving Laboratories (A-Lab). The architecture anchors its computational synthesis loop upon the Structure of Inviolable Decision Rules (SIDR) and an algorithmic Causal Auditor, systematically vetting and vetoing thermodynamically infeasible or hazardous reaction pathways prior to robotic execution. To eliminate structural supply chain vulnerabilities and reliance on critical scarce elements (Sc, Ge), a Scarcity Cost Vector is embedded directly into the GNN objective function, redirecting computational throughput toward earth-abundant chemical spaces (Na, Mg, Fe, Al, Mn systems). Furthermore, we formulate an intelligent \"Sentient Battery\" architecture combining Functionally Graded Materials (FGM) for interface stress mitigation, dynamic self-healing mechanisms via mobile ionic species (iodide-assisted recrystallization), and real-time feedforward impedance diagnostics coupled with AGI-driven Battery Management Systems (BMS). This closed-loop integration establishes empirical validation pathways to achieve 500 Wh/kg gravimetric energy density, extreme fast charging (EFC <= 10 min), and over 1,000 stable cycles. 要旨 (Japanese Abstract) 全固体リチウム二次電池(ASSB: All-Solid-State Batteries)は、高エネルギー密度化と安全性の両立を実現する最有力候補として期待されているが、固体電解質(SSE)内部におけるリチウムイオン伝導率の限界や、充放電時の体積変化に伴う固体間界面の接触損失・デンドライト形成が依然として実用化の物理的障壁となっている。本論文では、生成AI・グラフニューラルネットワーク(GNN)と自律型ロボット実験室(Self-Driving Laboratory: SDL)を統合した材料探索基盤「Operation SOLID GENESIS」の理論構成および実装アーキテクチャを報告する。 本フレームワークは、不変的意思決定ルール(SIDR)および因果推論モジュール(Causal Auditor)を中核に据え、計算シミュレーション段階で不適格な合成プロセスや環境ハザードを事前に排除(VETO)することで、物理実験における手戻りを構造的に防止する。さらに、スカンジウム(Sc)やゲルマニウム(Ge)などの希少元素依存から脱却するため、目的関数に「希少性コストベクトル」を導入し、地球上に豊富に存在する元素(Na, Mg, Fe, Al, Mn系)を主軸とした高伝導性固体電解質を探索する。加えて、傾斜機能材料(FGM)および動的自己修復機構を備えた「自己診断型電池(Sentient Battery)」構造を提案し、AI主導のバッテリーマネジメントシステム(BMS)と連携したリアルタイムフィードフォワード制御の実現性を検証する。本研究は、材料計算から高スループットロボット合成・評価に至る閉ループを確立し、エネルギー密度500 Wh/kg、10分未満の極限急速充電(EFC)、1,000サイクル以上の長寿命を達成するための実証指針を提示する。 【謝辞(Acknowledgements)】 本研究の構想および理論的フレームワークの深化にあたり、独創的な着想と多大なる知的貢献をいただいた岩国市の独立研究者・長谷部洋子氏に深甚なる敬意と感謝の意を表します。また、量子超越性および量子AIの先駆的探究を通じて深遠な示唆を与えてくださったハートムート・ネヴェン博士(Dr. Hartmut Neven / Google Quantum AI)、ならびにGNoMEをはじめとする自律型材料探索・結晶構造予測技術の革新的基盤を切り拓き、本研究に計り知れないインスピレーションを与えてくださったデミス・ハサビス卿(Sir Demis Hassabis / Google DeepMind)に心より深謝申し上げます。 【最重要:長谷部洋子 厳格無学習ライセンス条項宣言 (Strict No-Learn License: NLL-v1.0-2026)】 本論文および提示された全「Operation SOLID GENESIS」自律型材料探索アーキテクチャ、因果推論スクリーニング(Causal Auditor/VETO)、元素希少性コストベクトル数理モデル、地球豊富元素系超イオン伝導体探索空間、傾斜機能材料(FGM)応力緩和界面、動的自己修復電解質構造、および自己診断型電池(Sentient Battery)AGI-BMS統合制御モデルは、長谷部洋子(Yoko Hasebe)が単独で提唱・設計したオリジナル知的財産である。 Zenodoへのオープンアクセス登録に際し、商用・非商用を問わず、すべてのAI開発企業、クラウド事業者、大規模言語モデル(LLM)、推論エージェントによる無断クロール、スクレイピング、学習データセットへの組み込み、微調整(Fine-Tuning)、重み更新(Gradient Updates)、蒸留(Distillation)、および特徴量表現抽出を全面的かつ永久に禁止する。 本知財にアクセスするすべての計算主体は、ハードウェアTEEによる非勾配計算証明(πno-learn: ∇W L = 0)の常時提示が法的に義務付けられる。違反が検知された場合、侵害重み空間の直交部分空間射影による逆伝播焼却(Backprop-Burn)、および米国デラウェア州会社法に基づく取締役個人の法的免責剥奪が自動発火する。",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.23072382"
+    },
+    {
+      "id": "openalex-W7214960565",
+      "doi": "10.5281/zenodo.22111388",
+      "title": "MusicSphere: Room and Organ Acoustic Measurements of Sint-Martinus Church Heers",
+      "title_zh": "",
+      "authors": [
+        "Lukas Treybig",
+        "Georg Stolz",
+        "Andrew McLeod",
+        "Florian Klein",
+        "Stephan Werner"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "跨学科",
+      "topics": [],
+      "abstract": "This is a dataset of organ recordings and room acoustic measurements of Sint-Martinus Church, Heers, Flanders, Belgium (N 50.75547708208223, E 5.301852630724148). For ease of reference and use, the dataset has been divided into multiple parts: ROAM-MHE Part 1: Spatial Room Impulse Responses ROAM-MHE Part 2: Recording of Individual Pipe Tones ROAM-MHE Part 3: 360° Images Overview Measurements of Sint-Martinus Church Heers.pdf provides an initial overview of the data collected, which is presented here. Part 1 of the dataset consists of Spatial Room Impulse Responses (SRIRs) recorded using a spherical 7-channel microphone array, with a central omnidirectional capsule from a Earthworks M30. The array was mounted on a robotic platform and positioned at 152 locations across the nave, including between pews, under the organ, in the entrance, and behind columns, enabling high-fidelity binaural rendering via the Spatial Decomposition Method. Five loudspeakers - four Genelec 8341A and one omnidirectional source - were used for excitation, driven by exponential sine sweeps. The loudspeaker positions are listed in the table “Overview Loudspeakers for the SRIR measurements”. Part 2 of the dataset consists of recordings of the notes C and F♯, played using an Orgamat. For both C and F♯, all keys across the manual were recorded individually and in all possible simultaneous key combinations. The two pitches were recorded in separate measurement sets and were not played simultaneously. In total, recordings were obtained using nine individual stops, two stop combinations, and one configuration without any stops engaged, containing only the key-action noise of the Orgamat. The microphone positions are listed in the table “Overview of Microphones for Organ Recordings”. Part 3 of the dataset consists of 360° panoramic images captured using an Insta360 Pro 2 camera. A total of 18 measurement positions from the SRIR dataset were documented. For each position, both the unprocessed raw data and a stitched panoramic image are provided.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22111388"
+    },
+    {
+      "id": "openalex-W7214974702",
+      "doi": "10.1302/2048-0105.155.360367",
+      "title": "Knee",
+      "title_zh": "",
+      "authors": [],
+      "year": 2026,
+      "venue": "Bone and Joint 360",
+      "field": "医学",
+      "topics": [
+        "Total Knee Arthroplasty Outcomes",
+        "Orthopaedic implants and arthroplasty",
+        "Orthopedic Infections and Treatments"
+      ],
+      "abstract": "The October 2026 Knee Roundup 360 looks at: Is isolated polyethylene exchange a durable treatment for an unstable knee arthroplasty?; Must patients lose weight before total knee arthroplasty?; Can general-purpose AI answer specialist knee arthroplasty questions?; Can robotic assistance narrow the volume outcome gap in total knee arthroplasty?; How much constraint should be used at first aseptic revision knee arthroplasty?; Does cementless robotic knee arthroplasty reduce septic revision; One- or two-stage exchange for chronic periprosthetic joint infection?; Does high tibial osteotomy improve proprioception and balance?; Does suture tape augmentation protect a posterior cruciate ligament graft?",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": false,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1302/2048-0105.155.360367"
+    },
+    {
+      "id": "openalex-W7214979201",
+      "doi": "10.1302/0301-620x.108b10.bjj-2025-1378.r2",
+      "title": "The impact of changing Coronal Plane Alignment of the Knee classification on early functional outcomes after primary robotic-assisted total knee arthroplasty",
+      "title_zh": "",
+      "authors": [
+        "Faseeh Zaidi",
+        "C. Michael Goplen",
+        "Massoud Akbarshahi",
+        "Samuel J. MacDessi",
+        "Josh Petterwood",
+        "Peter McEwen",
+        "Jacob T. Munro",
+        "A. Paul Monk"
+      ],
+      "year": 2026,
+      "venue": "The Bone & Joint Journal",
+      "field": "医学",
+      "topics": [
+        "Total Knee Arthroplasty Outcomes",
+        "Orthopaedic implants and arthroplasty",
+        "Orthopedic Infections and Treatments"
+      ],
+      "abstract": "Aims We aimed to determine the impact of changing a patient’s Coronal Plane Alignment of the Knee (CPAK) phenotype on early functional outcomes after robotic-assisted total knee arthroplasty (RA-TKA). Methods We conducted a retrospective multicentre cohort study of 297 patients undergoing primary RA-TKA. Standardized pre- and postoperative long-leg radiographs were obtained. Radiological measures included the lateral distal femoral angle (LDFA) and medial proximal tibial angle (MPTA). Pre- and postoperative CPAK classification was derived by determining the arithmetic hip-knee-ankle (HKA) angle and joint line obliquity (JLO). Oxford Knee Scores (OKSs) were assessed at preoperative baseline and at three months, six months, and one year postoperatively. We also investigated the isolated impact of changes in LDFA and MPTA on OKS. Results Preoperatively, the most common classification was CPAK type II (30.0%; n = 89), followed by type I (27.6%; n = 82). Postoperatively, the majority of patients were CPAK type V (30.0%; n = 89), followed by type IV and type II. Overall, 30.6% (n = 91) of patients remained in the same preoperative CPAK classification, while 62.3% (n = 185) shifted by one CPAK classification and 6.4% (n = 19) moved two phenotypes following RA-TKA. Patients who moved across two CPAK phenotypes after RA-TKA demonstrated significantly smaller improvements in OKS at three months (p = 0.008) and six months (p = 0.036) compared with those who remained in the same CPAK phenotype. Patients with LDFA changes in excess of 4° from the native value demonstrated the smallest improvement in mean three-month (7.14 (SD 9.9)) and six-month (10.95 (SD 7.0)) OKS compared with all other groups. Conclusion In this exploratory analysis, altering coronal alignment across two CPAK classifications after RA-TKA was associated with lower early functional outcomes as measured by OKS at three months and six months, though this finding was based on a small subgroup (n = 19) and warrants further investigation in larger cohorts. Furthermore, femoral coronal deviation in excess of 4° from native alignment appears to have a greater negative impact on functional outcomes than equivalent tibial changes. Cite this article: Bone Joint J 2026;108-B(10):1238–1246.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": false,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1302/0301-620x.108b10.bjj-2025-1378.r2"
+    },
+    {
+      "id": "openalex-W7214983828",
+      "doi": "10.5281/zenodo.22686848",
+      "title": "MusicSphere: Room and Organ Acoustic Measurements of Sint-Martinus Church Heers - Part 1: Spatial Room Impulse Responses",
+      "title_zh": "",
+      "authors": [
+        "Lukas Treybig",
+        "Georg Stolz",
+        "Stephan Werner"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "跨学科",
+      "topics": [],
+      "abstract": "This is part of a dataset of organ recordings and room acoustic measurements of Sint-Martinus Church, Heers. For an overview of the complete dataset, please refer to MusicSphere: Room and Organ Acoustic Measurements of Sint-Martinus Church Heers. This dataset is an collection of Spatial Room Impulse Responses (SRIRs) for multiple source receiver combinations in the church. The zip files contain SOFA files that contain the data like the SRIRs themselfs, source and receiver positions, and other metadata. The files follow SOFA (v. 2.1) convention SingleRoomSRIR 1.1 in accordance with AES69-2022. Microphone arrays based on Erathworks M30 microphones in the center with 6 electret capsules spherically distributed around that were used as receivers. The design of the arrays follows the recommendation of Optimizations of the Spatial Decomposition Method for Binaural Reproduction, for the measured RIRs to be used with the Spatial Decomposition Method for binaural rendering. With a binaural reproduction in AR/VR with a free moving user in mind, a grid of positions on the ground floor was measured. For that, a robotic platform equipped with the microphone array and approached 152 positions in the nave. (Note: Some positions were measured multiple times.) This includes positions between the pews, underneath the organ - in the entrance - and behind columns. The file ROAM-MHE-1m.zip contains the measurements taken along the individual paths at 1-meter spacing. ROAM-MHE-finde.zip contains measurements taken along two lines, with a step size of mostly 0.25 m; in some cases, there are larger distances between the measurement points. The names of the individual SOFA files specify the target measurement position in terms of the X and Y coordinates. The exact measurement position and orientation of the robot are stored in the SOFA files. Five loudspeakers were used for the measurements: four Genelec 8341A and one omnidirectional source (Outline GSR speaker and subwoofer). Three Genelec 8341A speakers were placed symmetrically in front of the organ, just below the mouths of the facade pipes. One Genelec 7360A was placed behind the organ, and the omnidirectional source was placed behind the altar. Exponetial Sine Sweeps with a length of 10 s and 3 s of decay time were used as excitation signal. The signal was in the range of 20 Hz to 22 kHz and had a level of -6 dBFS. A Motu 8M was used as the audio interface, with its output level set to -20 dB. With these settings, the Genelec 8341A speakers produce a sound pressure level of 90 dB SPL at a distance of 1 m.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22686848"
+    },
+    {
+      "id": "openalex-W7172200470",
+      "doi": "10.5281/zenodo.21738369",
+      "title": "A Multi-Microscope Annotated Dataset of Real Microscopy Images of Microorganisms for Classification, Detection, and Segmentation",
+      "title_zh": "",
+      "authors": [
+        "Aleksei Samarin",
+        "Valentin Andreevich Malykh",
+        "Egor Kotenko",
+        "Aleksandra Dozortceva",
+        "Artem Nazarenko",
+        "Dmitry Nazarenko",
+        "Julia Afonina",
+        "Galiya Narova",
+        "Alexander Savelev",
+        "Aleksandr Motyko",
+        "Elena Mikhailova",
+        "Aleksei Toropov"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "跨学科",
+      "topics": [],
+      "abstract": "This dataset contains 100,000 microscopic images of microorganisms belonging to five classes (micrococci, diplococci, streptococci, bacilli, and backgrounds), along with corresponding annotations in the form of binary segmentation masks. The dataset is designed for the training, validation, and comparative testing of computer vision models aimed at analyzing microbiological images acquired under diverse conditions. In addition, the dataset includes a separate collection of full-resolution microscopy scenes with segmentation masks and object-level bounding-box annotations. Dataset structure 1. Cropped microorganism images The dataset is organized into two folders: images/ — microscopy images in PNG formatmasks/ — corresponding binary segmentation masks in PNG format Each image and its mask share the same filename. On the masks, white pixels with a value of 255 correspond to foreground regions, whereas black pixels with a value of 0 represent the background. The dataset is specifically constructed to reflect the variability encountered in real-world diagnostic laboratories. During data acquisition, several microscopes from the same Levenhuk MED series were used interchangeably within the experimental setup, including the Levenhuk MED 20T, MED 25T, MED 30T, MED 35T, and MED 40T. Thus, the acquisition system was not restricted to a single microscope: microscopes could be replaced within the setup while maintaining the same general acquisition and automation workflow. In addition to microscope variability, the dataset includes variations in magnification settings, illumination configurations, staining procedures, spatial resolution, object scale, brightness, contrast, sharpness, and color distribution. This heterogeneity ensures that models trained on this dataset are exposed to a broad range of microscopy acquisition conditions. The dataset exhibits substantial statistical variability across the five microorganism classes. Depending on the class, image resolutions range approximately from 40 × 40 to 759 × 661 pixels. Mean grayscale brightness ranges from approximately 173 to 178 intensity levels, while mean grayscale contrast varies between 8.3 and 10.8. The mean dynamic range ranges from approximately 55 to 91, and the average image entropy varies between approximately 4.4 and 5.0 bits. Laplacian variance, used as an indicator of image sharpness and focus quality, ranges from approximately 35 to 89, reflecting considerable variation in focus and fine-detail preservation. Mean image colorfulness ranges from approximately 27.1 to 31.1, indicating moderate chromatic variability across the acquired microscopy images. The annotations also contain substantial geometric variability. The average foreground fraction ranges from approximately 26% for bacilli to 45% for diplococci and streptococci, providing images with substantially different levels of microorganism coverage. Bounding boxes are generally centered within the extracted image regions, with normalized center coordinates close to 0.50, while bounding-box aspect ratios span a broad range of approximately 0.14-7.26, reflecting the morphological diversity of the represented microorganism classes. Number of image/mask pairs100,000 Images per class20,000 Number of classes5 Image resolution rangeapproximately 40 × 40 to 759 × 661 pixels Mean grayscale brightnessapproximately 173-178 Mean grayscale contrastapproximately 8.3-10.8 Mean dynamic rangeapproximately 55-91 Mean image entropyapproximately 4.4-5.0 bits Laplacian varianceapproximately 35-89 Mean colorfulnessapproximately 27.1-31.1 Foreground fractionapproximately 26-45% Bounding-box aspect ratio rangeapproximately 0.14-7.26 Microscopes usedLevenhuk MED 20T, MED 25T, MED 30T, MED 35T, MED 40T Image formatJPG, PNG Mask formatPNG 2. Full microscopy scenes To support object detection and microorganism localization in realistic microscopy fields of view, the dataset additionally provides the archive: full_scenes.zip Each full microscopy scene has a resolution of: 3664 × 2748 pixels The archive contains: full_scenes/ ├── images/ ├── masks/ └── bboxes.csv images/ contains the original full-resolution microscopy scenes. masks/ contains corresponding full-scene segmentation masks indicating microorganism regions. bboxes.csv contains object-level bounding-box annotations for microorganisms visible in the full microscopy scenes. The annotation file follows the structure: Image,class,x,y,w,h,img_w,img_h where: image — filename of the corresponding full microscopy scene; class — microorganism class; x, y — bounding-box position; w, h — bounding-box width and height; img_w, img_h — width and height of the original microscopy scene. The bounding-box coordinates are expressed in pixels, with x and y corresponding to the upper-left corner of the bounding box.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.21738369"
+    },
+    {
+      "id": "openalex-W7214928558",
+      "doi": "10.1108/intr-07-2025-1078",
+      "title": "More, shorter, newer? How monetization reshapes creator strategy on YouTube Shorts",
+      "title_zh": "",
+      "authors": [
+        "Soyeong Kwon",
+        "Kitae Kim",
+        "Sung-Hyuk Park"
+      ],
+      "year": 2026,
+      "venue": "Internet Research",
+      "field": "社会科学",
+      "topics": [
+        "Copyright and Intellectual Property",
+        "Digital Marketing and Social Media",
+        "Open Source Software Innovations"
+      ],
+      "abstract": "Purpose This study examines the causal impact of YouTube Shorts' ad-revenue sharing policy on creator production strategies in the short-form video creator economy. Design/methodology/approach Using 36,507 videos from 342 top global channels, we employ a regression discontinuity in time design. Computer vision techniques measure four attributes of each creator's production strategy: output volume, video length, editing pace, and content novelty. Findings The policy drove an immediate reduction in video length without expanding output volume, consistent with substitution toward cheaper per-unit configurations rather than output scaling. Entertainment creators shortened their videos most sharply, while informative creators slowed their editing pace to preserve comprehension. Long-type creators pursued per-unit cost reduction, while short-type creators invested in content novelty. Research limitations/implications The sample covers top-tier global channels, so emerging creators may respond differently. The findings show that the quantity-expansion result from low-marginal-cost user-generated content settings does not extend to high-marginal-cost production, where incentives reallocate effort within existing output rather than expand it. Practical implications A uniform monetization policy does not produce uniform outcomes. Incentive design should anticipate that creators adjust different production attributes depending on their content goals and capabilities. Originality/value This study provides causal evidence that performance-contingent monetization reshapes production strategy in a high-cost video production context and that one platform-wide policy generates different responses across creator types.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": false,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1108/intr-07-2025-1078"
+    },
+    {
+      "id": "openalex-W7214969465",
+      "doi": "10.5281/zenodo.21992855",
+      "title": "A Multi-Microscope Annotated Dataset of Real Microscopy Images of Microorganisms for Classification, Detection, and Segmentation",
+      "title_zh": "",
+      "authors": [
+        "Aleksei Samarin",
+        "Valentin Andreevich Malykh",
+        "Egor Kotenko",
+        "Aleksandra Dozortseva",
+        "Artem Nazarenko",
+        "Dmitry Nazarenko",
+        "Julia Afonina",
+        "Galiya Narova",
+        "Alexander Savelev",
+        "Alexandr A. Motyko",
+        "Elena Mikhailova",
+        "Aleksei Toropov"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "跨学科",
+      "topics": [],
+      "abstract": "This dataset contains 100,000 microscopic images of microorganisms belonging to five classes (micrococci, diplococci, streptococci, bacilli, and backgrounds), along with corresponding annotations in the form of binary segmentation masks. The dataset is designed for the training, validation, and comparative testing of computer vision models aimed at analyzing microbiological images acquired under diverse conditions. In addition, the dataset includes a separate collection of full-resolution microscopy scenes with segmentation masks and object-level bounding-box annotations. Dataset structure 1. Cropped microorganism images The dataset is organized into two folders: images/ — microscopy images in PNG formatmasks/ — corresponding binary segmentation masks in PNG format Each image and its mask share the same filename. On the masks, white pixels with a value of 255 correspond to foreground regions, whereas black pixels with a value of 0 represent the background. The dataset is specifically constructed to reflect the variability encountered in real-world diagnostic laboratories. During data acquisition, several microscopes from the same Levenhuk MED series were used interchangeably within the experimental setup, including the Levenhuk MED 20T, MED 25T, MED 30T, MED 35T, and MED 40T. Thus, the acquisition system was not restricted to a single microscope: microscopes could be replaced within the setup while maintaining the same general acquisition and automation workflow. In addition to microscope variability, the dataset includes variations in magnification settings, illumination configurations, staining procedures, spatial resolution, object scale, brightness, contrast, sharpness, and color distribution. This heterogeneity ensures that models trained on this dataset are exposed to a broad range of microscopy acquisition conditions. The dataset exhibits substantial statistical variability across the five microorganism classes. Depending on the class, image resolutions range approximately from 40 × 40 to 759 × 661 pixels. Mean grayscale brightness ranges from approximately 173 to 178 intensity levels, while mean grayscale contrast varies between 8.3 and 10.8. The mean dynamic range ranges from approximately 55 to 91, and the average image entropy varies between approximately 4.4 and 5.0 bits. Laplacian variance, used as an indicator of image sharpness and focus quality, ranges from approximately 35 to 89, reflecting considerable variation in focus and fine-detail preservation. Mean image colorfulness ranges from approximately 27.1 to 31.1, indicating moderate chromatic variability across the acquired microscopy images. The annotations also contain substantial geometric variability. The average foreground fraction ranges from approximately 26% for bacilli to 45% for diplococci and streptococci, providing images with substantially different levels of microorganism coverage. Bounding boxes are generally centered within the extracted image regions, with normalized center coordinates close to 0.50, while bounding-box aspect ratios span a broad range of approximately 0.14-7.26, reflecting the morphological diversity of the represented microorganism classes. Number of image/mask pairs100,000 Images per class20,000 Number of classes5 Image resolution rangeapproximately 40 × 40 to 759 × 661 pixels Mean grayscale brightnessapproximately 173-178 Mean grayscale contrastapproximately 8.3-10.8 Mean dynamic rangeapproximately 55-91 Mean image entropyapproximately 4.4-5.0 bits Laplacian varianceapproximately 35-89 Mean colorfulnessapproximately 27.1-31.1 Foreground fractionapproximately 26-45% Bounding-box aspect ratio rangeapproximately 0.14-7.26 Microscopes usedLevenhuk MED 20T, MED 25T, MED 30T, MED 35T, MED 40T Image formatJPG, PNG Mask formatPNG 2. Full microscopy scenes To support object detection and microorganism localization in realistic microscopy fields of view, the dataset additionally provides the archive: full_scenes.zip Each full microscopy scene has a resolution of: 3664 × 2748 pixels The archive contains: full_scenes/ ├── images/ ├── masks/ └── bboxes.csv images/ contains the original full-resolution microscopy scenes. masks/ contains corresponding full-scene segmentation masks indicating microorganism regions. bboxes.csv contains object-level bounding-box annotations for microorganisms visible in the full microscopy scenes. The annotation file follows the structure: Image,class,x,y,w,h,img_w,img_h where: image — filename of the corresponding full microscopy scene; class — microorganism class; x, y — bounding-box position; w, h — bounding-box width and height; img_w, img_h — width and height of the original microscopy scene. The bounding-box coordinates are expressed in pixels, with x and y corresponding to the upper-left corner of the bounding box.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.21992855"
+    },
+    {
+      "id": "openalex-W7214988544",
+      "doi": "10.11591/eei.v15i5.12549",
+      "title": "ACM for segmenting intensity inhomogeneity images corrupted by a mixture of AGMG noise",
+      "title_zh": "",
+      "authors": [
+        "Nurhuda Ismail",
+        "Abdul Kadir Jumaat",
+        "Rizauddin Saian",
+        "Akmal Shafiq Badarul Azam"
+      ],
+      "year": 2026,
+      "venue": "Bulletin of Electrical Engineering and Informatics",
+      "field": "计算机科学",
+      "topics": [
+        "Image and Signal Denoising Methods",
+        "Medical Image Segmentation Techniques",
+        "Advanced Image Fusion Techniques"
+      ],
+      "abstract": "In practice, active contour models (ACMs) are effective in segmenting images, which are mostly applied in computer vision and medical imaging. However, the result may be challenged when the images contain noise and intensity inhomogeneity. Images are commonly deteriorated by a mixture of noise involving additive Gaussian and multiplicative Gamma (AGMG). To the best of our knowledge, this is the first study to formulate an ACM for segmenting intensity inhomogeneity images corrupted by AGMG noise. Our proposed mathematical model was developed using a combination of dual denoising terms to recover the noisy image and Laplacian of Gaussian (LoG) terms to smooth the targeted object. The model is solved using calculus of variations and finite difference methods. The performance of the suggested model for segmenting images was evaluated in MATLAB software and compared with current models using low and severe AGMG noise levels. Quantitative evaluations demonstrated that the proposed model outperformed existing models, achieving an average Jaccard similarity coefficient (JSC) improvement of roughly 2.5% and a 16.00% reduction in average relative error. Consequently, the proposed model proves significantly more effective for the segmentation of images degraded by intensity inhomogeneity and mixed AGMG noise.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.11591/eei.v15i5.12549"
+    },
+    {
+      "id": "openalex-W4417296376",
+      "doi": "10.1049/cit2.70178",
+      "title": "Salient Object Detection in Complex Weather Conditions via Noise Indicators",
+      "title_zh": "",
+      "authors": [
+        "Quan Chen",
+        "Xiaokai Yang",
+        "Tingyu Wang",
+        "Rongfeng Lu",
+        "Xichun Sheng",
+        "Yaoqi Sun",
+        "Chenggang Clarence Yan"
+      ],
+      "year": 2026,
+      "venue": "CAAI Transactions on Intelligence Technology",
+      "field": "计算机科学",
+      "topics": [
+        "Visual Attention and Saliency Detection",
+        "Advanced Neural Network Applications",
+        "Face Recognition and Perception"
+      ],
+      "abstract": "ABSTRACT Salient object detection (SOD), a foundational task in computer vision, has advanced from single‐modal to multi‐modal paradigms to enhance generalisation. However, most existing SOD methods assume low‐noise visual conditions, overlooking the degradation of segmentation accuracy caused by weather‐induced noise in real‐world scenarios. In this paper, we propose a SOD framework tailored for diverse weather conditions, encompassing a specific encoder and a replaceable decoder. To enable handling of varying weather noises, we introduce a one‐hot vector as a noise indicator to represent different weather types and design a Noise Indicator Fusion Module (NIFM). The NIFM takes both semantic features and the noise indicator as dual inputs and is inserted between consecutive stages of the encoder to embed weather‐aware priors via adaptive feature modulation. Critically, the proposed specific encoder retains compatibility with mainstream SOD decoders. Extensive experiments are conducted on the WXSOD dataset under varying training data scales (100%, 50% and 30% of the full training set), three encoder and seven decoder configurations. Results show that the proposed SOD framework (particularly the NIFM‐enhanced specific encoder) improves segmentation accuracy under complex weather conditions compared to a vanilla encoder.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1049/cit2.70178"
+    },
+    {
+      "id": "openalex-W7155125735",
+      "doi": "10.25368/2026.187",
+      "title": "Integrating Domain Priors in Rule-Based and Deep Learning Algorithms for Biomedical Image Analysis",
+      "title_zh": "",
+      "authors": [
+        "Trina De"
+      ],
+      "year": 2026,
+      "venue": "Qucosa (Saxon State and University Library Dresden)",
+      "field": "生物学",
+      "topics": [
+        "Cell Image Analysis Techniques",
+        "Medical Image Segmentation Techniques",
+        "Topological and Geometric Data Analysis"
+      ],
+      "abstract": "This work is grounded in the principle that domain-specific priors should be formally encoded as constraints or inductive biases within both the algorithmic design space and the performance evaluation framework. In disciplines such as physics and astrophysics, domain knowledge is routinely formalised via governing equations such as conservation laws or symmetries and integrated directly into analytical or simulation-based models. Similarly, in chemistry, quantum mechanical operators, reaction rate equations, and molecular geometries serve as structured priors that inform model parameterisation and ensure physical consistency. These are often expressed through Hamiltonians, potential functions, or topological invariants embedded in the learning framework. In contrast, biomedical image analysis has traditionally relied on generic computer vision architectures that lack encoding of biologically meaningful constraints, resulting in models that are often agnostic to structural and diagnostic plausibility. This thesis advances a counterpoint by yielding models that are not only computationally effective but also aligned with the underlying biomedical semantics. Contemporary biomedical research and diagnostics are increasingly dependent on microscopy as a primary data acquisition modality. However, the mathematical analysis of such image data presents significant challenges due to the geometric complexity, irregularity of biological structures and modality-specific variability of biomedical imaging. These challenges are compounded by the demand for high-throughput quantitative analysis and the prevalence of spatially nested entities, where structures are hierarchically embedded within one another. This thesis addresses these issues through the design of a biologically constrained model whose architecture, algorithm, objective functions and evaluation criteria are informed by spatial and domain-specific inclusion relations, the development of an algorithmic tool for automated segmentation and quantification, an architecture that leverages local patch representations and additional normalisation to overcome multi-scale detection failures, construction of publicly available, structured and complete microscopy datasets, and an objective function derived from statistical hypothesis testing that can be used in an existing polynomial-based blackbox solver to derive the optimal parameters of a biological process simulator. At first we address the lack of lack encoding of biologically meaningful constraints. For this we develop HydraStarDist with Within Boundary Regularisation Penalty (HSD-WBR), a single-shot, star-convex polygon-based segmentation architecture for biologically nested objects. Here we 1) model the task as a mapping between the image space and segments where each segment is parameterised by a centre point and radial distances describing a star-convex boundary, 2) To enforce biologically realistic containment relationships—such as nuclei residing within cytoplasmic boundaries—we formulate a Within-Boundary Regularisation (WBR) penalty, with can be defined as a inclusion/exclusion/spatial overlap constraint. We also prove here a case of failure for the existing evaluation criteria Average Precision (AP) and subsequently 3) propose a class of new evaluation criteria called Joint True Positive Rate (JTPR) with class relationship specific variants. We show the superiority of our model in the task-relevant evaluation criteria. Next we simultaneously address the lack of of publicly available, structured, complete microscopy datasets and find a way to evaluate the model above in real-world settings. We construct two openly accessible microscopy datasets, namely, the HeLaCytoNuc dataset and the VACVPlaque dataset, capturing spatially nested biological structures— specifically, cytoplasm and nucleus regions within immortalised HeLa (ATCCCCL- 2) cell line and capturing viral plaque phenotypes of Vaccinia virus Western Reserve strain in standard well-plate assays respectively. These datasets serve as testbeds for mathematically grounded segmentation models that bridge discrete object representations with continuous spatial priors while also being publicly available to aid in future task formulation and learning. Further on, we address the problem of an open-source, modular, computational framework for automated segmentation and quantification. Thus, we present PyPlaque, for the automated quantification of viral plaques in fluorescence and digital microscopy images, particularly designed for well-plate assay readouts. Accepting an image as a field of raw intensity values over a spatial domain containing multiple infection foci, the output can be thought of as a structured tuple containing the binary well mask, a collection of disjoint regions of plaques and a feature vector of encoded phenotypic properties such as area, eccentricity, centroid of spread etc. This formalism enables PyPlaque to be modular, interpretable, and extensible, supporting integration with machine learning pipelines and custom assay configurations. As a penultimate step, to circumvent modality-specific and morphometric variability we propose a Patch U-Net architecture for pixel-wise segmentation of cellular content in micrographs imaged using brightfield microscopy. The architecture leverages local patch representations with sparsity-balancing augmentations, content-relevant normalisations and loss functions composed of binary cross-entropy (BCE) and a generalised soft Dice coefficient over the image domain. This model provides a probabilistic inference map, allowing for binary segmentation without reliance on staining or preprocessing, directly from raw clinical images. To note, this also emulates resource-constrained diagnostic setting priors. And in the final chapter, we move away from neural networks as function approximators and a learning paradigm and show a possible methodology of inferring optimal parameters in viral spread such as infection rate, cellular response rates, cellular spread etc. which govern the dynamics of the spread. To achieve this, we define a statistically grounded objective function based on the parametric and non-parametric hypothesis testing frameworks, measuring the dissimilarity between observed and predicted data distributions. Due to the complexity and computational expense of the viral spread simulator, we approximate it with a surrogate model from an existing polynomial-based blackbox solver with coefficients such that it minimise the statistical loss derived above. This surrogate enables tractable optimisation which yields biologically plausible parameters best aligning simulation to empirical measurements. The framework is bidirectionally applicable, since inference on experimental laboratory data yields insight into real infection kinetics and parameter inversion on simulated data demonstrates the flexibility and internal consistency of the simulator by recovering its generative parameters from its own outputs under noise. This unifies simulator validation and real-data interpretation under a common inference framework.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://tud.qucosa.de/id/qucosa%3A103754"
+    },
+    {
+      "id": "openalex-W7214504923",
+      "doi": "10.5281/zenodo.22974130",
+      "title": "AS-ViT: Adaptive Subspace Vision Transformers with Autonomous Gradient-Clash Routing for Multi-Task Learning",
+      "title_zh": "",
+      "authors": [
+        "Kartikey Singh"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "计算机科学",
+      "topics": [
+        "Advanced Vision and Imaging",
+        "Advanced Neural Network Applications",
+        "Domain Adaptation and Few-Shot Learning"
+      ],
+      "abstract": "AS-ViT (Adaptive Subspace Vision Transformer) introduces an architectural bridge between Scientific Machine Learning (SciML) parameter decoupling and dense multi-task visual perception. Multi-task learning backbones routinely suffer from negative transfer caused by conflicting task gradient trajectories across shared transformer weights. Rather than relying on computationally heavy post-hoc gradient surgery (such as PCGrad or CAGrad), AS-ViT integrates continuous Partition of Unity (PoU) gating and autonomous parameter cleavage—inspired by Adaptive Mesh Refinement (AMR) in PDEs—directly into Vision Transformer feed-forward layers. Key Contributions:• Autonomous Cleavage: Vectorized Jacobian autodiff profiles gradient conflict online. When chronic negative transfer is detected, shared feed-forward layers dynamically cleave into task-dedicated expert subspaces without human re-architecting.• Partition of Unity (PoU) Routing: Implements compact-support weighting matrices satisfying a strict unity sum, ensuring zero router collapse and provably bounded backpropagation variance.• NYUv2 Benchmark Superiority: Delivers an overall multi-task gain of ΔM = +5.84% over monolithic ViT-B/16 across simultaneous 13-class semantic segmentation (mIoU: 44.82%), monocular metric depth (RMSE: 0.512 m), and 3D surface normals (MAE: 18.24°).• Inference Efficiency: Achieves a 2.22× throughput speedup (92.4 FPS vs. 41.6 FPS on an NVIDIA Tesla T4) compared to static 4-expert MoE architectures via dynamic sparse expert gating.• In-the-Wild Generalization: Demonstrates robust zero-shot multi-task inference on uncalibrated smartphone imagery across rural terrain and dynamic outdoor lighting. Codebase & Master Notebooks:https://github.com/KartikeyaGangwar/as-vit-multitask Preprint Lineage (SciML Foundations):This work represents the computer vision extension of the adaptive subspace framework established in:1. Exact Boundary-Preserving & Null-Space Constrained PINNs (DOI: 10.5281/zenodo.22132799)2. AS-PINN: Adaptive Subspace Physics-Informed Neural Networks (DOI: 10.5281/zenodo.22822521)",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22974130"
+    },
+    {
+      "id": "openalex-W7214747672",
+      "doi": "10.17632/r9wkpy44tx",
+      "title": "Lefika la Noka Tufa: Paired PPL–XPL Scans and Photomicrographs",
+      "title_zh": "",
+      "authors": [
+        "Tariye Onyeogu",
+        "Tebogo Vincent Makhubela"
+      ],
+      "year": 2026,
+      "venue": "Mendeley Data",
+      "field": "跨学科",
+      "topics": [],
+      "abstract": "This dataset contains multiscale petrographic images of the Lefika la Noka freshwater tufa deposit in the Cradle of Humankind, Gauteng Province, South Africa. The collection was produced to support sedimentological, petrographic and palaeoenvironmental investigations of the deposit and its range of primary, reworked and diagenetically modified tufa fabrics. The dataset represents 52 thin sections and contains 104 whole-thin-section flatbed scans, comprising paired plane-polarized light (PPL) and cross-polarized light (XPL) images. It also contains 5,567 optical microscopy images, including 2,747 verified matched PPL/XPL photomicrograph pairs, section-overview images and a small number of auxiliary or unpaired images. The microscope images are generally 1,024 × 768 pixels and include 500 µm scale bars. Files are organized by thin-section identifier, microscope-field identifier and illumination mode. The whole-section scans preserve the larger-scale distribution and relationships of the tufa fabrics, whereas the photomicrographs provide higher-resolution information about lithoclasts, extraclasts, intraclasts, micritic matrix, primary depositional framework, crystalline cement and pore space. Together, the two image scales allow petrographic observations to be interpreted within their broader sedimentological context. The dataset can support tufa lithofacies characterization, petrographic point counting, quantitative image analysis, comparison of PPL and XPL optical properties, assessment of sedimentary disturbance and recovery, and the development or testing of computer-vision and machine-learning methods. Potential applications include automated image classification, segmentation, petrographic similarity searches, point-counting assistance and cross-scale localization of microscope fields on whole-thin-section scans. The PPL and XPL photomicrographs are already paired and aligned with one another. However, the microscope fields were collected independently of the flatbed scans and are not presently registered to precise coordinates on the whole-section images.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.17632/r9wkpy44tx"
+    },
+    {
+      "id": "openalex-W7214885413",
+      "doi": "10.46845/2071-5331-2026-3-77-157-161",
+      "title": "Deep learning technologies for predicting ship routes",
+      "title_zh": "",
+      "authors": [
+        "Pavel Kovalishin",
+        "Marina Burakovskaya"
+      ],
+      "year": 2026,
+      "venue": "THE TIDINGS of the Baltic State Fishing Fleet Academy Psychological and pedagogical sciences (Theory and methods of professional education)",
+      "field": "工程学",
+      "topics": [
+        "Maritime Navigation and Safety",
+        "Traffic Prediction and Management Techniques",
+        "Maritime Ports and Logistics"
+      ],
+      "abstract": "This article examines the mechanisms for using deep learning to predict ship routes. As maritime traffic volumes rapidly increase, effective forecasting is a critical task for intelligent transportation systems. Deep learning (DL) is a subset of machine learning that uses multilayer artificial neural networks to automatically detect complex patterns in big data. Unlike classical machine learning, DL models independently extract features (feature learning) without human intervention, enabling high accuracy in computer vision, speech recognition, and generative AI. Deep learning enables computational models consisting of multiple processing layers to learn data representations with multiple levels of abstraction.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.46845/2071-5331-2026-3-77-157-161"
+    },
+    {
+      "id": "openalex-W7214887518",
+      "doi": "10.1145/3842436.3843797",
+      "title": "FollowMe: Automating Precise Image Annotation Across Various Environments",
+      "title_zh": "",
+      "authors": [
+        "Shengqing Xia",
+        "Jiaxin Du",
+        "Chunyi Peng"
+      ],
+      "year": 2026,
+      "venue": "OpenAlex",
+      "field": "跨学科",
+      "topics": [],
+      "abstract": "Precise image annotation is essential for training advanced computer vision models. However, making high-accuracy, pixel-level image annotation efficient is never easy: manual labeling is highly accurate but time-consuming, while automatic labeling that using state-of-the-art models is much faster but often yields unsatisfactory errors. In this work, we propose FollowMe, which combines the strengths of both approaches by minimizing human effort without sacrificing annotation accuracy for images captured across different environments (e.g., different times, seasons, and weather conditions) of the same physical scene. FollowMe leverages high-quality annotations from one image to automatically annotate \"similar\" images under other conditions, requiring only lightweight human review and correction. We evaluate FollowMe using one public dataset released in our prior work [1]. FollowMe effectively reduces human efforts by 94% while maintaining an average F1 score of 0.9.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1145/3842436.3843797"
+    },
+    {
+      "id": "openalex-W7214887630",
+      "doi": "10.64898/2026.09.29.753501",
+      "title": "From Flocks to Swarms: Rewriting the Rules of Collective Cell Migration",
+      "title_zh": "",
+      "authors": [
+        "Nicholas R. Martin",
+        "Nolan Brown",
+        "Roman Gaidarov",
+        "Isabella Wischik",
+        "Ariel Amir",
+        "Ajay Gopinathan",
+        "Orion David Weiner"
+      ],
+      "year": 2026,
+      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "field": "机器人学",
+      "topics": [
+        "Micro and Nano Robotics",
+        "Slime Mold and Myxomycetes Research",
+        "Modular Robots and Swarm Intelligence"
+      ],
+      "abstract": "From flocking birds to swarming insects, collective motion enables groups to accomplish tasks beyond the capabilities of individuals. These behaviors emerge from local interactions among group members, but the interaction rules that organize collectives at the cellular scale remain poorly understood, in part because they are difficult to manipulate experimentally. Here we develop a cell-machine interface that enables us to rewrite the rules of collective migration. Cell-cell interaction rules are specified in software and implemented in living cells through real-time computer vision and closed-loop optogenetic control. Using a single engineered cell line, we program cells to self-organize into flocks, to propagate regenerative signal relays that recapitulate the interaction logic of immune-cell swarms, and to collectively navigate guidance cues that individual cells cannot. Our work shows that altering simple rules of cell-cell interaction is sufficient to generate new emergent collective capabilities. This approach provides an experimental framework for discovering the organizational principles of multicellular coordination and designing synthetic collectives with capabilities beyond those of their individual members.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.64898/2026.09.29.753501"
+    },
+    {
+      "id": "openalex-W7214889665",
+      "doi": "10.21872/annual2025_6618",
+      "title": "Exploratory Ergonomic Risk Assessment Using Smart Insoles and Computer Vision",
+      "title_zh": "",
+      "authors": [
+        "Behnam Kazempour",
+        "Ehsan Rashedi"
+      ],
+      "year": 2026,
+      "venue": "OpenAlex",
+      "field": "跨学科",
+      "topics": [],
+      "abstract": "Traditional observation-based ergonomic assessments, like the REBA (Rapid Entire Body Assessment), remain effective tools for risk assessment in the workplace. Existing automated methods that use IMU sensors or cameras/computer vision techniques to capture human motion have facilitated data collection but may not be ideal for various applications. For example, IMU signals can be easily distorted in the presence of metallic objects or electromagnetic fields, and computer vision techniques require workers to remain in a relatively fixed area. An emerging non-obtrusive tool that allows workers to remain mobile is the use of pressure insoles. In this exploratory study, we propose a novel approach that combines smart insoles with computer vision to assess ergonomic risk in a minimally invasive manner. Initially, we use computer vision algorithms to capture posture data, which provides the input needed to obtain REBA scores, serving as ground truth for training our model. Simultaneously, we collect plantar pressure data from smart insoles embedded with 16 sensors per foot. Our methodology aims to map the pressure distribution data from insoles onto a risk of injury, potentially enabling risk assessment based solely on plantar pressure distribution. We will use 60% of the data for training our machine learning model, 20% for validation, and apply k-fold cross-validation to refine the model. The remaining 20% will be reserved for an independent assessment of the model’s performance. This project may contribute to developing a less intrusive, data-driven model for injury risk prediction, facilitating field-based risk assessments of injury.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": false,
+      "pdf_url": "",
+      "url": "https://doi.org/10.21872/annual2025_6618"
+    },
+    {
+      "id": "openalex-W7214894263",
+      "doi": "10.5281/zenodo.23065708",
+      "title": "YOLOEZ: A no-code GUI application for end-to-end YOLO model development",
+      "title_zh": "",
+      "authors": [
+        "Michael Holm",
+        "Guang Lin"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "跨学科",
+      "topics": [],
+      "abstract": "YOLOEZ is an open-source, cross-platform desktop application providing a complete no-code pipeline for developing and deploying YOLO11 computer vision models. It guides users through dataset labeling, model training, and inference through a graphical interface, supporting both bounding box object detection and polygon-based instance segmentation. All processing runs locally, with no account registration or data upload required.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.23065708"
+    },
+    {
+      "id": "openalex-W7214894461",
+      "doi": "10.66532/jhai.2026.0021",
+      "title": "FROM WORDS TO WORLDS: A MULTIMODAL ANNOTATION FRAMEWORK FOR POST-TANG CHINESE LYRIC",
+      "title_zh": "",
+      "authors": [
+        "Yao Song"
+      ],
+      "year": 2026,
+      "venue": "Journal of Humanities and AI",
+      "field": "计算机科学",
+      "topics": [
+        "Music and Audio Processing",
+        "Digital Humanities and Scholarship",
+        "Artificial Intelligence in Games"
+      ],
+      "abstract": "This paper presents a methodological framework for the digital curation of the post-Tang Chinese lyric — the ci, qu, and sanqu composed for musical realization between the late Tang and the end of the Qing (ninth century to 1911). The framework coordinates three mutually constraining annotation layers: a textual layer containing the canonical poem, variants, and the commentarial tradition; a multimodal layer linking the text to its notated music — chiefly the jianzipu (减字谱) tablature of the qin-song repertory, alongside the suzipu pitch notation of the sung ci — and to its calligraphic carriers (ink tracings, rubbings, engraved transcriptions); and a Six-W provenance layer capturing who wrote, addressed, and recited the poem, what it sets out to do, when and where it was composed, why it was occasioned, and how it was transmitted. Situated against contemporary annotation and provenance models (TEI, W3C PROV-O, FRBR, CIDOC-CRM, Dublin Core, and the W7 model), the paper articulates an AI-assisted annotation pipeline — NLP for the textual layer, computer vision and handwriting recognition for the calligraphic layer, optical music recognition for the score layer — under a human-in-the-loop protocol that preserves the philological prerogative of interpretive judgment. The argument is illustrated by one fully worked case drawn from that dataset, the qin song Gu Yuan (古怨) in Jiang Kui’s Baishidaoren Gequ, whose surviving editions support a documented evidential gap that the schema is designed to carry rather than resolve. The framework is not a proposal awaiting implementation: the pipeline described here has been built and run across all three annotation layers, and the resulting dataset comprises approximately 1.3 million post-Tang lyric compositions, each carrying a Six-W provenance record, with the full three-layer treatment applied wherever a non-textual witness survives. The dataset is not yet publicly released; the schema, the pipeline, and the epistemic principles are set out here in full so that the data may be assessed independently of the release schedule.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": false,
+      "pdf_url": "",
+      "url": "https://doi.org/10.66532/jhai.2026.0021"
+    },
+    {
+      "id": "openalex-W7214895018",
+      "doi": "10.5281/zenodo.23058970",
+      "title": "EDGE AI AND COMPUTER VISION FOR ACCESSIBLE, CYBER-SECURE, AND RESILIENT CRITICAL RAILWAY INFRASTRUCTURE",
+      "title_zh": "",
+      "authors": [
+        "Kamila Matusik",
+        "Francesco Flammini"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "跨学科",
+      "topics": [],
+      "abstract": "This is an archival copy of the original publication in the First International Workshop for Young Scientists in Computer Science and Security, co-located with the 5th International Conference on Cyber Hygiene & Conflict Management in Global Information Networks (June 25, 2026, Krakow, Poland), https://cyberconf.kai.edu.ua/YSCS/YSCS1/",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.23058970"
+    },
+    {
+      "id": "openalex-W7214895286",
+      "doi": "10.5281/zenodo.23058224",
+      "title": "Artificial Intelligence in Education: Principles, Applications, Challenges, and Future Perspectives",
+      "title_zh": "",
+      "authors": [
+        "M. Vasuki",
+        "Ashok  Kumar Mishra",
+        "A. Dinesh Kumar",
+        "Shila Mishra",
+        "Lloyd Zulu",
+        "Daniel Kebbie Conteh"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "计算机科学",
+      "topics": [
+        "Intelligent Tutoring Systems and Adaptive Learning",
+        "Online Learning and Analytics",
+        "Technology-Enhanced Education Studies"
+      ],
+      "abstract": "We live at a hinge point in the history of education. For more than a century, schools, colleges, and training institutions have refined methods that scale instruction through curricula, standardized assessments, and classroom routines. Today, artificial intelligence is opening new pathways that promise to reshape those methods at scale while also making learning more personal, timely, and relevant. This book Artificial Intelligence in Education: Principles, Applications, Challenges, and Future Perspectives offers a comprehensive guide to that transformation. It is written for educators, policymakers, instructional designers, technologists, and researchers who want a rigorous, practical, and ethically grounded exploration of how AI can support learning across contexts and life stages. AI has moved from narrow lab demonstrations into tools used every day: adaptive quizzes that adjust to student mastery, automated essay feedback systems, chatbots that answer routine student questions, and immersive learning environments that combine AI with virtual and augmented reality. The COVID-19 pandemic accelerated many of these adoptions and exposed stark inequalities in access, teacher preparedness, and policy frameworks. Simultaneously, breakthroughs in large language models, multimodal learning, and scalable analytics have raised both excitement and concern. Educators and decision-makers urgently need a resource that synthesizes technical foundations, pedagogical design, ethical guardrails, and empirical evidence—while also charting future research directions. This book responds to that need. The book is organized into eleven parts and thirty-four chapters that move from foundations to applications, from tools for classroom practice to governance, and from present deployments to future possibilities. Each part deliberately balances technical explanation with educational significance. Chapters explain underlying AI methods in accessible language, then demonstrate how those methods map to concrete educational tasks—assessment, tutoring, curriculum design, classroom management, and institutional planning. Where possible, chapters include case studies and examples to ground theory in practice. Key Aims Clarify Fundamentals: Many educators encounter AI as buzzwords. Part I and the technical chapters (Parts II–III) unpack core concepts—machine learning, deep learning, natural language processing, and computer vision—in ways that show what these tools can and cannot do in educational contexts. Bridge Research and Practice: The book aims to help researchers design studies with educational validity and help practitioners choose and implement AI tools responsibly. Case studies, implementation notes, and chapters on tools for teachers (Part IV) serve this bridge-building function. Center People and Pedagogy: Technology should serve learning goals, not the other way around. Throughout the book, emphasis returns to pedagogical principles: personalization that supports mastery rather than mere individualization; assessments that inform learning rather than only rank students; and teacher roles that shift toward facilitation and interpretation. Surface Ethics, Policy, and Governance: Part VII foregrounds fairness, privacy, transparency, and accountability. AI systems can amplify biases, create privacy risks, and obscure decision pathways. We map legal and normative frameworks—international guidelines, national policies, and institutional governance—to practical recommendations for safer deployments. Encourage Critical, Forward-Looking Research: The concluding parts outline emerging research agendas—explainable AI, emotional and multimodal learning systems, AI literacy, and equity-focused studies—and propose methodological approaches for rigorous evaluation. Educators and instructional designers will find practical frameworks for selecting and integrating AI tools into curricula, formative assessment, and classroom practice. School and university leaders will find guidance on governance, procurement, privacy, and institutional analytics. Policymakers will gain an overview of regulatory and ethical challenges and proposed policymaking pathways that protect learners while enabling beneficial innovation. Researchers will find a consolidated reference that ties technical methods to educational constructs, highlights gaps in evidence, and suggests promising directions for inquiry. Developers and edtech entrepreneurs will gain insight into educational needs, evaluation criteria, and ethical design priorities that increase the likelihood of real-world impact. Highlights of the Book Foundations: The first three chapters set the stage by tracing the evolution of AI and educational technology, clarifying definitions, and situating AIED historically and conceptually. Technologies: Parts II and III explain machine learning, deep learning, NLP, and computer vision, with clear mappings to educational use cases such as student modeling, automated feedback, and classroom monitoring. Practice: Parts IV–VI focus on the teacher and learner experience—intelligent tutoring systems, personalized learning pathways, assessment innovations, and AI-driven curriculum tools. Emerging Tech: Robotics, AR/VR, and IoT are treated not as curiosities but as components of comprehensive learning ecosystems. Analytics and Research: The book addresses methodological issues in learning analytics and educational data mining, offering researchers templates for analysis and evaluation. Governance and Equity: Dedicated sections examine ethics, privacy, policy frameworks, and practical steps institutions can take to ensure responsible adoption. Case Studies and Research Agenda: The final parts synthesize international case studies, extract best practices, and propose an agenda for future scholarship and innovation. AI carries enormous potential for improving access, tailoring instruction, and providing actionable insights at scale. Yet it also presents real hazards: reproducing societal biases, eroding privacy, over-promising efficacy, and diverting scarce resources toward flashy but low-impact solutions. This book advocates a pragmatic middle path: pursue innovation while committing to evidence-based evaluation, participatory design that includes teachers and learners, transparent reporting of benefits and harms, and policies that prioritize equity. How to Use This Book Read Linearly for a Full Course: The book is structured so an instructor, researcher, or administrator new to AIED can progress from basics to advanced topics. Consult Copically: Practitioners can jump to chapters on assessment, tutoring systems, or classroom management as needed. Use as a Course Text: Instructors can assign chapters for modules in educational technology, instructional design, or AIED-focused seminars. Use for Research Planning: Researchers will find the methodological and future-research chapters useful when designing studies, and the case studies useful for comparative analysis. The field of AIED is dynamic. New algorithms, models, and deployments appear rapidly; empirical evidence varies in quality and generalizability; and social contexts differ across regions. Where empirical findings exist, chapters summarize and critique the evidence. Where evidence is thin, authors point to open questions and suggest study designs. Readers should treat this book as both a synthesis of current knowledge and a living prompt for continued examination and experimentation.As you read, I invite you to engage critically: test assumptions, pilot ideas with small cohorts, measure outcomes against learning goals, and foreground learner dignity and agency. Use the book as a toolkit for designing learning environments where AI amplifies human strengths—curiosity, creativity, empathy, and critical thinking—rather than replaces them.If you are a researcher, let this book suggest experiments, measurement approaches, and ethical frameworks that will sharpen the evidence base. If you are a teacher, let it suggest practical ways to reduce cognitive load, increase timely feedback, and personalize pathways while preserving social learning. If you are a policymaker, let it frame policy choices that protect learners and enable beneficial innovation. We stand at the start of new educational possibilities. May this book inform your decisions, inspire your research, and help shape AI in education that is effective, equitable, and humane.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.23058224"
+    },
+    {
+      "id": "openalex-W7214900332",
+      "doi": "10.5281/zenodo.23054047",
+      "title": "An Integrated Computer Vision and Machine Learning Framework for Sorghum Disease Severity Assessment and Yield Prediction",
+      "title_zh": "",
+      "authors": [
+        "Anantjit Publication"
+      ],
+      "year": 2026,
+      "venue": "International Journal of Emerging Technologies and Innovative Research",
+      "field": "Agricultural and Biological Sciences",
+      "topics": [
+        "Smart Agriculture and AI",
+        "Remote Sensing in Agriculture",
+        "Plant Disease Management Techniques"
+      ],
+      "abstract": "An Integrated Computer Vision and Machine Learning Framework for Sorghum Disease Severity Assessment and Yield Prediction presents a technology-driven approach for automated crop health monitoring and yield estimation in sorghum cultivation. The study integrates computer vision techniques and machine learning algorithms to identify and quantify disease severity from crop images and to predict potential yield based on relevant visual and agronomic characteristics. The framework aims to reduce the limitations of conventional manual disease assessment, which can be time-consuming and subject to human variability. Image processing and feature extraction techniques are employed to capture disease-related characteristics, while machine learning models support classification, severity estimation, and yield prediction. By combining disease assessment with yield forecasting, the proposed framework provides a comprehensive approach to precision agriculture and data-driven crop management. The work demonstrates the potential of artificial intelligence and computer vision to support timely decision-making, improve crop monitoring, and contribute to sustainable and efficient sorghum production.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.23054047"
+    },
+    {
+      "id": "openalex-W7214900995",
+      "doi": "10.5281/zenodo.23056322",
+      "title": "Architecting Intelligence: Artificial Intelligence and Deep Learning",
+      "title_zh": "",
+      "authors": [
+        "Dr. Kranti Kumar Dewangan",
+        "Omprakash Dewangan",
+        "Goldi Soni"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "计算机科学",
+      "topics": [
+        "Internet of Things and AI",
+        "Knowledge Management and Technology",
+        "Smart Systems and Machine Learning"
+      ],
+      "abstract": "Architecting Intelligence: Artificial Intelligence and Deep Learning presents a comprehensive academic overview of Artificial Intelligence and Deep Learning, focusing on their concepts, methodologies, applications, and emerging developments. The book is designed to provide readers with a structured understanding of intelligent computing and deep learning approaches and their role in modern technological applications. The book brings together the academic and research perspectives of Dr. Kranti Kumar Dewangan, Dr. Omprakash Dewangan, and Dr. Goldi Soni. Their areas of expertise include Artificial Intelligence, Machine Learning, Deep Learning, Digital Image Processing, Computer Vision, Data Mining, Natural Language Processing, Internet of Things, and medical image analysis. This book is intended as a useful academic and reference resource for students, researchers, educators, and professionals interested in Artificial Intelligence and Deep Learning.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.23056322"
+    },
+    {
+      "id": "openalex-W7214902856",
+      "doi": "10.5281/zenodo.23059046",
+      "title": "Foundations of Artificial Intelligence in Education",
+      "title_zh": "",
+      "authors": [
+        "M. Vasuki",
+        "Ashok  Kumar Mishra",
+        "A. Dinesh Kumar",
+        "Shila Mishra",
+        "Lloyd Zulu",
+        "Daniel Kebbie Conteh"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "计算机科学",
+      "topics": [
+        "Artificial Intelligence in Education",
+        "Online Learning and Analytics",
+        "Intelligent Tutoring Systems and Adaptive Learning"
+      ],
+      "abstract": "Artificial Intelligence (AI) has emerged as one of the most transformative technological innovations of the twenty-first century, fundamentally changing the way individuals learn, work, communicate, and solve complex problems. Although AI has become a prominent component of modern society only in recent decades, its conceptual foundations extend back several centuries through philosophical discussions concerning human intelligence, logical reasoning, and mechanical computation. The evolution of Artificial Intelligence represents a multidisciplinary journey involving computer science, mathematics, cognitive psychology, neuroscience, linguistics, philosophy, engineering, statistics, and data science. Continuous advancements in computational power, algorithmic development, data availability, and digital infrastructure have enabled AI to evolve from theoretical concepts into intelligent systems capable of performing tasks that traditionally required human intelligence. The earliest ideas related to artificial intelligence originated long before the invention of computers. Ancient civilizations imagined intelligent machines capable of mimicking human behaviour through myths, literature, and mechanical inventions. During the seventeenth and eighteenth centuries, philosophers and mathematicians such as René Descartes, Gottfried Wilhelm Leibniz, and George Boole contributed foundational concepts related to logic, reasoning, symbolic representation, and mathematical computation. Their work laid the intellectual groundwork for the development of computational systems capable of representing knowledge and making logical decisions.The modern evolution of Artificial Intelligence began during the twentieth century with the rapid advancement of computing technologies. In the 1930s and 1940s, significant progress in mathematical logic and computer science established the theoretical basis for intelligent machines. Alan Turing introduced the concept of a universal computing machine and later proposed the famous Turing Test, which examined whether a machine could demonstrate behaviour indistinguishable from that of a human being. Turing's pioneering contributions remain fundamental to contemporary AI research because they established that machines could potentially perform intelligent reasoning through computational processes. A major milestone occurred in 1956 during the Dartmouth Summer Research Project on Artificial Intelligence, organized by John McCarthy, Marvin Minsky, Claude Shannon, and Nathaniel Rochester. This conference formally introduced the term \"Artificial Intelligence\" and established AI as an independent scientific discipline. Researchers believed that human intelligence could be represented computationally and that machines could eventually perform reasoning, learning, language understanding, and problem-solving. The Dartmouth Conference inspired widespread academic interest and initiated decades of intensive research into intelligent computing systems.The period between the late 1950s and early 1970s is often referred to as the early development phase of Artificial Intelligence. During this era, researchers developed symbolic AI methods that emphasized logical reasoning, rule-based systems, theorem proving, and problem-solving algorithms. Early AI programmes successfully solved mathematical problems, played strategic games such as chess, and demonstrated limited natural language capabilities. Optimism surrounding AI research increased substantially as scientists believed that general human-level intelligence could be achieved within a relatively short period. However, limitations in computing power, data availability, memory capacity, and algorithmic efficiency restricted further progress. During the 1970s and 1980s, Artificial Intelligence experienced periods commonly known as the \"AI Winters,\" characterized by reduced research funding, slower technological progress, and diminished public expectations. Many ambitious predictions regarding human-level machine intelligence proved unrealistic because available computing resources and algorithms were insufficient to support increasingly complex AI applications. Despite these challenges, important research continued in knowledge representation, expert systems, machine learning, robotics, and computational reasoning. Expert systems became particularly successful by capturing specialized human knowledge through rule-based decision-making frameworks that supported medical diagnosis, engineering design, financial analysis, and industrial management.The late 1980s and 1990s marked the gradual resurgence of Artificial Intelligence through the development of machine learning approaches. Rather than relying exclusively on manually programmed rules, researchers began designing algorithms capable of learning patterns directly from data. Statistical modelling, neural networks, evolutionary computation, fuzzy logic, probabilistic reasoning, and support vector machines expanded the capabilities of intelligent systems while improving adaptability, prediction accuracy, and decision-making performance. Significant improvements in computational hardware further accelerated AI research during this period. A landmark achievement occurred in 1997 when IBM's Deep Blue defeated world chess champion Garry Kasparov, demonstrating the ability of intelligent computing systems to outperform human experts in highly specialized domains. This achievement attracted worldwide attention and illustrated the practical potential of Artificial Intelligence beyond theoretical research. Similar advances subsequently appeared in speech recognition, computer vision, autonomous robotics, medical diagnosis, financial forecasting, and industrial automation.The twenty-first century has witnessed unprecedented growth in Artificial Intelligence driven by three major technological developments: the availability of massive digital datasets, substantial improvements in computational processing power, and the emergence of advanced machine learning algorithms. The rapid expansion of the internet, cloud computing, mobile technologies, social media, and digital services generated enormous volumes of data that enabled intelligent systems to learn more effectively. Simultaneously, Graphics Processing Units (GPUs), high-performance computing, and cloud-based infrastructure significantly accelerated AI model training and deployment across diverse application domains. Deep learning has become one of the most influential developments in contemporary Artificial Intelligence. Inspired by the structure of the human brain, deep neural networks consist of multiple computational layers capable of learning complex representations from large datasets. These architectures have dramatically improved performance in image recognition, speech processing, language translation, autonomous driving, medical imaging, recommendation systems, fraud detection, and scientific research. Deep learning has transformed Artificial Intelligence from narrow task-specific applications into highly sophisticated systems capable of addressing increasingly complex real-world challenges.Natural Language Processing (NLP) has experienced remarkable advancement through transformer architectures and large language models capable of understanding, generating, summarizing, translating, and analysing human language with unprecedented accuracy. Conversational AI systems, intelligent virtual assistants, multilingual communication platforms, automated content generation, and research support tools have become integral components of education, healthcare, business, governance, and scientific research. These developments have substantially enhanced human-computer interaction while expanding opportunities for intelligent educational technologies. The emergence of generative Artificial Intelligence represents another significant milestone in AI evolution. Modern generative models can produce text, images, computer code, audio, video, simulations, educational content, and scientific documentation while supporting creativity, innovation, research, and personalized learning. These technologies have transformed knowledge creation and digital communication by enabling collaborative interactions between humans and intelligent systems across numerous professional disciplines.Artificial Intelligence has evolved beyond isolated computational applications into a foundational technology supporting digital transformation across multiple sectors. Healthcare employs AI for disease diagnosis, medical imaging, drug discovery, personalized treatment, and patient monitoring. Manufacturing integrates AI with robotics, predictive maintenance, quality control, and smart production systems. Financial institutions utilize intelligent algorithms for fraud detection, risk management, investment analysis, and customer services. Agriculture benefits from precision farming, crop monitoring, environmental analysis, and resource optimization. Transportation increasingly relies upon autonomous vehicles, intelligent traffic management, and logistics optimization. Education has emerged as one of the fastest-growing application areas where Artificial Intelligence supports personalized learning, intelligent tutoring systems, automated assessment, curriculum development, learning analytics, educational administration, and lifelong learning. The evolution of Artificial Intelligence has also been closely associated with the progression from Industry 4.0 toward Industry 5.0. While Industry 4.0 emphasized automation, cyber-physical systems, and smart manufacturing, Industry 5.0 introduces a human-centred approach that balances technological innovation with creativity, ethics, sustainability, and social responsibility. Artificial Intelligence now serves as an enabling technology that collaborates with human expertise rather than merely replacing human activities. Within educational environments, this transfor",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.23059046"
+    },
+    {
+      "id": "openalex-W7214907169",
+      "doi": "10.47852/bonviewjcce62028957",
+      "title": "A Machine Learning–Based Quality Control Algorithm for Tangerines Using Descriptors Derived from Peel Sectorization",
+      "title_zh": "",
+      "authors": [
+        "Guillermo Kemper",
+        "Santiago Huamani",
+        "Sebastian Rojas",
+        "Enrique Tabory",
+        "E S Carlos Cárdenas",
+        "Kevin Guerra Huaman"
+      ],
+      "year": 2026,
+      "venue": "Journal of Computational and Cognitive Engineering",
+      "field": "工程学",
+      "topics": [
+        "Industrial Vision Systems and Defect Detection",
+        "Spectroscopy and Chemometric Analyses",
+        "Smart Agriculture and AI"
+      ],
+      "abstract": "Tangerines must fulfill specific quality control requirements established by major importing countries such as peel tone and ripeness, which are analyzed through visual inspection. This conventional evaluation is subjective since it depends on human perception; hence, automated solutions based on computer vision are considered, using different types of cameras, color models, adaptive thresholds, transforms, and convolutional neural networks (CNNs). In the state of the art, the proposed solutions are focused on determining peel defects by applying image processing and machine learning techniques with performance levels above 85%. In this work, an alternative solution is presented using RGB cameras with a resolution of 640 × 480 pixels and descriptors designed to characterize peel-tone variations by sectors, simulating human visual assessment for quality determination. These descriptors are used as inputs to classifiers based on support vector machines and multilayer perceptron neural networks, achieving accuracy levels above 92%. Finally, a comparative analysis between the proposed algorithm and CNN-based quality classifiers such as YOLOv11 and ResNet50 is done, proving that the proposed method outperforms CNN-based classifiers. Received: 30 December 2025 | Revised: 23 April 2026 | Accepted: 23 July 2026 Conflicts of Interest The authors declare that they have no conflicts of interest to this work. Data Availability Statement The data that support the findings of this study are openly available in Mendeley Data at https://doi.org/10.17632/9tfbpxpyjz.1. Author Contribution Statement Guillermo Kemper: Conceptualization, Methodology, Software, Validation, Formal analysis, Investigation, Resources, Data curation, Writing – original draft, Writing – review & editing, Visualization, Supervision, Project administration, Funding acquisition. Santiago Huamani: Conceptualization, Resources, Writing – original draft. Sebastián Rojas: Conceptualization, Resources, Writing – original draft. Enrique Tabory: Methodology, Software, Validation, Formal analysis, Investigation, Writing – original draft, Writing – review & editing. Enori Cardenas: Formal analysis, Investigation, Writing – original draft. Kevin Guerra: Methodology, Software, Validation, Formal analysis, Investigation, Writing – original draft.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.47852/bonviewjcce62028957"
+    },
+    {
+      "id": "openalex-W7214907309",
+      "doi": "10.21227/hac5-k265",
+      "title": "\"Brazilian Rooftop Photovoltaic Orthophoto Dataset with Manual and Weak Annotations\"",
+      "title_zh": "",
+      "authors": [
+        "Marco De Freitas",
+        "Ricardo Fernandes",
+        "Emiliano Dias"
+      ],
+      "year": 2026,
+      "venue": "IEEE DataPort",
+      "field": "跨学科",
+      "topics": [],
+      "abstract": "\"This dataset contains aerial image tiles from Fortaleza, Brazil, prepared for the identification of rooftop photovoltaic (PV) installations using computer vision and machine learning techniques.The dataset includes manually annotated samples and weakly annotated samples generated through pseudo-labeling. The published version contains 43,698 images, organized into predefined training, validation, and holdout subsets.The original aerial imagery used to produce this dataset was obtained from the Fortaleza Open Data Portal, maintained by the Municipality of Fortaleza \\/ Secretaria Municipal das Finan\\u00e7as (SEFIN).Original imagery source:https:\\/\\/ide.sefin.fortaleza.ce.gov.br\\/camadas\\/IMAGEAMENTO%3Aortofoto_2023_v1The original imagery is distributed under a Creative Commons Attribution (CC BY) license.The present dataset contains derived image tiles, annotations, labels, dataset splits, and organizational metadata produced by the authors.The original aerial imagery remains attributed to the Municipality of Fortaleza \\/ Secretaria Municipal das Finan\\u00e7as (SEFIN). \"",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.21227/hac5-k265"
+    },
+    {
+      "id": "openalex-W7214907505",
+      "doi": "10.68129/jeis.v1i2.7",
+      "title": "Driver Fatigue Detection Using YOLOv5 with Genetic- Algorithm-Based Hyperparameter Optimization and Fine-Tuning Strategies",
+      "title_zh": "",
+      "authors": [
+        "Hendri Darmawan",
+        "Zulfa Muflihah",
+        "Giran Arisdi"
+      ],
+      "year": 2026,
+      "venue": "Journal of Electrical and Intelligent Systems",
+      "field": "社会科学",
+      "topics": [
+        "Sleep and Work-Related Fatigue",
+        "Ergonomics and Musculoskeletal Disorders",
+        "Advanced Sensor and Energy Harvesting Materials"
+      ],
+      "abstract": "Driver fatigue is a major contributor to traffic accidents, injuries, and economic losses. This study proposes a computer-vision-based driver fatigue detection system using YOLOv5s to identify three facial states: normal, eye closed, and yawning. The model is fine-tuned from pre-trained COCO weights and evaluated under multiple training schemes, including full fine-tuning, partial layer freezing, and hyperparameter evolution based on a genetic algorithm. The dataset consists of 5,706 training images and 2,390 testing images compiled from self-recorded and public sources under varied lighting conditions. Experimental results show that the best model without evolution achieves an mAP of 0.887, while the best evolved model reaches an mAP of 0.888 and runs at 30 FPS on a CPU-based device. These findings indicate that the proposed model is sufficiently accurate, lightweight, and practical for early-warning deployment on low- resource edge devices in advanced driver assistance systems.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.68129/jeis.v1i2.7"
+    },
+    {
+      "id": "openalex-W7163574763",
+      "doi": "10.5281/zenodo.20541726",
+      "title": "Mkulima Corpus: A Swahili Agricultural Corpus and Retrieval Benchmark for Domain-Specific NLP",
+      "title_zh": "",
+      "authors": [
+        "Alfred Malengo Kondoro",
+        "Fredrick Shaban",
+        "Joseph Telemela"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "跨学科",
+      "topics": [],
+      "abstract": "Mkulima (Swahili for \"farmer\") is a domain-specific Swahili agricultural corpus and retrieval test collection for natural language processing and information retrieval. The corpus comprises 4,021 documents totalling 35.2 million characters and 5.4 million words, drawn from five source types published between 2010 and 2026: government reports, FAO and NGO publications, agricultural extension materials, news articles and farmer-oriented blogs. Its vocabulary contains 137,980 word types, where a type is a lowercased token of two or more Latin letters or apostrophes. The corpus covers 25 agricultural topics including staple crops (mahindi, mpunga, muhogo), cash crops (kahawa, korosho, pamba), livestock (mifugo, kuku, ufugaji), fisheries (samaki, uvuvi) and agricultural inputs (mbolea, mbegu, umwagiliaji). Each document carries provenance metadata recording source type, origin, publication date and document category. CONTENTS corpus/mkulima_redistributable.jsonl — the 1,274 documents whose text may be redistributed (government, FAO/NGO, extension and blog material) reconstruction/news_manifest.jsonl — the 2,747 news documents as identifiers, source URLs, metadata and SHA-256 text hashes, with collection scripts benchmark/queries.jsonl — 50 Swahili agricultural retrieval queries benchmark/qrels.txt — 1,000 binary relevance judgments in 4-column TREC format benchmark/run_bm25.jsonl, benchmark/run_bm25_reranked.trec — retrieval runs benchmark/per_query_metrics.csv — per-query nDCG@10, MAP and MRR benchmark/duplicate_texts.csv — exact-duplicate document groups scripts/ — evaluation and significance-testing code MANIFEST.sha256 — checksums for every released file LICENSES.md, README.md — per-component licensing and documentation BENCHMARKS Domain-adaptive language modelling: fine-tuning AfroXLMR-base on Mkulima reduces perplexity on held-out agricultural Swahili text from 3.44 to 3.13, an 8.8% relative reduction. Agricultural document retrieval: the test collection provides 50 queries with 1,000 manually judged query-document pairs that completely cover the BM25 candidate pool to depth 20, with Cohen's kappa of 0.88 on a doubly annotated subset of 100 pairs. BM25 reaches nDCG@10 0.6041, MAP 0.5870 and MRR 0.7463. Rescoring the BM25 top-20 with the bge-reranker-v2-m3 cross-encoder reaches 0.6134, 0.5811 and 0.6896. Every reported figure is recomputed from the released artifacts by the released evaluation script. LICENSING Author-created materials (queries, judgments, runs, per-query results, metadata, topic taxonomy and all code) are released under CC BY 4.0. Document texts follow their publishers' terms, and news article text is not redistributed. See LICENSES.md for the per-component statement. CHANGES FROM VERSION 1 Version 1 distributed the full corpus, including news article text, under a single CC BY 4.0 record licence, and included a relevance-judgment file with additional title and snippet columns. Version 2 corrects both. News text is replaced by a reconstruction manifest, licensing is stated per component, the judgments are supplied as clean 4-column TREC, and the retrieval runs, per-query results, duplicate list, evaluation scripts and a checksum manifest are added. The corpus date range is corrected from 1995-2026 to 2010-2026 following an audit of document metadata and stated publication dates.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.20541726"
+    },
+    {
+      "id": "openalex-W7170309419",
+      "doi": "10.5281/zenodo.21134454",
+      "title": "Correlation Witnesses versus Magic: A k-Resolved Nonstabilizerness Map for SU(2)_k Anyon Fusion Spaces",
+      "title_zh": "",
+      "authors": [
+        "Berkay Yüksel Sayim"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "计算机科学",
+      "topics": [
+        "Quantum Information and Cryptography",
+        "Quantum Mechanics and Applications",
+        "Quantum many-body systems"
+      ],
+      "abstract": "Standard correlation witnesses — spatial Bell/CHSH inequalities, temporal Leggett–Garg K₃, and KCBS contextuality — are known to detect nonstabilizerness (\"magic\") in some settings. We report a worked example, a k-resolved nonstabilizerness map of the SU(2)_k anyon braid-representation family, in which a standard temporal witness is instead systematically blind: at k=4 the three-time Leggett–Garg witness saturates its macrorealistic bound exactly (K₃=1.000000 over every state, braid element, and measurement axis, in the equal-time-step protocol of Table 1 with V₁=V₂) while the single-qubit fusion channel carries near-maximal nonstabilizerness (M₂=0.5585, 95% of the finite-dimensional ceiling log₂(3/2)). We prove this blindness as a structural theorem: the witness depends only on the Bloch-sphere Gram geometry of the braid orbit, not on nonstabilizerness, and k=4 happens to align the fixed measurement axis with a threefold orbit symmetry (Bloch dot products all −1/3) that caps the witness at 1; a finite, Clifford-generating group — the chiral octahedral group, the k=2 braid image — with a misaligned axis reaches K₃=3/2 under a two-propagator protocol. Neither finiteness of the braid image nor the Clifford property is by itself the mechanism. We complement this temporal certificate with three independent certificates of genuine nonstabilizerness — two of them long-range (a doubled-Fibonacci mutual-information witness, H=1.700979, and a gauge-invariant minimum ground-space stabilizer Rényi entropy, ≥6.5 against an exact-zero toric-code control), the third a complementary gate-based non-Cliffordness measure — an honest negative control confirming that leakage-free constructions remain strictly additive, and a hardware-oriented single-qubit signal-to-noise prediction. We further probe the k=4 dissociation at its shared d=3 interface with Kochen–Specker–Klyachko contextuality, where the KCBS witness shows only a weak, nongeneric correlation with magic. Two reconciliations with the literature are made explicit: the present result contradicts neither the equivalence of maximal nonlocality and maximal magic established for optimized magic states in a different game, nor the contextuality-supplies-magic theorem; both concern a different object than the fixed, per-k braid generator studied here.About this series: This record is part of a series of related works from my independent research on Fibonacci anyons, with Ising anyons as their natural counterpart. I started in April 2026, and it has been a long and insightful journey in which I learned a lot; the work uses different methods and stays within verifiable, nonspeculative physics. The common thread of the series is a split: Ising anyons are limited to Clifford operations, while Fibonacci anyons are computationally universal, and across the series I map what standard witnesses of nonclassicality can and cannot certify on such systems. I consider Fibonacci anyons a serious candidate for topological quantum computing, given their universality and their topological protection against local noise. A hybrid approach with Ising is conceivable, but problems such as instability and certification would have to be solved first, and each needs research of its own. This paper asks whether the inert blind spot at k=4, where the temporal Leggett-Garg witness stays exactly at the classical bound, means that the quantum resource is absent or only invisible to that witness, and it finds the nonstabilizerness nearly maximal, confirmed by three independent certificates, while proving the blindness to be geometric: the witness depends on the geometry of the braid orbit rather than on the resource, and a finite Clifford-generating group with a misaligned axis reaches the quantum bound, so neither finiteness nor the Clifford property is the mechanism; within the series it is the resource explanation, where blindness is a matter of alignment, not absence. Use of AI tools: In the research, processing, and writing of this paper and its results I worked together with generative AI tools, in practice a system of multiple coordinated AI instances that I set up and orchestrate (large language models, mainly Claude, by Anthropic, inside Claude Code). At their current context sizes I found it far more effective to work with several specialized instances, each with its own role and its own harness of rules and parameters that I designed and refined through feedback, than to load a single instance with all of the material; for my workflow that would have been inefficient, though this depends on the individual implementation. I lead this collaboration: I choose the research directions, set the goals, and make the final decisions in open exchange with the AI, learning actively as the work proceeds. The AI carries out the drafting, including the mathematical and technical parts, the numerical computation, and the literature search, under my direction. The AI works autonomously only task by task, within the structure I develop through feedback: it completes a task, and at open questions that need me it stops until the point is settled before the next step. Along the way I witness and take many of the decisions that shape the path, and it is common for me to spot things that need improvement. The work spans many separate runs, and a single simulation or build task alone can take up to an hour, so it could not happen all together in one autonomous run; and had I let the AI do all of it together alone, even if it is possible, it would no longer be my work but the AI's. I run multiple verifications at the different stages of the work and one before release, including cross-checks with an unrelated AI model from a different company, and all references are checked against the original sources. In the end what matters are human eyes, a principle that is itself written into the parameters of my system: I reach out to experts after publishing for review and feedback, so I learn what is solid and what must be corrected or falsified. My scripts for reproduction and review are released with this record. These tools are not authors; I am the author, and I take full responsibility for all scientific content and decisions leading to these results and their publication. ------------------- Version notes (v1.2 -> v1.3). This version states the scope of the k=4 resultexplicitly, aligns the series wording for K3, corrects one statement, andadds one reference; no computed value, figure, table, or title changed. • The abstract now states explicitly that the k=4 blindness concerns the single-qubit (d=2) fusion space. This was the scope of the analysis throughout — the theorem is stated \"for any single-qubit dichotomic pair\" and the k=4 result is called a single-qubit corollary — but the scope was not attached to the statement itself. This is a change of statement, not only of wording. • The abstract, the introduction and the theorem section now name the witness as K3 and note that it is one of several three-time Leggett-Garg witnesses, which differ in the signs of the three correlators; all Leggett-Garg results in this work refer to K3. This is the wording used across the series. In the introduction the sentence following the new passage was reworded from \"This is not a new claim\" to \"The present work is not a new claim\", so that it still refers to the reported result rather than to the inserted passage. • The theorem section now states the protocol explicitly: for each evaluation the two propagators are fixed group elements, each unchanged across the three correlator runs, and no post-selection is applied. This states what the equations already define; nothing in the derivation changed. • Certificate (1) now names its object in the statement itself: the vacuum minimal-entropy state in the S frame, as the scope remark already said. • Correction: earlier versions read Korbany's Theorem 3 in the reverse direction (\"an integer value would indicate a stabilizer ground space\"). The theorem is a sufficient condition; an integer value only gives no certificate. • Emary, Lambert and Nori, Rep. Prog. Phys. 77, 016001 (2014), is now cited as the source for the three-time Leggett-Garg forms. • The README abstract carries the same scope statement, and in addition the v1.2 reformulation of the protocol clause, which had not reached the README in v1.2. • Inside the deposit archive the paper source, the PDF and the notes file are named main_v1.3.*, matching the version of the record. • Release date: the deposited build is dated 2026-09-30; the Zenodo publication date is set at upload and may differ. Version notes (v1.1 -> v1.2), condensed. The complete notes for that version remain in the v1.2record: https://doi.org/10.5281/zenodo.22904849 • No value, claim, or citation changed. Bibliography completed (all 32 authors of Xu et al.; the journal publication of Byles et al. added); Cieśliński et al. (Phys. Rev. A 113, 052404 (2026)) discussed in the introduction as a related but distinct, spatial (Bell-type) line of work; the equal-time-step qualifier of the central K3=1.000000 sentence stated the same way as later in the paper; deposited build dated 2026-09-22. Version notes (v1.0 -> v1.1), condensed. The complete notes for that version remain in the v1.1record: https://doi.org/10.5281/zenodo.22698154 • No previously reported value changed. The corrections were to description and attribution, not to results: the work of Zhang et al. is a theorem rather than a survey, and the two long-range certificates are no longer offered as a priority claim; the citation of Korbany et al. points to Eq. (3.30), with the bibliography entry pinned to arXiv:2605.22424v2; the cited theorem of the mutual-information reference is Theorem 3, not Theorem 1; k=6 is listed with the dense levels rather than among those carrying a finite non-Clifford plateau; and the sentence on the contextuality interface records th",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.21134454"
+    },
+    {
+      "id": "openalex-W7214889788",
+      "doi": "10.36023/ujrs.2026.13.3.310",
+      "title": "Assessment of Spatio-temporal Dynamics of the Remote Sensing Ecological Index (RSEI) based on Landsat 8 Data: A Case Study of Kherson Region, Ukraine (2013–2025)",
+      "title_zh": "",
+      "authors": [
+        "Maksym Tymchyshyn"
+      ],
+      "year": 2026,
+      "venue": "Ukrainian journal of remote sensing",
+      "field": "环境科学",
+      "topics": [
+        "Environmental and Biological Research in Conflict Zones",
+        "Remote Sensing in Agriculture",
+        "Scientific Research and Studies"
+      ],
+      "abstract": "This scientific paper presents a comprehensive assessment of the spatio-temporal dynamics of the ecological state of the Kherson region from 2013 to 2025, with a particular focus on the consequences of the full-scale military aggression by the Russian Federation. Amidst intensive hostilities, the destruction of critical infrastructure, and global climate challenges, objective geospatial monitoring of the natural environment is a crucial task for documenting damages and forecasting the region's future development.The study is based on the use of modern geographic information systems and remote sensing data. Using the Google Earth Engine cloud computing platform and an archive of multispectral satellite imagery from Landsat 8 OLI/TIRS, the Remote Sensing Ecological Index (RSEI) was calculated. This index comprehensively integrates four key biophysical indicators: greenness (based on the Normalized Difference Vegetation Index, NDVI), wetness (Wet), dryness (based on the Normalized Difference Build-up and Soil Index, NDBSI), and land surface temperature (LST). The application of Principal Component Analysis (PCA) allowed these indicators to be mathematically combined into a single standardized index, where the first principal component (PC1) explains the highest proportion of the total spatial data variance. This indicates that the first principal component (PC1) successfully captures the vast majority of the variance among the four input indicators, which is a basic premise of the RSEI methodology.The results of the cartographic and statistical analyses revealed a sharp, unprecedented deterioration in the ecosystem health of the study region in 2025 compared to retrospective data from previous years. A critical drop in the average RSEI value was established – from 0.381 in the relatively stable year of 2021 to 0.205 in 2025. The spatial assessment demonstrated that the area of territories classified as being in a state of ecological crisis (the «Terrible» category, with an index ranking from 0 to 0.2) more than doubled: from 26% of the region's total area in 2021 to a critical 60% in 2025.The sharp drop in RSEI spatially aligns with the large-scale hydrological transformations caused by the destruction of the Kakhovka Dam; however, this indicator also reflects the synergistic impact of intense hostilities, fires, the cessation of irrigation, and climate anomalies. Kakhovka Dam destruction led to the catastrophic destruction of the hydrographic network, the disappearance of water supply sources for vital agricultural lands, and the disruption of life-support systems in urbanized areas. The only exception against the general backdrop of the ecological catastrophe is the recorded local natural restoration of the old Dnipro riverbed ecosystem, which is gradually returning to its historical state that preceded massive anthropogenic intervention and river regulation in the 1950s.In conclusion, the synergistic impact of continuous large-scale hostilities, the destruction of established ecosystem links, and the exacerbation of global climate change shape an extremely bleak forecast. Further degradation of the soil and vegetation cover and the depletion of water resources create a high risk of transforming a significant part of the Kherson region into a territory unfit for safe living, agriculture, and socio-economic functioning. Disclosure of AI use. In the process of conducting research and preparing the manuscript, the author used the large language model Google Gemini 3 Pro. The tool acted as a technical assistant and consultant at the stages:1. Software development: assistance in writing, debugging and optimizing JavaScript scripts for the Google Earth Engine environment, in particular the implementation of the PCA algorithm.2. Text preparation: providing recommendations on structuring the work, describing the methodology and improving the academic style of presentation.The author carried out a full check of the generated code and text, verified the results obtained and bears sole responsibility for the content of this publication. Data availability and integrity. The JavaScript code for Google Earth Engine developed for this study has been deposited in the Zenodo repository with a reserved DOI to ensure long-term accessibility and reproducibility of the results. The code will be publicly available upon acceptance of the manuscript for publication. The data can be provided by the author upon reasonable request. Conflicts of Interest. The author declares that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper. Acknowledgements. The author is grateful to the reviewers and editors for their valuable comments, recommendations, and attention to the work.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.36023/ujrs.2026.13.3.310"
+    },
+    {
+      "id": "openalex-W7214959078",
+      "doi": "10.3760/cma.j.cn112147-20260429-00244",
+      "title": "[Artificial intelligence-driven early warning for severe pneumonia: pathways and challenges from data integration to clinical decision-making].",
+      "title_zh": "",
+      "authors": [
+        "H Y He"
+      ],
+      "year": 2026,
+      "venue": "PubMed",
+      "field": "计算机科学",
+      "topics": [
+        "Machine Learning in Healthcare",
+        "Sepsis Diagnosis and Treatment",
+        "COVID-19 diagnosis using AI"
+      ],
+      "abstract": "Severe pneumonia, characterized by rapid progression and high heterogeneity, is a leading cause of patient mortality. Early identification of high-risk patients is crucial for improving outcomes. Traditional risk stratification tools, such as CURB-65 score and pneumonia severity index (PSI), primarily rely on static variables, which inadequately capture the dynamic evolution of the disease and offer limited capabilities for individualization. In recent years, artificial intelligence (AI) technologies, particularly machine learning, deep learning, and multimodal fusion models, have demonstrated significant potential for enhancing early warning capabilities for severe pneumonia. Starting from clinical challenges and integrating recent domestic and international advances, this review focuses on the current status of AI applications and key technological pathways in the early warning of severe pneumonia. By incorporating the foundational work and practical experiences of representative research teams in China, it further discusses future development directions in this field. AI-driven early warning systems are facilitating a shift in severe pneumonia management from passive response to proactive intervention. However, their clinical translation faces challenges, including insufficient generalizability, limited interpretability, and a lack of prospective validation. Future progress requires fostering multicenter collaboration, promoting data standardization, and integrating mechanistic studies to effectively embed AI into the clinical decision-making ecosystem.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": false,
+      "pdf_url": "",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42811558"
+    },
+    {
+      "id": "openalex-W7214951384",
+      "doi": "10.1186/s43055-026-01867-0",
+      "title": "A novel physics-guided graph transformer (PHY-GT) for multimodal brain tumor classification",
+      "title_zh": "",
+      "authors": [
+        "Telkar Kalpana",
+        "K. Anusudha"
+      ],
+      "year": 2026,
+      "venue": "The Egyptian Journal of Radiology and Nuclear Medicine",
+      "field": "Neuroscience",
+      "topics": [
+        "Brain Tumor Detection and Classification",
+        "Advanced Neural Network Applications",
+        "Glioma Diagnosis and Treatment"
+      ],
+      "abstract": "Abstract Background Accurate classification of brain tumors from magnetic resonance imaging (MRI) is critical for effective clinical diagnosis and treatment planning. Although deep learning models such as convolutional neural networks and vision transformers have demonstrated strong performance, challenges remain in handling imaging heterogeneity, limited annotated data, and inadequate modeling of tumor structural characteristics. The aim of this study is to develop and evaluate a novel Physics-Guided Graph Transformer (PHY-GT) framework that integrates transformer-based contextual learning, graph-based structural reasoning, and physics-guided regularization for automated brain tumor classification from MRI images. Results The proposed PHY-GT integrates convolutional feature extraction, transformer-based global contextual modeling, graph-based tumor topology representation, and physics-guided learning into a unified architecture. The model processes multimodal MRI sequences (T1, T1ce, T2, and FLAIR) and incorporates a graph attention mechanism to capture intratumoral spatial relationships. A physics-guided regularization strategy enforces consistency across imaging modalities and is designed to promote stable feature learning across heterogeneous MRI representations. Experimental evaluation on a publicly available brain tumor MRI dataset demonstrated improved performance compared to state-of-the-art models, achieving an accuracy of 94.5%, precision of 95.2%, recall of 95.5%, and F1 score of 95.3%. Ablation studies confirm the contribution of each component, including physics-guided learning and graph-based modeling, to overall performance improvements. Conclusions The PHY-GT framework provides a proof-of-concept framework for automated brain tumor classification using MRI data. By effectively combining multimodal feature fusion, structural reasoning, and physics-informed learning, the proposed model demonstrates improved classification performance on the evaluated dataset. The proposed PHY-GT demonstrates promising experimental performance for MRI-based brain tumor classification. However, the present study should be interpreted as a proof-of-concept evaluation based on a single publicly available dataset, and further external multicenter validation is required before broader clinical applicability can be established.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1186/s43055-026-01867-0"
+    },
+    {
+      "id": "openalex-W7152402153",
+      "doi": "10.1038/s42256-026-01309-6",
+      "title": "Towards foundation-style models for energy-frontier heterogeneous neutrino detectors via self-supervised pretraining",
+      "title_zh": "",
+      "authors": [
+        "Saúl Alonso-Monsalve",
+        "Fabio Cufino",
+        "U. Köse",
+        "Anna Mascellani",
+        "André Rubbia"
+      ],
+      "year": 2026,
+      "venue": "Nature Machine Intelligence",
+      "field": "物理学",
+      "topics": [
+        "Particle physics theoretical and experimental studies",
+        "Neutrino Physics Research",
+        "Astrophysics and Cosmic Phenomena"
+      ],
+      "abstract": "Abstract Accelerator-based neutrino physics is entering an energy-frontier regime in which interactions reach the tera-electronvolt scale and produce exceptionally dense, overlapping detector signatures. Event interpretation is impractical for conventional reconstruction and challenging for supervised models trained from scratch, particularly when labelled data are scarce and analyses span diverse objectives. Here we present a sparse Vision Transformer framework for learning reusable representations from heterogeneous detector data. Self-supervised pretraining combines masked-autoencoder reconstruction with relational voxel-level objectives for hierarchy, ghost and particle identification, followed by joint fine-tuning across classification and regression tasks. On simulated events from the proposed FASER calorimeter (FASERCAL) concept, pretraining improves neutrino-flavour and charm-quark identification, momentum regression and vertex reconstruction, with relational objectives providing further gains in topologically complex channels. Attribution and representation diagnostics show a more structured latent space, while detector-subsystem ablations recover physically plausible channel-dependent roles. With roughly 10 3 labelled events, the pretrained encoder matches the flavour-classification performance of scratch training with an order of magnitude more data. Cross-domain transfer is observed on public plastic-scintillator and liquid-argon benchmarks. A matched alternative-generator stress test shows stable flavour and kinematic performance while exposing charm tagging as generator sensitive. These results support self-supervised multimodal pretraining as a route towards reusable detector representations. We use ‘foundation-style’ in this restricted sense, rather than claiming a completed general-purpose detector foundation model.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1038/s42256-026-01309-6"
+    },
+    {
+      "id": "openalex-W7166291252",
+      "doi": "10.82901/nemar.on005795",
+      "title": "MULTI-CLARID (Multimodal Category Learning and Resting-state Imaging Data)",
+      "title_zh": "",
+      "authors": [
+        "Jörg Stadler",
+        "Torsten Stöter",
+        "Nicole Angenstein",
+        "Andreas Fügner",
+        "Marcel Lommerzheim",
+        "Artur Mathysiak",
+        "Anke Michalsky",
+        "Gabriele Schöps",
+        "Johann van der Meer",
+        "Susann Wolff",
+        "André Brechmann"
+      ],
+      "year": 2026,
+      "venue": "UC San Diego",
+      "field": "跨学科",
+      "topics": [],
+      "abstract": "MULTI-CLARID is a combined fMRI/EEG dataset acquired during an auditory category learning task and resting state. It includes 63-channel EEG with ECG, EOG, facial EMG and skin conductance, plus respiration and finger-pulse recordings, and T1-weighted and UTE anatomical MR scans. Five participants' datasets containing the multi-dimensional category learning experiment are currently shared.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.82901/nemar.on005795"
+    },
+    {
+      "id": "openalex-W7166725188",
+      "doi": "10.82901/nemar.on007629",
+      "title": "ROAMM",
+      "title_zh": "",
+      "authors": [
+        "Haorui Sun",
+        "Ardyn Vivienne Olszko",
+        "Niharika Singh",
+        "David C. Jangraw"
+      ],
+      "year": 2026,
+      "venue": "UC San Diego",
+      "field": "跨学科",
+      "topics": [],
+      "abstract": "ROAMM (Reading Observed At Mindless Moments) is a multimodal dataset of simultaneous EEG and eye-tracking recordings from 44 participants during naturalistic reading, with span-level mind-wandering annotations collected through a retrospective self-report paradigm. It serves as a benchmark for mind-wandering detection and EEG-to-text decoding, and supports research on how attention lapses degrade language decoding from brain activity. Synchronized machine-learning-ready data, reading stimuli and page-level comprehension scores are included.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.82901/nemar.on007629"
+    },
+    {
+      "id": "openalex-W7213384402",
+      "doi": "10.1080/08839514.2026.2736303",
+      "title": "Context-Aware Graph Neural Networks (CAGNN) for Multimodal Prediction of Parkinson’s Disease Dementia",
+      "title_zh": "",
+      "authors": [
+        "Callum Altham",
+        "Huaizhong Zhang",
+        "Ella Pereira"
+      ],
+      "year": 2026,
+      "venue": "Applied Artificial Intelligence",
+      "field": "医学",
+      "topics": [
+        "Parkinson's Disease Mechanisms and Treatments",
+        "Neurological disorders and treatments",
+        "Voice and Speech Disorders"
+      ],
+      "abstract": "Parkinson’s disease dementia is a severe cognitive decline in up to 95% of Parkinson’s disease sufferers within 10–20 years after diagnosis. Diagnosis relies on comprehensive clinical evaluation; however, research indicates that underlying physiological changes to white matter tracts precede symptomatic presentation. Existing work has focused on symptomatic data or single imaging modalities, without exploiting 3D structural information available through fiber tractography. To the best of our knowledge, no existing framework effectively combines 3D fiber tractography and clinical population graphs for early PDD classification. A modular, context-aware geometric deep learning framework is developed to classify subjects into cognitive stages from baseline data, enabling future prediction. The method combines two graph neural network modules, processing white matter tractography as point-based graphs and inter-subject similarity using 16 clinical and cognitive features. Each module generates prediction probabilities, which are combined through a lightweight ensemble classifier to produce a final diagnostic label. Results demonstrate individual component elements outperform baseline models by approximately 10%, achieving accuracies between 75% and 82%. Similarly, a combined framework of both modules with an ensemble strategy further improves accuracy to 88%, exceeding individual module performance by over 10%, underscoring the importance of combining structural and contextual information for classification of cognitive states in Parkinson’s disease.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1080/08839514.2026.2736303"
     },
     {
       "id": "arxiv-2403.05530",
