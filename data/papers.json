@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-10-19T00:13:12.196959+00:00",
+    "updated_at": "2026-10-20T01:06:12.295331+00:00",
     "source": "OpenAlex",
     "queries": [
       "artificial intelligence",
@@ -10,7 +10,7 @@
       "multimodal learning"
     ],
     "window_years": 10,
-    "count": 3887
+    "count": 3944
   },
   "papers": [
     {
@@ -1136,7 +1136,7 @@
       "citations": 1,
       "popularity": 25,
       "open_access": true,
-      "pdf_url": "",
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007/978-3-032-40121-2_4.pdf",
       "url": "https://doi.org/10.1007/978-3-032-40121-2_4"
     },
     {
@@ -96262,8 +96262,8 @@
       "abstract_zh": "",
       "citations": 0,
       "popularity": 18,
-      "open_access": false,
-      "pdf_url": "",
+      "open_access": true,
+      "pdf_url": "https://fupubco.com/fer/article/download/1225/402/3060",
       "url": "https://doi.org/10.55670/fpll.fer.1.1.4"
     },
     {
@@ -96417,7 +96417,7 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "pdf_url": "",
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007/s11042-026-21965-5.pdf",
       "url": "https://doi.org/10.1007/s11042-026-21965-5"
     },
     {
@@ -96441,7 +96441,7 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "pdf_url": "",
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007/s44163-026-02540-1.pdf",
       "url": "https://doi.org/10.1007/s44163-026-02540-1"
     },
     {
@@ -96467,7 +96467,7 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "pdf_url": "",
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007/s44163-026-02545-w.pdf",
       "url": "https://doi.org/10.1007/s44163-026-02545-w"
     },
     {
@@ -96540,8 +96540,8 @@
       "abstract_zh": "",
       "citations": 0,
       "popularity": 18,
-      "open_access": false,
-      "pdf_url": "",
+      "open_access": true,
+      "pdf_url": "https://sciformat.ca/journals/index.php/mssl/article/download/68/58",
       "url": "https://doi.org/10.69635/mssl.2026.2.4.68"
     },
     {
@@ -96571,7 +96571,7 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "pdf_url": "",
+      "pdf_url": "https://www.ijisrt.com/assets/upload/files/IJISRT26OCT455.pdf",
       "url": "https://doi.org/10.38124/ijisrt/26oct455"
     },
     {
@@ -97165,7 +97165,7 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "pdf_url": "",
+      "pdf_url": "https://pubs.acs.org/ancac3/article-pdf/doi/10.1021/acsnano.6c04548/68896191/acsnano.6c04548.pdf",
       "url": "https://doi.org/10.1021/acsnano.6c04548"
     },
     {
@@ -97717,7 +97717,7 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "pdf_url": "",
+      "pdf_url": "https://www.nature.com/articles/s41598-026-74348-z_reference.pdf",
       "url": "https://doi.org/10.1038/s41598-026-74348-z"
     },
     {
@@ -97741,7 +97741,7 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "pdf_url": "",
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007/s44163-026-02551-y.pdf",
       "url": "https://doi.org/10.1007/s44163-026-02551-y"
     },
     {
@@ -97807,7 +97807,7 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "pdf_url": "",
+      "pdf_url": "https://www.nature.com/articles/s41598-026-76327-w.pdf",
       "url": "https://doi.org/10.1038/s41598-026-76327-w"
     },
     {
@@ -97857,7 +97857,7 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "pdf_url": "",
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007/s44217-026-02301-3.pdf",
       "url": "https://doi.org/10.1007/s44217-026-02301-3"
     },
     {
@@ -98312,6 +98312,1466 @@
       "open_access": false,
       "pdf_url": "",
       "url": "https://doi.org/10.1097/sap.0000000000004926"
+    },
+    {
+      "id": "openalex-W7222866357",
+      "doi": "10.5281/zenodo.23460555",
+      "title": "Rotation Locking: Design Rules for Finger-Joint Readings That Do Not Depend on Hand Size",
+      "title_zh": "",
+      "authors": [
+        "Sebastian Molano",
+        "W Weinert"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "机器人学",
+      "topics": [
+        "Prosthetics and Rehabilitation Robotics",
+        "Robotic Mechanisms and Dynamics",
+        "Soft Robotics and Applications"
+      ],
+      "abstract": "Hand exoskeletons for robot learning and rehabilitation need finger joint angles, but self-aligning designs that report them usually compute them through a model calibrated to each wearer. A few finger devices avoid the model by letting each segment slide along its phalanx without rotating on it. We give this condition, rotation locking, a general analysis. In a rigid planar model the encoder between two segments reads the joint angle plus a constant for any phalanx length, standoff or axis migration within the slides’ travel, and torque applied between the segments reaches the joint as a pure couple through frictionless slides. Each slide must travel h·tan(θ/2), segments spanned by two joints must telescope, and the straight finger is singular. In 5,000 simulated joints with one reference pose each, one rotation-locked encoder erred by a median of 1.5° r.m.s., against 2.1° for one encoder on a generic revolute–prismatic–revolute chain. TAKTO ONE, an open-source four-finger exoskeleton with twelve joint encoders, is built on these rules and works on different hands; its accuracy against a reference is not yet measured. Files: the preprint (PDF), the analysis and figure code with its data (ZIP), Video S1 (the device's twin in augmented reality, moved by its encoders) and Video S2 (the device worn). Design files under open licences: https://github.com/molanocortes/takto-one. Project page: https://takto.one Version 2 (2026-10-19): new title; cites DEXOP and DexEXO; Eq. 4 simplified and an unused symbol removed; AI-use statement reworded. The results, figures and data are unchanged.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.23460555"
+    },
+    {
+      "id": "openalex-W7222886934",
+      "doi": "10.4271/2026-99-2941",
+      "title": "A Fuzzy Initiative-Yielding Mechanism for Space-Air-Ground Cooperative Communication",
+      "title_zh": "",
+      "authors": [
+        "Jie Bao",
+        "Yuping Zhang",
+        "Ronghao Zhang"
+      ],
+      "year": 2026,
+      "venue": "SAE technical papers on CD-ROM/SAE technical paper series",
+      "field": "工程学",
+      "topics": [
+        "Satellite Communication Systems",
+        "UAV Applications and Optimization",
+        "Mobile Ad Hoc Networks"
+      ],
+      "abstract": "Space-Air-Ground Integrated Network (SAGIN) emerges as an appealing framework for implementing pervasive connections among diverse layers of space, air, and ground. The scheme relies on satellite deployment for extensive space coverage, Unmanned Aerial Vehicle (UAVs) acting as agile aerial relay stations, and ground robots for performing the final task assignment. Nevertheless, integrating heterogeneous nodes with varying mobility characteristics poses significant challenges: satellite operations are restricted by orbital dynamics, ground robot movements are restricted by topography constraints, whereas UAVs demonstrate flexibility and can establish line-of-sight connections with both satellites and ground robots. Current solutions usually adopt UAVs merely as passive relay nodes, causing inefficient adaptation mechanisms and excessive communication overhead when responding to dynamic perturbations or blocked connections. To overcome the aforementioned challenge, this paper proposes a novel fuzzy initiative-yielding coordination approach assigning two opposite behaviors. Initiative is assigned to UAVs in order to facilitate coordinated operations between layers, whereas Yielding refers to the adaptive response of satellites and ground robots. Contrary to previous research where behavioral assignments follow strict threshold rules, our fuzzy inference considers various parameters such as link quality, node state, and task priority, providing flexible behavioral assignments. Our predictive approach incorporates the Exponentially Weighted Moving Average (EWMA) technique to perform proactive failure avoidance. Based on five comprehensive experiments with 30 independent runs each, our approach obtains similar task completion rates (84.4%), but exhibits significantly lower communication overhead by up to 11 to 147 times compared to baseline methods. Furthermore, the proposed behavioral assignments avoid any coordination conflict (0 vs. 30.8), reduce completion time by 10.1%, maintain robust performance under 20% rule reduction, scale to 150-node mega-constellation scenarios, and exhibit higher fault tolerance under dynamic environments (81.5% vs. 79.8% of CBBA under high stress conditions).",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": false,
+      "pdf_url": "",
+      "url": "https://doi.org/10.4271/2026-99-2941"
+    },
+    {
+      "id": "openalex-W7222897732",
+      "doi": "10.5281/zenodo.23460324",
+      "title": "Harmonic Manifold Navigation: Bypassing Deceptive Traps and Dimensional Collapse via Moore-Penrose Resolvents in Multilayer Networks",
+      "title_zh": "",
+      "authors": [
+        "Andres Sebaatian Pirolo"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "计算机科学",
+      "topics": [
+        "Robotic Path Planning Algorithms",
+        "Artificial Intelligence in Games",
+        "Spatial Cognition and Navigation"
+      ],
+      "abstract": "Autonomous navigation in complex, higher-dimensional, and multilayer environments is fundamentally bottlenecked by deceptive geometric traps. Standard heuristic pathfinding algorithms, including A\\* and Greedy Best-First Search (GBFS), rely on extrinsic Euclidean or Manhattan distance metrics that are topologically blind to non-convex obstacles, cul-de-sacs, and inter-layer transition portals. As dimension scales (D ≥ 3), priority queue expansion grows exponentially, forcing exhaustive backtracking inside deceptive basins of attraction. In this work, we introduce Harmonic Manifold Navigation, an intrinsic topological framework based on the Moore-Penrose pseudoinverse of the graph Laplacian, L†. By formulating pathfinding as a Dirichlet boundary value problem on the manifold, the target acts as an electric ground (Φ(T) = 0) and the source as an injector (Φ(S) = 1). Under the Maximum Principle of Harmonic Functions, the resulting field Φ = L†(eS − eT) possesses zero internal local minima, guaranteeing monotonic gradient descent that flows around adversarial U-traps and through higher-dimensional portals. Empirical evaluations across synthetic and standard benchmarks confirm three decisive properties: (i) on a 4D multilayer network featuring deceptive U-traps, Moore-Penrose harmonic flow reaches the target in exactly 28 steps with zero backtracking, delivering a 9.7× reduction in expanded nodes (28 vs. 272 nodes) relative to A\\*; (ii) in dynamic pursuit-evasion games, linearity enables instantaneous field updates via column subtraction, cS(t) − cT(t), in O(1) time without replanning, intercepting evasive targets in 22 steps while greedy heuristics remain trapped behind impassable barriers; and (iii) on a benchmark of 3,000 deceptive braid mazes, a distributed multi-agent swarm utilizing stigmergic dead-end certification reduces exploration by 63.5%, achieving a 2.98× speedup over blind search within a sub-15 KB SRAM footprint. These results establish harmonic resolvents as a foundational paradigm for low-power edge robotics and multi-agent systems. Keywords: Moore-Penrose Pseudoinverse, Graph Laplacian, Harmonic Potential Fields, Dirichlet Problem, Multilayer Networks, Deceptive Traps, Pursuit-Evasion, Edge Computing.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.23460324"
+    },
+    {
+      "id": "openalex-W7222898642",
+      "doi": "10.5281/zenodo.23460686",
+      "title": "World Collection: Simulation Worlds for Evaluating Robot Exploration and Navigation",
+      "title_zh": "",
+      "authors": [
+        "Mert Güler"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "机器人学",
+      "topics": [
+        "Robotics and Sensor-Based Localization",
+        "Reinforcement Learning in Robotics",
+        "Robotic Path Planning Algorithms"
+      ],
+      "abstract": "World Collection is a set of 42 Gazebo Harmonic worlds for testing autonomous exploration, navigation and SLAM in simulation. The worlds are grouped by purpose: ten single-challenge worlds, each built around one layout feature such as a narrow passage, dead ends, a loop, clutter or open space; two pilot worlds for setup and parameter tuning; twenty-five worlds from five seeded generated families (mazes, offices, warehouse aisles, forests and city blocks) that vary size, rooms, doors or density in a controlled way; three worlds based on real places; and two worlds with moving obstacles whose motion depends only on simulation time. Every world is a plain SDF file without a robot and comes with fixed start poses and measured layout values, including free area, narrowest passage, loops, dead ends and visibility descriptors. The worlds are generated by an included Python package that checks each world and rebuilds it to identical files.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.23460686"
+    },
+    {
+      "id": "openalex-W7222864220",
+      "doi": "10.5281/zenodo.23454883",
+      "title": "Philosophical AI I–IV: Inferential Operations, Historical Persistence, Scientific Correction, and Embodied Disconnection. Robotics Development, Ziran System, Xenoscience.",
+      "title_zh": "",
+      "authors": [
+        "Fujie Naoto"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "社会科学",
+      "topics": [
+        "Cybernetics and Technology in Society",
+        "Philosophy and Theoretical Science",
+        "Ethics and Social Impacts of AI"
+      ],
+      "abstract": "This four-part study investigates the operational conditions under which inferential practices, institutional authorization, retained records, scientific correction, and embodied control alter subsequent possibilities of action. Grounded in Operational-Shape Realism and the P/A research programme, the study develops philosophical and computational comparisons involving Robert Brandom, Reza Negarestani, François Laruelle, and David Roden. Part I examines how authorization policies affect material action, risk, and opportunities for subsequent verification. Part II investigates the persistence and reuse of records after authorization procedures cease, distinguishing informational effects from historically specific causal effects. Part III studies observation policies, resource constraints, updating, and scientific correction under changing environmental conditions. Part IV examines configuration-dependent trade-offs between embodied control capacities and their philosophical relation to historical dependence and posthuman disconnection. The computational investigations include paired synthetic experiments, finite Chu-space calculations, and supplementary operational simulations associated with the P/A research framework. Positive, negative, and null results are retained, and the evidential limits of each experimental family are distinguished. The study connects these findings to Ziran System, Xenoscience, and XenoBody while preserving the distinction between philosophical arguments, mathematical constructions, synthetic computational results, and physical implementation. The experiments do not establish autonomous scientific-variable invention, Negarestanian rational self-revision, Rodenian posthuman disconnection, or the empirical validity of Operational-Shape Realism as a whole. The contribution is a configuration-sensitive analysis of operational transitions, their material consequences, their persistence across changing arrangements, and the conditions under which stronger interpretations must be withdrawn.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.23454883"
+    },
+    {
+      "id": "openalex-W7222864673",
+      "doi": "10.5281/zenodo.23362606",
+      "title": "Continuation under Incompleteness. Proven Reliability, Settling-In and Branchable Development of Autonomous Systems",
+      "title_zh": "",
+      "authors": [
+        "Michael Schadewitz"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "计算机科学",
+      "topics": [
+        "Psychiatry, Mental Health, Neuroscience",
+        "Ethics and Social Impacts of AI",
+        "Social Robot Interaction and HRI"
+      ],
+      "abstract": "This independently readable companion paper extends the conceptual synthesis and discussion paper “Robotics Capable of Development” by examining the temporal development of reliable competences, local settling-in, responsibility and the continuation of autonomous systems under incomplete knowledge. A robot operating for extended periods in an open human environment cannot know every future condition in advance or possess every required competence as a fully specified rule from the outset. The paper therefore asks how abilities are acquired, how their reliability is demonstrated in practice and how the conditions and limits of their validity can remain recognizable during operation. Central distinctions concern competence, proven reliability and authorization, as well as general training and local settling-in. Other topics include historically established reliability, trust, responsible action under uncertainty, the interests of affected third parties, and the possibility of revising established routines when the world changes. A further focus is the continuation of artificial development after interruptions. The paper discusses the preservation of Gewordenheit, selective memory, reconnection after disruptions, backups, changes of physical carrier and branchable artificial ontogeny, in which shared developmental states can give rise to different subsequent learning histories. The paper presents neither a finished technical architecture nor a systematic literature review, and it makes no claim of scientific priority. Its purpose is to connect conceptual distinctions, research questions, possible experiments and counter-hypotheses that may help investigate the conditions of responsible, reliable and developmentally open autonomy.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.23362606"
+    },
+    {
+      "id": "openalex-W7222865204",
+      "doi": "10.5281/zenodo.23453848",
+      "title": "Assessing the Role of Robotic Process Automation in Building Resilience in Supply Chains and Sustainable Growth",
+      "title_zh": "",
+      "authors": [
+        "Nopriadi Saputra"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "社会科学",
+      "topics": [
+        "Supply Chain Resilience and Risk Management",
+        "Impact of AI and Big Data on Business and Society",
+        "Robotic Process Automation Applications"
+      ],
+      "abstract": "Supply chain disruptions and business uncertainty require firms to improve operational efficiency without sacrificing resilience and long-term growth. This study examines the relationships between Robotic Process Automation (RPA), Supply Chain Resilience (SCR), and Sustainable Growth (SGR) based on Socio-Technical Systems Theory and Dynamic Capability Theory. Data were collected through a survey involving 146 respondents from different industries using purposive and snowball sampling. PLS-SEM was applied to evaluate the measurement and structural models. The results show that RPA is positively related to SCR (β = 0.525, p < 0.001) and SGR (β = 0.426, p < 0.001). SCR is also positively related to SGR (β = 0.434, p < 0.001). In addition, SCR partially mediates the relationship between RPA and SGR (β = 0.228, p < 0.001). The model explains 27.5% of the variance in SCR and 57.1% of the variance in SGR. These findings indicate that process automation is relevant not only for efficiency but also for strengthening organizational resilience. Firms should align RPA implementation with supply chain practices that support business continuity and sustainable growth. Keywords— robotic process automation, supply chain resilience, sustainable growth",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.23453848"
+    },
+    {
+      "id": "openalex-W7222866520",
+      "doi": "10.18260/jet.43.2.4",
+      "title": "Omni-Directional Wall-Climbing Robot: A Novel Mechatronic System with Propulsion-Based Adhesion",
+      "title_zh": "",
+      "authors": [
+        "Mahdi Yazdanpour",
+        "Boshra Karimi"
+      ],
+      "year": 2026,
+      "venue": "ASEE Journal of Engineering Technology",
+      "field": "工程学",
+      "topics": [
+        "Adhesion, Friction, and Surface Interactions",
+        "Control and Dynamics of Mobile Robots",
+        "Robotic Locomotion and Control"
+      ],
+      "abstract": "This paper presents the design, implementation, prototype development, and qualitative evaluation of an omni-directional wall-climbing robot using a propulsion-based adhesion mechanism.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "https://jet.scholasticahq.com/article/172664.pdf",
+      "url": "https://doi.org/10.18260/jet.43.2.4"
+    },
+    {
+      "id": "openalex-W7222866657",
+      "doi": "10.5281/zenodo.23451658",
+      "title": "China Series — Working Paper 01",
+      "title_zh": "",
+      "authors": [
+        "Ocean Geopolitics Centre"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "社会科学",
+      "topics": [
+        "Research, Science, and Academia",
+        "International Science and Diplomacy",
+        "Coastal and Marine Management"
+      ],
+      "abstract": "Maritime innovation depends on the capacity to connect scientific questions, technological development, research infrastructure and institutions capable of sustaining their interaction. This working paper examines selected developments in China’s maritime science and technology through that relationship. It considers research vessels, deep-sea exploration, marine robotics, observation systems and emerging applications as components of an evolving innovation system. The central research question concerns how technological capabilities become reliable scientific knowledge and how that knowledge can support environmental responsibility, useful applications and international cooperation. The paper develops an analytical framework distinguishing physical access, observational capability, interpretation, application and institutional accountability. It argues that progress between these stages is conditional: engineering achievements do not automatically establish scientific understanding, commercial viability or broadly distributed benefits. Particular attention is given to research by Chinese scientists, alongside collaborative scholarship and institutional documentation. The analysis distinguishes peer-reviewed findings from institutional descriptions, experimental demonstrations and prospective applications. China’s experience is approached as a country perspective with international relevance, without assuming that its institutional arrangements constitute a universally transferable model. The paper proposes that maritime innovation should be assessed through the quality of the knowledge it produces, the reliability of its applications, its environmental consequences and the opportunities it creates for meaningful scientific participation.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.23451658"
+    },
+    {
+      "id": "openalex-W7222866887",
+      "doi": "10.5281/zenodo.23447193",
+      "title": "Robotics in the News, 2019–2026: Volume, Geography and Tone of Global Robotics Coverage, and How It Compares with Research and Invention",
+      "title_zh": "",
+      "authors": [
+        "Narendra Kumar"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "社会科学",
+      "topics": [
+        "scientometrics and bibliometrics research",
+        "Robotics and Automated Systems",
+        "Media Studies and Communication"
+      ],
+      "abstract": "We measure how robots and robotics were covered in a global news index from January 2019 to July 2026, using 285,504 de-duplicated robotics articles, and set that coverage beside 227,037 research papers (2015–2025) and 311,246 patent families (2015–2024) on robotics. Six results stand out: Growing attention. Robotics rose from 18.17 to 22.39 articles per 10,000 news articles between 2019 and 2025, a 23.2% increase in share, after a low of 14.34 in 2020. A January peak. January carries 10.23% of a typical year's robotics news, the largest share of any month. It is the month of the annual Consumer Electronics Show. Geography. Robotics is most over-represented in the news of Denmark (4.56) and Taiwan (3.9), and, among large sources, China (3.44), Germany (3.33), Japan (3.18) and South Korea (2.81). The United States holds nearly half of located robotics news (47.75%) at a lift of 0.99, and India is under-represented (0.49). Within India, Karnataka (2.43), Telangana (2.43) and Kerala (2.35) lead; within the United States, Nevada (4.3), Massachusetts (3.01) and California (2.2). China's attention to robotics rose 2.06-fold from 2023 to 2025. Tone and urgency. 92.9% of robotics articles are positive in tone (all news: 56.8%), and 54.9% are rated critical priority (all news: 42.6%). Robotics news from Ukraine and Russia is the exception, at more than 40% negative. Measurement. 23.7% of raw matches for robot vocabulary were templated pages, shopping deals, market-report advertisements, entertainment items or office-software automation. Counting them would inflate coverage and would distort its geography. Research and invention. Robotics papers grew from 21.61 to 46.99 per 10,000 papers between 2015 and 2025 (2.17 times). Robotics patent families grew 4.46-fold from 2015 to 2024, and 77.4% of them were filed in China.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.23447193"
+    },
+    {
+      "id": "openalex-W7222866956",
+      "doi": "10.5281/zenodo.23450999",
+      "title": "ZAC-Specialization: Collective Capability Provisioning Through Hardware–Role Co-Design in Heterogeneous Intelligent Agent Populations",
+      "title_zh": "",
+      "authors": [
+        "Jincheng Zhang"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "计算机科学",
+      "topics": [
+        "Multi-Agent Systems and Negotiation",
+        "Robotics and Automated Systems",
+        "Distributed and Parallel Computing Systems"
+      ],
+      "abstract": "Heterogeneous intelligent-agent populations are often designed by assigning different tasks to agents with different capabilities. However, task specialization alone does not determine whether every agent must independently possess the hardware and computational resources required to perform its assigned functions. A population may contain specialized agents whose capabilities are available to others through shared services, while individual agents retain only the hardware necessary for their own responsibilities. This paper proposes ZAC-Specialization, a research framework for jointly determining agent specialization, local hardware configuration, collective capability provisioning, and reliability-aware service allocation. The central design question is not simply which agent should execute a task, but which capabilities must be provisioned locally, which should be maintained by specialized providers, and how these decisions should change as workloads and operating conditions evolve. The proposed framework represents tasks through capability requirements, agents through configurable hardware and service profiles, and collective execution through capability-service assignments. A joint optimization formulation minimizes lifecycle hardware costs, execution costs, communication overhead, coordination costs, and expected failure losses, subject to task-feasibility, deadline, capacity, and reliability constraints. The paper introduces a distinction between local capability ownership and collective capability accessibility, a specialization–provisioning decision model, and an adaptive role-reconfiguration mechanism. It also develops analytical conditions for evaluating when specialization is economically beneficial, identifies limitations arising from correlated failures and provider bottlenecks, and proposes an experimental methodology comparing individual provisioning, fixed specialization, dynamic task allocation, and joint specialization–provisioning optimization. The framework is conceptual and does not claim demonstrated performance improvements. Its potential contribution must be established against existing research on heterogeneous multi-robot task allocation, capability-based coordination, and hardware–software co-design. The primary hypothesis is that jointly optimizing specialization and provisioning may reveal lower-cost feasible population configurations that cannot be identified by optimizing task allocation or individual hardware configurations in isolation.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.23450999"
+    },
+    {
+      "id": "openalex-W7222867566",
+      "doi": "10.7910/dvn/lnlcxn",
+      "title": "AI Training Market Concentration",
+      "title_zh": "",
+      "authors": [
+        "Yuma Heymans"
+      ],
+      "year": 2026,
+      "venue": "Harvard Dataverse",
+      "field": "社会科学",
+      "topics": [
+        "Digital Platforms and Economics",
+        "Digital Economy and Work Transformation",
+        "Ethics and Social Impacts of AI"
+      ],
+      "abstract": "How many platforms compete for each kind of AI training work, and how much of it does the leader hold? This paper reports the answer measured from the public job boards of the platforms that pay people to produce human data for AI models, read daily by AITraining.jobs. On 17 Oct 2026, AI training listings were unconcentrated overall (HHI 742 across 29 platforms); Robotics & Physical-AI Data was the most concentrated kind of work, led by Claru with 61.5% of its open roles. The analysis covers 20 Sep 2026 to 17 Oct 2026 and presents 4 tables and 5 findings; every figure carries its sample and is updated on the live report at https://aitraining.jobs/research/ai-training-market-concentration. Live report: https://aitraining.jobs/research/ai-training-market-concentration",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.7910/dvn/lnlcxn"
+    },
+    {
+      "id": "openalex-W7222868950",
+      "doi": "10.1002/advs.78287",
+      "title": "Habitat‐Specific Design Strategies for Untethered Soft Robots",
+      "title_zh": "",
+      "authors": [
+        "Shanpin Li",
+        "Zhikun Miao",
+        "Tuck‐Whye Wong",
+        "Tiefeng Li"
+      ],
+      "year": 2026,
+      "venue": "Advanced Science",
+      "field": "机器人学",
+      "topics": [
+        "Soft Robotics and Applications",
+        "Advanced Materials and Mechanics",
+        "Micro and Nano Robotics"
+      ],
+      "abstract": "ABSTRACT Untethered soft robots are governed by habitat‐specific constraints because operation without physical tethers requires their compliant structures, actuation mechanisms, and energy‐delivery pathways to remain compatible with the environment. Adopting a habitat‐centric framework, this review compares untethered soft robots across terrestrial, aquatic, aerial, and in vivo environments. On terrestrial substrates, design strategies are shaped by locomotion‐specific demands, including contact modulation in crawling, energy storage and release in jumping, switchable adhesion in climbing, and granular fluidization in burrowing. In aquatic habitats, the dominant constraint shifts with depth, from capillary support at the air‐water interface, to hydrodynamic drag in shallow water, and to hydrostatic pressure in the deep sea. In aerial environments, strict mass and power limits favor actively flapping insect‐scale robots, buoyancy‐assisted vehicles, and passively dispersed aeroelastic structures. In vivo, miniaturization and biocompatibility confine the viable design space to magnetic, acoustic, and biohybrid actuation. A multi‐environment comparison shows that no single actuation modality is universally optimal. Each habitat filters actuation strategies by the compatibility between energy transmission and the local medium. Material longevity, onboard energy autonomy, multi‐environment transition, extraterrestrial operation, and perception and feedback control are identified as cross‐cutting challenges whose resolution is required to translate laboratory demonstrations into real‐world deployment.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1002/advs.78287"
+    },
+    {
+      "id": "openalex-W7222869479",
+      "doi": "10.1117/12.3128248",
+      "title": "Research on obstacle trajectory prediction strategies based on the dynamic gray model",
+      "title_zh": "",
+      "authors": [
+        "Hongxia Wang"
+      ],
+      "year": 2026,
+      "venue": "OpenAlex",
+      "field": "计算机科学",
+      "topics": [
+        "Robotic Path Planning Algorithms",
+        "Control and Dynamics of Mobile Robots",
+        "Robotics and Sensor-Based Localization"
+      ],
+      "abstract": "Obstacle trajectory prediction is a critical task for mobile robots to achieve dynamic obstacle avoidance, with the core challenge lying in enabling robots to accurately and promptly perceive and predict the trajectories of all obstacles within the same scene under varying obstacle motion states. To address this issue, this paper proposes an adaptive obstacle trajectory prediction strategy. First, a semantic-based dynamic obstacle classification benchmark is established to distinguish obstacles with different motion patterns (regular versus random). Second, an adaptive prediction method is designed that automatically selects appropriate trajectory prediction approaches based on obstacle type. Additionally, an improved dynamic gray model is introduced and integrated into the prediction framework to enhance accuracy and efficiency. Experiments conducted across multiple public datasets and real-world scenarios demonstrate the effectiveness and superiority of the proposed approach in terms of both prediction accuracy and computational efficiency.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": false,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1117/12.3128248"
+    },
+    {
+      "id": "openalex-W7222871067",
+      "doi": "10.65807/probecellpress.001",
+      "title": "Recent advances in dentistry",
+      "title_zh": "",
+      "authors": [
+        "Kumar Tathagat Singh",
+        "Ahemer Arif Shaikh",
+        "Sumit Bhatt",
+        "Venkatesh Kulkarni",
+        "Vivek Chaudhary"
+      ],
+      "year": 2026,
+      "venue": "OpenAlex",
+      "field": "工程学",
+      "topics": [
+        "Scientific and Engineering Research Topics",
+        "Dental materials and restorations",
+        "Endodontics and Root Canal Treatments"
+      ],
+      "abstract": "Dentistry has entered a transformative era, driven by rapid technological innovation, interdisciplinary research, and a growing emphasis on patient-centered care. The past decade has witnessed remarkable progress across diagnostic, therapeutic, and preventive domains, reshaping both clinical practice and academic inquiry. This book, Recent Advances in Dentistry, seeks to capture these developments in a structured and comprehensive manner, offering readers a panoramic view of the evolving landscape of dental science. The chapters assembled herein highlight the convergence of digital technologies, biomaterials, nanoscience, and regenerative medicine with traditional dental practice. From the integration of artificial intelligence and machine learning into diagnostic workflows, to the revolution brought by CAD/CAM systems and 3D printing, dentistry is increasingly defined by precision, personalization, and efficiency. Advances in smart biomaterials and nanotechnology promise enhanced durability and biocompatibility, while innovations in orthodontics, pediatric dentistry, and caries management continue to refine patient outcomes across age groups. Equally compelling are the strides made in endodontics and periodontology, where regenerative approaches and novel instrumentation are expanding therapeutic possibilities. The domain of implantology and esthetic dentistry has been reshaped by digital planning, guided surgery, and minimally invasive techniques, ensuring both functional and aesthetic excellence. Emerging modalities such as laser therapy, photobiomodulation, robotics, and augmented reality further underscore the dynamic future of dental practice.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": false,
+      "pdf_url": "",
+      "url": "https://doi.org/10.65807/probecellpress.001"
+    },
+    {
+      "id": "openalex-W7222871862",
+      "doi": "10.25258/ijddt.16.75s.84",
+      "title": "INTELLIGENT TASK SCHEDULING IN CLOUD ROBOTICS",
+      "title_zh": "",
+      "authors": [],
+      "year": 2026,
+      "venue": "International Journal of Drug Delivery Technology",
+      "field": "计算机科学",
+      "topics": [
+        "IoT and Edge/Fog Computing",
+        "Robotics and Automated Systems",
+        "Cloud Computing and Resource Management"
+      ],
+      "abstract": "Cloud robotics is an emerging multidisciplinary research area in computer science, combining cloud computing an Internetbased model for sharing computing resources and services via virtualization technologies with robotics to extend the scarce onboard resources and capabilities of robots.Scheduling search is still an open issue: scheduling (plans, decisions) involved in the starting execution placement and distribution of the execution of computational tasks across the Cloudrobotic local, the (robot) edge and the Cloud layers).This systematic comparative review and analysis of over 42 journal articles (2020-2026) regarding intelligent task scheduling algorithms-including classical heuristics, meta-heuristics, reinforcement learning, and deep learning-is not intended to be an exhaustive survey of the complete literature.This review is further enriched by empirical analysis of a real-world dataset of 12,000 cloud-robotic scheduling problems (Oct 2025Oct 2026) of CC01 cloud-robotic benchmark, featuring 8 tables of comparison, algorithm pseudocodes, system architecture and empirical results analysis.HAF hybrid adaptive configuration is a mixture of NSGA-II, Deep Q-Network with all the seven benchmark models.It boasts mean latency of 11.6 ms, resource use of 91.2%, a task completion fraction of 95.3%, and energy saving of 34.1%.The analysis of dataset and edge computing reveals that it acts as the top scheduling layer (48.3%) just for local execution, having 7.3 times lower latency than a cloud with a restricted capacity.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "https://doi.org/10.25258/ijddt.16.75s.84",
+      "url": "https://doi.org/10.25258/ijddt.16.75s.84"
+    },
+    {
+      "id": "openalex-W7222871934",
+      "doi": "10.1117/12.3129498",
+      "title": "Deep reinforcement learning-based adaptive behavior generation for service robots",
+      "title_zh": "",
+      "authors": [
+        "Yuting Wang"
+      ],
+      "year": 2026,
+      "venue": "OpenAlex",
+      "field": "计算机科学",
+      "topics": [
+        "Reinforcement Learning in Robotics",
+        "Robotics and Automated Systems",
+        "Social Robot Interaction and HRI"
+      ],
+      "abstract": "In order to improve the adaptability of service robots in complex human-robot interactions, an adaptive behavior generation method based on deep reinforcement learning is constructed. By combining the PPO algorithm with graph convolutional neural network, a behavior generation framework with tight coupling of reinforcement strategy and environment dynamics is designed. The system generates adaptive behavioral strategies through multi-dimensional sensory inputs, such as image features, emotional states and spatial information. The average task completion rates are 94.2%, 91.7% and 87.9% in the three types of tasks, namely guidance service, item delivery and semantic dialog, respectively, and the response latency is controlled within 163.5ms, 179.3ms and 196.8ms, which demonstrates the stability and efficiency of the system in dynamic environments. The impact of perturbation scenarios on the stability of the strategy is further analyzed to verify the high robustness and practical application potential of the method.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": false,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1117/12.3129498"
+    },
+    {
+      "id": "openalex-W7222871999",
+      "doi": "10.1111/dmcn.70572",
+      "title": "Robot‐assisted gait training for respiratory function and quality of life in children with cerebral palsy: A randomized crossover trial",
+      "title_zh": "",
+      "authors": [
+        "Xiaoying Zhang",
+        "Xubo Yang",
+        "Wen Le",
+        "Jie Luo",
+        "Yunlan Xie",
+        "Mingtong Zhang",
+        "Hongmei Tang",
+        "Lü He",
+        "Jinling Li",
+        "Ke Xu"
+      ],
+      "year": 2026,
+      "venue": "Developmental Medicine & Child Neurology",
+      "field": "医学",
+      "topics": [
+        "Cerebral Palsy and Movement Disorders",
+        "Prosthetics and Rehabilitation Robotics",
+        "Botulinum Toxin and Related Neurological Disorders"
+      ],
+      "abstract": "Abstract Aim To compare the effects of robot‐assisted gait training (RAGT) to respiratory training on respiratory function and quality of life in non‐ambulatory cerebral palsy. Method In this randomized crossover trial, 22 children (13 males, nine females; mean age 5 years 10 months [SD 2 years 10 months], range 2 years 10 months–12 years 6 months) with cerebral palsy (classified in Gross Motor Function Classification System levels III–V) completed 6 weeks of RAGT and 6 weeks of respiratory training, separated by a 4‐week washout. Assessments included tidal breathing parameters, accelerometer‐based physical activity, the Caregiver Priorities & Child Health Index of Life with Disabilities, and the 88‐item Gross Motor Function Measure. Results Compared to respiratory training, RAGT yielded significantly greater improvements in tidal volume (RAGT 1.32 [1.12] vs respiratory training 0.51 [1.43], p < 0.001), time to peak tidal expiratory flow as a proportion of expiratory time (RAGT 4.82 [0.60] vs respiratory training 3.62 [0.60], p = 0.033), and minute ventilation (RAGT 0.44 [1.94] vs respiratory training 0.16 [1.66], p = 0.006), although these effects predominantly returned to baseline by the 4‐week follow‐up. Additionally, RAGT significantly reduced sedentary behaviour and increased light physical activity, as well as improved caregiver‐reported mobility and gross motor function. No serious adverse events were reported. Interpretation RAGT may be considered a potential short‐term adjunct for improving respiratory function in non‐ambulatory cerebral palsy.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": false,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1111/dmcn.70572"
+    },
+    {
+      "id": "openalex-W7222873436",
+      "doi": "10.5281/zenodo.23456282",
+      "title": "Hardware implementation of a Julia-fractal multi-wing chaotic generator on an ESP32 microcontroller with a wireless oscilloscope, and analysis of mobile robot control",
+      "title_zh": "",
+      "authors": [
+        "Michael I. Kopp"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "物理学",
+      "topics": [
+        "Chaos control and synchronization",
+        "Mathematical Dynamics and Fractals",
+        "Chaos-based Image/Signal Encryption"
+      ],
+      "abstract": "We present a hardware implementation of a multi-wing chaotic generator obtained by applying the Julia fractal process u + iv = (x + iy)^m + Z₀ to our recently proposed three-dimensional chaotic system with the rational saturating nonlinearity f(u) = u/(1 + k|u|). The generator runs in real time on an ESP32-CAM module and streams its signals over Wi-Fi to a web browser that acts as a phase-plane oscilloscope and data logger. We propose an embedded algorithm in which the base system is integrated and the variables (x, y) are recovered as an m-th root with continuous branch selection. The algorithm is equivalent to integrating the system in the (x, y, z) coordinates but contains no singular factor |x + iy|^−(2m−2). We show that the scaling coefficient α of the modified fractal reduces to an exact similarity transformation: the attractor in the (x, y) plane shrinks as α^−1/m, while its shape, the variable z and the Lyapunov exponents remain unchanged. We establish that, under a natural ergodicity assumption, the angular spectrum of the multi-wing attractor contains only harmonics n = 2jm, and that the amplitude of the n = 2m harmonic does not depend on m; this provides an objective measure of the number of wings. The mean time between sign changes of x grows linearly, T± ≈ πm/Ω̄, where Ω̄ ≈ 0.93 is the mean angular velocity of the base-system phase point. Records acquired from the microcontroller for m = 2,…,6 and α = 1, 30, 100, 200 agree with a reference computation: the median attractor radius deviates by no more than 2% (7% for α = 30), and the dominant angular harmonic equals 2m in all cases. The generator is mounted on a differential-drive mobile robot chassis, and wheel control following the scheme of our previous work is implemented in the firmware. We show numerically that the area covered under this control is determined by the fraction of time the base system spends near the direction Φ* = m(45° − β) that corresponds to straight-line motion. This explains the small coverage for m = 4, and the exploration rate can be changed by about an order of magnitude by rotating the coupling by an angle β. Supplementary material: Arduino firmware for the ESP32-CAM (julia_chaos_robot.ino).",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.23456282"
+    },
+    {
+      "id": "openalex-W7222875391",
+      "doi": "10.5281/zenodo.23461121",
+      "title": "PLANT-GPK v4.0: Multi-Stage Plant Phenotyping with Time-Discovery and Harvest Prediction",
+      "title_zh": "",
+      "authors": [
+        "MOHAMMED TAHAR SAIM"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "Agricultural and Biological Sciences",
+      "topics": [
+        "Smart Agriculture and AI",
+        "Leaf Properties and Growth Measurement",
+        "Remote Sensing in Agriculture"
+      ],
+      "abstract": "This paper presents a comprehensive extension to the PLANT-GPK framework, demonstrating its robust capability to analyze plants across entirely different developmental stages from single images. By formulating an inverse problem that simultaneously optimizes physiological parameters and the hidden time dimension (t), the model successfully discovered the exact age of two distinct wheat samples: a vegetative (green) stage and a senescent (golden) stage. The framework bridges computer vision, spatial heterogeneity analysis, and ODE-based physics to provide a complete digital twin capable of forecasting the exact day of harvest regardless of the plant's current state.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.23461121"
+    },
+    {
+      "id": "openalex-W7222895088",
+      "doi": "10.5281/zenodo.23460911",
+      "title": "PLANT-GPK v4.0: A Unified Time-Discovery Framework for Multi-Stage Plant Phenotyping",
+      "title_zh": "",
+      "authors": [
+        "MOHAMMED TAHAR SAIM"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "Agricultural and Biological Sciences",
+      "topics": [
+        "Smart Agriculture and AI",
+        "Leaf Properties and Growth Measurement",
+        "Remote Sensing in Agriculture"
+      ],
+      "abstract": "This paper presents a comprehensive extension to the PLANT-GPK framework, demonstrating its robust capability to analyze plants across entirely different developmental stages from single images. By formulating an inverse problem that simultaneously optimizes physiological parameters and the hidden time dimension (t), the model successfully discovered the exact age of two distinct wheat samples: a vegetative (green) stage and a senescent (golden) stage. The framework bridges computer vision, spatial heterogeneity analysis, and ODE-based physics to provide a complete digital twin capable of forecasting future harvest windows regardless of the plant's current state.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.23460911"
+    },
+    {
+      "id": "openalex-W7216767176",
+      "doi": "10.5281/zenodo.23457667",
+      "title": "An AI- and IoT-Enabled Smart Waste Management Framework for Real-Time Waste Classification and Collection Optimization",
+      "title_zh": "",
+      "authors": [
+        "Anup Shekhar Chamoli",
+        "Gurpreet Kaur",
+        "Rachit Rastogi",
+        "Kawal Preet Kaur Arora",
+        "Deepak Kumar"
+      ],
+      "year": 2026,
+      "venue": "Journal of Propulsion Technology",
+      "field": "环境科学",
+      "topics": [
+        "Municipal Solid Waste Management",
+        "Waste Management and Recycling",
+        "Advanced Neural Network Applications"
+      ],
+      "abstract": "Abstract The amount and variety of municipal solid trash have expanded due to rapid urbanization and shifting consumption habits, making it challenging for traditional systems to collect and segregate waste in a timely manner. When other containers are getting close to overflowing before the next scheduled visit, fixed collection schedules may cause needless journeys to partially filled bins. In this paper, a framework that combines image- based trash classification, real-time smart-bin monitoring, overflow-risk prediction, priority scoring, and dynamic collection-route optimization with AI and IoT capabilities is proposed. While IoT sensors offer operational data like fill level and optional temperature or weight, a deep-learning classifier is utilized to detect trash categories from photos. To calculate overflow risk, machine-learning models use both recent and past sensor readings.The decision engine then assigns priorities to a route-optimization module based on the urgency of the bins. As complementing computer-vision benchmarks, TrashNet and TACO are suggested, with the former offering photos for controlled classification and the latter offering litter in contextual settings [5], [6]. Results presented in the literature are just used as benchmarks; the suggested system is not claimed to have any artificial experimental precision. For assessing categorization quality, prediction performance, route efficiency, service reliability, and deployment cost, the framework offers a repeatable experimental design. In order to transition waste management from a fixed, reactive process to a predictive and adaptive system, the study offers an end-to-end design.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "https://propulsiontechjournal.com/index.php/journal/article/download/11248/6532",
+      "url": "https://propulsiontechjournal.com/index.php/journal/article/view/11248"
+    },
+    {
+      "id": "openalex-W7222866168",
+      "doi": "10.58257/ijprems55048",
+      "title": "AI-Based Adaptive Traffic Signal Control Using Fuzzy Logic for an Urban Intersection with Pedestrian, Weather, and Emergency Vehicle Awareness",
+      "title_zh": "",
+      "authors": [],
+      "year": 2026,
+      "venue": "International Journal of Progressive Research in Engineering Management and Science",
+      "field": "工程学",
+      "topics": [
+        "Traffic control and management",
+        "Traffic Prediction and Management Techniques",
+        "Vehicle emissions and performance"
+      ],
+      "abstract": "Urban traffic signal control requires efficient operation of vehicles along with pedestrian safety, weather conditions and emergency pre-emption of vehiclesall factors that fixed-time traffic controllers cannot consider.This paper provides the description and implementation of an AI-based adaptive traffic signal control using four-input Mamdani Fuzzy Inference System (FIS) for a single urban four-way intersection.It includes such traffic input parameters as Vehicle Demand Index (VDI), Pedestrian Density (PD), Pedestrian Crossing Requirement Index (PCRI) and Weather Severity Index (WSI) to calculate adaptive vehicle green time and pedestrian crossing time.There is Supervisory Emergency Pre-emption Module which guarantees priority green corridors of vehicles and pedestrian conflict-zone clearance.The controller was implemented in Python language and integrated with the SUMO model via TraCI library along with a computer vision perception module based on YOLOv8.The controller was compared to Fixed-Time, Webster and VDI-only fuzzy traffic controllers according to seven traffic scenarios and five random seeds (total number of simulations equals to 140).As a result, the proposed controller reached an average waiting time of 45.81 s, throughput of 903.62 veh/h, CO₂ emissions of 197.95 g/vehicle, and Pedestrian Timely Crossing Rate (PTCR) of 97.86%.In comparison with Fixed-Time control the waiting time was reduced by 19.3% and emissions were reduced by 8.1% (p < 0.0001).Although the vehicle-only fuzzy controller demonstrated slightly better results regarding vehicle efficiency, the PTCR was only equal to 87.10%, which confirms that the proposed system works as multiobjective controller.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "https://doi.org/10.58257/ijprems55048",
+      "url": "https://doi.org/10.58257/ijprems55048"
+    },
+    {
+      "id": "openalex-W7222871330",
+      "doi": "10.5281/zenodo.23456623",
+      "title": "Intelligent Fruit Ripeness: A Dataset-Audited, Fruit-Specific Pipeline for Ripeness Classification, Quality Signaling, and Shelf-Life Estimation",
+      "title_zh": "",
+      "authors": [
+        "Vaishnavi Sawant",
+        "Khushboo Yadav",
+        "Bhumi Naik",
+        "Prasana Shangloo"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "Agricultural and Biological Sciences",
+      "topics": [
+        "Smart Agriculture and AI",
+        "Advanced Neural Network Applications",
+        "Postharvest Quality and Shelf Life Management"
+      ],
+      "abstract": "Abstract This paper presents Intelligent Fruit Ripeness, a multi-stage fruit analysis system that identifies a fruit, routes it to a fruit-specific ripeness classifier, reports an independent experimental quality signal, and estimates remaining shelf life under a selected storage condition. The system is implemented using a Flask web application with image upload and webcam input. A key contribution is the systematic auditing of dataset integrity before model training. For mangosteen, the audit identified 293 source IDs crossing dataset split boundaries, motivating a source-aware and visual-group-aware re-splitting strategy. The resulting model achieved 85.71% held-out test accuracy. For rambutan, no cross-split near-duplicates were identified, and the model achieved 96.27% held-out test accuracy. The proposed system integrates fruit-specific EfficientNet-B0 classification models, an experimental multitask quality classification model, and a rule-based shelf-life estimation layer. Peripheral-crop robustness tests are performed to investigate potential shortcut learning. The study demonstrates the importance of dataset integrity, reliable model evaluation, and interpretable shelf-life estimation in intelligent agricultural applications. Keywords: Fruit Ripeness Classification, Deep Learning, Computer Vision, EfficientNet-B0, Dataset Leakage, Near-Duplicate Detection, Shortcut Learning, Shelf-Life Estimation, Multitask Learning.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.23456623"
+    },
+    {
+      "id": "openalex-W7222872629",
+      "doi": "10.1158/1538-7755.disp26-b177",
+      "title": "Abstract B177: An explainable and multiethnic deep learning platform for melanoma screening and diagnosis using the ABCDE rule and two-dimensional full-body sequential analysis",
+      "title_zh": "",
+      "authors": [
+        "Kevin Cassel",
+        "Anson D. Arii",
+        "Lydia D. Sollis",
+        "Arianna Bunnell",
+        "Mark Willingham",
+        "John A. Shepherd"
+      ],
+      "year": 2026,
+      "venue": "Cancer Epidemiology Biomarkers & Prevention",
+      "field": "医学",
+      "topics": [
+        "Cutaneous Melanoma Detection and Management",
+        "AI in cancer detection",
+        "Explainable Artificial Intelligence (XAI)"
+      ],
+      "abstract": "Abstract Background: Skin cancer incidence rates continue to rise globally. Computer vision and deep learning models demonstrate high diagnostic accuracy in identifying melanomas and other skin cancers (94% sensitivity). However, two critical barriers prevent their clinical adoption: a lack of model explainability (\"black box\" decision-making) and a severe underrepresentation of diverse skin complexions in training datasets, leaving their accuracy on African American, Hispanic, and Native Hawaiian/Pacific Islander populations unknown. Objective: To overcome these limitations, we are developing an Explainable AI (XAI) skin cancer diagnostic platform that uses a concept bottleneck approach to mimic human dermatological reasoning and is trained on a truly multiethnic dataset. Methods: Our study’s framework will operationalize the clinical \"ABCDE\" rule (Asymmetry, Border, Color, Diameter, Evolution) to generate transparent malignancy probabilities. We will aggregate lesion images from the International Skin Imaging Collaboration (ISIC) datasets and enrich them with prospectively scored images from 2D Total Body Skin Examination (2D-TBSE) scans from diverse patient populations in Hawaii. First, we will construct a representative, multi-complexion dataset scored by board-certified dermatologists. Second, we will leverage sequential lesion analysis from longitudinal 2D-TBSE scans to evaluate image and behavioral characteristics that differentiate benign from malignant lesions. Finally, we benchmark our XAI platform’s diagnostic accuracy against state-of-the-art academic and commercial AI models. Significance: By anchoring deep learning predictions to standardized clinical concepts and validating them across multiethnic populations, this platform will directly address the transparency and equity gaps in medical AI. This approach aims to reduce the subjective nature of melanoma and skin cancer screening, lower the $1.6 billion annual therapeutic cost burden, and provide a trusted, equitable decision-support tool for clinicians serving diverse high-risk populations. Citation Format: Kevin D. Cassel, Anson D. Arii, Lydia D. Sollis, Arianna Bunnell, Mark Willingham, John Shepherd. An explainable and multiethnic deep learning platform for melanoma screening and diagnosis using the ABCDE rule and two-dimensional full-body sequential analysis [abstract]. In: Proceedings of the 19th AACR Conference on the Science of Cancer Health Disparities; 2026 Oct 18-21; Atlanta, GA. Philadelphia (PA): AACR; Cancer Epidemiol Biomarkers Prev 2026;35(10 Suppl):Abstract nr B177.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": false,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1158/1538-7755.disp26-b177"
+    },
+    {
+      "id": "openalex-W7222876385",
+      "doi": "10.5281/zenodo.23458968",
+      "title": "THE ALGORITHMIC STRUCTURE OF THE UNIVERSE FROM PHYSICAL EQUATIONS TO LEGAL CONSTITUTIONS: A Unified Theory of Computational Physics, Mathematical Jurisprudence, and Algorithmic Governance",
+      "title_zh": "",
+      "authors": [
+        "mohamed kamal arafa el-rakhawi"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "人工智能",
+      "topics": [
+        "Artificial Intelligence in Law",
+        "Legal and Constitutional Studies",
+        "Evolving Legal Systems and Governance"
+      ],
+      "abstract": "The Algorithmic Structure of the Universe: From Physical Equations to Legal Constitutions by Dr. Mohamed Kamal Arafa El-Rakhawi (DOI: 10.5281/zenodo.23458969) establishes Algorithmic Physics and Mathematical Jurisprudence as groundbreaking academic fields integrating physics, mathematics, law, and computer science. The central thesis posits that physical laws, mathematical structures, legal norms, and computational algorithms are different manifestations of a single underlying reality: the algorithmic structure of the universe. The framework unfolds through four pillars: (1) Physical and Mathematical Foundations, exploring the universe as computational system, physical laws as algorithms, and mathematical structures as nature's deep grammar; (2) Algorithmic and Computational Frameworks, analyzing computational complexity, algorithmic information theory, and quantum computing's relationship to spacetime; (3) Legal and Jurisprudential Applications, examining the physics of legal systems (conservation laws, symmetry, thermodynamics, relativity, quantum legal theory), mathematical jurisprudence (logic, set theory, game theory, topology, category theory), and algorithmic governance; (4) Integration and Future Vision, proposing unified theory of natural and legal order, computational legal systems for the 21st century, and algorithmic civilization. Novel concepts include legal conservation laws, legal thermodynamics, quantum legal theory, algorithmic constitutional design, and computational governance. The book provides transformative applications for constitutional design, legal reasoning, algorithmic governance, and addressing 21st-century challenges including AI, climate change, and technological disruption. This foundational treatise offers a unified theoretical framework connecting physical equations to legal constitutions, providing both rigorous scholarship and practical guidance for understanding the algorithmic structure of reality and designing computational governance systems. Protected under international copyright law with multiple academic citation formats (APA, Chicago, MLA, Harvard, IEEE, Vancouver).",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.23458968"
+    },
+    {
+      "id": "openalex-W7222877056",
+      "doi": "10.1111/bju.70489",
+      "title": "The PENIMA project : artificial intelligence decision‐support tool for penile lesions – protocol paper and invitation to participate",
+      "title_zh": "",
+      "authors": [
+        "J. Mølsted",
+        "Anne Birgitte Als",
+        "Jørgen Bjerggaard Jensen",
+        "Mikael Aagaard",
+        "Lisa Anni Larsen Lethan",
+        "Sinja Kristiansen",
+        "Christian Arvei Moen",
+        "Axel Gerdtsson",
+        "Line Kibsgaard",
+        "Christina Gade Jespersen",
+        "Frederikke Eichner Soerensen",
+        "Ann‐Kathrine Rossau"
+      ],
+      "year": 2026,
+      "venue": "British Journal of Urology",
+      "field": "医学",
+      "topics": [
+        "Genital Health and Disease",
+        "AI in cancer detection",
+        "Artificial Intelligence in Healthcare and Education"
+      ],
+      "abstract": "Objectives To present and describe the design, data collection framework, and interim cohort characteristics of the PENIMA project, a multicentre initiative establishing a clinically annotated penile lesion image repository to support future artificial intelligence (AI)‐driven decision‐support development – and to encourage urology and dermatology colleagues working with penile lesions to participate in the project. Patients and Methods Prospective participant inclusion commenced in March 2023 across Scandinavian urological and dermatological departments. Patients with penile anatomy undergoing clinically indicated genital examination are invited to participate and provide oral and written consent as defined by local authority regulations. Clinical photographs and structured metadata are collected. Lesion classification is based on a specialist evaluation, clinical follow‐up and histopathology when available. Images are pseudonymised and annotated using a secure, containerised Computer Vision Annotation Tool (CVAT) environment. Supervised machine‐learning model development using convolutional neural networks is planned with patient‐level dataset partitioning and evaluation using standard diagnostic performance metrics. The study was approved by relevant local authorities, and the approval number is 1‐10‐72‐150‐22. Results As of February 2026, 1125 participants and approximately 7000 images have been included. In all, 40% represented normal anatomical variants. Among lesional cases, 33% are clinically assessed as benign, 13% premalignant, and 8% malignant; 22% of all cases have histopathological verification. Concordance between clinical suspicion and histopathology is highest for penile carcinoma (84.6%, 95% confidence interval 75.0–91.0%). Conclusion The PENIMA project includes a multicentre, clinically grounded image repository reflecting real‐world penile lesion presentations. The feasible and successful infrastructure provides a foundation for future development and validation of image‐based clinical decision‐support tools.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1111/bju.70489"
+    },
+    {
+      "id": "openalex-W7222890719",
+      "doi": "10.32628/cseit2612569",
+      "title": "Food Recognition and Nutrition Estimator Using Computer Vision and Machine Learning",
+      "title_zh": "",
+      "authors": [
+        "Vijayaraghavan R",
+        "V. S. Anita Sofia"
+      ],
+      "year": 2026,
+      "venue": "International Journal of Scientific Research in Computer Science Engineering and Information Technology",
+      "field": "Health Professions",
+      "topics": [
+        "Innovation in Digital Healthcare Systems",
+        "Advanced Neural Network Applications",
+        "Mobile Health and mHealth Applications"
+      ],
+      "abstract": "Food logging works when it is simple enough to become a habit. Traditional nutrition programs often require the user to browse a list of foods, choose a food, and guess at a portion size, and then repeat the procedure for each food item in a meal. CrunchUP resolves that friction by using a photo of a meal to create a nutrition record. The system is a complete web application, where a user uploads an image or takes a picture using their camera, a FastAPI service checks and standardizes the image, and the Google Gemini vision model identifies the foods visible in the image and estimates the quantity, calories, protein, carbohydrates, fat, and fibre. The response is validated, converted into application objects, displayed to the user and optionally stored in PostgreSQL. The information on a personal profile includes height, weight, age, gender, activity level, and fitness goal. These values are used for the calculation of BMI, basal metabolic rate according to Mifflin–St Jeor, total daily energy expenditure, calorie adjustment which is goal oriented and macronutrient targets. The work is important because it brings together recognition, nutrition estimation, personal targets, meal history, trends and feedback for decision making in a single stream. The report describes the requirements, literature background, architecture, database design, algorithms, security measures, implementation, verification strategy, restrictions and extensions for the future. Separation of concerns is evident in the repository: the client is responsive (React, Vite); the service and data are implemented (FastAPI, Pydantic, SQLAlchemy); access is protected (JWT, bcrypt); images are normalized (Pillow); and multimodal output is schema shaped (Gemini 2.5 Flash). The dashboard consolidates intake and translates progress data into easy-to-understand recommendations. A key finding is that a well-defined vision-language service can help ease recording effort in the diet, but needs to be interpreted as guidance, not a clinical measurement. There is a need for future work including calibrated portion references, verified food databases, confidence reporting, culturally wider evaluation, personalised meal recommendation, and the development of a mobile app in the native application platform \"React Native\".",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.32628/cseit2612569"
+    },
+    {
+      "id": "openalex-W7222895548",
+      "doi": "10.5281/zenodo.23458147",
+      "title": "Real-Time Sign Language Recognition System: A Computer Vision-Based Approach for Accessible Human–Computer Interaction",
+      "title_zh": "",
+      "authors": [
+        "Sakshi Bhong"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "计算机科学",
+      "topics": [
+        "Hand Gesture Recognition Systems",
+        "Gaze Tracking and Assistive Technology",
+        "Human Pose and Action Recognition"
+      ],
+      "abstract": "This paper, titled “Real-Time Sign Language Recognition System: A Computer Vision-Based Approach for Accessible Human–Computer Interaction,” proposes a camera-based system for recognizing hand gestures and converting supported signs into readable text. The proposed system uses a modular processing pipeline consisting of video acquisition, hand detection, landmark and feature extraction, gesture classification, temporal smoothing, and text output. Python, OpenCV, MediaPipe, and a machine-learning classifier are suggested as potential implementation technologies. The system is designed to capture live video frames, identify hand landmarks, normalize coordinates, extract relevant features, classify supported gestures, and display the predicted sign. Confidence thresholds and temporal smoothing can help reduce unreliable or inconsistent predictions. The design also supports future extensions such as speech output, dynamic gesture recognition, and expanded sign vocabularies. The paper describes the proposed architecture, system modules, processing algorithm, implementation approach, evaluation plan, limitations, and future scope. Potential evaluation measures include classification accuracy, per-class precision and recall, inference latency, and processing frame rate. This work presents a proposed software-system design intended to improve communication accessibility through computer vision and machine learning. Experimental performance results are not claimed in the current paper; implementation and testing are required to validate the system's effectiveness.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.23458147"
+    },
+    {
+      "id": "openalex-W7222896813",
+      "doi": "10.5281/zenodo.23454963",
+      "title": "GenAI-Powered Smart Traffic Assistant: A Multimodal AI Framework for Real-Time Traffic Prediction, Route Recommendation, and Explainable Urban Mobility",
+      "title_zh": "",
+      "authors": [
+        "Naganaboyina Vinod Kumar",
+        "Ch. Hema Vardhan",
+        "Gattu Mohan Goud",
+        "M. Mohan Krishna Reddy",
+        "U. Devendra"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "工程学",
+      "topics": [
+        "Traffic Prediction and Management Techniques",
+        "Traffic control and management",
+        "Transportation Systems and Logistics"
+      ],
+      "abstract": "Urban traffic management increasingly requires systems that can reason over heterogeneous, time-varying information rather than rely only on static maps or historical averages. This paper presents the GenAI-Powered Smart Traffic Assistant, a prototype intelligent transportation platform that combines real-time location, traffic and weather inputs, historical traffic data, machine-learning-based congestion prediction, computer-vision vehicle detection, route recommendation, alerts, explainable AI (XAI), and role-aware dashboards in a unified workflow. The system is derived from a semester project report and its associated prototype deployment. The design follows a layered client-server architecture with a web/mobile oriented interface, application services, machine-learning components, and persistent traffic data. A structured development methodology is used to integrate data collection, preprocessing, prediction, recommendation, visualization, security, and maintenance. Rather than claiming benchmark accuracy that is not reported in the source project, the paper evaluates the prototype through functional coverage, architecture consistency, safety constraints, and explicit non-functional targets. The resulting framework provides a practical foundation for multimodal traffic assistance and a pathway toward live CCTV integration, IoT sensing, adaptive signal control, continuous model learning, and smart-city interoperability.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.23454963"
+    },
+    {
+      "id": "openalex-W7222901610",
+      "doi": "10.5281/zenodo.23449953",
+      "title": "Toward Vision-Adaptive Digital Screens: A Research Proposal for Reducing Dependence on Reading Glasses",
+      "title_zh": "",
+      "authors": [
+        "emad alesmaeel"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "工程学",
+      "topics": [
+        "Advanced Optical Imaging Technologies",
+        "Ophthalmology and Visual Impairment Studies",
+        "Ergonomics and Musculoskeletal Disorders"
+      ],
+      "abstract": "This research proposal by Emad Alesmaeel explores the development of personalized vision-adaptive digital screens that could reduce dependence on reading glasses. The concept proposes integrating user-specific vision profiles, computational image processing, advanced optical display technologies, and artificial intelligence to adapt screen output to individual visual requirements. It builds upon previous research in computational vision-correcting displays and encourages further investigation into affordable solutions for smartphones, tablets, and computers. The proposal outlines potential research directions, technical challenges, experimental methods, and opportunities for collaboration among researchers in optics, ophthalmology, computer science, and display engineering. This document presents an open research proposal, not a completed invention or clinically validated vision-correction technology.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.23449953"
+    },
+    {
+      "id": "openalex-W7222904018",
+      "doi": "10.5281/zenodo.23458421",
+      "title": "IoT Based Gesture Controlled Smart Switching System Using Computer Vision",
+      "title_zh": "",
+      "authors": [
+        "Dr. Kannan M Dr. Kumar S"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "计算机科学",
+      "topics": [
+        "Hand Gesture Recognition Systems",
+        "IoT-based Smart Home Systems",
+        "Context-Aware Activity Recognition Systems"
+      ],
+      "abstract": "The rapid advancement of touchless technologies has significantly transformed modern human–machine interaction systems. This paper presents the design and implementation of an Internet of Things (IoT)-based gesture-controlled smart switch system that enables users to operate electrical appliances without physical contact. The system employs a webcam to capture hand gestures, which are processed using computer vision techniques implemented in Python with OpenCV and MediaPipe libraries. The recognized gestures are translated into control commands and transmitted wirelessly via Wi-Fi to an ESP8266 microcontroller, which subsequently controls relay modules connected to electrical appliances. The proposed system provides a hygienic, intuitive, and efficient alternative to conventional switching mechanisms. Experimental observations demonstrate reliable gesture recognition and real-time responsiveness, making the system suitable for applications in smart homes, healthcare environments, and assistive technologies.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.23458421"
+    },
+    {
+      "id": "openalex-W7222905089",
+      "doi": "10.5281/zenodo.23449062",
+      "title": "SankeyQA, career-map Sankey diagrams with exact answers, benchmark data, model replies and code",
+      "title_zh": "",
+      "authors": [
+        "Nikolaos D. Tantaroudas",
+        "Andrew J. McCracken",
+        "Ilias Karachalios",
+        "Evangelos Papatheou"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "计算机科学",
+      "topics": [
+        "Multimodal Machine Learning Applications",
+        "Topic Modeling",
+        "Advanced Neural Network Applications"
+      ],
+      "abstract": "SankeyQA is an open benchmark for testing whether vision-language models can answer questions about career-map Sankey diagrams, of the kind shown by the XR-CareerAssist virtual reality career guidance platform (VOXReality, Horizon Europe). The data are artificial. All 600 career cohorts, their flow tables and the 1,260 career-map images were generated by a computer program only to demonstrate and test the technology. They are not real careers, contain no personal data and do not come from any real career database, and no conclusion about real roles, industries or people should be drawn from them. The deposit contains the flow tables, 1,260 images in twelve drawing styles, 6,560 questions whose answers are computed exactly from the flow tables, the code that generates the benchmark, evaluates five small open models (SmolVLM-256M and 500M, MatCha-ChartQA, BLIP-VQA, Qwen2.5-0.5B) and two baselines, and fine-tunes BLIP-VQA on 20 to 400 maps, every model reply, all result tables, the figures (EPS, PDF, 600 dpi TIFF, 300 dpi PNG) and the build scripts of the accompanying article, \"Reading the picture or reading the data? An open benchmark of career-map Sankey diagrams for small vision-language models\" (submitted to Open Research Europe). Files. sankeyqa-bench-v1.0.0_code_data_results.zip holds the complete repository except the images, which are in sankeyqa-bench-v1.0.0_images_part01.zip to part19.zip (unzip all into the repository folder). The images can also be regenerated byte for byte with code/scripts/make_dataset.py. See README_ZENODO.md. Source code also on GitHub, https://github.com/ntantaroudas/sankeyqa-bench. Licences. Code under the Apache License 2.0, data, model replies, results and figures under CC BY 4.0. Funded by Financial Support to Third Parties of the VOXReality project (Horizon Europe, Grant Agreement No. 101070521).",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.23449062"
+    },
+    {
+      "id": "openalex-W7222822206",
+      "doi": "10.32628/ijsrset2613539",
+      "title": "ThreatTraceX: Architecture-Native Attribution and Contrastive Explanations for Trustworthy Cyberattack Detection",
+      "title_zh": "",
+      "authors": [
+        "Ravikiran Goturi",
+        "Soumen Chakraborty"
+      ],
+      "year": 2026,
+      "venue": "International Journal of Scientific Research in Science Engineering and Technology",
+      "field": "计算机科学",
+      "topics": [
+        "Network Security and Intrusion Detection",
+        "Network Packet Processing and Optimization",
+        "Internet Traffic Analysis and Secure E-voting"
+      ],
+      "abstract": "Chest radiography is the primary imaging modality for pulmonary disease screening, yet the limited interpretability of deep learning models remains a major barrier to clinical adoption. This paper presents a unified framework for evaluating and improving ex-plainability in CNN-based chest X-ray analysis. We first conduct a systematic benchmark of five convolutional neural network ar-chitectures (DenseNet121, ResNet50, EfficientNetV2, MobileNetV3, and ConvNeXtV2) combined with four widely used explainabil-ity methods (GradCAM, GradCAM++, Integrated Gradients, and SmoothGrad), evaluated with five complementary metrics span-ning localization accuracy, attribution faithfulness, and robustness on the NIH ChestX-ray14 dataset. Evaluated on all 880 bounding-box-annotated images, the benchmark shows that explanation quality depends more on the backbone than on the attribution method: ConvNeXtV2 leads on localization while DenseNet121 of-fers the highest explanation consistency at far lower parameter cost. Building on this, we propose AttrNet, an explainability harness that is backbone-agnostic by construction: it wraps a classifica-tion network with a lightweight attribution branch that predicts class-specific explanation maps natively in the forward pass and couples them back to the classifier through a cross-attention gate and differentiable localization supervision, turning explainability from a post-hoc by-product into a trained objective. Instantiated on DenseNet121 and evaluated on held-out lesions under cross-validation, AttrNet raises heatmap–lesion IoU from 0.200 to 0.345 and Pointing Game accuracy from 0.333 to 0.596 (both 𝑝 < 10−18, paired) at a cost of 0.011 classification AUC, an exchange favourable wherever spatial reliability governs clinical utility. We further in-troduce C-GradCAM, a contrastive extension of GradCAM that suppresses activations shared with competing disease classes to produce more faithful and disease-discriminative explanations, im-proving attribution quality without requiring network retraining or architectural modification. Collectively, the benchmark, Attr-Net, and C-GradCAM demonstrate complementary strategies for advancing transparent, trustworthy, and clinically meaningful ex-plainable AI for pulmonary disease diagnosis. CCS Concepts • Computing methodologies → Neural networks; Computer vision; • Applied computing → Health informatics.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "https://ijsrset.com/home/article/download/IJSRSET2613539/IJSRSET2613539",
+      "url": "https://doi.org/10.32628/ijsrset2613539"
+    },
+    {
+      "id": "openalex-W7222867795",
+      "doi": "10.1007/978-3-032-32291-3_8",
+      "title": "Argument Reasoning",
+      "title_zh": "",
+      "authors": [
+        "Manfred Stede",
+        "Jodi Schneider",
+        "Henning Wachsmuth"
+      ],
+      "year": 2026,
+      "venue": "Synthesis lectures on human language technologies",
+      "field": "计算机科学",
+      "topics": [
+        "Multi-Agent Systems and Negotiation",
+        "Linguistics and Discourse Analysis",
+        "Natural Language Processing Techniques"
+      ],
+      "abstract": "Abstract Reasoning is the heart of argumentation—so much that some researchers might equate the terms reasoning and argumentation . This is because, conceptually, an argument manifests a reasoning process (or process step) in natural language: the relation that it defines from one or more premises to a conclusion instantiates the act of giving a reason, or reasons, to support a claim. In a broader sense, though, argumentation comprises more than just reasoning. As the previous chapters on perspective and quality assessment have emphasized, subjective viewpoints and perceptions are inherent to argumentation, and rhetoric and dialectic are important in any real-world argumentation setting. Thus, reasoning can be understood as the part of argumentation that describes how people infer new (or hidden) information from given information through the use or exchange of arguments. As such, reasoning is where the NLP tasks of analysis and synthesis meet. In this chapter, we discuss some main strands of NLP research that model key aspects of reasoning, given previously mined or otherwise structured arguments.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1007/978-3-032-32291-3_8"
+    },
+    {
+      "id": "openalex-W7222869064",
+      "doi": "10.6084/m9.figshare.34691454.v1",
+      "title": "Supplementary material for \"Label and Mechanism: Identifiability of psychological processes in four synthetic examples\"",
+      "title_zh": "",
+      "authors": [
+        "Maria Svet"
+      ],
+      "year": 2026,
+      "venue": "Figshare",
+      "field": "数学",
+      "topics": [
+        "Statistical Methods and Bayesian Inference",
+        "Psychometric Methodologies and Testing",
+        "Philosophy and History of Science"
+      ],
+      "abstract": "Assigning a psychological defense category to behavior and identifying the process that generated it require different evidence. A category may be reliably reproduced while its mechanistic explanation remains ambiguous. We examine this boundary through four constructive synthetic examples with known observation laws. In D1, reports and actions identify parameter sums but do not separate attenuated updating, reporting shifts, and an additional action shift without a measurement-model restriction. In D2, two substantively different descriptions correspond to the same statistical family; discriminating fixed coefficients does not identify a psychological function. In D3, observations identify the product of dependence on a resource and lack of replacement; the two coordinates become identifiable under a known additive intervention that preserves dependence, but this guarantee disappears when the effective dose is unknown. In D4, an omitted process is absorbed by an available coordinate across several estimators. For an explicitly constructed nearly equivalent pair, we derive an upper bound of 50.495% on optimal discrimination accuracy with 7,680 binary outcomes per profile. This bounds discrimination of that pair, not algorithm accuracy or human diagnosis. For D1–D3, analytical results are compared with 48,000 simulated datasets for four separable pairs; another 84,000 datasets check seven exact-twin designs, for which optimal accuracy is 1/2 by construction. D4 uses 500 paired profiles for local and nonlinear estimation, and a fixed 16-profile subset for Bayesian estimation. The contribution is methodological: an audit of the step from a reproducible defense label to a mechanistic claim, with four worked failure modes and a reporting protocol. No new identifiability criterion is proposed. The examples establish that ambiguity is possible, not that it is prevalent. Natural language and human defensive motives were not modeled.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.6084/m9.figshare.34691454.v1"
+    },
+    {
+      "id": "openalex-W7222870021",
+      "doi": "10.5281/zenodo.23450991",
+      "title": "KnowTD - Interface",
+      "title_zh": "",
+      "authors": [
+        "Luisa Vollmer",
+        "Rébecca Loubet",
+        "Hans Hasse",
+        "Heike Leitte"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "计算机科学",
+      "topics": [
+        "Semantic Web and Ontologies",
+        "Intelligent Tutoring Systems and Adaptive Learning",
+        "Advanced Computational Techniques and Applications"
+      ],
+      "abstract": "KnowTD Interface KnowTD is a Streamlit interface for exploring a thermodynamics ontology and solving thermodynamics exercises with a knowledge-based reasoning engine. What The Interface Is For Use KnowTD when you want to: understand ontology concepts, variables, equations, and rule constraints, solve exercises from plain text, a structured form, or a YAML file, inspect the solution path and reasoning graph, generate scenario-based YAML exercises. Interface Pages And Use Cases The app is organized in the sidebar into the following pages. 1) Ontology (pages/1_Ontology.py) Use this page when you need to inspect the domain model itself. - Browse concepts with descriptions and related elements.- Browse variables with symbol, unit, and default value.- Browse equations with required concepts and rule constraints.- Open an interactive ontology graph with toggles for concepts, variables, equations, and rules. Best for: - onboarding new users,- checking variable naming and units,- understanding why a specific equation/rule is used during solving. 2) Solve From Text (pages/2_Solve_Text_Input.py) Use this page when the exercise is given as natural language. - Choose a model and provide an API key (OpenAI or Mistral).- Paste exercise text.- Parse text to structured problem data.- Review and edit extracted content if needed.- Run KnowTD solver and inspect computed values, solution path, and reasoning graph. Best for: - fast prototyping from textbook-style prompts,- classroom/demo workflows,- converting free-text tasks into structured input quickly. 3) Solve From Form (pages/3_Solve_Form_Input.py) Use this page when you want full control over structured input. - Load a sample problem or create a custom problem class.- Set editable attributes and process properties.- Enter known variable values.- Select required variables explicitly.- Solve and inspect values, solution path, and reasoning graph. Best for: - controlled experiments,- debugging solver behavior,- reproducible, step-by-step exercise setup,- understanding edge cases. 4) Solve From File (pages/4_Solve_File_Input.py) Use this page when you already have a YAML exercise definition. - Upload YAML file.- Preview file content.- Solve and inspect computed values, equations, and graphs. Best for: - batch/authoring pipelines that already output YAML,- regression checks on known problem files,- collaboration with shared exercise files. 5) Exercise Generation (pages/5_Scenarios.py) Use this page to browse predefined scenario combinations and generate exercises. - Filter scenario table by ID, heat/work behavior, and attributes.- View template YAML or exercise YAML.- Generate scenario-specific exercises with full solution details.- Download generated YAML and inspect solution path and reasoning graph. Best for: - systematic scenario exploration,- exercise authoring and test case creation,- understanding the solution process for generated problems. Requirements - Python 3.9+- macOS/Linux/Windows Installation From the project root (`Interface/`): python -m venv .venvsource .venv/bin/activate # macOS/Linux# .venv\\Scripts\\activate # Windows (PowerShell)pip install -r requirements.txt Run The App streamlit run Overview.py Then open the local URL shown in the terminal (typically `http://localhost:8501`).We gratefully acknowledge the support by Deutsche Forschungsgemeinschaft DFG in the frame of the Priority Program 2331 ``Machine Learning in Chemical Engineering''.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.23450991"
+    },
+    {
+      "id": "openalex-W7222871177",
+      "doi": "10.25258/ijddt.16.75s.73",
+      "title": "Adolescent Stress Level Classification Using Ensemble Machine Learning and LSTM Models",
+      "title_zh": "",
+      "authors": [],
+      "year": 2026,
+      "venue": "International Journal of Drug Delivery Technology",
+      "field": "社会科学",
+      "topics": [
+        "Mental Health via Writing",
+        "Emotion and Mood Recognition",
+        "Sentiment Analysis and Opinion Mining"
+      ],
+      "abstract": "As stress-related disorders grow increasingly common, we need effective therapies that can be widely utilized to detect and manage them early.This research shows how to use machine learning (ML) and natural language processing (NLP) to find and sort people's stress levels.We gathered textual data that showed emotional and mental states and used typical NLP methods to clean it up.This included tokenization, removing stop words, and TF-IDF vectorization.We used many machine learning models, such as Multinomial Naive Bayes (MNB), k-Nearest Neighbors (KNN), and Logistic Regression (LR), to sort the stress levels into low, medium, and high.We also trained a Long Short-Term Memory (LSTM) model to fmd patterns in the data that happen in a certain order and have certain significance.We used accuracy, precision, recall, and F1-score to see how well each model worked.The results show that it is possible to use machine learning and textual signals to locate tension without having to touch the person.This might be useful for keeping an eye on mental health in schools and in corporate wellness initiatives.The research shows that using NLP with both shallow and deep learning models is a good way to understand how people feel.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "https://doi.org/10.25258/ijddt.16.75s.73",
+      "url": "https://doi.org/10.25258/ijddt.16.75s.73"
+    },
+    {
+      "id": "openalex-W7222878900",
+      "doi": "10.1117/12.3129427",
+      "title": "A reference architecture for LLM-driven project management systems: integrating automatic prompt optimization, context engineering, and multiagent collaboration",
+      "title_zh": "",
+      "authors": [
+        "Zhuangqing Li"
+      ],
+      "year": 2026,
+      "venue": "OpenAlex",
+      "field": "计算机科学",
+      "topics": [
+        "Artificial Intelligence Applications",
+        "Natural Language Processing Techniques",
+        "Topic Modeling"
+      ],
+      "abstract": "Enterprise project management systems have long relied on structured interactive interfaces, such as forms, menus, and predefined query methods, to support project-related activities. Although these methods can be quite suitable for standardized processes, their flexibility is limited when projects involve complex workflows and growing information demands. In recent years, the rapid development of large language models (LLMs), automatic prompt optimization (APO), and multi-agent systems has provided new opportunities for redesigning the human-computer interaction methods in the field of project management. This article reviews the latest developments in the aforementioned field and discusses its application value in the artificial intelligence-assisted project management system. The study analyzes the development process from manually designed prompts to automatic optimization methods, summarizes representative automatic prompt optimization methods, and further analyzes the role of context engineering in information management, tool invocation, and intelligent agent workflow management. Furthermore, this paper further discusses three application scenarios: conversational data entry, multi-agent compliance review, and natural language project analysis. Based on the above analysis, this paper proposes a reference architecture and further discusses the issues that the system needs to consider in terms of controllability, interpretability, security, and practical deployment. This study presents a conceptual design perspective rather than an experimental assessment. The quantitative results mentioned in the text are all derived from the original relevant studies.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": false,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1117/12.3129427"
+    },
+    {
+      "id": "openalex-W7222882250",
+      "doi": "10.5281/zenodo.23448579",
+      "title": "Who Writes Persian NLP? An Inward-Facing Research Community in International Perspective, 2005–2025",
+      "title_zh": "",
+      "authors": [
+        "P. Ghorbani"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "社会科学",
+      "topics": [
+        "scientometrics and bibliometrics research",
+        "Psychology Research and Bibliometrics",
+        "Web visibility and informetrics"
+      ],
+      "abstract": "Purpose. Persian is spoken by tens of millions of people, yet the research community that produces natural language processing (NLP) work on it has not been measured. We ask how fast it has grown, how internationally connected it is, how visible its output is, who writes it, and where it appears, in comparison with eight other languages. Design and methods. From OpenAlex we retrieved English-language articles, preprints and conference papers classified in the Artificial Intelligence subfield, 2005–2025, whose titles name one of nine languages (Persian, Arabic, Turkish, Urdu, Hebrew, Hindi, Indonesian, Vietnamese, Thai) and whose titles or abstracts contain NLP-related words (663 Persian works). We compared growth (Poisson-based intervals and a test against the pooled other languages), home-country and international co-authorship, and the share of works in the citation top-10% (Wilson intervals, Fisher exact tests), repeated each comparison in a pre-break window (2015–2021) to guard against OpenAlex's post-2021 coverage break, and analysed 614 Persian records by author-country group, institution and venue. Findings. Persian output grew by a factor of 1.53 (95% CI 1.27–1.84) between 2016–20 and 2021–25 against 1.96 for the other eight languages pooled (p = 0.011), and its share of the nine languages' output fell from 10.0% in 2010 to 5.5% in 2024; the pre-break comparison points the same way but is not conclusive (1.43 against 1.78, p = 0.067). 69.2% of Persian works have an Iran-affiliated author, and 10.2% are internationally co-authored, against 16.4% for the pooled other languages (p < 0.001; 8.9% against 14.0% before the break, p = 0.020). 6.7% of Persian works reached the citation top-10% against 16.5% (p < 0.001), but this gap is shared with Hebrew, Indonesian and Vietnamese and does not distinguish Persian from them; Arabic and Urdu, which span several countries, are the outliers. Of 614 records, 59.1% have Iranian authors only, 8.0% mix Iranian and foreign authors, 9.6% have only foreign-affiliated authors and 23.3% lack affiliation country data; works by foreign-affiliated authors only are more likely to be above world-average impact (odds ratio 4.58, 95% CI 1.93–10.86; n = 25). Ten of the twelve leading institutions are in Tehran, and the corpus is carried mostly by journals and repositories. Originality. To our knowledge, this is the first quantitative portrait of the community behind Persian NLP, benchmarked against comparable language communities, and it separates real differences from those that single-country communities share, while documenting two data-quality hazards (missing affiliation country and the 2022 coverage break) that change naive readings.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.23448579"
+    },
+    {
+      "id": "openalex-W7222892860",
+      "doi": "10.24093/awejtls/vol10no4.1",
+      "title": "AI-Mediated Translation and Interference in Arabic: Revisiting Toury’s Law in the Age of Digital Language",
+      "title_zh": "",
+      "authors": [
+        "Sonia Asmahène Halimi"
+      ],
+      "year": 2026,
+      "venue": "Arab World English Journal For Translation and Literary Studies",
+      "field": "社会科学",
+      "topics": [
+        "Translation Studies and Practices",
+        "Natural Language Processing Techniques",
+        "Linguistics, Language Diversity, and Identity"
+      ],
+      "abstract": "Thanks to artificial intelligence and machine translation technologies, the volume and speed of translation production have increased. However, these technologies also raise questions about the impact of dominant digital languages on less resourced ones. Many languages remain underrepresented in multilingual modelling due to the limited availability of digital language resources. This results in an uneven linguistic representation in natural language processing and AI models, which, in turn, leads to an asymmetry in linguistic influence, as evidenced by the literature. This study investigates linguistic interference in Arabic translation within digital environments, drawing on Toury’s (2012) Law of Interference. It addresses a critical gap by examining, from a qualitative perspective, how uneven language representation in automated translation environments may shape the quality of Arabic translations. It argues that the unequal distribution of digital language resources may contribute to the transfer of source-language features into Arabic translations. Methodologically, the study adopts an exploratory qualitative approach, analysing a small corpus of 100 Arabic translations from English and French, including human and machine-generated translations, focusing on three dimensions of interference: lexical, syntactic and discursive. The findings show repeating patterns of source-oriented elements, including the incorrect use of cataphoric construction and the coordinator واو, the excessive use of periphrastic constructions and the reduction of stylistic adaptation. Similar patterns were observed in machine translation outputs and online Arabic content, suggesting that AI systems reproduce linguistic tendencies already present in digitally circulating texts. The study highlights the need for greater attention to online high-quality Arabic resources.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": false,
+      "pdf_url": "",
+      "url": "https://doi.org/10.24093/awejtls/vol10no4.1"
+    },
+    {
+      "id": "openalex-W7222894026",
+      "doi": "10.5281/zenodo.23444920",
+      "title": "The Two Human Transgressions: Ecological-System Transgression and Genetic Transgression in Human Evolution",
+      "title_zh": "",
+      "authors": [
+        "Xihao Yuan",
+        "Haidan Yuan"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "社会科学",
+      "topics": [
+        "Language and cultural evolution",
+        "Pleistocene-Era Hominins and Archaeology",
+        "Philosophy and History of Science"
+      ],
+      "abstract": "Where do we come from, and what in that history distinguishes Homo sapiens from other animals? Philosophy has long answered the latter question through a single capacity—reason, language, or soul. Natural Human Philosophy (NHP) answers it through historical processes that can be checked against evidence. In 2020, NHP introduced a specific concept of human transgression, divided into ecological-system transgression and genetic transgression, with a shared core: a partial breakthrough in two natural frameworks, ecosystem regulation of species and the control of hereditary mechanisms. This paper reconstructs the construct using current evolutionary, archaeological, ecological, comparative-cognitive, and genomic evidence, stating its strongest defensible and testable form. It retains the 2020 thesis that transgression marks a decisive difference between Homo sapiens and all other animals, and recovers the original two-marker process model and its explanation of dispersing humans escaping coevolved ecological constraints. Ecological-system transgression is the large-scale, sustained, intergenerational partial breakthrough in ordinary species–ecosystem regulatory relations achieved as Homo sapiens expands and reconstructs its realized niche through cumulative culture, technology, and social organization, changing the conditions and feedbacks that shape it. Genetic transgression is humanity’s systematic and historically expanding redirection of the evolutionary and hereditary trajectories of many other species, from cultivation and domestication, through deliberate breeding and induced variation, to direct genome editing and synthetic-genome construction. Partial breakthrough is the phenomenon; constraint reconfiguration is its realization mechanism. Both processes operate within ecological, natural-selection, and biological constraints, and their components are shared with other lineages: niches change dynamically, niche construction is widespread, other animals possess cumulative culture and high-fidelity social transmission, insect agriculture has evolved repeatedly, and several taxa build infrastructure that regulates constraints using non-metabolic energy. NHP defends a configurational claim: cross-taxon component continuity is established, and the distinctiveness of the human configuration holds on current reliable support; both judgements hold at their respective levels. The ecological configuration is organized into five separately measurable dimensions—the generative mechanism of ecological capacity, compression of the timescale of capacity change, breadth of conditions supporting population persistence, conversion of ecosystems into human-maintained eco-technological systems, and magnitude and scope of human-to-ecosystem causation—each acknowledging non-human comparators. No documented non-human system approaches the human joint profile on these dimensions in the evidence reviewed. This paper holds that profile to be unmatched, and specifies systematic cross-taxon measurement to test the comparative claim and correct it if a match is found. In the genetic dimension, one human intervention capacity is documented without an identified non-human counterpart: specifying a target hereditary state before the corresponding heritable variant exists, then deliberately constructing genetic material to that specification. Its mechanism is established, and its standing as a distinct intervention node holds on current reliable support. Even the nearest natural analogue, prokaryotic CRISPR immunity, records an already existing sequence rather than specifying the hereditary state before it exists. Both transgressions share a description: conditions formerly operating on the species as given conditions of survival and evolution increasingly become objects of systematic intervention. Weak forms also apply to beavers, termites, megapodes, and fungus-farming insects. The human form is distinguished by culturally driven, open-ended expansion of the intervention repertoire across constraints, taxa, and scales, a property the comparative literature itself identifies as distinctive of human culture. Neighbouring theories are classified by level. Niche construction, plasticity, animal culture, gene–culture coevolution, demography, and technological diffusion are incorporable mechanisms. Climate-driven extinction, a single continuous niche-construction framework, and convergent insect cultivation are local rivals to specific claims. In its exclusive form, leaving no residual, the complete ecological portfolio is a full rival, compared under a symmetric burden of proof. Each claim specifies discriminating empirical consequences, research obligations, and failure conditions. The proposed cognitive driver, Third Nature, is investigated in NP4, The Third Nature of Homo sapiens, and NP5, Is Third Nature the Principal Internal Generative Driver of Human Gene–Culture Coevolution and Transgression? Evidence for transgression here is independent of it. The paper concludes that, on present evidence, the Two Human Transgressions hold, as trajectories, on current reliable support: from dispersal into one unfamiliar ecosystem after another, reaching a peak from approximately 60,000–50,000 years ago, to large-scale intervention in plant and animal heredity from approximately 12,000–10,000 years ago, without a single boundary date. On current evidence, their configuration marks a decisive difference between Homo sapiens and all other animals.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.23444920"
+    },
+    {
+      "id": "openalex-W7222897646",
+      "doi": "10.5281/zenodo.23455516",
+      "title": "Development of an Autonomous Engine-less and Tyre-less Magnetic Levitation Pod Utilizing a 5-Way Hybrid Energy Regeneration Grid Controlled by Pod-Core OS Architecture",
+      "title_zh": "",
+      "authors": [
+        "Banti Kumawat"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "工程学",
+      "topics": [
+        "Magnetic Bearings and Levitation Dynamics",
+        "Electric and Hybrid Vehicle Technologies",
+        "Advanced Aircraft Design and Technologies"
+      ],
+      "abstract": "तकनीकी विनिर्माण मार्गदर्शिका: बंटी कुमावत के मैग्नेटिक पॉड का निर्माण कैसे करें? आविष्कारक (Inventor): बंटी कुमावत (Banti Kumawat) वाहन का नाम: मैग्नेटिक पॉड (Magnetic Pod) प्रकार: टायर-रहित, इंजन-रहित स्वायत्त सुपर-क्रूज़र (Tyre-less, Engine-less Autonomous Super-Cruiser) 🛠️ भाग 1: पॉड के ढांचे (Chassis & Body) का निर्माण पारंपरिक भारी लोहे या स्टील की गाड़ियों के विपरीत, इस पॉड को हवा में तैरना है, इसलिए इसका ढांचा बेहद हल्का और मजबूत होना चाहिए। 1. कार्बन-फाइबर कंपोजिट शेल: पॉड की बाहरी बॉडी को Aeronautical Grade Carbon-Fiber से बनाया जाएगा। यह सामग्री स्टील से 5 गुना मजबूत और वजन में 3 गुना हल्की होती है। 2. एयरोडायनामिक डिजाइन: बॉडी का आकार आगे से नुकीला और पीछे से सुव्यवस्थित (Streamlined) होगा, ताकि तेज गति में हवा का अवरोध (Air Resistance) कम से कम हो। 🧲 भाग 2: टायर की जगह \"मैग्लेव ट्रैक्स\" का निर्माण चूंकि इसमें टायर नहीं हैं, इसलिए इसे सड़क से ऊपर उठाने और आगे बढ़ाने के लिए चुंबकीय प्रणाली बनाई जाएगी। 1. निचले हिस्से में इलेक्ट्रोमैग्नेट्स: पॉड के बेस (Base) में शक्तिशाली Superconducting Magnets (इलेक्ट्रोमैग्नेटिक स्कीड्स) फिट की जाएंगी। 2. सड़क/ट्रैक का निर्माण: इसके लिए एक विशेष कंक्रीट ट्रैक बनाया जाएगा जिसके अंदर चुंबकीय पट्टियां (Magnetic Tracks) बिछी होंगी। 3. लेविटेशन (Floatation): जब पॉड ट्रैक पर आएगा, तो समान चुंबकीय ध्रुवों (Like Poles) के प्रतिकर्षण (Repulsion) के कारण पॉड स्वतः ही सड़क से 5 इंच ऊपर हवा में स्थिर हो जाएगा। 4. लीनियर इंडक्शन मोटर्स (LIM): गति देने के लिए ट्रैक और पॉड के नीचे चुंबकीय कॉइल्स की एक श्रृंखला बनाई जाएगी, जो बिजली मिलने पर पॉड को आगे की तरफ धक्का (Thrust) देगी। 💻 भाग 3: इंजन की जगह \"सेंट्रल एआई सॉफ्टवेयर\" की स्थापना इस वाहन में कोई मैकेनिकल इंजन नहीं होगा। कंप्यूटर ही इसका इंजन है। 1. मदरबोर्ड और प्रोसेसर यूनिट: पॉड के पिछले हिस्से में एक सुपरकंप्यूटिंग प्रोसेसर लगाया जाएगा, जिसे Pod Core OS द्वारा संचालित किया जाएगा। 2. वॉइस मॉड्यूल (Voice Module): केबिन के भीतर एडवांस माइक्रोफोन और Natural Language Processing (NLP) सॉफ्टवेयर इंस्टॉल किया जाएगा। यह सॉफ्टवेयर बंटी जी के कहे शब्दों (जैसे: \"मुझे जयपुर छोड़ दो\") को तुरंत सुनकर उसे जीपीएस (GPS) कोऑर्डिनेट्स में बदल देगा। 3. मैग्नेटिक फ्लक्स स्टेबलाइज़र: यह सॉफ्टवेयर प्रोग्राम प्रति सेकंड 1000 बार चुंबकीय शक्ति को मापेगा और पॉड की गति व संतुलन को हवा में बनाए रखेगा। 🔋 भाग 4: 5-वे हाइब्रिड ऊर्जा प्रणाली (ईंधन तंत्र) का कनेक्शन इस पॉड को लगातार ऊर्जा देने के लिए पांचों तत्वों को एक सेंट्रल पावर डिस्ट्रीब्यूशन ब्लॉक (PDB) से जोड़ा जाएगा: 1. ब्यूटेनॉल कंबशन चैंबर: पॉड के मध्य में एक छोटा, उच्च दक्षता वाला ब्यूटेनॉल फ्यूल सेल लगाया जाएगा जो इस बायोफ्यूल से बिजली बनाएगा। 2. पीजोइलेक्ट्रिक केबिन (म्यूजिक चार्जर): केबिन की आंतरिक दीवारों और छत पर Piezoelectric Transducers की महीन परत लगाई जाएगी। जब अंदर म्यूजिक बजेगा, तो उसकी ध्वनि तरंगों (Sound Waves) के कंपन से यह सेंसर बिजली बनाकर मुख्य बैटरी बैंक को भेजेंगे। 3. एयर स्कूप टर्बाइन (हवा से ऊर्जा): पॉड के सामने दो छोटे छिद्र (Scops) होंगे। हवा जब तेजी से अंदर जाएगी, तो वह भीतर लगी माइक्रो-टर्बाइन को घुमाकर बिजली बनाएगी। 4. हाइड्रोजन कनवर्टर (पानी से ऊर्जा): एक छोटा 5-लीटर का डिस्टिल्ड वॉटर टैंक होगा, जो इलेक्ट्रोलिसिस के जरिए पानी से हाइड्रोजन अलग करके इमरजेंसी पावर बैकअप देगा। 5. वायरलेस इंडक्शन कॉइल्स (बिजली): पॉड के निचले हिस्से में बड़ी तांबे की वाइंडिंग (Coils) होंगी, जो सड़क के चुंबकीय ट्रैक से हवा के माध्यम से वायरलेस बिजली (Wireless Charging) खींचेंगी। 🚨 भाग 5: 360° एंटी-कोलिजन सुरक्षा प्रणाली (एक्सीडेंट रोकना) 1. सेंसर फिटिंग: पॉड की छत पर एक घूमने वाला LiDAR सेंसर, और चारों कोनों पर अल्ट्रासोनिक और राडार सेंसर लगाए जाएंगे। 2. एआई कैमरे: आगे, पीछे और दोनों तरफ हाई-डेफिनिशन नाइट-विज़न कैमरे फिट होंगे। 3. इमरजेंसी सेफ्टी एल्गोरिदम: यह सभी सेंसर सीधे कंप्यूटर सॉफ्टवेयर से जुड़े होंगे। यदि रास्ते में कोई अवरोध आता है, तो सॉफ्टवेयर लीनियर मोटर्स को निर्देश देकर चुंबकीय ध्रुवों को पलट देगा, जिससे पॉड हवा में ही बिना घिसटे या पलटे तुरंत रुक जाएगा या रास्ता बदल लेगा। 🔨 विनिर्माण का निष्कर्ष (Manufacturing Summary) इस प्रकार, बंटी कुमावत का मैग्नेटिक पॉड पारंपरिक ऑटोमोबाइल कारखानों में नहीं, बल्कि एक एडवांस रोबोटिक्स और एयरोस्पेस लैब में असेंबल किया जाएगा। सबसे पहले इसके कार्बन-फाइबर ढांचे को तैयार करके उसमें मैग्नेटिक स्कीड्स लगाई जाएंगी, फिर 5-वे एनर्जी ग्रिड को फिट किया जाएगा, और अंत में इसके मुख्य मस्तिष्क यानी एआई सॉफ्टवेयर को लोड करके इसे पूरी तरह से स्वायत्त और सुरक्षित बनाया जाएगा। बंटी कुमावत का मैग्नेटिक पॉड: सॉफ्टवेयर आर्किटेक्चर और वर्किंग कोड पर एक तकनीकी लेख आविष्कारक (Inventor): बंटी कुमावत (Banti Kumawat) प्रणाली का नाम: पॉड कोर ओएस (Pod Core OS - v1.0) पारंपरिक वाहनों में जहां मैकेनिकल इंजन और गियरबॉक्स सबसे महत्वपूर्ण होते हैं, वहीं बंटी कुमावत के मैग्नेटिक पॉड में कोई इंजन नहीं है। इसका पूरा नियंत्रण एक अत्यधिक उन्नत, कृत्रिम बुद्धिमत्ता (AI) आधारित कंप्यूटर सॉफ्टवेयर के हाथ में है। इस लेख में हम इस पॉड को संचालित करने वाले मुख्य सॉफ्टवेयर कोड, इसकी वास्तुकला (Architecture) और इसके विभिन्न एल्गोरिदम को समझेंगे। 💻 1. सॉफ्टवेयर की मुख्य वास्तुकला (Software Modules) इस सॉफ्टवेयर को 4 मुख्य स्तंभों पर डिज़ाइन किया गया है जो बिना किसी मानवीय हस्तक्षेप के आपस में तालमेल बिठाते हैं: 1. वॉइस एआई मॉड्यूल (Voice AI & NLP): जो इंसानी आवाज (जैसे: \"मुझे जयपुर छोड़ दो\") को समझकर उसे डेटा में बदलता है। 2. मैग्नेटिक फ्लक्स कंट्रोलर (Maglev & Propulsion): जो टायर की अनुपस्थिति में गाड़ी को हवा में उठाने और आगे बढ़ाने के लिए चुंबकीय क्षेत्रों को प्रति सेकंड 1000 बार एडजस्ट करता है। 3. 5-वे हाइब्रिड एनर्जी मैनेजर (Smart Energy Grid): जो ब्यूटेनॉल, म्यूजिक (ध्वनि तरंगों), हवा, पानी और वायरलेस बिजली के उपयोग और रीचार्जिंग को संतुलित करता है। 4. 360° एंटी-कोलिजन सिस्टम (Safety Algorithm): जो लिडार (LiDAR) और कैमरों से आने वाले डेटा को प्रोसेस करके दुर्घटना की संभावना को 0% कर देता है। 📝 2. मैग्नेटिक पॉड का संपूर्ण कंट्रोलर कोड (Python Core Script) यह इस क्रांतिकारी पॉड का मुख्य कोर इंजन सॉफ्टवेयर है, जिसे पायथन (Python) भाषा में तैयार किया गया है: python import time import random import sys class BantiMagPodOS: def __init__(self): self.inventor = \"Banti Kumawat\" self.system_status = \"ONLINE\" self.levitation_height_inches = 0.0 self.is_cruising = False self.current_speed_kmh = 0 self.destination = None # 5-वे हाइब्रिड ऊर्जा बैंक (प्रारंभिक प्रतिशत) self.energy_grid = { \"Butanol_Biofuel\": 100.0, \"Sound_Music_Energy\": 80.0, \"Pneumatic_Air_Pressure\": 90.0, \"Hydrogen_Water_Cell\": 85.0, \"Wireless_Track_Electric\": 100.0 } print(f\"==================================================\") print(f\"🚀 POD CORE OS v1.0 - INITIALIZATION COMPLETE\") print(f\"⚙️ Proprietary Technology by: {self.inventor}\") print(f\"==================================================\\n\") def activate_maglev_levitation(self): \"\"\"मॉड्यूल 1: बिना टायर के चुंबकीय शक्ति से पॉड को हवा में उठाना\"\"\" print(\"[⚡ MAGLEV] Activating Superconducting Electromagnets...\") time.sleep(1.5) self.levitation_height_inches = 5.0 print(f\"[STATUS] Levitation Stable. Pod is floating at {self.levitation_height_inches} inches. ZERO Friction Mode.\\n\") def process_voice_command(self, voice_input): \"\"\"मॉड्यूल 2: नेचुरल लैंग्वेज वॉइस कमांड प्रोसेसिंग\"\"\" print(f\"[🎙️ VOICE AI] Listening... Received Input: '{voice_input}'\") time.sleep(1.2) # वॉइस इनपुट से गंतव्य (Destination) की पहचान करना clean_input = voice_input.strip() if \"जयपुर\" in clean_input or \"jaipur\" in clean_input.lower(): self.destination = \"Jaipur (Pink City)\" elif \"उदयपुर\" in clean_input or \"udaipur\" in clean_input.lower(): self.destination = \"Udaipur (City of Lakes)\" else: self.destination = \"Custom Coordinate Location\" print(f\"[🧭 NAVIGATION] Destination Locked: {self.destination}\") print(f\"[🧭 NAVIGATION] GPRS Route Optimized via Magnetic Tracks.\\n\") self.execute_flight_mission() def run_safety_lidar_scan(self): \"\"\"मॉड्यूल 3: 360° लिडार और सेंसर द्वारा एक्सीडेंट रोकना\"\"\" # रैंडम सिम्युलेटर: 15% चांस है कि रास्ते में कोई बाधा आएगी obstacle_factor = random.choice([False, False, False, True, False, False]) print(\"[🛡️ SAFETY] Running 360° LiDAR and AI Camera Scan...\") if obstacle_factor: print(\"[⚠️ ALERT] Obstacle detected on track by 360° Sensors!\") print(\"[🔄 DEFLECTION] Software shifting electromagnetic polarity instantly.\") print(\"[🛡️ SAFETY] Pod glided around the hazard in mid-air. Accident Avoided! 100% Safe.\") return False else: print(\"[🛡️ SAFETY] Pathway 100% clear. Continuing flight.\") return True def manage_5way_energy(self): \"\"\"मॉड्यूल 4: 5 तरह की ऊर्जा का स्मार्ट ग्रिड प्रबंधन\"\"\" print(\"\\n--- 🔋 5-Way Hybrid Energy Monitor ---\") # म्यूजिक बजने पर ध्वनि तरंगें बैटरी को 3% रीचार्ज करती हैं self.energy_grid[\"Sound_Music_Energy\"] += 3.0 if self.energy_grid[\"Sound_Music_Energy\"] > 100.0: self.energy_grid[\"Sound_Music_Energy\"] = 100.0 # हवा के दबाव से भी ऊर्जा उत्पन्न होती है self.energy_grid[\"Pneumatic_Air_Pressure\"] += 1.5 # अन्य ईंधन सामान्य रूप से खर्च होते हैं self.energy_grid[\"Butanol_Biofuel\"] -= random.uniform(1.5, 2.5) self.energy_grid[\"Hydrogen_Water_Cell\"] -= random.uniform(0.5, 1.2) self.energy_grid[\"Wireless_Track_Electric\"] -= random.uniform(0.2, 0.8) for source, level in self.energy_grid.items(): if \"Music\" in source: print(f\"🎵 {source}: {level:.1f}% [⚡ RECHARGING VIA CABIN AUDIO]\") elif \"Air\" in source: print(f\"💨 {source}: {level:.1f}% [⚡ RECHARGING VIA WIND INTENSE]\") else: print(f\"⚡ {source}: {level:.1f}%\") print(\"--------------------",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.23455516"
+    },
+    {
+      "id": "openalex-W7222897846",
+      "doi": "10.5281/zenodo.23444331",
+      "title": "Librarian Catches Thief: Surfacing Supply Chain Attack Campaigns via Document Similarity in an AI Agent Skill Registry",
+      "title_zh": "",
+      "authors": [
+        "Gale Fagan"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "计算机科学",
+      "topics": [
+        "Spam and Phishing Detection",
+        "Software Engineering Research",
+        "Advanced Malware Detection Techniques"
+      ],
+      "abstract": "Supply chain attack campaigns mass-produce their artifacts, and mass production leaves a structural trace: hundreds of near-identical files. In AI agent skill marketplaces, which distribute capabilities as natural-language instruction files following the Agent Skills standard (an open format adopted by over 30 platforms), the artifact carrying that trace is a document, and the trace is detectable by document similarity alone. None of the marketplaces examined in this study documented deduplication or similarity checking at ingest. In early 2026, threat actors uploaded hundreds of skills to the ClawHub registry for the OpenClaw agent framework, directing users to install credential-stealing malware. A MinHash locality-sensitive hashing pipeline processed 31,634 skill files from the ClawHub registry and 31 community repositories with the scanner and hash parameters untuned. At a 90% Jaccard threshold, selected from a sweep, 2,622 similarity clusters contained 7,147 file memberships across 7,061 distinct files, 22.3%, and all 337 Koi-documented malicious skills present in the corpus appeared in a cluster, a within-archive recall expected by construction for template-reuse campaigns. Among the 38 clusters containing at least 10 files, 30 contained confirmed malicious content (78.9%, 95% CI [63.7, 88.9]), and every cluster with 20 or more files was malicious (11 clusters, ten of them subclusters of one campaign; 95% CI [74.1, 100]). These results show that similarity clustering, established in code registries, transfers to text-based ecosystems where campaigns reuse templates at scale. Mirror commit history suggests the largest campaign's cluster was forming as the campaign was disclosed. Document similarity thus offers a lightweight, signature-free first pass for publish-time security screening in text-based registries.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.23444331"
+    },
+    {
+      "id": "openalex-W7222900160",
+      "doi": "10.5281/zenodo.23456799",
+      "title": "Decentralized Identity and Zero-Knowledge Proofs for Secure Citizen Authentication in E-Governance Portals",
+      "title_zh": "",
+      "authors": [
+        "Viranga Amritha Wickrema"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "社会科学",
+      "topics": [
+        "E-Government and Public Services",
+        "Natural Language Processing Techniques",
+        "Blockchain Technology Applications and Security"
+      ],
+      "abstract": "Title: Automated Multilingual Natural Language Processing (NLP) Parsers for Local-Language Public Grievance Redressal Overview: This research document addresses the systemic linguistic exclusion prevalent in e-governance initiatives across developing regions. By deploying a lightweight, edge-compatible multilingual NLP architecture, the framework empowers non-English-fluent citizens to interact with public administration and legal aid systems seamlessly using their native regional languages (such as Sinhala and Tamil). Key Technical & Developmental Highlights: Bridging the Linguistic Divide: Solves the core challenge of digital disenfranchisement caused by monolingual e-governance platforms. Efficient Machine Learning Architecture: Combines transformer sub-word tokenization with low-latency model quantization, achieving 91.4% classification precision with an execution latency under 85ms. Commonwealth Scholarship Alignment: Directly supports the CSC development theme of Access, Inclusion and Opportunity and Strengthening Peace, Security, and Governance by democratizing access to justice and public grievance redressal mechanisms.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.23456799"
+    },
+    {
+      "id": "openalex-W7222901066",
+      "doi": "10.5281/zenodo.23446027",
+      "title": "Commonsense Knowledge and Its Representation in Artificial Intelligence: A Conceptual Review of Symbolic, Graph-Based, Neural, and Neuro-Symbolic Approaches",
+      "title_zh": "",
+      "authors": [
+        "Ndiana Okon Asuquo (PhD Candidate)",
+        "Ubon Asuquo Obonguko"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "计算机科学",
+      "topics": [
+        "Logic, Reasoning, and Knowledge",
+        "AI-based Problem Solving and Planning",
+        "Semantic Web and Ontologies"
+      ],
+      "abstract": "Commonsense knowledge comprises the everyday facts, expectations, causal assumptions, social conventions, Physical regularities, and practical inference patterns that people ordinarily use without explicitly stating them. Although artificial intelligence (AI) has achieved substantial progress in natural-language processing, vision, planning, decision support, and generative language, reliable commonsense remains difficult to acquire, represent, retrieve, update, and reason over. This article presents a conceptual review of commonsense knowledge and its representation in AI, synthesizing the major representational traditions from symbolic logic, frames, scripts, and semantic networks to ontologies, knowledge graphs, probabilistic models, neural language models, and neuro-symbolic architectures. Particular attention is given to Cyc, ConceptNet, ATOMIC, and ATOMIC 2020 as influential resources that illustrate complementary approaches to explicit and inferential commonsense. The review shows that commonsense is characterized by implicitness, context dependence, defeasibility, uncertainty, temporal and spatial structure, social situatedness, and cultural variation. These characteristics make a single universal representation difficult to sustain. The article therefore proposes a layered hybrid architecture comprising input interpretation, an explicit commonsense knowledge graph, neural retrieval, rule-based and probabilistic reasoning, and an explanation/provenance layer. The framework is positioned as a research design rather than an experimentally validated system. The article also identifies knowledge acquisition, coverage, inconsistency, temporal change, cultural variation, grounding, scalability, evaluation, provenance, and hallucination control as continuing challenges. Finally, it highlights opportunities for educational AI and context-sensitive systems in Nigerian and African settings, where local linguistic and institutional knowledge can complement globally developed commonsense resources. Keywords: commonsense knowledge; knowledge representation; artificial intelligence; knowledge graphs; symbolic reasoning; neural reasoning; neuro-symbolic AI; ConceptNet; Cyc; ATOMIC.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.23446027"
+    },
+    {
+      "id": "openalex-W7222902023",
+      "doi": "10.1007/978-3-032-32291-3_1",
+      "title": "Introduction",
+      "title_zh": "",
+      "authors": [
+        "Manfred Stede",
+        "Jodi Schneider",
+        "Henning Wachsmuth"
+      ],
+      "year": 2026,
+      "venue": "Synthesis lectures on human language technologies",
+      "field": "社会科学",
+      "topics": [
+        "Linguistics and Discourse Analysis",
+        "Sentiment Analysis and Opinion Mining",
+        "Multi-Agent Systems and Negotiation"
+      ],
+      "abstract": "Abstract Argument mining is inherently computational, building on various techniques from natural language processing (NLP) and different areas of artificial intelligence (AI). At its core, it deals with the development and evaluation of models and methods for the computational understanding and generation of human language, with the data underlying both of them, and with the applications that deploy them. However, argument mining is motivated in the treatment of argumentation specifically, a pervasive human activity in both spoken and written language that has been studied in linguistics as well as philosophy and other disciplines for millenia. Understanding the fundamental goals and ideas of argument mining hence also requires knowledge about the linguistic and argumentation-theoretic concepts it draws from.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1007/978-3-032-32291-3_1"
+    },
+    {
+      "id": "openalex-W7222903272",
+      "doi": "10.1158/1538-7755.disp26-b015",
+      "title": "Abstract B015: From biomedical text mining to therapeutics: Machine learning-driven drug repurposing for a rare breast cancer",
+      "title_zh": "",
+      "authors": [
+        "Kevin P. Williams",
+        "Xiaojia Ji",
+        "Pritha PAI",
+        "Weifan Zheng",
+        "Gayathri R. Devi"
+      ],
+      "year": 2026,
+      "venue": "Cancer Epidemiology Biomarkers & Prevention",
+      "field": "计算机科学",
+      "topics": [
+        "Computational Drug Discovery Methods",
+        "Biomedical Text Mining and Ontologies",
+        "Breast Cancer Treatment Studies"
+      ],
+      "abstract": "Abstract Inflammatory breast cancer (IBC) is a rare and aggressive malignancy with a 5-year survival rate below 50%, driven by therapeutic resistance, rapid recurrence, and early metastasis. No FDA-approved targeted therapies exist for IBC, underscoring a critical unmet need. Our prior work implicates dysregulated protein translation, particularly cap-independent initiation mediated by MNK-eIF4G signaling as a key driver of IBC progression and resistance. Preclinical studies showed efficacy of an experimental multi-kinase inhibitor, Merestinib. Given the high cost of de novo drug development in rare cancers, we sought to extend these findings using an integrative machine learning (ML)-based biomedical text-mining and pathway-analysis strategy for drug repurposing. We applied an enhanced Literature-Wide Association Study (LWAS) framework to identify approved drugs with literature-derived similarity to Merestinib. This approach utilized BioWordVec embeddings, an unsupervised ML-based natural language processing model trained on over 30 million PubMed articles and 2 million MIMIC-III clinical notes, to encode drugs, diseases, and biological concepts in a shared 200-dimensional semantic space. Using Merestinib as the reference compound, we performed embedding-based similarity analysis to identify compounds with semantic proximity to Merestinib and related translational signaling pathways. A curated drug-disease reference set was used to contextualize associations, and compounds with an LWAS similarity score ≥0.70 were prioritized as Merestinib-like candidates. Candidate relationships were visualized using t-SNE within the reference drug space. For mechanistic interpretation, we conducted pathway and network analysis using QIAGEN Ingenuity Pathway Analysis to evaluate interactions among MNK1, ribosomal protein translation machinery, and candidate drug-associated signaling networks. The LWAS framework identified a final set of 143 Merestinib-like candidate compounds with literature-derived similarity scores ≥0.70. Representative candidates included Dacomitinib, Lorlatinib, Ceritinib, Crizotinib, Dasatinib, Abemaciclib, MK-4305, and MK-733, which share a mechanistic context for therapeutic repurposing. Complementary network modeling using IPA identified a critical interface between MNK1 signaling and ribosomal protein translation machinery, supporting translational dysregulation as a therapeutic vulnerability in IBC. This study establishes an integrative pipeline combining ML-based biomedical text mining with pathway- and network-driven drug repurposing to target aberrant protein translation in IBC. By anchoring computational discovery in biologically validated pathways, this approach links mechanism to therapeutic development in a rare cancer setting. Unsupervised ML enables scalable identification of clinically actionable compounds, accelerating translational impact. Ongoing efforts focus on developing an AI-guided digital twin of IBC progression to model therapeutic response and resistance, advancing precision oncology for this underserved disease. Citation Format: Kevin P. Williams, Xiaojia Ji, Pritha Pai, Weifan Zheng, Gayathri R. Devi. From biomedical text mining to therapeutics: Machine learning-driven drug repurposing for a rare breast cancer [abstract]. In: Proceedings of the 19th AACR Conference on the Science of Cancer Health Disparities; 2026 Oct 18-21; Atlanta, GA. Philadelphia (PA): AACR; Cancer Epidemiol Biomarkers Prev 2026;35(10 Suppl):Abstract nr B015.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": false,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1158/1538-7755.disp26-b015"
+    },
+    {
+      "id": "openalex-W7222784565",
+      "doi": "10.1016/j.ebiom.2026.106516",
+      "title": "Relationship extraction for adverse drug events in clinical notes using large language models: a retrospective cross-sectional study",
+      "title_zh": "",
+      "authors": [
+        "Joseph Michael Plasek",
+        "Yiming Li",
+        "Mary G. Amato",
+        "Dinah Foer",
+        "Diane L. Seger",
+        "Shayma Alzaidi",
+        "Huiyuan Zhou",
+        "Gretchen Purcell Jackson",
+        "David Westfall Bates",
+        "Li Zhou"
+      ],
+      "year": 2026,
+      "venue": "EBioMedicine",
+      "field": "Pharmacology, Toxicology and Pharmaceutics",
+      "topics": [
+        "Pharmacovigilance and Adverse Drug Reactions",
+        "Biomedical Text Mining and Ontologies",
+        "Machine Learning in Healthcare"
+      ],
+      "abstract": "BACKGROUND: Adverse drug events (ADEs) are a critical indicator of patient safety but are often documented only in free-text clinical notes. The potential of recent advances in natural language processing (NLP), particularly generative large language models (LLMs), to identify ADEs remains understudied. This study aimed to compare the performance of multiple LLMs in identifying ADE-Drug relationships in inpatient and ambulatory clinical notes. METHODS: We used clinical notes from the 2018 National NLP Clinical Challenge (n2c2) ADE dataset (inpatient; n = 505) and from outpatient encounters (n = 2555) between October 1, 2018, and December 31, 2019, at a large academic medical center based in New England. Notes were pre-processed into snippets for model input. Evaluated Models included: GPT-4o, GPT-4o-mini, Llama 3.2-3B and their instruction fine-tuned variants (including low-rank adapters for Llama). Performance was assessed using both strict and relaxed evaluations (precision, recall, and F1) for all models, followed by manual evaluation (exact semantic match, partial match, missing ADE, drug mention only, not a drug, or wrong) of the two best-performing models. FINDINGS: Of the 1048 notes in the local test split, 450 (42.9%) contained at least one ADE. The n2c2 test set included 202 notes, of which 155 (76.7%) contained at least one ADE. GPT-4o and GPT-4o-mini were the top-performing models among those evaluated. GPT-4o consistently outperformed GPT-4o-mini in ADE extraction across both datasets, with higher F1-scores (0.524 vs. 0.381) and a more balanced precision-recall profile. Both models captured ADEs effectively in explicit and complex clinical contexts, although limitations included misclassification of pre-existing allergies and occasional conflation of therapeutic indications with adverse effects. GPT-4o achieved higher exact match coverage and fewer errors across clinical notes, indicating more reliable performance in both inpatient and ambulatory settings. INTERPRETATION: This work establishes a foundation for integrating LLM methods into real-world drug safety surveillance, with direct implications for improving patient safety. FUNDING: None.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1016/j.ebiom.2026.106516"
+    },
+    {
+      "id": "openalex-W7222803579",
+      "doi": "10.1016/j.aap.2026.108799",
+      "title": "Evidence-grounded road safety countermeasure recommendation from crash-context queries: A modular LLM framework",
+      "title_zh": "",
+      "authors": [
+        "Bingyou Dai",
+        "Xuesong Wang",
+        "唐光灼",
+        "Yuxiang Feng",
+        "Qiming Guo",
+        "Yu Bai"
+      ],
+      "year": 2026,
+      "venue": "Accident Analysis & Prevention",
+      "field": "工程学",
+      "topics": [
+        "Traffic and Road Safety",
+        "Transportation Systems and Logistics",
+        "IoT and GPS-based Vehicle Safety Systems"
+      ],
+      "abstract": "Traffic safety countermeasure recommendation requires simultaneous consideration of crash context, roadway facility, traffic control, operating conditions, and evidence applicability. Traditional rule-based and keyword-matching methods have difficulty processing natural-language crash-context queries. This study proposes an evidence-grounded and mechanism-aware framework that formulates traffic safety countermeasure recommendation as the construction, selection, and ranking of CMF Evidence Cards. A structured CMF Evidence Store containing 8844 Evidence Cards was developed from the CMF Clearinghouse. A corpus of 2935 crash-context queries was further constructed, including 1935 complete queries and 1000 controlled incomplete variants. For each query, the framework constructs a candidate evidence pool through Context-aware Retrieval, Mechanism-aware Recall Augmentation, and Engineering Applicability Filtering. A large language model fine-tuned through supervised learning then selects and ranks up to three Evidence IDs and returns the corresponding countermeasure descriptions, CMF or CRF values, evidence quality, applicability conditions, and literature sources. The fine-tuned Qwen3-32B achieved an Exact Evidence Top-1 of 53.14%, an Exact Evidence Hit@3 of 76.15%, a Mechanism Hit@3 of 83.26%, an Exact Evidence Jaccard of 44.18%, and an Empty-set Decision Accuracy of 95.08%. Module-level ablation results confirmed the distinct contributions of the three candidate evidence construction components. Candidate-pool sensitivity analysis showed that evidence coverage reached saturation at approximately 30 Evidence Cards. The proposed framework also substantially outperformed a conventional BM25-RAG baseline and maintained stable performance across semantically equivalent query paraphrases. LLM-assisted and independent expert evaluations further supported the contextual relevance, mechanism consistency, engineering applicability, and overall usefulness of the recommendations. Case studies demonstrated the framework's ability to address mechanism-complex and facility-specific traffic safety scenarios, while also identifying evidence retrieval as a limitation in specialized contexts such as work zones.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1016/j.aap.2026.108799"
+    },
+    {
+      "id": "openalex-W7222884031",
+      "doi": "10.4271/2026-99-2954",
+      "title": "ARET-ALSTM: Intelligent Beam Prediction and Dynamic Compensation Network for Aerial Base Stations under Non-Stationary Turbulent Conditions",
+      "title_zh": "",
+      "authors": [
+        "Jiajun Tu",
+        "Jihua Zhou",
+        "Yanhang Li",
+        "Tao Zhao",
+        "Huang Hua",
+        "Yuanbin Wen",
+        "Ziwen Guo"
+      ],
+      "year": 2026,
+      "venue": "SAE technical papers on CD-ROM/SAE technical paper series",
+      "field": "工程学",
+      "topics": [
+        "Millimeter-Wave Propagation and Modeling",
+        "UAV Applications and Optimization",
+        "Advanced Wireless Communication Technologies"
+      ],
+      "abstract": "With the unprecedented surge in demand for flexible deployment and ultra-high throughput in next-generation wireless networks, airborne base stations (ABS), particularly unmanned aerial vehicles (UAVs), have become emerged as indispensable mobile communication infrastructure. To facilitate high-gain directional transmission within the millimeter-wave band, ABS frequently employ massive MIMO antenna arrays. However, under random disturbances caused by non-stationary turbulence, the system faces a severe physical bottleneck: weak anti-interference capability due to narrow beamwidth, which can easily lead to a sharp drop in link capacity. Addressing the two major shortcomings of existing deep learning prediction schemes—susceptibility to sensor noise interference and negative capacity performance shifts during stable periods, and response lag due to memory inertia during sudden turbulence periods—this paper proposes an ARET-ALSTM active compensation network based on SNR-aware multimodal attention, agile reset and adaptive event-triggered mechanisms. This network incorporates an event-triggered mechanism governed by a dynamic physical variance threshold, adaptively executing compensation during stable intervals to prevent excessive overshoot and redundant computational overhead. Simultaneously, it employs an agile feature reset mechanism based on an adaptive sliding window for concept drift detection, forcibly discarding old memories and reconstructing attention weights during sudden wind shear, achieving millisecond-level ultra-fast adaptation and directly driving network optimization with the goal of maximizing communication capacity. Simulation experiments show that, under different array configurations ranging from 2×2 to 16×16 and complex flow conditions, ARET-ALSTM successfully overcomes the physical capacity collapse limitation under large antenna scales, and its tracking agility and robustness are significantly better than benchmark algorithms such as Transformer, RNN and traditional Kalman filtering.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": false,
+      "pdf_url": "",
+      "url": "https://doi.org/10.4271/2026-99-2954"
+    },
+    {
+      "id": "openalex-W7222872205",
+      "doi": "10.5281/zenodo.23457530",
+      "title": "Jailbreaking Aligned Large Language Models: A Systematic Survey of Attack Taxonomies, Evaluation Frameworks, and Defense Mechanisms",
+      "title_zh": "",
+      "authors": [
+        "Aref Mahmoudpour"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "计算机科学",
+      "topics": [
+        "Adversarial Robustness in Machine Learning",
+        "Security and Verification in Computing",
+        "Topic Modeling"
+      ],
+      "abstract": "Large language models (LLMs) are now deployed to hundreds of millions of users, and their safe behavior depends on alignment techniques such as supervised fine-tuning and reinforcement learning from human feedback. Yet a class of adversarial inputs known as jailbreaks continues to circumvent these safeguards, eliciting outputs the models were trained to refuse. This paper presents a systematic survey of the jailbreak literature. We formalize the threat model, propose a two-dimensional taxonomy that separates attacks by adversary capability (white-box versus black-box) and by exploitation mechanism, and review representative methods in each category, from gradient-based suffix optimization to persuasion-driven and many-shot techniques. We then examine how the community evaluates attacks and defenses, covering benchmarks, success metrics, and automated judges, and we organize defense strategies into prompt-level, model-level, and system-level interventions. Finally, we identify open challenges — including the generalization of defenses, the security of agentic and multimodal systems, and the limits of current evaluation — and outline directions for future research.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.23457530"
+    },
+    {
+      "id": "openalex-W7222888967",
+      "doi": "10.46889/jnor.2026.6304",
+      "title": "Multimodal Brain Data and Deep Learning for Clinical Prediction in Neurology",
+      "title_zh": "",
+      "authors": [
+        "Yunhao Xie",
+        "Xueyin Ma",
+        "Peijia Wu",
+        "Yanan Dai"
+      ],
+      "year": 2026,
+      "venue": "Journal of Neuro and Oncology Research",
+      "field": "医学",
+      "topics": [
+        "Dementia and Cognitive Impairment Research",
+        "Functional Brain Connectivity Studies",
+        "Machine Learning in Healthcare"
+      ],
+      "abstract": "Neurological disorders unfold across distributed structural, functional, physiological, cognitive and behavioral systems, making single-modality prediction attractive yet biologically incomplete. Against this backdrop, deep learning has enabled models that preserve modality-specific information while learning relationships among anatomy, metabolism, connectivity, electrophysiology, clinical features and genetics. Evidence has accumulated most coherently in Alzheimer’s disease, where multimodal MRI, PET, cognition and demographic data improve discrimination, staging and prognostic estimation across heterogeneous clinical states. Attention-based and hierarchical architectures suggest that these gains arise from biologically meaningful fusion rather than from simply adding variables. Related advances extend the approach to autism, multiple sclerosis, depression, epilepsy, stroke, glioma and sleep disorders, while wearable physiological signals broaden prediction beyond hospital-based imaging. Interpretable probability maps, tract-specific representations and latent markers of apparently normal tissue further shift prediction from opaque classification toward patient-level evidence synthesis with potential relevance for risk stratification and treatment-response assessment. Yet clinical value remains conditional rather than guaranteed. Much of the literature relies on small, internally tested cohorts, inconsistent metrics and limited external or prospective validation, while scanner differences, missing modalities, domain shift and systematic bias can undermine apparently strong performance. Robustness therefore requires biologically grounded fusion, calibrated uncertainty, fairness assessment, explicit correction of biases such as brain-age effects and validation across institutions and workflows. The next step is not merely larger models, but prospective implementation studies that establish when multimodal predictions change care, how clinicians can interpret them and whether they improve outcomes.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": false,
+      "pdf_url": "",
+      "url": "https://doi.org/10.46889/jnor.2026.6304"
+    },
+    {
+      "id": "openalex-W7222889939",
+      "doi": "10.5281/zenodo.23448978",
+      "title": "AI-Based Waste Classification and Smart Waste Management Systems: Techniques, Challenges, and Future Directions",
+      "title_zh": "",
+      "authors": [
+        "Mohammed Zain. I",
+        "Mohammed Hashir",
+        "Mohammad Zuhaib Wani",
+        "Md Yusuf Ali",
+        "Kavitha D D"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "环境科学",
+      "topics": [
+        "Municipal Solid Waste Management",
+        "Advanced Neural Network Applications",
+        "Waste Management and Recycling"
+      ],
+      "abstract": "Rapid urban growth and the corresponding rise in municipal solid waste have intensified the need for efficient and scalable waste management solutions. Conventional segregation practices, which largely rely on manual intervention, are often time-consuming, inconsistent, and unsuitable for handling large volumes of waste. In recent years, advancements in Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL) have facilitated the development of intelligent systems capable of automating waste classification and monitoring processes. This survey provides a detailed review of 13 research studies published between 2021 and 2025, with a focus on AI-driven approaches for waste management. It examines a range of techniques, including Convolutional Neural Networks (CNNs), object detection frameworks, and hybrid learning models, along with the datasets, evaluation metrics, and system designs employed in these works. A comparative assessment is carried out to analyze the performance, advantages, and limitations of the existing methodologies. The review further identifies critical research gaps, such as the absence of standardized benchmark datasets, limited real-time implementation, lack of multimodal sensor integration, and insufficient emphasis on model interpretability. Based on these findings, the paper outlines potential future directions, including the adoption of edge-based AI systems, integration with IoT-enabled smart infrastructure, and the use of advanced detection models to support scalable and efficient waste management in smart city environments.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.23448978"
+    },
+    {
+      "id": "openalex-W7222898774",
+      "doi": "10.1158/1538-7755.disp26-b040",
+      "title": "Abstract B040: Learning multimodal breast cancer phenotypes for precision oncology",
+      "title_zh": "",
+      "authors": [
+        "Xiaoyang Wei",
+        "Madhu Sikha",
+        "Zhemin Zhang",
+        "Judy Wawira Gichoya",
+        "Imon Banerjee"
+      ],
+      "year": 2026,
+      "venue": "Cancer Epidemiology Biomarkers & Prevention",
+      "field": "人工智能",
+      "topics": [
+        "Radiomics and Machine Learning in Medical Imaging",
+        "AI in cancer detection",
+        "Machine Learning in Healthcare"
+      ],
+      "abstract": "Abstract Background: Screening mammography is the cornerstone of breast cancer detection and is routinely performed before treatment initiation, providing a unique opportunity for early risk stratification. Beyond tumor detection, screening mammograms contain imaging biomarkers that reflect underlying tumor biology and the surrounding breast microenvironment. However, treatment response and long-term outcomes are driven by complex interactions between imaging phenotypes and patient-specific clinical characteristics that are not fully captured by mammography or conventional clinicopathologic staging alone. Integrating pre-treatment mammograms with longitudinal clinical data enables comprehensive patient representations that can inform therapeutic decision-making before neoadjuvant therapy (NAC) begins. Methods: We developed a multimodal framework to learn comprehensive patient phenotypes by integrating pre-treatment mammograms with longitudinal unstructured multispecialty clinical notes. Mammograms were encoded using MammoFM, a federated breast imaging foundation model pre-trained on large-scale, multi-institutional datasets, with the four standard views (CC and MLO) fused through a multi-view attention mechanism. Longitudinal peri-diagnostic EHR notes (3 months before to 2 months after diagnosis) were processed using a large language model (LLM) to generate semantic clinical embeddings from key patient characteristics. Imaging and clinical embeddings were then integrated through a cross-modal fusion transformer to learn unified multimodal patient phenotypes that capture complementary imaging and clinical information. These transferable phenotypic representations were subsequently leveraged for downstream prediction of pathological complete response (pCR) following NAC and long-term distant recurrence risk. Results: The multimodal phenotyping framework was developed using an internal cohort of 1,064 breast cancer patients from Mayo Clinic (AZ, MN, and FL) and evaluated on an independent held-out test set (n = 35). The learned multimodal patient representations consistently outperformed unimodal approaches across downstream prediction tasks. For long-term recurrence prediction, the multimodal phenotype achieved 85.71% balanced accuracy and an AUROC of 0.760, compared with 71.43% accuracy for mammography-only and 78.57% for clinical-only models. For prediction of pCR, the multimodal phenotype achieved 64.29% accuracy, outperforming mammography-only (35.71%) and clinical-only (46.43%) models. Conclusions: We developed a transferable multimodal patient phenotyping framework that integrates pre-treatment mammography with longitudinal clinical documentation to learn comprehensive representations of breast cancer patients. These multimodal phenotypes consistently outperformed imaging- or clinical-only representations for predicting pCR and long-term recurrence, demonstrating their potential as a generalizable foundation for precision oncology, risk stratification, and personalized treatment planning. Citation Format: Xiaoyang Wei, Madhu Sikha, Zhemin Zhang, Judy W. Gichoya, Imon Banerjee. Learning multimodal breast cancer phenotypes for precision oncology [abstract]. In: Proceedings of the 19th AACR Conference on the Science of Cancer Health Disparities; 2026 Oct 18-21; Atlanta, GA. Philadelphia (PA): AACR; Cancer Epidemiol Biomarkers Prev 2026;35(10 Suppl):Abstract nr B040.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": false,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1158/1538-7755.disp26-b040"
+    },
+    {
+      "id": "openalex-W7222904782",
+      "doi": "10.61445/btb04y10",
+      "title": "Advocating Silent Learners in Language Education: An Ecological System Perspective",
+      "title_zh": "",
+      "authors": [
+        "Dodi Widia Nanda"
+      ],
+      "year": 2026,
+      "venue": "TOFEDU The Future of Education Journal",
+      "field": "社会科学",
+      "topics": [
+        "EFL/ESL Teaching and Learning",
+        "Communication in Education and Healthcare",
+        "English Language Learning and Teaching"
+      ],
+      "abstract": "Silent learners, students who participate minimally in classroom discussions pose challenges for equitable language education. Despite possessing sufficient comprehension, these students often remain unrecognized due to anxiety, cultural norms, or personality traits, potentially limiting their learning outcomes. This study aims to explore the experiences of silent learners in English language classrooms through an ecological systems perspective, examining how various environmental layers influence their engagement. A qualitative descriptive design was employed, involving 15 undergraduate students identified as consistently quiet and five English lecturers from Universitas Dharmas Indonesia. Data were collected through classroom observations over six weeks, semi-structured interviews, and document analysis, capturing both verbal and non-verbal interactions. Thematic analysis was applied to organize findings according to microsystem, mesosystem, exosystem, macrosystem, and chronosystem layers. Results revealed that students participated more confidently in small-group discussions and written tasks, while supportive teacher and peer interactions enhanced comfort and engagement. Parent-teacher communication and aligned home-school strategies further promoted learners’ confidence. Institutional policies emphasizing oral participation often limited engagement, whereas digital platforms and multimodal assessment provided alternative avenues. Cultural norms favoring assertiveness influenced expectations and participation patterns, and longitudinal blended learning interventions increased confidence over time. The study underscores the interconnectedness of ecological layers in shaping silent learners’ engagement. Practical implications include diversifying participation formats, leveraging family and peer support, and adopting culturally responsive teaching and inclusive assessment practices. These strategies can guide educators and policymakers to create equitable learning environments where silent learners’ contributions are recognized and nurtured, ultimately supporting confidence, participation, and language development.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://journal.tofedu.or.id/index.php/index/article/view/2399"
+    },
+    {
+      "id": "openalex-W7222913492",
+      "doi": "",
+      "title": "LEARNING THE CONCEPT OF RACIAL CONSCIOUSNESS THROUGH MUHAMMAD ALI'S HUMOR AND IRONY",
+      "title_zh": "",
+      "authors": [
+        "Ayesha Siddiqa",
+        "Sadia Siddiq",
+        "Dr. Ayesha Inayat"
+      ],
+      "year": 2026,
+      "venue": "Applied Linguistics Research Review",
+      "field": "社会科学",
+      "topics": [
+        "Rhetoric and Communication Studies",
+        "Critical and Liberation Pedagogy",
+        "Cultural and political discourse analysis"
+      ],
+      "abstract": "The world of formal schooling is not the sole location of socialization in terms of race. Spoken and recorded in public settings, Muhammad Ali was a master of popular racial pedagogy, teaching both mass audiences and his audience to the public the suppressed history of race, structural racism, and the often-unspoken, though deeply rooted, ideology of race in the daily cultural signs of everyday existence. In this study, 20 videos of Ali's speeches are analyzed using Barthes's (1972) theory of myth and Freire's (1970, 2000) critical pedagogy framework which is based on two categories of rationalization and mythopoesis as proposed by Van Leeuwen (1996, 2008). The study employs three research questions: How did Ali make use of humor and irony in order to reduce the resistance of the audience? How did Ali's analogical reasoning teach the audience the new way of thinking structurally about race? How did Ali's narrative and mythopoeic strategies convey suppressed histories of race and culture? The results reveal that Ali's pedagogy was a threefold process: defamiliarization through humor and irony, demonstration through structure according to analogy, and restoration of knowledge through narration, where multimodal performances play a crucial role in each. The study can be read as a piece of critical pedagogy scholarship work, of race and communication research, and of the study of popular education as a space of counter-hegemonic knowledge production. Keywords: Muhammad Ali; critical pedagogy; racial consciousness; humor and irony; analogy; popular education; Freire; Barthes; multimodal rhetoric.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "http://arlreview.com/index.php/03/article/view/75"
     },
     {
       "id": "arxiv-2403.05530",
