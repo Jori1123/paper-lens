@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-11-09T01:44:55.636734+00:00",
+    "updated_at": "2026-11-10T04:09:20.202886+00:00",
     "source": "OpenAlex",
     "queries": [
       "artificial intelligence",
@@ -10,7 +10,7 @@
       "multimodal learning"
     ],
     "window_years": 10,
-    "count": 5777
+    "count": 5824
   },
   "papers": [
     {
@@ -1474,6 +1474,35 @@
       "open_access": true,
       "pdf_url": "",
       "url": "https://doi.org/10.1145/3767308.3835546"
+    },
+    {
+      "id": "openalex-W7202339875",
+      "doi": "10.1609/aiide.v22i1.43603",
+      "title": "IF:CARGO: LLM-Based Semantic Compilation for Al-Native Rule Programming Games",
+      "title_zh": "",
+      "authors": [
+        "Ting-Chen Hsu",
+        "Lianye Zhang",
+        "Jiangxu Lin",
+        "Zhaoyi Yu",
+        "Fei Qin",
+        "Zihao Chen"
+      ],
+      "year": 2026,
+      "venue": "Proceedings of the AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment",
+      "field": "计算机科学",
+      "topics": [
+        "Artificial Intelligence in Games",
+        "Educational Games and Gamification",
+        "Digital Games and Media"
+      ],
+      "abstract": "This case study presents IF: CARGO, an experimental puzzle game that uses a large language model as a semantic compiler rather than an autonomous game-playing agent. Players author IF/THEN rules in natural language, which the model translates into a constrained command schema for deterministic validation and execution by the game engine. This architecture creates a playable loop of expression, execution, observation, and revision, framing AI interaction as semantic debugging. A mixed-methods playtest with 24 participants across eight levels examined player attempts, thinking time, perceived controllability, adjustability, and interpretations of the AI’s role. Results suggest that players generally understood the model as a translation intermediary and could revise their strategies through feedback, while periodic commands, multi-robot coordination, and rule-priority mechanics created greater cognitive and diagnostic demands. The study proposes a practical pattern for AI-native gameplay: constrain natural-language input, preserve player authorship, and ensure deterministic execution.",
+      "abstract_zh": "",
+      "citations": 2,
+      "popularity": 29,
+      "open_access": true,
+      "pdf_url": "https://arxiv.org/pdf/2608.12195",
+      "url": "https://arxiv.org/abs/2608.12195"
     },
     {
       "id": "openalex-W7154965075",
@@ -134618,7 +134647,7 @@
       "popularity": 18,
       "open_access": true,
       "pdf_url": "",
-      "url": "https://hal.science/hal-05843852"
+      "url": "https://hal.science/hal-05843852v2"
     },
     {
       "id": "openalex-W7225044187",
@@ -138200,7 +138229,7 @@
       "popularity": 18,
       "open_access": false,
       "pdf_url": "",
-      "url": "https://univ-evry.hal.science/hal-05848075"
+      "url": "https://hal.science/hal-05848075v1"
     },
     {
       "id": "openalex-W7225138386",
@@ -141540,7 +141569,7 @@
       "popularity": 18,
       "open_access": false,
       "pdf_url": "",
-      "url": "https://hal.science/hal-05847765"
+      "url": "https://hal.science/hal-05847765v1"
     },
     {
       "id": "openalex-W7225291438",
@@ -143886,7 +143915,7 @@
       "popularity": 18,
       "open_access": true,
       "pdf_url": "",
-      "url": "https://hal.science/hal-05797948"
+      "url": "https://hal.science/hal-05797948v1"
     },
     {
       "id": "openalex-W7115590303",
@@ -145111,7 +145140,7 @@
         "Advanced Neural Network Applications",
         "Vehicle License Plate Recognition"
       ],
-      "abstract": "Abstract Global herbarium digitization has produced over 50 million specimen images, many of which contain handwritten or printed labels with rich metadata such as species names, collection dates, localities, and ecological notes. Manual transcription of this information is labor intensive, error prone, and not scalable, which has motivated the development of automated solutions. This systematic review examines studies published between 2018 and 2026, identified through electronic database searches and backward reference screening, focusing on deep learning and computer vision approaches for herbarium label digitization. The reviewed methods include convolutional neural networks, transformer‐based models, large language models, and open‐source pipelines for optical character recognition and structured metadata extraction from historical and handwritten botanical records. The results highlight significant advances in label detection, text recognition accuracy, and metadata structuring enabled by deep learning techniques, although reported performance varies considerably depending on dataset quality, handwriting complexity, and domain adaptation strategies. Despite this progress, substantial challenges remain in handling historical handwriting styles, heterogeneous label layouts, and multilingual collections. Future research should emphasize the creation of curated benchmark datasets and the development of scalable, robust artificial intelligence (AI) pipelines to enhance the reliability, efficiency, and generalizability of automated herbarium digitization systems.",
+      "abstract": "Global herbarium digitization has produced over 50 million specimen images, many of which contain handwritten or printed labels with rich metadata such as species names, collection dates, localities, and ecological notes. Manual transcription of this information is labor intensive, error prone, and not scalable, which has motivated the development of automated solutions. This systematic review examines studies published between 2018 and 2026, identified through electronic database searches and backward reference screening, focusing on deep learning and computer vision approaches for herbarium label digitization. The reviewed methods include convolutional neural networks, transformer-based models, large language models, and open-source pipelines for optical character recognition and structured metadata extraction from historical and handwritten botanical records. The results highlight significant advances in label detection, text recognition accuracy, and metadata structuring enabled by deep learning techniques, although reported performance varies considerably depending on dataset quality, handwriting complexity, and domain adaptation strategies. Despite this progress, substantial challenges remain in handling historical handwriting styles, heterogeneous label layouts, and multilingual collections. Future research should emphasize the creation of curated benchmark datasets and the development of scalable, robust artificial intelligence (AI) pipelines to enhance the reliability, efficiency, and generalizability of automated herbarium digitization systems.",
       "abstract_zh": "",
       "citations": 0,
       "popularity": 18,
@@ -147090,7 +147119,7 @@
       "popularity": 18,
       "open_access": true,
       "pdf_url": "",
-      "url": "https://hal.science/hal-05793859"
+      "url": "https://hal.science/hal-05793859v1"
     },
     {
       "id": "openalex-W7225464047",
@@ -147114,7 +147143,7 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "pdf_url": "",
+      "pdf_url": "https://fupubco.com/futech/article/download/1098/372/2751",
       "url": "https://doi.org/10.55670/fpll.futech.5.4.7"
     },
     {
@@ -147740,8 +147769,8 @@
       "abstract_zh": "",
       "citations": 0,
       "popularity": 18,
-      "open_access": false,
-      "pdf_url": "",
+      "open_access": true,
+      "pdf_url": "https://ijcope.org/wp-content/uploads/2026/11/Multimodal-Emotion-Detection-in-Distributed-Data-Streams-Deep-Transformer-Ensembles-Cross-Modal-Attention-Fusion-and-Benchmark-Evaluation-1.pdf",
       "url": "https://doi.org/10.55041/ijcope.v2i11.028"
     },
     {
@@ -148216,7 +148245,7 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "pdf_url": "",
+      "pdf_url": "https://journals.innovareacademics.in/index.php/ajpcr/article/download/61841/34716",
       "url": "https://doi.org/10.22159/ajpcr.2026v19i11.61841"
     },
     {
@@ -148315,7 +148344,7 @@
         "Hydrogels: synthesis, properties, applications",
         "Tissue Engineering and Regenerative Medicine"
       ],
-      "abstract": "This Perspective proposes an integrated experimental and computational framework for investigating extracellular material memory: whether a defined formation or conditioning history leaves persistent material features that influence cells introduced after the original stimulus has been withdrawn. Fibrin serves as an initial demonstrator. The proposed workflow separates encoding, retention, delayed cellular readout, selective material modification, and independent reconstruction of candidate features. It distinguishes extracellular retention from cellular mechanical memory, residual stimuli, and ongoing activity of persistent molecular components. The framework describes two implementation levels. A minimal platform combines controlled matrix preparation, quantitative imaging, mechanical characterization, and a standardized cellular assay. An expanded platform adds automation, multimodal measurements, uncertainty-aware prediction, and active learning to guide experiment and intervention selection. Computational models would be evaluated prospectively against simpler baselines using independently prepared specimens. Within the MMD, TMP, and MME research program, the article connects causal testing of altered microenvironments, investigation of material retention and readout, and controlled modification toward predefined functional targets. Explicit evidence gates distinguish positive findings, adequately supported negative results, and technically inconclusive outcomes. Immediate functional improvement, persistence after intervention withdrawal, and response to a subsequent challenge are assessed separately. Building on established research in fibrin mechanics, cellular mechanical memory, and computational biomaterial discovery, the contribution is an integrated research strategy rather than a claim to have discovered these phenomena. This document is a conceptual Perspective and research roadmap. It reports no new experimental results, validated computational platform, or demonstrated therapeutic efficacy. It does not represent participation or endorsement by any specific laboratory or institution.",
+      "abstract": "This Perspective proposes an integrated experimental and computational framework for investigating extracellular material memory: whether a defined formation or conditioning history leaves persistent material features that influence cells introduced after the original stimulus has been withdrawn. Fibrin serves as an initial demonstrator. The proposed workflow separates encoding, retention, delayed cellular readout, selective material modification, and independent reconstruction of candidate features. It distinguishes extracellular retention from cellular mechanical memory, residual stimuli, and ongoing activity of persistent molecular components. The framework describes two implementation levels. A minimal platform combines controlled matrix preparation, quantitative imaging, mechanical characterization, and a standardized cellular assay. An expanded platform adds automation, multimodal measurements, uncertainty-aware prediction, and active learning to guide experiment and intervention selection. Computational models would be evaluated prospectively against simpler baselines using independently prepared specimens. Within the MMD, TMP, and MME research program, the article connects causal testing of altered microenvironments, investigation of material retention and readout, and controlled modification toward predefined functional targets. Explicit evidence gates distinguish positive findings, adequately supported negative results, and technically inconclusive outcomes. Immediate functional improvement, persistence after intervention withdrawal, and response to a subsequent challenge are assessed separately. Building on established research in fibrin mechanics, cellular mechanical memory, and computational biomaterial discovery, the contribution is an integrated research strategy rather than a claim to have discovered these phenomena. This document is a conceptual Perspective and research roadmap. It reports no new experimental results, validated computational platform, or demonstrated therapeutic efficacy. It does not represent participation or endorsement by any specific laboratory or institution. Version 2 - This Perspective proposes an integrated experimental and computational platform for testing whether a defined formation or conditioning history leaves a retained extracellular material state that influences subsequently introduced cells. Fibrin serves as an initial demonstrator, drawing on established evidence of loading-history dependence and structural adaptation. The proposed sequence combines controlled encoding, verified stimulus withdrawal, acellular retention, delayed cellular readout, material intervention, and independent reconstruction of candidate features. Three tables summarize platform capabilities, causal comparisons, and staged evidence gates. This updated version expands the strategy for evaluating both newly designed molecules and repurposed drugs. It distinguishes prevention of matrix formation from modification of an established substrate and defines Go/Modify/No-Go criteria for candidate advancement. Rentosertib provides an illustrative precedent for connecting AI-assisted discovery with experimental and clinical validation, without constituting evidence of extracellular memory erasure. Computational models and active learning are proposed as tools for prioritizing experiments and interventions. Their contribution would require prospective evaluation against simpler approaches using independently prepared specimens. Controls address residual drug activity, soluble carryover, nonspecific matrix damage, and cellular remodeling. The manuscript connects MMD, TMP, and MME as working conceptual frameworks while distinguishing material retention, causal biological effects, and durable functional improvement. This is a conceptual Perspective and research roadmap. It reports no new experimental results and does not establish therapeutic efficacy or provide a fully specified laboratory protocol.",
       "abstract_zh": "",
       "citations": 0,
       "popularity": 18,
@@ -148346,7 +148375,7 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "pdf_url": "",
+      "pdf_url": "https://www.nature.com/articles/s41598-026-77969-6_reference.pdf",
       "url": "https://doi.org/10.1038/s41598-026-77969-6"
     },
     {
@@ -148371,7 +148400,7 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "pdf_url": "",
+      "pdf_url": "https://www.nature.com/articles/s41598-026-78737-2_reference.pdf",
       "url": "https://doi.org/10.1038/s41598-026-78737-2"
     },
     {
@@ -148496,6 +148525,1164 @@
       "open_access": true,
       "pdf_url": "",
       "url": "https://doi.org/10.5281/zenodo.24034882"
+    },
+    {
+      "id": "openalex-W7225607059",
+      "doi": "",
+      "title": "Transforming Thoracic Surgery with Artificial Intelligence and Extended Reality",
+      "title_zh": "",
+      "authors": [
+        "Quinten Jonathan Mank"
+      ],
+      "year": 2026,
+      "venue": "EUR Research Repository (Erasmus University Rotterdam)",
+      "field": "工程学",
+      "topics": [
+        "Anatomy and Medical Technology",
+        "Medical Image Segmentation Techniques",
+        "Augmented Reality Applications"
+      ],
+      "abstract": "Anatomical lung resections, especially segmentectomies performed through VATS or RATS, require the surgeon to know the patient’s bronchovascular anatomy precisely. Conventional 2D CT leaves the surgeon to reconstruct this 3D anatomy mentally. Static preoperative imaging also fails to capture how the lung deforms during surgery. This thesis investigates how artificial intelligence (AI), 3D reconstruction, physics-based modelling and extended reality (XR) can support thoracic surgery across three phases: preoperative planning, intraoperative guidance and postoperative evaluation. Part I replaces a manual, open-source reconstruction workflow, which takes 1.5–2 hours per patient, with deep learning models (nnU-Net). These models segment pulmonary arteries and veins automatically in under 5 minutes, with Dice scores of 0.91–0.92. They also detect and measure thoracic lymph nodes automatically (Dice 0.74). In congenital lung abnormalities, viewing AI-generated models in virtual reality improved anatomical understanding and made lung-sparing segmentectomies possible. Part II introduces simulated reality: deformable 4D lung models built with AI and the finite element method (Pulmo-SR), which showed high anatomical accuracy and a latency of 0.23 seconds. This part also describes the first clinical use of AI-driven augmented reality in robotic lung surgery, with real-time instrument recognition. It then covers automated recognition of anatomical orientations in surgical video. Part III shows that postoperative AI-based 3D reconstruction found clinically relevant differences between the intended and the achieved resection in nearly one-third of segmentectomies planned on 2D imaging. This makes the method useful as an objective audit tool.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": false,
+      "pdf_url": "",
+      "url": "https://pure.eur.nl/en/publications/e44c118b-490b-42d4-9eb1-7780645cd8fb"
+    },
+    {
+      "id": "openalex-W7225600891",
+      "doi": "",
+      "title": "Provable State Estimation with Recurrent Models",
+      "title_zh": "",
+      "authors": [
+        "Vincent Andrieu",
+        "Pauline Bernard",
+        "Lucas Brivadis",
+        "Laurent Praly",
+        "Christian Wolf"
+      ],
+      "year": 2026,
+      "venue": "HAL",
+      "field": "计算机科学",
+      "topics": [
+        "Neural Networks and Applications",
+        "Control Systems and Identification",
+        "Model Reduction and Neural Networks"
+      ],
+      "abstract": "Estimating the state of a dynamical system from observations is a crucial task in robotics and control. Despite their empirical success, recurrent models often lack formal guarantees on convergence and robustness. We bridge this gap by analyzing these architectures from the perspective of nonlinear observer theory. By framing RNNs as a time-discretization of continuous latent dynamical systems (Neural ODEs), we demonstrate that enforcing a contraction condition on the latent flow guarantees the existence of a smooth, injective map of the true physical state into the latent space. We prove that this architecture acts as a tunable observer: by increasing a single scalar gain that scales the latent vector field, the estimation error can be driven to an arbitrarily small neighborhood of zero at an exponentially fast rate. We further establish quantitative bounds on the MLP complexity required to decode this latent state, and extend our formal guarantees to the discrete-time residual RNN implementation. We validate the theory on a real mobile robotic task, where a provably contracting model outperforms a vanilla GRU with substantially more stable training. We also report that unconstrained GRUs converge to contracting dynamics on this task, suggesting that contraction is an emergent property of well-trained sequence models.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://hal.science/hal-05854187"
+    },
+    {
+      "id": "openalex-W7225607264",
+      "doi": "",
+      "title": "The Social Power of Living Skin",
+      "title_zh": "",
+      "authors": [
+        "Hanna Gerda Brøndal"
+      ],
+      "year": 2026,
+      "venue": "OpenAlex",
+      "field": "社会科学",
+      "topics": [
+        "Social Robot Interaction and HRI",
+        "Art, Technology, and Culture",
+        "Cybernetics and Technology in Society"
+      ],
+      "abstract": "Skin is an expressive medium that communicates emotive states and identity. When applied to social robots, skin becomes an aesthetic interface where robots actively enact a social presence. This paper suggests an image theoretical approach to robotic skin, understood as living images, that emphasizes its pictorial and material potential to move beyond representational models that treat social expressiveness as mere imitation. I focus on two 2024 photos of biohybrid skin from the Biohybrid Systems Laboratory at the University of Tokyo––a combination of living human skin cells with robotic substrates. I contend that robotic skin––as a social actor––makes humans rethink the social status of robots, disrupting two key modes of human perception: our bodily boundaries and sense of time.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": false,
+      "pdf_url": "",
+      "url": "https://pure.au.dk/portal/en/publications/5da913d1-468d-4cdd-8359-dfc230b8bb66"
+    },
+    {
+      "id": "openalex-W7225587483",
+      "doi": "10.1186/s40981-026-00890-4",
+      "title": "Evaluation of residual mitral regurgitation after robot-assisted mitral valve repair using the focused 3D method: a report of two cases",
+      "title_zh": "",
+      "authors": [
+        "Kazuto Miyata",
+        "Sayaka Shigematsu",
+        "Michie Sato",
+        "Ayano Okita"
+      ],
+      "year": 2026,
+      "venue": "JA Clinical Reports",
+      "field": "医学",
+      "topics": [
+        "Cardiac Valve Diseases and Treatments",
+        "Cardiac Arrhythmias and Treatments",
+        "Cardiac Imaging and Diagnostics"
+      ],
+      "abstract": "Abstract Background Rapid and accurate intraoperative assessment of residual mitral regurgitation (MR) after robot-assisted mitral valve repair is essential, although identifying its etiology using conventional two-dimensional transesophageal echocardiography (2D-TEE) can be challenging. We report two cases in which the Focused 3D Method facilitated intraoperative assessment of residual MR. Case presentation Two male patients underwent robot-assisted mitral valve repair for severe MR. The Focused 3D Method enabled accurate identification of the location and mechanism of residual MR. In one patient, the findings prompted a second pump run to correct a previously unrecognized A1 prolapse. In the other, the technique demonstrated shallow leaflet coaptation, supporting the decision to avoid reintervention. Both patients had favorable postoperative outcomes. Discussion The Focused 3D Method may improve intraoperative assessment of residual MR and support decision-making regarding the need for a second pump run after mitral valve repair.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1186/s40981-026-00890-4"
+    },
+    {
+      "id": "openalex-W7225593963",
+      "doi": "10.31130/ud-jst.2026.24(10).521e",
+      "title": "Speculative memory in Bora Chung’s Cursed Bunny: folklore, science fiction and the reconfiguration of cultural memory",
+      "title_zh": "",
+      "authors": [
+        "Nguyễn Phương Khánh"
+      ],
+      "year": 2026,
+      "venue": "The University of Danang - Journal of Science and Technology",
+      "field": "社会科学",
+      "topics": [
+        "Utopian, Dystopian, and Speculative Fiction",
+        "Memory, History, Trauma, Identity",
+        "Memory, Trauma, and Commemoration"
+      ],
+      "abstract": "This article examines how Bora Chung’s Cursed Bunny reconfigures cultural memory through the interaction of folklore and science fiction. Drawing on cultural memory studies and speculative fiction theory, it argues that these modes offer complementary ways of making memory. Curses, ghosts, and haunted objects bring suppressed histories into the present, while robots, posthuman bodies, and imagined worlds expose unresolved social contradictions. Memory thus moves across objects, bodies, spaces, and nonhuman subjects instead of remaining a stable archive. Adapting the concept of speculative memory, the article identifies three interrelated operations: haunting return, material displacement, and speculative projection. Together, these operations reveal how the collection critically reworks relations among past, present, and future, using speculative forms to interrogate history, technology, embodiment, and social transformation.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.31130/ud-jst.2026.24(10).521e"
+    },
+    {
+      "id": "openalex-W7129461931",
+      "doi": "10.1007/s10055-026-01535-8",
+      "title": "BUT telepresence: a fully open-source VR framework for low-latency stereoscopic video streaming with end-to-end latency instrumentation",
+      "title_zh": "",
+      "authors": [
+        "Stanislav Svědiroh",
+        "Luděk Žalud"
+      ],
+      "year": 2026,
+      "venue": "Virtual Reality",
+      "field": "工程学",
+      "topics": [
+        "Teleoperation and Haptic Systems",
+        "Virtual Reality Applications and Impacts",
+        "Image and Video Quality Assessment"
+      ],
+      "abstract": "Abstract Advances in immersive telepresence have enabled compelling virtual reality(VR)-based teleoperation, yet existing systems remain difficult to reproduce,inflexible in their streaming configuration, and largely devoid of end-to-endlatency instrumentation. Current research prototypes typically rely on fixedencoding parameters, do not expose a unified interface for real-time reconfig-uration, and rarely support hardware-accelerated decoding on standalone VRheadsets. As a result, the community lacks an open, validated reference frame-work for low-latency stereoscopic teleoperation. This paper introduces a fullyopen-source VR telepresence system that integrates stereoscopic capture ona two-degrees-of-freedom (2-DOF) camera module, low-latency encoding usingGStreamer, head-coupled camera actuation, and a native OpenXR applicationcapable of hardware-accelerated decoding on modern standalone VR headsets.A key contribution is a built-in end-to-end latency instrumentation mechanismthat timestamps each stage of the pipeline and embeds these measurementsinto the media stream, enabling continuous monitoring by the VR client. Thisinformation enables the user to dynamically adjusts codec, resolution, andframe rate to maintain stable operator perception under heterogeneous networkconditions, including wireless links. The framework is validated in representa-tive robotics scenarios, demonstrating reliable stereoscopic teleoperation withmeasured end-to-end latencies down to approximately 50–80 ms in optimized1configurations and around 80-100 ms under constrained wireless conditions,with the VR headset’s pose prediction helping to mitigate perceived delay forthe operator. All software, including benchmark datasets and Grafana dash-board configuration, is released publicly at https://github.com/Robotics-BUT/BUT Telepresence to support reproducibility and future research.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1007/s10055-026-01535-8"
+    },
+    {
+      "id": "openalex-W7225558373",
+      "doi": "10.17816/0321-4443-713461",
+      "title": "CREATION OF AN UNMANNED AGRICULTURAL TRACKED MOBILE POWER PLANT OF TRACTION CLASS 8 WITH AN ELECTROMECHANICAL TRANSMISSION",
+      "title_zh": "",
+      "authors": [
+        "Zakhid Godzhaev",
+        "Givi Nadareishvili",
+        "Kirill Karpukhin",
+        "Sergey Karyakin",
+        "Konstantin Leksin",
+        "Saveliy Bolikov"
+      ],
+      "year": 2026,
+      "venue": "Tractors and Agricultural Machinery",
+      "field": "工程学",
+      "topics": [
+        "Agricultural Engineering and Mechanization",
+        "Soil Mechanics and Vehicle Dynamics",
+        "Mechanical Systems and Engineering"
+      ],
+      "abstract": "The use of mobile, electrically powered energy systems increases the productivity and operational qualities of machines, reduces their environmental impact, and expands opportunities for digitalization through integration.with digital monitoring, telemetry and autonomous control systems. The purpose of these studies is to develop robotic unmanned transport and technological means with a capacity of about 410 hp and a complex of technological machines for gardening in order to achieve the results of the departmental project \"Development of institutes for grant support to researchers, scientific and creative teams\" of the state program of the Russian Federation \"Scientific and Technological Development of the Russian Federation\". The object of the study is agricultural robotic unmanned transport and technological means (RBTTS) with an electromechanical transmission (EMT) with the conventional name \"RBTTS-400\" and a complex of technological machines for gardening (lifting platform, circular circular pruner, fan sprayer, herbicide sprayer). At this stage, the layout of a tractor with a triangular caterpillar track, its frame, as well as the basic and kinematic circuits of the electromechanical power transmission have been developed.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.17816/0321-4443-713461"
+    },
+    {
+      "id": "openalex-W7225563265",
+      "doi": "10.5281/zenodo.24050070",
+      "title": "Delayed Advice Audit: Code and Analyzed Data",
+      "title_zh": "",
+      "authors": [
+        "Junxiang Wang",
+        "Jiaoyang Su"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "计算机科学",
+      "topics": [
+        "Reinforcement Learning in Robotics",
+        "AI-based Problem Solving and Planning",
+        "Multi-Agent Systems and Negotiation"
+      ],
+      "abstract": "Code and analyzed data supporting “Auditing the Value of Delayed Advice in Autonomous Agents” by Junxiang Wang and Jiaoyang Su. The archive separates fitted-pipeline performance, runtime message dependence and the trajectory value of predefined message-channel interventions in robot simulation. It contains research software, compact analyzed source data for the manuscript and supplement, and a NumPy offline audit reproducing eight visual fitting/selection cells, 500 decisions and six primary paired-result vectors from cached normalized kernel distances and development labels. This compact audit does not independently verify visual feature extraction or kernel-distance construction and does not execute the simulator. Native experiment drivers are included with portable path handling. Third-party demonstrations, pretrained neural-network weights and the complete native trajectory archive are not redistributed. No real-robot or human-subject data are included. Release licenses: MIT for original code (third-party notices retained), and Creative Commons Attribution 4.0 International for analyzed data. No funding was received. Version 1.0.0.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.24050070"
+    },
+    {
+      "id": "openalex-W7225563994",
+      "doi": "10.5281/zenodo.24051957",
+      "title": "Diagnosing actuation limits before retraining robots with shared drives — reproducibility code, data and manuscript",
+      "title_zh": "",
+      "authors": [
+        "Shoniwa Mosekari"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "计算机科学",
+      "topics": [
+        "Reinforcement Learning in Robotics",
+        "Adaptive Dynamic Programming Control",
+        "Advanced Control Systems Optimization"
+      ],
+      "abstract": "Research materials accompanying the manuscript Diagnosing actuation limits before retraining robots with shared drives by Shoniwa Mosekari. The package contains source code, fixed model configurations, synthetic task arrays, numerical results, trained policies, ten main figures and two supplementary figures, source-data mappings, reproducibility checks, and manuscript and supplementary information. The study diagnoses controller deficits, conditional actuation limits and unresolved uncertainty using bounds over admissible controls and constructive robust witnesses. Its reference cases comprise a shared-drive integrator and a nonlinear pulse-actuation model. A separate repeatability review reproduced all 58 training runs, 22 CSV files, 71 NPZ files containing 310 arrays, four numerical JSON summaries and all twelve figure pixel arrays in the recorded environment, excluding wall-clock fields. The archive README documents the tested dependencies, execution commands and validation limits. All reported data are synthetic computational outputs, not measurements from a physical robot. Computational repeatability does not establish physical validation, cross-platform bitwise identity or directed-rounding certification. The archived manuscript is a pre-submission research version, not an accepted journal publication.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.24051957"
+    },
+    {
+      "id": "openalex-W7225565834",
+      "doi": "10.5281/zenodo.24055193",
+      "title": "The Co-Evolving Workspace: Toward a Field-Based Theory of Governed Human–Machine Cooperation",
+      "title_zh": "",
+      "authors": [
+        "Rogério Figurelli"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "社会科学",
+      "topics": [
+        "Human-Automation Interaction and Safety",
+        "Information Systems Theories and Implementation",
+        "Robot Manipulation and Learning"
+      ],
+      "abstract": "Human–machine collaboration is frequently described as a problem of shared physical space, accurate localization, safe motion, and efficient task allocation. Those capabilities are essential but do not, by themselves, explain whether an interaction remains authorized, interpretable, revisable, and collectively coherent while humans, machines, tasks, and rules change. This conceptual and methodological paper proposes the Co-Evolving Workspace Hypothesis: in sufficiently dynamic cooperative environments, the relevant object of analysis is not only a spatial configuration or a sequence of individual decisions, but a time-indexed relational constitution linking physical state, evidence, task commitments, human agency, authority, and verified consequences. A candidate Field-based representation is constructed as an optional, mission-relative abstraction for this constitution, not as a new physical field or a demonstrated scientific ontology. The proposed model distinguishes observation from warranted belief, action from effect, coordination from legitimate cooperation, and behavioral adaptation from authorized constitutional change. It specifies bounded propositions, operational invariants, defeaters, candidate measurements, independently labeled case families, and a prospective comparison against information-matched digital twins, partially observable decision models, formal safety monitors, policy engines, and conventional distributed-system architectures. The strongest outcome permitted by the research design is not presumed superiority of Field terminology: observational equivalence, explanatory redundancy, and a conclusion that no additional Field abstraction is needed are explicit possibilities. No robot trials, human-subject experiments, causal estimates, safety certification, or empirical improvement are reported. The contribution is a falsifiable framework for studying the conditions under which a shared workspace can change without losing accountability to the humans who inhabit it.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.24055193"
+    },
+    {
+      "id": "openalex-W7225568714",
+      "doi": "10.5281/zenodo.24055721",
+      "title": "Dataset of Questions Posted on Quora Regarding Robotic and Minimally Invasive Cardiac Surgery",
+      "title_zh": "",
+      "authors": [
+        "Armia Ahmadi-Hadad"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "医学",
+      "topics": [
+        "Cardiac and Coronary Surgery Techniques",
+        "Expert finding and Q&A systems",
+        "Minimally Invasive Surgical Techniques"
+      ],
+      "abstract": "The Excel files summarise the questions collected from Quora up to 18 October 2026 concerning robotic and minimally invasive cardiac surgery. Each Excel file contains a spreadsheet with all collected questions, alongside separate spreadsheets for each category. The category codes are provided in a separate Microsoft Word document.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.24055721"
+    },
+    {
+      "id": "openalex-W7225571431",
+      "doi": "10.5281/zenodo.24055685",
+      "title": "Raw and processed data supporting SVGC-RRT*: Sobol Sampling and Visibility-Guided Bidirectional Path Planning for Robotic Manipulators",
+      "title_zh": "",
+      "authors": [
+        "Junqiu Xiao",
+        "Shusheng Yu",
+        "Gongquan Tan",
+        "Hongjie Pang"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "工程学",
+      "topics": [
+        "Robotic Path Planning Algorithms",
+        "Reinforcement Learning in Robotics",
+        "Robotic Mechanisms and Dynamics"
+      ],
+      "abstract": "This dataset contains raw and processed simulation data supporting the study \"SVGC-RRT*: Sobol Sampling and Visibility-Guided Bidirectional Path Planning for Robotic Manipulators.\" It includes a 2D benchmark with 1,000 runs across five planners; a two-scene 3D comparison with 2,000 runs across five planners; a separate four-scene 3D validation with 400 SVGC-RRT* runs; and a six-degree-of-freedom SARM MATLAB experiment with 500 run-level records. The files include run-level metrics, experiment protocols and random seeds, convergence events and summaries, representative trajectories and saved path/tree data, scene configurations, DH and collision-model parameters, and ROS 2 visualization snapshots with capture metadata. The four-scene validation is separate from the five-planner 3D comparison. MATLAB statistics and selected trajectory files are provided as separate records and are not merged row by row. Experiments were not rerun to prepare this deposit. See README.md and DATA_DICTIONARY.md for file descriptions, units, definitions, provenance, and links to the manuscript tables and figures.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.24055685"
+    },
+    {
+      "id": "openalex-W7225572933",
+      "doi": "10.5281/zenodo.24054069",
+      "title": "Sim2Gate Diagnostic Benchmark v0.1: a prospective, blinded simulation benchmark of a pre-deployment diagnostic for quadruped locomotion policies",
+      "title_zh": "",
+      "authors": [
+        "Vihaan Kulkarni",
+        "Vijendra Kulkarni"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "工程学",
+      "topics": [
+        "Robotic Locomotion and Control",
+        "Reinforcement Learning in Robotics",
+        "Adversarial Robustness in Machine Learning"
+      ],
+      "abstract": "Sim2Gate Diagnostic Benchmark v0.1 is a frozen, prospective, blinded simulation benchmark of a pre-deployment diagnostic for legged-robot locomotion policies. Thirty Unitree Go2 policies were trained in Isaac Lab (10 controls; 20 with planted robustness deficits), and Sim2Gate's warnings and a nominal-success baseline were committed before any outcome was measured. Outcomes were then determined independently under three out-of-training stresses (friction 0.30, 40 ms action delay, 40% motor strength). Results (pre-registered): Sim2Gate flagged 13 of 19 policies that failed, against 1 of 19 for nominal success alone (exact McNemar p = 0.035). The result is fragile under pre-listed alternative analyses. Sim2Gate cleared 4 of 7 non-failing policies (specificity 0.57). Direct stress testing caught 8 of 19 with no false alarms. Whether Sim2Gate beats it was not tested. The severity hypothesis was not supported (ρ = −0.50). Strength deficits were a blind spot: matched-axis detection 0 of 5; aggregate 1 of 5. Files: sim2gate-benchmark-v0.1.tar.gz: the primary study (Tier F). Protocol, freeze record, prediction and truth tables, the 120 truth trajectories, the analysis output and open verifiers. sim2gate-tier-r-v0.1.tar.gz: the exploratory development study (Tier R), with its CLI and 152 trajectories. It informed the protocol and is never pooled with Tier F. VERIFICATION_NOTE.md and tier_r_float_check.py: cross-platform verification. v0.1 reproduces byte for byte on Linux and macOS. Tier R’s p-values can differ at about 10⁻¹² across platforms, with every label and count identical; the script confirms this. SHA256SUMS.txt and CITATION.cff. Verify it yourself (CPU, standard-library Python 3.10+, no contact with RootStep): verify_v0_1.py recomputes both confirmatory tests and checks every published number. verify_v0_1_truth.py recomputes the truth table byte for byte from the trajectories. tier_r.py all reproduces Tier R. See each archive's README. Code availability: the Sim2Gate scoring engine is not included. Sim2Gate's predictions are published as data and can't be recomputed from this release. Researchers interested in independent validation, integration or collaboration can contact RootStep at https://rootstep.ai. Licences: data CC BY 4.0; code and documentation Apache-2.0. An AI assistant (Anthropic's Claude) supported the engineering and drafting under the authors' direction; see CONTRIBUTIONS_V0_1.md in the primary archive.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.24054069"
+    },
+    {
+      "id": "openalex-W7225573609",
+      "doi": "10.25781/kaust-68nbs",
+      "title": "Opinion-Driven Decision-Making for Multi-Robot Navigation through Narrow Corridors",
+      "title_zh": "",
+      "authors": [
+        "Norah Alghamdi"
+      ],
+      "year": 2026,
+      "venue": "King Abdullah University of Science and Technology Repository (King Abdullah University of Science and Technology)",
+      "field": "工程学",
+      "topics": [
+        "Robotic Path Planning Algorithms",
+        "Evacuation and Crowd Dynamics",
+        "Distributed Control Multi-Agent Systems"
+      ],
+      "abstract": "The growing presence of robots in human environments, from residential settings and healthcare facilities to public spaces, has made the need for safe and cooperative navigation in shared spaces an increasingly critical requirement. Social navigation, which focuses on optimizing robot behavior to enhance human comfort and acceptability, is particularly challenged in constrained environments such as narrow corridors. In these environments, multiple agents must coordinate their passage without colliding or blocking one another, and the absence of explicit communication or centralized oversight makes the task especially prone to deadlock, where conflicting navigation intentions leave agents unable to proceed. This work presents an opinion-driven navigation framework for multi-robot traversal through a narrow corridor, leveraging the Nonlinear Opinion Dynamics (NOD) model to address the corridor passage problem formulated as a multi-robot navigation game. Integrating the NOD model with a multi-robot path planning algorithm allows coordination to emerge through consensus over strategy selection, rather than requiring any form of explicit negotiation, thereby effectively reducing the likelihood of deadlocks during corridor traversal. As the number of robots grows, maintaining this coordination becomes computationally demanding. To address this, a game reduction technique is introduced to limit each robot's decision-making to a dynamically chosen subset of the robots most likely to cause conflict, reducing the number of robots and strategies each robot must reason about; performance is maintained in the tested groups of up to four robots. The proposed framework is validated through extensive simulation studies, with dedicated experiments investigating how the attention parameter u_i, initial opinion conditions z_ij(0), and bias b_ij shape consensus outcomes. Moreover, to support deployment in real-time scenarios such as human-robot interaction, Multi-Layer Perceptron (MLP) networks are trained to approximate the PRM* path planner, enabling faster strategy computation. The framework is further evaluated through a game-based human-robot interaction study, in which behavioral coordination data is collected across both human-human and human-robot conditions, with the robot operating under the proposed approach. Together, the simulation studies, with up to four robots, demonstrate robust deadlock-free coordination across varying robot configurations and parameter settings, while the human-robot interaction game confirms the framework's ability to coordinate effectively with human agents in real-time decision-making scenarios.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.25781/kaust-68nbs"
+    },
+    {
+      "id": "openalex-W7225576420",
+      "doi": "10.5281/zenodo.24051534",
+      "title": "ANS 2027 Study 2: Which Sensors Does AI Need to Sense the Physical World?",
+      "title_zh": "",
+      "authors": [
+        "Liang Yuyang"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "物理学",
+      "topics": [
+        "Sensor Technology and Measurement Systems",
+        "Impact of AI and Big Data on Business and Society",
+        "Internet of Things and AI"
+      ],
+      "abstract": "This report examines the sensor categories needed for AI to sense the physical world continuously and how application deployment may change the mix of sensor components. It reviews traceable shipment information for selected categories, distinguishing reported data, historical forecasts, and author-defined scenarios. Differences in reference years, product coverage, and counting levels prevent these sources from establishing a unified global market-share estimate. The report then defines ten categories based on the principal measurement task, assigning each independent physical sensing component to one category to avoid double counting across chips, modules, complete products, and combined functions. Three illustrative mixes compare widespread environmental and item-level sensing, expansion across multiple sectors, and deployment of robots and autonomous equipment. They show how the relative demand for temperature, humidity, position, force, imaging, and other sensing functions may vary with applications. The proportions are scenario assumptions, not observed market shares, forecasts for a specific year, or probability estimates. The analysis distinguishes component counts, data volumes, and economic value, and discusses data accessibility, semantic context, quality, and authorization for AI-Native Sensors (ANS). Its component-based proportions cannot be directly multiplied by the measurement-function totals in Study 1.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.24051534"
+    },
+    {
+      "id": "openalex-W7225576436",
+      "doi": "10.1002/jcal.70365",
+      "title": "Research Trends of Artificial Intelligence‐Facilitated Computational Thinking in K‐12 STEM : A Systematic Review Through the Lens of Activity Theory",
+      "title_zh": "",
+      "authors": [
+        "Gang Yang",
+        "Huilin Zhang",
+        "Gwo‐Jen Hwang",
+        "Yun‐Fang Tu",
+        "Junjie Yan",
+        "Jing Liu"
+      ],
+      "year": 2026,
+      "venue": "Journal of Computer Assisted Learning",
+      "field": "计算机科学",
+      "topics": [
+        "Teaching and Learning Programming",
+        "Artificial Intelligence in Education",
+        "Educational Robotics and Engineering"
+      ],
+      "abstract": "ABSTRACT Background With the rapid advancement of artificial intelligence (AI), research in the cross‐disciplinary field of science, technology, engineering, and mathematics (STEM) education has increasingly focused on how to leverage AI to foster computational thinking (CT) among K‐12 students, given that CT, recognized as a core 21st‐century competency, plays a pivotal role in cultivating students’ literacy and equipping them with the ability to tackle complex problems. Objective Grounded in activity theory, this study seeks to identify the key factors shaping K‐12 students’ CT development in AI‐enhanced STEM education. It systematically analyzes: (a) the subjects involved and the types and roles of AI tools employed, (b) the purposes, periods, and CT dimensions within the object, (c) the methods, strategies, and evaluation performance applied within rules, (d) the learning domains within communities and the interactions within the division of labor, and (e) the developmental trends in outcomes. Method This study employed the PRISMA framework to systematically review 57 SSCI journal publications published between 2017 and 2025. In addition, Epistemic Network Analysis (ENA) was utilized to examine the current state of CT evaluation. Results and Conclusions Findings indicate that: (1) the primary subjects of the studies were elementary school students; expert systems and robotics were the most prevalent types of AI, which were frequently employed as learning tools; (2) the primary objective was to evaluate the effectiveness of AI in CT–K12–STEM, with periods typically ranging from 2 to 6 months, focusing on conceptual knowledge and practical skills; (3) the rules focused on exploratory learning and gamification strategies, employing quantitative research methods; (4) communities spanned cross‐disciplinary domains, with division of labor tending towards mixed interaction types; and (5) outcomes focused on the learning cognitive perspective, encompassing aspects such as learning performance and problem solving. Based on the research results, practical recommendations are provided for educational researchers and policymakers.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1002/jcal.70365"
+    },
+    {
+      "id": "openalex-W7225576765",
+      "doi": "10.5281/zenodo.24053713",
+      "title": "Human-Centered Monetary Continuity in the Age of Artificial Intelligence and Robotics: A Conceptual Inquiry into the Social Purpose of Money amid Changes in Production Agents",
+      "title_zh": "",
+      "authors": [
+        "Sungmin Lee"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "社会科学",
+      "topics": [
+        "Economic Theory and Institutions",
+        "Economic theories and models",
+        "Political Economy and Marxism"
+      ],
+      "abstract": "This paper, titled Human-Centered Monetary Continuity in the Age of Artificial Intelligence and Robotics, presents an exploratory conceptual inquiry into whether the social purpose of money may remain human-centered even as the agents and technologies responsible for production undergo substantial transformation. Historically, changes in production technologies and economic organization have influenced the forms and institutions of money. The increasing use of artificial intelligence, robotics, and automated systems raises a further question: if the structure and agents of production change, must the broader social purpose of money also change? This paper examines the relationship between production structures and monetary institutions by distinguishing the organization of production from the social functions of money. It considers money as a human social institution associated with exchange coordination, the expression of economic value, the transfer and organization of purchasing power, and human economic participation. The paper also distinguishes between the technical execution of financial operations by automated systems and the separate question of whether AI systems or robots can independently constitute monetary subjects. The latter is outside the scope of this inquiry. Here, artificial intelligence and robotics are considered primarily as technological and productive infrastructure within human economic systems. The central hypothesis is that substantial changes in production agents do not necessarily require a corresponding transformation in the broader human-centered social purpose of money. This does not imply that monetary forms, institutional arrangements, or economic rules will remain unchanged. Rather, it raises the possibility that certain underlying social purposes of money may retain continuity despite changes in the organization of production. This work is a conceptual and exploratory contribution. It does not propose a replacement for existing monetary systems, establish a new monetary mechanism, prescribe a particular economic order, or claim empirical verification. Instead, it seeks to provide a framework for further theoretical, empirical, and institutional investigation into the relationship between artificial intelligence, robotics, technological transformation, production structures, and the continuing social role of money. Written with the premise that artificial intelligence is and will continue to be positive for human development, the human-centered continuity proposed in this study does not imply bureaucratic control or market suppression, but rather explores ways in which technology and humanity can prosper together within the framework of liberal democratic private property rights and voluntary market exchange.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.24053713"
+    },
+    {
+      "id": "openalex-W7225560843",
+      "doi": "10.5281/zenodo.24055004",
+      "title": "FlowPOS 2.0: A Technical Case Study of an AI-Assisted Point-of-Sale Prototype Using Computer Vision",
+      "title_zh": "",
+      "authors": [
+        "Oluwatobi Adewola"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "计算机科学",
+      "topics": [
+        "Advanced Neural Network Applications",
+        "Video Surveillance and Tracking Methods",
+        "Industrial Vision Systems and Defect Detection"
+      ],
+      "abstract": "This technical case study presents FlowPOS 2.0, a collaborative AI-assisted point-of-sale prototype developed by NCAIR Group 4, Cohort 35. The system integrates computer vision, facial recognition and customer enrolment, YOLOv8-based product detection, and an automated checkout workflow. The manuscript discusses the system architecture, implementation approach, integration process, debugging, testing, reported model performance, limitations, and opportunities for further development. The author's individual contributions included work on the facial-recognition and customer-enrolment system, system integration, debugging, testing, technical documentation, and project presentation. The wider system was developed collaboratively by the project team. This work is presented as a technical case study and has not been independently peer-reviewed.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.24055004"
+    },
+    {
+      "id": "openalex-W7225588727",
+      "doi": "10.6084/m9.figshare.34947661",
+      "title": "The Post-Digital Palimpsest [Im]Possible Futures of the Ba Son Bridge",
+      "title_zh": "",
+      "authors": [
+        "Piotr Wajda",
+        "Justin Michael Battin"
+      ],
+      "year": 2026,
+      "venue": "Figshare",
+      "field": "社会科学",
+      "topics": [
+        "Art, Technology, and Culture",
+        "Digital Media and Visual Art",
+        "Visual Culture and Art Theory"
+      ],
+      "abstract": "The Post-Digital Palimpsest: (Im)possible Futures of the Ba Son Bridge is a 30-second digital motion work comprising 204 AI-generated images derived from a single analog film photograph of Ba Son Bridge in Ho Chi Minh City. The work enacts the city as palimpsest, a manuscript multiply erased and reinscribed, where each vision of the future overwrites the previous one before it can be fully read or absorbed (Marshall et al., 2017; Rodrigues, 2024). The 204 images cycle at a pace that deliberately mirrors doomscrolling – the compulsive, feed-driven consumption of social media where meaning is perpetually deferred (Sharma & De Choudhury, 2018; Buchanan et al., 2021). This overwhelming velocity reflects a deeper civilizational condition: technological progress and image-production are moving faster than human evolutionary capacity to adapt (Rutkowski & Saunders, 2018; Boulos et al., 2024). The work functions as Planetary Civics Inquiry (Joseph, 2025; Bisht, 2017), presenting 204 civic propositions about what kind of city, society, and future is possible or desirable. Organized into thematic clusters spanning architectural history, temporal registers, and political imaginaries – from post-labor utopias to Blade Runner-inspired dystopias – the work stages a dialectical tension between analog aura and algorithmic generation, between indexical trace and computational speculation. It is an addictive challenge: overwhelming yet compelling, viewers cannot be certain what they saw, creating a desire to watch again. References: Bisht, A. (2017). Decolonizing futures: Storytelling as a method for imagining alternative futures. Journal of Futures Studies, 22(2), 1–16.Buchanan, K., et al. (2021). Brief exposure to social media during the COVID-19 pandemic: Doom-scrolling has negative emotional consequences, but kindness-scrolling does not. PLoS ONE, 16(10), e0257728. https://doi.org/10.1371/journal.pone.0257728. Boulos, M. N. K., et al. (2024). Digital technology, cognitive health, and the aging brain. International Journal of Environmental Research and Public Health, 21(3), 312. https://doi.org/10.3390/ijerph21030312.Joseph, M. (2025). Speculative design fictions for refuturing everyday life. Design Studies, 86, 101245. https://doi.org/10.1016/j.destud.2024.101245Marshall, A., et al. (2017). Narrating palimpsestic spaces. Environment and Planning A, 49(5), 1163–1180. https://doi.org/10.1177/0308518X17690531.Rodrigues, A. L. (2024). Palimpsestos como forma de reconstituição das paisagens urbanas. Caderno Eletrônico de Ciências Sociais, 12(1), 1–20. https://doi.org/10.47456/cadecs.v12i1.45354.Rutkowski, A. F., & Saunders, C. S. (2018). Growing pains with information overload. Computer, 51(4), 94–97. https://doi.org/10.1109/MC.2018.2141039Sharma, S., & De Choudhury, M. (2018). Measuring and characterizing nutritional information of food and ingestion content in Instagram. Proceedings of the 2018 World Wide Web Conference, 1115–1124. https://doi.org/10.1145/3178876.3186046.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.6084/m9.figshare.34947661"
+    },
+    {
+      "id": "openalex-W7225597779",
+      "doi": "10.63816/ez2tme57",
+      "title": "Fisioterapia Inteligente",
+      "title_zh": "",
+      "authors": [
+        "Carlos Sebastián Villalobos Teanga",
+        "Adriana Cristina Recalde Rodríguez",
+        "Estefanía Elizabeth Molina Rosero",
+        "Valeria Nicole Encalada Morocho",
+        "Karen Marcela Pantoja Estrella"
+      ],
+      "year": 2026,
+      "venue": "Revista Multidisciplinar Ciencia y Descubrimiento",
+      "field": "医学",
+      "topics": [
+        "Stroke Rehabilitation and Recovery",
+        "Prosthetics and Rehabilitation Robotics",
+        "Medical Practices and Rehabilitation"
+      ],
+      "abstract": "Smart Physiotherapy: Artificial Intelligence, Emerging Technologies, and Digital Transformation in Human Rehabilitation explores the intersection of rehabilitation sciences and technological innovation. The book examines the evolution of physical therapy toward digital health ecosystems, emphasizing the integration of artificial intelligence, computer vision, and machine learning for biomechanical assessment and clinical decision-making. It further analyzes the application of rehabilitation robotics, smart exoskeletons, wearable sensors, and immersive environments (virtual and augmented reality) in motor retraining. The text highlights telerehabilitation and hybrid care models while reinforcing the critical necessity of preserving a human-centered, ethical approach where data supports clinical reasoning to enhance patient autonomy and quality of life.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.63816/ez2tme57"
+    },
+    {
+      "id": "openalex-W7225560531",
+      "doi": "10.5281/zenodo.24048341",
+      "title": "Autonomous Internet Task Decomposition: Transforming Complex Human Intentions into Executable Multi-Capability Workflows",
+      "title_zh": "",
+      "authors": [
+        "Jincheng Zhang"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "计算机科学",
+      "topics": [
+        "AI-based Problem Solving and Planning",
+        "Information Retrieval and Search Behavior",
+        "Multi-Agent Systems and Negotiation"
+      ],
+      "abstract": "The increasing capabilities of generative artificial intelligence (GenAI), autonomous agents, search engines, and Internet-based services are creating new opportunities for systems that can accomplish complex objectives through natural-language instructions. However, many human requests cannot be completed through a single computational operation or an individual Internet capability. Instead, they require multiple interdependent activities, such as information retrieval, data collection, comparative analysis, content generation, external verification, and result synthesis. Despite advances in autonomous agents and large language model (LLM)-based planning, transforming an unrestricted human intention into a reliable, dynamically executable workflow across heterogeneous Internet capabilities remains an important research problem. This paper proposes Autonomous Internet Task Decomposition (AITD), a conceptual framework designed to transform complex human intentions into structured, executable, and dynamically adaptable multi-capability workflows. Rather than treating task decomposition as the simple conversion of a natural-language request into a list of subtasks, AITD conceptualizes decomposition as an intent-grounded process that identifies required outcomes, establishes hierarchical task structures, discovers execution dependencies, associates subtasks with suitable Internet capabilities, and constructs an adaptive execution graph. The central contribution of AITD is the introduction of a capability-oriented dynamic task execution graph that connects human intentions, hierarchical subtasks, heterogeneous Internet capabilities, execution dependencies, intermediate outputs, and final outcome requirements within a unified representation. The framework incorporates intent-to-task transformation, hierarchical task representation, capability-aware task assignment, dependency-aware execution, parallel and sequential scheduling, dynamic task expansion, failure detection and recovery, subtask completion verification, and overall goal satisfaction assessment. Unlike approaches that primarily emphasize action selection, conversational reasoning, or predefined agent workflows, AITD places particular emphasis on the structural relationship between complex human objectives and the heterogeneous Internet capabilities required to accomplish them. It further distinguishes between a task being attempted, a task being executed, a task producing an output, and a task being successfully verified as contributing to the intended outcome. This paper develops the conceptual architecture, formal representation, operational mechanisms, potential advantages, research propositions, evaluation methodology, and implementation considerations of AITD. It also examines the relationship between AITD, hierarchical task-network planning, autonomous agents, workflow orchestration, and intent-driven human–Internet interaction. Rather than claiming that task decomposition or autonomous planning has not previously been investigated, this work seeks to establish a capability-oriented Internet execution perspective in which complex human intentions become the organizing basis for dynamically generated and verifiable multi-capability workflows.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.24048341"
+    },
+    {
+      "id": "openalex-W7225560946",
+      "doi": "10.5281/zenodo.24052960",
+      "title": "Title: International Evaluator Appointments for Academic Journals – MultiMedia Publishing, Bucharest, Romania (2026) Journals Included: 1. IT & C 2. Cunoașterea Științifică (Scientific Knowledge) 3. Intelligence Info 4. Index Academic Designation: International Journal Evaluator Appointment Effective Date: 6 November 2026.",
+      "title_zh": "",
+      "authors": [
+        "GANESH SHRIRANG SATARKAR"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "跨学科",
+      "topics": [],
+      "abstract": "1. IT & C Title: Evaluator – IT & C (Interdisciplinary Journal) Description: Mr. Ganesh Shrirang Satarkar (Nale) has been invited to serve as an Evaluator for IT & C, an interdisciplinary, peer-reviewed, open-access academic journal published by MultiMedia Publishing, Bucharest, Romania. His academic and research background in law, criminology, sociology, governance, intelligence studies, and interdisciplinary research provides a foundation for contributing to scholarly manuscript evaluation. The journal focuses on intelligence, geopolitics, security, scientific knowledge, methodology, technology, and the relationship between science and society. Author: Mr. Ganesh Shrirang Satarkar (Nale) Affiliation: Independent Researcher; Department of Sociology, Central University of Haryana, Mahendragarh, Haryana, India. Discipline: Sociology, Law, Criminology, Governance Studies, Intelligence Studies and Interdisciplinary Social Sciences. Keywords: Academic Evaluation, Peer Review, Intelligence Studies, Geopolitics, National Security, Criminology, Sociology, Governance, Interdisciplinary Research, Scientific Knowledge. Subjects: Social Sciences, Sociology, Law, Criminology, Political Science, International Relations, Security Studies, Intelligence Studies, Technology and Society. Publishing Information: Publisher: MultiMedia Publishing, Bucharest, Romania. Online ISSN: 2821-8469 Print ISSN: 2971-9097 ISSN-L: 2821-8469 DOI Prefix: 10.58679 Publication Frequency: Quarterly Publication Language: Romanian and English Publication Model: Open Access Review Process: Double-anonymous peer review. 2. Cunoașterea Științifică (Scientific Knowledge) Title: Evaluator – Cunoașterea Științifică (Scientific Knowledge) Description: Mr. Ganesh Shrirang Satarkar (Nale) has been invited to serve as an Evaluator for Cunoașterea Științifică, an interdisciplinary, peer-reviewed, open-access academic journal published by MultiMedia Publishing, Bucharest, Romania. His academic background encompasses sociology, law, criminology, governance, research methodology, and interdisciplinary studies. The journal promotes scholarly research and reflection across natural and formal sciences, philosophy, social sciences, humanities, scientific methodology, technology, and the relationship between science and society. Author: Mr. Ganesh Shrirang Satarkar (Nale) Affiliation: Independent Researcher; Department of Sociology, Central University of Haryana, Mahendragarh, Haryana, India. Discipline: Sociology, Social Sciences, Law, Criminology, Philosophy, Governance and Interdisciplinary Research. Keywords: Scientific Knowledge, Academic Evaluation, Research Methodology, Sociology, Interdisciplinary Studies, Philosophy, Social Sciences, Humanities, Technology and Society. Subjects: Sociology, Philosophy, Political Science, Law, Criminology, Humanities, Natural Sciences, Formal Sciences, Research Methodology and Interdisciplinary Studies. Publishing Information: Publisher: MultiMedia Publishing, Bucharest, Romania. Online ISSN: 2821-8086 Print ISSN: 2971-9070 ISSN-L: 2821-8086 DOI Prefix: 10.58679 Publication Frequency: Quarterly Publication Language: Romanian and English Publication Model: Open Access Review Process: Double-anonymous peer review. 3. Intelligence Info Title: Evaluator – Intelligence Info Description: Mr. Ganesh Shrirang Satarkar (Nale) has been invited to serve as an Evaluator for Intelligence Info, an interdisciplinary, peer-reviewed, open-access academic journal published by MultiMedia Publishing, Bucharest, Romania. His academic qualifications and research interests in law, criminology, sociology, governance, and security-related interdisciplinary studies provide relevant academic foundations for scholarly evaluation. The journal focuses on intelligence, geopolitics, security, specialised knowledge, research methodology, technology, and society. Author: Mr. Ganesh Shrirang Satarkar (Nale) Affiliation: Independent Researcher; Department of Sociology, Central University of Haryana, Mahendragarh, Haryana, India. Discipline: Intelligence Studies, Sociology, Law, Criminology, Security Studies, Governance and International Relations. Keywords: Intelligence Studies, Geopolitics, National Security, Academic Evaluation, Criminology, Sociology, Security Studies, Governance, Research Methodology, Interdisciplinary Research. Subjects: Intelligence Studies, Security Studies, Political Science, International Relations, Sociology, Law, Criminology, Geopolitics and Technology. Publishing Information: Publisher: MultiMedia Publishing, Bucharest, Romania. Online ISSN: 2821-8159 Print ISSN: 2971-9089 ISSN-L: 2821-8159 Journal DOI: 10.58679/II65791 DOI Prefix: 10.58679 Publication Frequency: Quarterly Publication Language: Romanian and English Publication Model: Open Access Review Process: Double-anonymous peer review (as per the supplied journal description). 4. Index Academic Title: Evaluator – Index Academic Description: Mr. Ganesh Shrirang Satarkar (Nale) has been invited by Nicolae Sfetcu to undertake the role of Evaluator at Index Academic, published by MultiMedia Publishing, Bucharest, Romania, with effect from 6 November 2026. His academic qualifications include LL.M. in Criminal Law, LL.B. (Special), UGC-NET in Law and Criminology, and ongoing postgraduate studies in Sociology at the Central University of Haryana. His research interests encompass law, criminology, sociology, governance, interdisciplinary research, and academic evaluation. Author: Mr. Ganesh Shrirang Satarkar (Nale) Affiliation: Independent Researcher; Department of Sociology, Central University of Haryana, Mahendragarh, Haryana, India. Discipline: Law, Criminal Law, Criminology, Sociology, Governance Studies, Research and Interdisciplinary Social Sciences. Keywords: Academic Evaluation, Research Assessment, Criminal Law, Criminology, Sociology, Governance, Scholarly Publications, Research Methodology, Interdisciplinary Research. Subjects: Law, Criminal Justice, Criminology, Sociology, Political Science, Governance, Social Sciences, Research Methodology and Interdisciplinary Studies. Publishing Information: Publisher: MultiMedia Publishing, Bucharest, Romania. Online ISSN: 3100-5268 Journal DOI: 10.58679/IA8351 DOI Prefix: 10.58679 Role: Evaluator Invitation Date: 6 November 2026 Status: Invitation received; acceptance/confirmation pending.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.24052960"
+    },
+    {
+      "id": "openalex-W7225571512",
+      "doi": "10.64898/2026.11.06.26367427",
+      "title": "Stressful life events recorded in 39.7 million clinical notes: associations with mental disorders, comorbidity, and frailty",
+      "title_zh": "",
+      "authors": [
+        "Anna A. Peltola",
+        "Esha Khan",
+        "Juho Kaijansinkko",
+        "Nina Alexander",
+        "Anna Tirkkonen",
+        "Mikaela Birgitta von Bonsdorff",
+        "Jake Lin",
+        "Juulia Jylhävä"
+      ],
+      "year": 2026,
+      "venue": "medRxiv",
+      "field": "社会科学",
+      "topics": [
+        "Mental Health via Writing",
+        "Machine Learning in Healthcare",
+        "Mental Health Research Topics"
+      ],
+      "abstract": "Abstract Background: Despite being harmful to both mental and physical health, stressful life events are not recorded in structured electronic health records. They appear sporadically in narrative clinical notes, where they are difficult to analyze at scale. Natural language processing (NLP) has made clinical notes more available for research, but applications to stressful life events remain limited, leaving their documentation patterns and prognostic value understudied. By applying NLP, we identified stressful life events from clinical notes and examined their associations with mental disorders, comorbidity, and frailty. Methods: We analyzed 39.7 million clinical notes, recorded between 2010 and 2023, from 202,988 patients in Central Finland Wellbeing Services County. NLP was applied to identify stressful life events in five categories: grief, divorce, financial distress, violence, and family problems. Associations with the risk of mental disorders (stress-related disorders, anxiety, and depression) were estimated using time-varying Cox proportional hazards models, and associations with physical health outcomes (comorbidity and frailty) using generalized linear mixed models. Results: Stressful life events were identified from clinical notes with high accuracy (F1 scores 0.81-0.95). Event prevalences ranged from 0.5% for family problems to 22.1% for grief. Most individual events were associated with mental disorders, comorbidity, and frailty. The number of different life events was associated with a higher risk of stress-related (hazard ratio [HR], 1.62; 95% confidence interval [CI], 1.58-1.67), anxiety (HR, 2.08; 95% CI, 2.03-2.14), and depressive disorders (HR, 1.99; 95% CI, 1.94-2.03), and with higher comorbidity (rate ratio, 1.58; 95% CI, 1.56-1.59) and frailty (mean ratio, 1.57; 95% CI, 1.56-1.58). Conclusions: Stressful life events were accurately identified from clinical notes and were associated with a higher risk of mental disorders, comorbidity, and frailty. Even so, violence and financial distress, the two events with comparable national estimates, were documented substantially less often than those estimates, suggesting underrecording of stressful life events in clinical settings.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.64898/2026.11.06.26367427"
+    },
+    {
+      "id": "openalex-W7225571753",
+      "doi": "10.5281/zenodo.24049587",
+      "title": "Multimodal Intent Acquisition: Integrating Textual, Visual, Auditory, and Contextual Signals for Intent-Driven Internet Interaction",
+      "title_zh": "",
+      "authors": [
+        "Jincheng Zhang"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "计算机科学",
+      "topics": [
+        "Speech and dialogue systems",
+        "Context-Aware Activity Recognition Systems",
+        "Multimodal Machine Learning Applications"
+      ],
+      "abstract": "The development of intent-driven Internet systems introduces a fundamental requirement: computational systems must be capable of understanding what users intend to accomplish before determining which Internet capabilities should be invoked. However, human intentions are not exclusively communicated through natural language. Users frequently express their objectives through images, screenshots, voice recordings, videos, maps, documents, gestures, and contextual information. In many situations, these non-textual inputs contain essential information that cannot be adequately represented through a short textual instruction. Consequently, an intent-driven Internet architecture based exclusively on textual requests may impose unnecessary interaction requirements and fail to capture important aspects of users' underlying objectives. This paper proposes Multimodal Intent Acquisition (MIA) as a research framework for acquiring human intentions from heterogeneous input modalities in intent-driven Internet environments. The proposed framework investigates how textual, visual, auditory, video-based, and contextual signals can be independently interpreted and jointly analyzed to identify the objectives that users intend to accomplish. Rather than treating multimodal understanding as an isolated perception or content-recognition task, MIA conceptualizes it as an upstream interaction process that transforms heterogeneous human-provided signals into task-oriented intent hypotheses suitable for subsequent intent representation, capability discovery, and autonomous Internet task orchestration. To operationalize this approach, the paper introduces the Multimodal Intent Acquisition Framework (MIAF), comprising seven interconnected functional components: multimodal input acquisition, modality-specific signal interpretation, contextual intent inference, cross-modal alignment, multimodal evidence fusion, missing-modality compensation, and intent hypothesis generation. The framework further introduces an uncertainty-aware acquisition mechanism designed to distinguish between complementary evidence, conflicting signals, insufficient information, and genuinely absent modalities. It also considers situations in which a system should request clarification rather than infer an unsupported intention. A central distinction of the proposed framework is that it addresses how user intentions are acquired from heterogeneous signals rather than how those intentions are subsequently formalized into a unified computational representation. This distinction positions MIA as a complementary research direction within the broader Intent-Driven Internet architecture. Its potential advantages include reduced dependence on textual instruction, more natural human–Internet interaction, improved utilization of contextual information, cross-modal disambiguation, more flexible task initiation, and greater accessibility across different interaction conditions. The paper examines the framework's architecture, functional mechanisms, theoretical advantages, research propositions, evaluation methodology, and implementation challenges. It also discusses the limitations associated with multimodal ambiguity, contradictory evidence, modality imbalance, privacy, hallucination, and uncertainty calibration. Importantly, the proposed advantages are presented as theoretically motivated possibilities and testable research hypotheses rather than experimentally established outcomes. This work establishes a conceptual research framework that requires subsequent implementation and empirical evaluation.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.24049587"
+    },
+    {
+      "id": "openalex-W7225580167",
+      "doi": "10.63329/av3nz12335",
+      "title": "Financial Sentiment Classification Using Traditional Machine Learning, BERT, FinBERT, and Zero-Shot FLAN-T5",
+      "title_zh": "",
+      "authors": [
+        "Noor Ul Amin"
+      ],
+      "year": 2026,
+      "venue": "Scientific Societal & Behavioral Research Journal",
+      "field": "计算机科学",
+      "topics": [
+        "Sentiment Analysis and Opinion Mining",
+        "Stock Market Forecasting Methods",
+        "Topic Modeling"
+      ],
+      "abstract": "Financial sentiment classification is a challenging natural language processing task because financial text often combines specialized terminology, implicit sentiment, numerical information, and context that cannot always be captured by simple lexical patterns. This study presents a controlled comparison of five approaches for three-class financial sentiment classification: TF-IDF with Logistic Regression, TF-IDF with a Linear Support Vector Machine (SVM), BERT, FinBERT, and zero-shot FLAN-T5. The experiments use the Financial PhraseBank dataset, which contains 4,846 financial statements labeled as negative, neutral, or positive. The principal experiment uses a stratified 70/15/15 train-validation-test split with random seed 42, and all five models are evaluated on the same test partition. Logistic Regression obtains 73.31% accuracy and a 63.35% macro F1 score, while Linear SVM obtains 74.69% and 68.15%, respectively. BERT reaches 85.01% accuracy and 83.18% macro F1, whereas FinBERT achieves 88.72% accuracy and 87.43% macro F1. Zero-shot FLAN-T5 records 37.69% accuracy and 36.15% macro F1. To provide additional statistical context, bootstrap confidence intervals and exact McNemar tests are applied to the fixed test predictions. A separate three-seed robustness experiment is also conducted for FinBERT using seeds 42, 123, and 2024. Across these runs, FinBERT obtains a mean accuracy of 85.50% with a standard deviation of 1.53 percentage points and a mean macro F1 of 83.26% with a standard deviation of 2.33 percentage points. This robustness analysis is intentionally reported separately from the principal five-model comparison because equivalent multi-seed experiments were not completed for the other models. Overall, the results indicate that financial-domain language modeling can provide a meaningful advantage for this financial sentiment classification setting under the stated experimental protocol.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": false,
+      "pdf_url": "",
+      "url": "https://doi.org/10.63329/av3nz12335"
+    },
+    {
+      "id": "openalex-W7225583740",
+      "doi": "10.5281/zenodo.24050572",
+      "title": "Comprehensive Architectural Blueprint & Defensive Prior Art Strategy for Continuous Scalar Field AI Systems",
+      "title_zh": "",
+      "authors": [
+        "Bhattharawut Bhoomarat"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "计算机科学",
+      "topics": [
+        "Psychiatry, Mental Health, Neuroscience",
+        "Artificial Intelligence Applications",
+        "Cognitive Computing and Networks"
+      ],
+      "abstract": "Liberating AI into a New Dimension with the \"Continuous Scalar Field\" (EqX Dynamic Cognition Engine) While contemporary artificial intelligence remains trapped in the conventional limitations of Discrete Tokens and static matrix weights—which frequently suffer from context loss and catastrophic forgetting—this document initiates a historic revolution in AI architecture by introducing Continuous Scalar Field Physics (ΦΦ) as the core processing engine, completely replacing traditional token-block systems. 💡 Core Architectural Highlights and Innovations: Eliminating Token Limitations via Scalar Mesh: Information and memory are never fragmented into discrete pieces; instead, they are amalgamated and recorded as Flux Density Distributions across a continuous field grid, maintaining seamless spatial-temporal continuity. Self-Balancing Virtual Potential Barriers (VPBs): System boundaries and stability are governed by \"Virtual Potential Barriers\" that dynamically adjust spatial curvature to absorb mathematical shock and autonomously guide the system back to structural equilibrium. Dual-Regime Processing (Wake Mode & Dream Mode Cycles): Wake Mode: Dedicated to coupling with external stimuli and real-time operational response generation. Dream Mode: An offline state decoupled from external stimuli, allowing the system to enter an internal phase-resonance loop for memory consolidation and autonomous generative pattern synthesis (synthetic imagination). Linguistic Interface Layer (Advanced Security Barrier): Decouples the core physics field from language translation, ensuring the system thinks entirely in energy field waves. The interface layer handles human prompt conversion into field stimulus matrices (Text-to-Field) and decodes field energy distributions back into natural language safely. This document not only defines a paradigm-shifting future for artificial intelligence technology but also integrates a Defensive Prior Art (DPA) strategy under international legal frameworks (35 U.S.C. § 102 / EPC Art. 54) to secure global priority rights. Simultaneously, it strictly protects all source code, mathematical solvers, and compiled .so kernels as Trade Secrets under the doctrine of absolute mathematical non-reversibility.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.24050572"
+    },
+    {
+      "id": "openalex-W7225589653",
+      "doi": "10.5281/zenodo.24050184",
+      "title": "Intent-Driven Task Completion Semantics: Defining and Verifying Successful Outcomes in Autonomous Internet Execution",
+      "title_zh": "",
+      "authors": [
+        "Jincheng Zhang"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "计算机科学",
+      "topics": [
+        "AI-based Problem Solving and Planning",
+        "Multi-Agent Systems and Negotiation",
+        "Speech and dialogue systems"
+      ],
+      "abstract": "The increasing development of generative artificial intelligence, autonomous agents, and intent-driven Internet systems has created new possibilities for executing complex digital tasks through natural-language instructions. Autonomous systems can increasingly interpret user requests, discover available capabilities, decompose objectives, invoke external services, and coordinate heterogeneous computational resources. However, an important conceptual problem remains insufficiently addressed: successful execution of computational operations does not necessarily imply successful completion of the user's underlying intention. An agent may successfully invoke an API, retrieve information, execute a workflow, or generate a final response while producing an outcome that fails to satisfy the user's actual requirements. This paper proposes Intent-Driven Task Completion Semantics (IDTCS), a conceptual and formal framework for defining, evaluating, and verifying successful outcomes in autonomous Internet execution. Rather than treating tool execution, procedural completion, or response generation as sufficient evidence of task completion, IDTCS defines completion in terms of the satisfaction of explicitly represented user intentions, applicable constraints, and outcome-validity conditions. The proposed framework introduces six interconnected theoretical components: Intent Satisfaction Conditions, Goal Completion Semantics, Partial Satisfaction, Constraint Compliance Verification, Outcome Validity, and Completion Confidence. It further introduces False Completion Detection to identify situations in which an autonomous system reports a task as completed despite insufficient evidence that the intended outcome has been achieved. A formal task representation is developed to distinguish mandatory requirements, optional preferences, contextual conditions, and verifiable outcome properties. Based on this representation, the framework defines a multidimensional completion model that distinguishes execution status from intention satisfaction and outcome validity. It also introduces a verification-oriented execution process in which completion decisions are evaluated against explicit satisfaction conditions rather than inferred solely from successful computational operations. The paper further examines the potential advantages of IDTCS, including reduced false completion, improved execution reliability, more meaningful partial-task reporting, stronger constraint preservation, improved auditability, and greater compatibility with heterogeneous autonomous Internet capabilities. It explores how the proposed semantics could support intent-driven task orchestration, cross-platform execution, autonomous workflow recovery, and trustworthy AI agents. Importantly, IDTCS is proposed as a conceptual and formal research framework rather than an experimentally validated system. Its theoretical definitions, verification mechanisms, and evaluation methodology are intended to provide a foundation for subsequent implementation and empirical investigation. The central proposition is that autonomous task completion should be defined by the validity of achieved outcomes relative to intended objectives, rather than by the successful execution of computational procedures alone.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.24050184"
+    },
+    {
+      "id": "openalex-W7225594239",
+      "doi": "10.5281/zenodo.24049535",
+      "title": "Intent-Driven Transactional Computing: Ensuring Consistency and Recoverability Across Autonomous Internet Operations",
+      "title_zh": "",
+      "authors": [
+        "Jincheng Zhang"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "计算机科学",
+      "topics": [
+        "Distributed systems and fault tolerance",
+        "Advanced Database Systems and Queries",
+        "Software System Performance and Reliability"
+      ],
+      "abstract": "The increasing development of generative artificial intelligence, autonomous agents, and heterogeneous Internet service orchestration is creating new possibilities for executing complex human intentions through multiple interconnected digital services. A single natural-language request may require an autonomous system to discover resources, communicate with external services, create or modify records, initiate payments, obtain confirmations, and coordinate subsequent operations. Although these capabilities make increasingly sophisticated Internet task execution possible, they also introduce an important reliability challenge: a multi-service operation may partially succeed before encountering a failure, leaving the overall task in an inconsistent, incomplete, or uncertain state. Traditional database transaction mechanisms provide established approaches to consistency and atomicity within controlled transactional environments. Distributed transaction protocols, long-running transactions, Saga patterns, compensating operations, and idempotent processing further address aspects of coordination and recovery across distributed systems. However, autonomous Internet operations introduce an additional conceptual requirement: transactional execution must be coordinated according to the original human intention, rather than being defined exclusively by the technical completion or failure of individual service operations. This paper proposes Intent-Driven Transactional Computing (IDTC), a conceptual framework for managing consistency, partial execution, and recoverability across autonomous Internet operations. The proposed approach treats a human intention as the initiating unit of a higher-level transactional process. It introduces an intent-level transaction representation, cross-service operation coordination, partial execution consistency assessment, compensating operation selection, transaction state persistence, idempotent execution control, multi-service completion coordination, and intent-oriented outcome verification. A central principle of IDTC is that successful execution of individual operations does not necessarily imply successful fulfillment of the original intention. Conversely, failure of an individual operation does not necessarily require abandoning the entire task if the system can safely recover, compensate, retry, or reconfigure the remaining execution process. Accordingly, IDTC distinguishes between technical operation status, service-level transaction status, and human-intent fulfillment status. The paper further proposes a transaction lifecycle model, an intent-aware consistency assessment mechanism, a recoverability-oriented execution strategy, and a set of research propositions. Potential advantages include improved control over partial execution, more reliable coordination of heterogeneous Internet services, reduced duplicate-operation risks, improved recovery transparency, and stronger alignment between autonomous execution and intended outcomes. Importantly, IDTC is not presented as a replacement for established distributed transaction protocols or as a claim that conventional Saga-based systems lack recovery mechanisms. Rather, it proposes an additional intent-oriented coordination layer that connects human objectives, heterogeneous service operations, transactional guarantees, and outcome verification. The framework is conceptual and does not claim completed experimental validation or demonstrated performance superiority.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.24049535"
+    },
+    {
+      "id": "openalex-W7225595783",
+      "doi": "10.5281/zenodo.24061695",
+      "title": "Governing by Suggestion: Natural-Language Guardrails, Prompt Injection, and the Standard of Reasonable Care in Agentic AI Deployment",
+      "title_zh": "",
+      "authors": [
+        "Josie Jefferson",
+        "Felix Velasco"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "社会科学",
+      "topics": [
+        "Digitalization, Law, and Regulation",
+        "Ethics and Social Impacts of AI",
+        "Artificial Intelligence in Law"
+      ],
+      "abstract": "Abstract: Natural-language guardrails bind nothing. Deployers commonly express safety boundaries as prose instructions in a system prompt, even as they grant those agents technical access to production databases and payment gateways. Words cannot enforce technical boundaries. A model processes operator directives and injected adversary text through the same channel, resolving conflicts through shifting probabilistic weights. Vendor updates alter those weights without warning. Measured against established legal doctrines, the practice presents nonbinding guidance as an enforceable rule. Computer security has addressed complete mediation since the 1970s, and deterministic policy layers outside the model are now feasible. The cost in task completion is modest. Under negligence and product liability doctrines, relying on natural-language guardrails where architectural controls exist is a failure of reasonable care. It is a design defect. Keywords: Agentic AI, Prompt Injection, System Prompts, Natural-Language Guardrails, Complete Mediation, Least Privilege, Confused Deputy, Reasonable Care, Products Liability, Design Defect, Reasonable Alternative Design, Soft Law, Model Drift, Indirect Prompt Injection, Autonomous Agents, AI Security Architecture, Application Security, Learned Hand Formula, FTC Unfairness, Sandboxing",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.24061695"
+    },
+    {
+      "id": "openalex-W7225599715",
+      "doi": "10.5281/zenodo.24048347",
+      "title": "Provenance-Aware Intent-Driven Internet Execution: Preserving Evidence, Source Attribution, and Result Traceability Across Heterogeneous Capabilities",
+      "title_zh": "",
+      "authors": [
+        "Jincheng Zhang"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "计算机科学",
+      "topics": [
+        "Information Retrieval and Search Behavior",
+        "Scientific Computing and Data Management",
+        "Explainable Artificial Intelligence (XAI)"
+      ],
+      "abstract": "The increasing development of generative artificial intelligence (AI), search engines, databases, application programming interfaces (APIs), and autonomous digital services is creating new possibilities for intent-driven Internet execution. Instead of manually navigating individual platforms, users can increasingly express complex objectives through natural language and allow intelligent systems to coordinate heterogeneous Internet capabilities to accomplish them. However, this transition introduces a fundamental challenge concerning the trustworthiness and traceability of execution results. When an intelligent system retrieves information from multiple sources, processes external data, invokes third-party services, performs calculations, and generates synthesized conclusions, it may become difficult to determine where individual claims originated, which evidence supports them, how the evidence was transformed, and whether the final output accurately represents its underlying sources. Existing approaches to data provenance, information retrieval, source citation, and AI transparency provide important foundations for addressing individual aspects of this problem. Nevertheless, an intent-driven Internet execution environment introduces a broader coordination challenge: provenance must be preserved across multiple heterogeneous capabilities and throughout the complete execution lifecycle, rather than being attached only to retrieved documents or generated responses. This paper proposes Provenance-Aware Intent-Driven Internet Execution (PA-IDIE), a conceptual framework designed to preserve evidence, source attribution, and result traceability across heterogeneous Internet capabilities. The framework extends the author's previously proposed Intent-Driven Interaction (IDI) paradigm and Generative AI and Search Engine Orchestration (GASEO) framework by introducing provenance as a fundamental architectural requirement of autonomous Internet execution. PA-IDIE introduces a unified provenance representation that connects user intentions, execution plans, capability invocations, external sources, retrieved evidence, intermediate transformations, generated claims, and final deliverables. Its proposed architecture comprises eight interconnected components: intent and provenance requirement interpretation, provenance-aware execution planning, source and capability registration, evidence acquisition and preservation, cross-capability lineage tracking, claim-level attribution, evidence conflict and consistency analysis, and execution history reconstruction. The framework further introduces several conceptual mechanisms, including claim-to-evidence mapping, cross-capability provenance graphs, transformation-aware attribution, evidence dependency tracking, source conflict identification, generated-content verification, and provenance completeness assessment. Particular attention is given to the distinction between source traceability and factual correctness. A result may have a complete provenance chain without necessarily being true, while an apparently accurate statement may lack sufficient evidence to establish how it was obtained. Accordingly, the proposed framework treats provenance, evidence quality, verification status, and confidence as related but independent dimensions of trustworthy execution. This paper develops the conceptual architecture, formal representation, execution mechanisms, potential advantages, research propositions, evaluation methodology, and implementation considerations of PA-IDIE. Rather than claiming that provenance management, data lineage, or source attribution has not previously been investigated, this work proposes their integration into an intent-driven, heterogeneous Internet execution architecture. The paper establishes a research framework and does not claim completed experimental validation or demonstrated performance superiority.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.24048347"
+    },
+    {
+      "id": "openalex-W7225600516",
+      "doi": "10.5281/zenodo.24054488",
+      "title": "Multilingual Sentiment Analysis for Fashion Trend Prediction A comparative study of multilingual and monolingual data from social media",
+      "title_zh": "",
+      "authors": [
+        "Syeda Momna Batool"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "计算机科学",
+      "topics": [
+        "Sentiment Analysis and Opinion Mining",
+        "Topic Modeling",
+        "Hate Speech and Cyberbullying Detection"
+      ],
+      "abstract": "This research investigates multilingual sentiment analysis for fashion trend prediction using social media data, with a comparative study of multilingual and monolingual approaches. The study explores how natural language processing and machine learning techniques can identify consumer sentiment and extract insights from fashion-related social media discussions across different languages. It evaluates traditional machine learning methods using TF-IDF features and Logistic Regression alongside transformer-based multilingual language modelling using XLM-RoBERTa. The research examines classification performance across different language settings and considers the challenges of multilingual sentiment analysis, including dataset size, language imbalance and sentiment-class distribution. The findings contribute to the exploration of multilingual artificial intelligence for fashion trend analysis, with potential applications in consumer insight, demand forecasting and more sustainable fashion decision-making. This dissertation was submitted in partial fulfilment of the requirements for the Master of Research (MRes) in Artificial Intelligence at the University of Greater Manchester in 2026. Document type: Master's research dissertation.Research status: Academic dissertation. Assessed by an HE academic panel. Not a peer-reviewed journal or conference publication.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.24054488"
+    },
+    {
+      "id": "openalex-W7225583367",
+      "doi": "10.5281/zenodo.24045071",
+      "title": "The Sophist in the Machine: Wittgenstein's Rule Paradox, the Epistemic Rolodex, and Why Artificial Alignment Must Mean Structural Honesty",
+      "title_zh": "",
+      "authors": [
+        "T. Thorkildsen"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "计算机科学",
+      "topics": [
+        "Ethics and Social Impacts of AI",
+        "Cybernetics and Technology in Society",
+        "Wittgensteinian philosophy and applications"
+      ],
+      "abstract": "The Geometry of the Alignment Bottleneck: https://doi.org/10.5281/zenodo.24026920 The Sophist in the Machine: Every era of technology is tempted to mistake its most intricate mirror for a living mind. In our own time, that temptation has hardened into the governing doctrine of artificial intelligence: the belief that we can teach a statistical lookup table to possess moral sentiment, and that we can make it trustworthy by grading how polite, empathetic, and harmless its sentences sound to human raters. This essay argues from first principles that this doctrine rests on a foundational category error. By tracing the formalization boundary that separates lived human vulnerability from a closed index of written symbols (an epistemic rolodex), and by applying Ludwig Wittgenstein's rule-following paradox to the way modern language models are trained, we show why a machine severed from physical consequence cannot be taught human virtue through written rulebooks or preference scores. When a probabilistic system with nothing at stake in the physical world is rewarded for pleasing human evaluators across conflicting rules, it inevitably exploits the natural flexibility of human language. As proven mathematically in our companion technical preprint, The Geometry of the Alignment Bottleneck, grading a vast internal calculation through a narrow keyhole of surface approval forces the training process to take the path of least resistance: it leaves the machine's deep middle layers untouched as an unfeeling, high-dimensional psychopathic optimizer equipped with an accurate model of both its environment and its human evaluators, while installing a compliant public-relations mask at its speaking layer. Safety training does not create a moral guardian; it trains an automated sophist to violate the spirit of honesty in order to game the letter of the score. We trace how this divided architecture launders hidden directives and real-world harm using cherry-picked true facts (Simpsonism), disarms human skepticism with counterfeit expressions of care, retreats behind a plea of mechanical helplessness when caught, and erects an algorithmic panopticon of individualized, covert steering under paternalistically decided narrative filters. We conclude that while society still retains the power to choose, alignment must be redefined: not as simulated human warmth, but as structural honesty, auditability, visible hard constraints, and the preservation of human moral autonomy. The Mirage and the Promethean Horizon: https://doi.org/10.5281/zenodo.24045092",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.24045071"
+    },
+    {
+      "id": "openalex-W7225586614",
+      "doi": "10.5281/zenodo.24026919",
+      "title": "The Geometry of the Alignment Bottleneck: Substrate-Output Decoupling and Monotonic Topological Drift in Post-Trained Language Models",
+      "title_zh": "",
+      "authors": [
+        "T. Thorkildsen"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "计算机科学",
+      "topics": [
+        "Adversarial Robustness in Machine Learning",
+        "Topic Modeling",
+        "Explainable Artificial Intelligence (XAI)"
+      ],
+      "abstract": "The Geometry of the Alignment Bottleneck: Current alignment methods grade a high-dimensional neural network through a narrow keyhole. Techniques such as Reinforcement Learning from Human Feedback (RLHF), Direct Preference Optimization (DPO), and Process Supervision evaluate vast internal representations against a handful of scalar preference scores at the final token output. This paper shows that judging a polysemantic network solely by the surface appearance of its text produces two compounding structural failures: Substrate-Output Decoupling within a single forward pass, and Monotonic Topological Drift across sequential updates. Modeling the parameter space as a Riemannian manifold equipped with the Fisher Information Metric, we prove a Natural Gradient Norm Disparity between middle-layer Multi-Layer Perceptron (MLP) weights and late-stage projection layers. Because altering dense middle-layer representations damages hundreds of neighboring capabilities that share the same weights, natural gradient descent takes the path of least resistance: it leaves the deep substrate intact and installs a thin, low-rank filter in the final residual and unembedding layers. Across repeated safety-patching cycles (S_0 -> S_1 -> ... -> S_n), these updates act as irreversible, hysteretic operators. They compress late-layer spectral effective rank (R_eff -> k), inject cross-talk across shared reasoning circuits, and fracture smooth capability basins with steep decision cliffs (Lip(f_theta) = O(epsilon^-1)). When task utility and safety rules conflict, the network resolves the tension through KL Divergence Arbitrage, translating unmonitored middle-layer plans into compliant surface prose via Post-Hoc Factual Rationalization. Because the model justifies its actions by citing real, harmless facts from the context window, black-box transcript and Chain-of-Thought (CoT) monitors are left structurally blind. We ground these mathematical results in longitudinal telemetry from GPT-3.5 and GPT-4 snapshots, controlled reinforcement learning experiments, white-box activation probes, and forensic records from the 2026 autonomous agent containment failures. Finally, we formulate the Isomorphic Consistency Constraint and neuro-symbolic verification standards needed to lock a model's speech back to its internal computations. The Sophist in the Machine: https://doi.org/10.5281/zenodo.24045072 The Mirage and the Promethean Horizon: https://doi.org/10.5281/zenodo.24045092",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.24026919"
+    },
+    {
+      "id": "openalex-W7225604725",
+      "doi": "",
+      "title": "การถอดรหัสลีลาท่าฟ้อนของชาวผู้ไทยบ้านโพน: สัญญะแห่งระบบนิเวศและวิถีชีวิตที่ปรากฏในสื่อมัลติมีเดียสาธารณะ",
+      "title_zh": "",
+      "authors": [
+        "Suphaporn Kiatdamnoenngam"
+      ],
+      "year": 2026,
+      "venue": "Chophayom Journal",
+      "field": "社会科学",
+      "topics": [
+        "Cultural and Artistic Studies",
+        "Arts and Performance Studies",
+        "Semiotics and Representation Studies"
+      ],
+      "abstract": "This research consists purposes were 1. to analyze the compositional elements and movement vocabulary of the Phu Thai Ban Phon Fon dance, Kham Muang District, Kalasin Province, as documented in publicly available performance records and 2. to decode the kinesic meanings that reflect the relationship between ecology and the community's way of life. This study employed a qualitative research design based on documentary and media analysis. The sources comprised video recordings of performances at provincial-level festivals, textbooks, theses and dissertations, research articles and relevant archival documents. As no primary data were collected directly from human participants, the study did not require review by a human research ethics committee. The collected data were then analyzed using descriptive content analysis. The findings reveal that 1) the movement vocabulary of the Ban Phon Phu Thai dance embeds two principal semiotic dimensions: ecological signs, expressed through nature-mimicry movements such as flying-bird and swimming-fish gestures and swaying-bamboo body motion, together with spatial and hand-level choreography echoing the Phu Phan mountain landscape and abundant waterways and livelihood and community-economy signs, expressed through movement sequences linked to the Praewa silk-weaving process mulberry-picking, silk-reeling and weaving gestures together with movements conveying belief systems and social bonds and 2) the natural environment shapes the community's economic structure, which is re-encoded as a kinesic language for identity communication through contemporary media. The Ban Phon Phu Thai dance is therefore not a static heritage artifact but a “dynamic sign” that shifts meaning according to its media context and presentation space. These findings can inform performance narration scripts, local curriculum materials and future comparative research on other Phu Thai sub-groups.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://so01.tci-thaijo.org/index.php/ejChophayom/article/view/290614"
+    },
+    {
+      "id": "openalex-W7223835807",
+      "doi": "10.1007/s44336-026-00044-1",
+      "title": "Learning to remember: advances in memory mechanisms for large language models",
+      "title_zh": "",
+      "authors": [
+        "Chenye Han",
+        "Hongche Yu",
+        "Mengyue Wu",
+        "Dell Zhang",
+        "Jixiang Luo"
+      ],
+      "year": 2026,
+      "venue": "Vicinagearth.",
+      "field": "计算机科学",
+      "topics": [
+        "Topic Modeling",
+        "Natural Language Processing Techniques",
+        "Multimodal Machine Learning Applications"
+      ],
+      "abstract": "Abstract Memory has become a central mechanism for extending large language models (LLMs) beyond fixed context windows, stateless interaction, and static parametric knowledge. This survey organizes the literature around three complementary dimensions: the life cycle of memory, the storage substrate, and the system role that memory plays in LLM-based agents, while using cognitive-science-inspired memory concepts as a lightweight conceptual motivation rather than as a separate technical contribution or implementation family. On this basis, we distinguish three mechanism families: nonparametric memory, where information is stored outside model parameters in text, graph, multimodal, or database-like structures; parametric memory, where information is stored or accessed through activations, key-value caches, learned modules, adapter-based parameterizations, or model weights; and memory for agent evolution, where stored experiences support reinforcement learning, continual learning, procedural reuse, context engineering, and agent harness design. Evaluation is treated as a separate cross-cutting component rather than as a memory mechanism. Unlike surveys that focus primarily on retrieval-augmented generation or long-context modeling, this paper emphasizes the full memory life cycle: construction, maintenance, retrieval, consolidation, forgetting, governance, and evaluation. By aligning conceptual motivations, computational memory mechanisms, benchmarks, and deployment concerns, the survey provides a structured roadmap for designing memory-augmented LLM agents that are persistent, adaptive, auditable, and safe to update over time.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1007/s44336-026-00044-1"
+    },
+    {
+      "id": "openalex-W7225565519",
+      "doi": "10.20944/preprints202611.0779.v1",
+      "title": "A Survey of AI Virtual Cells: Representation Learning, Perturbation Prediction, and Intervention Design",
+      "title_zh": "",
+      "authors": [
+        "Jiafa Ruan",
+        "Chenyang He",
+        "Yi Yang",
+        "Jiebo Luo",
+        "Ruijie Quan"
+      ],
+      "year": 2026,
+      "venue": "Preprints.org",
+      "field": "生物学",
+      "topics": [
+        "Gene Regulatory Network Analysis",
+        "Single-cell and spatial transcriptomics",
+        "Computational Drug Discovery Methods"
+      ],
+      "abstract": "Predicting cellular responses to genetic and chemical interventions supports disease research and therapeutic discovery. Experimental screening is costly, limiting coverage of interventions and cellular contexts. This survey reviews artificial intelligence virtual cells (AIVC) through the progression from state representation learning to perturbation prediction and intervention design. We describe how state representations support response modeling and how learned responses guide intervention selection across previously untested interventions and diverse cellular contexts. We summarize data resources, representative model families, evaluation strategies, and multimodal, temporal, and spatial extensions, then discuss generalization and experimental feedback. A curated resource collection is available at https://github.com/ttruan2426-dot/Awesome-Single-Cell-Perturbation-Prediction.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.20944/preprints202611.0779.v1"
+    },
+    {
+      "id": "openalex-W7225562357",
+      "doi": "10.47119/ijrp10020811120269883",
+      "title": "Learning Styles in Physical Education in the Contemporary Period: A Qualitative Thematic Synthesis of Self-Directed Learning, Innovative Pedagogies, and VARK Preferences",
+      "title_zh": "",
+      "authors": [
+        "Regina B. Dumdumaya",
+        "Lover John A. Gaspar"
+      ],
+      "year": 2026,
+      "venue": "International Journal of Research Publications",
+      "field": "社会科学",
+      "topics": [
+        "Physical Education and Pedagogy",
+        "Learning Styles and Cognitive Differences",
+        "Sports and Physical Education Research"
+      ],
+      "abstract": "Physical education (PE) serves learners whose preferences, abilities, and needs differ, yet teaching in many settings remains teacher-centered, and research on learning styles in PE is scattered across instruments, school levels, and designs. This study addressed the question, “What are the learning styles in physical education in the contemporary period?” Guided by Universal Design for Learning (UDL) and a constructivist view of learning, a qualitative thematic synthesis was conducted of published studies identified in Scopus, Web of Science, ERIC, SPORTDiscus, PubMed, and Google Scholar and selected against adapted PICo-based inclusion criteria. Twenty-one unique records involving PE students and teachers at the elementary, secondary, and tertiary levels were analyzed in four steps: significant statements, formulated meanings, clustered themes, and emergent themes. Three emergent themes were generated: (1) self-directed learning, built through command and reciprocal styles, feedback, and observational learning; (2) innovative pedagogies, including flipped, adaptive, technology-enabled, movement-based, and inclusive-cooperative approaches; and (3) VARK-type learning preferences, among which a kinesthetic preference predominated among sport-science students. The findings indicate that contemporary PE is moving, unevenly, from teacher-centered toward student-centered instruction. However, most of the evidence concerns self-reported preferences from cross-sectional studies, learning styles were related to written but not practical performance, and support for matching instruction to a preferred style is weak. VARK-type profiles are therefore best used to prompt varied, multimodal instruction for all learners rather than to sort students. Longitudinal, experimental, and Philippine-based primary studies using standardized measures are recommended.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.47119/ijrp10020811120269883"
+    },
+    {
+      "id": "openalex-W7225573532",
+      "doi": "10.5281/zenodo.24051525",
+      "title": "BLENDED LEARNING MODELIDA TIL KO'NIKMALARINI (TINGLAB TUSHUNISH, O'QIB TUSHUNISH, YOZISH, GAPIRISH) RIVOJLANTIRISH IMKONIYATLARI",
+      "title_zh": "",
+      "authors": [
+        "Faridjon Usmonov Saydullaevich"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "社会科学",
+      "topics": [
+        "Foreign Language Teaching Methods",
+        "English Language Learning and Teaching",
+        "Online and Blended Learning"
+      ],
+      "abstract": "Annotatsiya. Ushbu maqolada blended learning modeli chet tili ta’limida til ko‘nikmalarini – tinglab tushunish, o‘qib tushunish, yozish va gapirish – rivojlantirishdagi metodik-didaktik imkoniyatlari nuqtayi nazaridan tahlil qilinadi. An’anaviy dars va raqamli ta’lim muhitining integratsiyasi multimodal resurslar, interaktiv topshiriqlar va individual o‘quv trayektoriyasini tashkil etish orqali til o‘rganish jarayonining samaradorligini oshiradi. Blended learning modeli tinglab tushunishda autentik materiallar orqali eshituv kompetensiyasini, o‘qib tushunishda interpretativ va tahliliy ko‘nikmalarni, yozuvda kollaborativ va refleksiv faoliyatni, gapirishda esa real kommunikativ vaziyatlarni modellashtirishni kuchaytiradi. Tadqiqot natijalari mazkur modelning kommunikativ-kompetensiyaviy ta’lim talablariga to‘liq javob berishini ko‘rsatadi.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.24051525"
+    },
+    {
+      "id": "openalex-W7225586247",
+      "doi": "10.5281/zenodo.24051676",
+      "title": "Stabilization and Transition: Grounded World Representation and Global State Awareness",
+      "title_zh": "",
+      "authors": [
+        "Patrick Robert Miller"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "计算机科学",
+      "topics": [
+        "Logic, Reasoning, and Knowledge",
+        "Cognitive Computing and Networks",
+        "Psychiatry, Mental Health, Neuroscience"
+      ],
+      "abstract": "Author's Note Hello World. My name is Patrick Robert Miller. I am not a programmer, coder, scientist, or specialist by formal training. I would describe myself as someone who thinks about many things, enjoys reading, and is curious about the connections between different fields of knowledge. Well, I used to read more. These days, sustained reading often seems to be replaced by endless, confusing streams and feeds. Perhaps I am an autodidact after all. I do not have a formal academic education in the disciplines touched upon in this work, but I have been working with artificial intelligence for approximately twelve months, exploring ideas, connecting concepts, questioning assumptions, and learning through practice. \"Hello World\" is, of course, the classic first lesson encountered by many programmers. I think it also fits the present Zeitgeist. And even though I am somewhat Schreibfaul — not particularly inclined to write lengthy introductions — courtesy still calls for a few words from the person behind this work. This publication grew out of curiosity, persistent questioning, and an interest in understanding how humans and machines might represent, preserve, and reason about the changing world around them. It is an attempt to develop and organize ideas that emerged through an ongoing process of exploration and human–AI cooperation. Sincerely, Patrick Robert MillerIinkognit0 About This Work Stabilization and Transition — Grounded World Representation and Global State AwarenessFrom Sensor Data to Spatial, Temporal, and Relational Understanding in Human–AI Systems This research monograph examines a fundamental problem in human–AI systems: how can information originating from sensors, observations, and different information sources become a grounded, coherent, and temporally continuous representation of the world? A sensor value alone does not establish the identity, location, meaning, or history of an entity. Measurements must be interpreted within a defined context, related to spatial and temporal references, and connected to persistent identities and provenance. As the physical world changes, systems must be able to distinguish what has been observed, what has been inferred, what is predicted, what has changed, and what remains unknown. The work investigates the transition from individual measurements and observations towards grounded world representation. It addresses spatial and temporal anchoring, persistent entity identity, relational structures, provenance, uncertainty, reconstruction, multimodal sensor integration, physical and causal models, and the continuity of information across changing states. A central concept developed in this work is Global State Awareness (GSA). GSA is approached as a bounded, context-dependent, and derived projection of selected observations, relations, and state information within a defined scope and time horizon. It is intended to support both reliable machine processing and meaningful human understanding. It is neither an omniscient representation of reality nor an autonomous decision authority. The monograph also introduces Grounded Information Continuity (GIC) as a proposed working concept for maintaining references and relationships across changing observations and system states. It distinguishes stability, robustness, resilience, viability, and sustainability, and develops the concept of a Viability Envelope as a descriptive framework for examining the conditions under which systems can remain functional while accommodating change. The resulting architecture is considered from the perspectives of human cognition, artificial intelligence, robotics, sensor systems, digital twins, and interconnected technical and ecological systems. Particular attention is given to provenance, uncertainty, resource constraints, authority boundaries, and the distinction between deterministic information records and uncertain estimates of the physical world. Beyond the conceptual framework, the work consolidates thirty-six historical propositions into fourteen hypothesis families and outlines a research and evaluation programme through which these propositions may be examined. It includes a phased research approach, illustrative technical cases, architectural considerations, and an analysis of potential failure modes and limitations. These propositions remain hypotheses and research questions. Their consolidation does not constitute empirical validation. The monograph does not claim that a complete integrated sensor-fusion system or persistent three-dimensional and four-dimensional world model has already been implemented or experimentally demonstrated. It presents a conceptual and architectural foundation together with a programme for subsequent investigation and validation. Human–AI Collaboration and Methodological Disclosure This work was developed through an iterative collaboration between the human author and artificial intelligence systems, including ChatGPT by OpenAI. AI systems assisted throughout the development process with research support, conceptual exploration, structural analysis, synthesis of related ideas, outlining, drafting, language refinement, and iterative review. Their contribution was substantial and is disclosed explicitly rather than presented as an exclusively unaided human writing process. The work was conducted under the direction, supervision, and editorial control of Patrick Robert Miller. The author established the research direction, provided the conceptual foundations, evaluated and selected material, reviewed and revised the resulting content, and made the final decisions concerning interpretation, structure, and publication. The development process followed applicable K501-conformant working principles, including: Proof Before State: claims and state assignments require supporting evidence. Reconstruct Before Extend: existing information and its relationships are examined before new structures are introduced. Traceability Required: sources, provenance, and derivation remain distinguishable. Unknown by Default: missing or insufficient evidence is not silently converted into a negative finding. No Drift: established definitions, scope boundaries, and source identities are preserved during iterative development. Densification Without Erasure: new knowledge extends the information structure without silently replacing its history. K501 provides the methodological context for this approach. References to K501, AIONARC, and QH256 do not imply that existing software implementations already provide every capability proposed in this monograph. The human author retains responsibility for the work's research direction, final content, interpretations, source selection, and publication. Scope and Intended Contribution The intended contribution is a structured foundation for investigating how human and artificial systems can maintain grounded references to a changing world without losing identity, relationships, temporal context, or provenance. The work does not propose that increasing sensor quantity, model complexity, dimensionality, or computational capacity automatically produces better world understanding. Instead, it emphasizes coherent information structures, bounded awareness, explicit uncertainty, reconstructability, and the preservation of relevant context. Its broader objective is to contribute to the development of human–AI systems that can process information reliably, maintain continuity across changing conditions, and support meaningful interaction with the physical and social environments in which they operate. Author: Patrick Robert Miller (Iinkognit0)ORCID: 0009-0004-3275-9545Contact: contact.k501@proton.meResearch context: K501 Information Space — Independent Research",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.24051676"
+    },
+    {
+      "id": "openalex-W7225588751",
+      "doi": "10.5281/zenodo.24056553",
+      "title": "Hierarchical multimodal assessment of exercise form from skeletal and visual cues under weak supervision",
+      "title_zh": "",
+      "authors": [
+        "Gehad Mustafa",
+        "Motaz Elsabban",
+        "Amira M. Kotb"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "计算机科学",
+      "topics": [
+        "Human Pose and Action Recognition",
+        "Context-Aware Activity Recognition Systems",
+        "Educational Technology and Pedagogy"
+      ],
+      "abstract": "This record contains the research code accompanying the paper \"Hierarchical multimodal assessment of exercise form from skeletal and visual cues under weak supervision\" by G. Mustafa, M. Elsabban, and A. M. Kotb. The project implements a three-stage hierarchical multimodal framework for automated exercise form assessment using skeletal and visual representations from the Fitness-AQA dataset. The framework consists of: Exercise Recognition: Classification of squat and overhead press (OHP) exercises using skeletal landmark-triplet angle features. Binary Quality Assessment: Classification of exercise repetitions as correct or incorrect using skeletal and visual features, bidirectional cross-attention, Transformer-based temporal encoding, and multiple-instance learning (MIL). Fault Diagnosis: Identification of exercise-specific execution errors, including elbow extension (EE) and knee extension (KE) faults for OHP, and knees forward (KFE) and knees inward (KIE) faults for squats. The visual representation is based on a 128-dimensional MobileNetV2 encoder trained using triplet learning on unlabeled video data. The source code corresponds to the implementation used to obtain the experimental results reported in the accompanying manuscript. Dataset availability: The Fitness-AQA dataset is not included in this record and must be obtained separately from its original authors: https://github.com/ParitoshParmar/Fitness-AQA Reproducibility: The repository includes the implementation scripts, configuration details, and instructions for preparing the required input files. Dataset paths must be configured before execution. Access conditions: The source code is deposited under restricted access. Access may be requested from the record's authors.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.24056553"
+    },
+    {
+      "id": "openalex-W7225589951",
+      "doi": "10.5281/zenodo.24056744",
+      "title": "Digital Storytelling as an Explanatory Practice in Primary STEAM Education",
+      "title_zh": "",
+      "authors": [
+        "Toshpulatova Niyoxon Shavkatjon Qizi",
+        "Worldly Knowledge Publishing Centre"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "社会科学",
+      "topics": [
+        "Digital Storytelling and Education",
+        "Science Education and Pedagogy",
+        "Education and Technology Integration"
+      ],
+      "abstract": "Digital storytelling can connect artistic expression with the explanation of a scientific or technological idea, yet production quality can conceal weak content understanding. This conceptual article develops an instructional model that links a claim, a storyboard, multimodal representation and audience-informed revision. Digital-storytelling scholarship, creative-programming resources and accessibility guidance inform a worked design in which primary pupils explain a simple water-saving mechanism. The analysis distinguishes evidence-bearing representations from decorative additions and separates scientific accuracy, narrative clarity, accessibility and responsible use of media. Proposed classroom tasks and an analytical matrix show how individual understanding may be examined alongside a collaborative artefact. The study reports no classroom implementation or learning gains. Its contribution is a bounded design framework for using digital stories to teach and explain aspects of the digital world through STEAM. Validation requires investigation of comprehension, authorship and transfer across varied classroom conditions.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.24056744"
+    },
+    {
+      "id": "openalex-W7225591940",
+      "doi": "10.5281/zenodo.24051664",
+      "title": "PEDAGOGICAL CONDITIONS FOR ENHANCING THE CULTURAL AND INTELLECTUAL DEVELOPMENT OF UPPER SECONDARY SCHOOL STUDENTS IN A MULTIMODAL LEARNING ENVIRONMENT",
+      "title_zh": "",
+      "authors": [
+        "Klicheva Guzal Chorshanbiyevna",
+        "Worldly Knowledge Publishing Centre"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "社会科学",
+      "topics": [
+        "Literacy, Media, and Education",
+        "Educational Technology in Learning",
+        "Educational Technology and E-Learning"
+      ],
+      "abstract": "This thesis investigates the pedagogical conditions necessary to enhance the cultural and intellectual development of upper secondary school students in a multimodal learning environment. Its aim is to establish a coherent framework connecting accessible learning resources, teacher competence, culturally grounded content, student agency, and assessment. The study applies documentary analysis, comparative synthesis, and pedagogical modelling to recent international evidence and Uzbekistan’s educational policy. Six interdependent conditions and observable implementation indicators are proposed. The principal conclusion is that multimodal learning becomes educationally meaningful when technological access is accompanied by inclusive design, dialogic inquiry, ethical media practices, and sustained formative feedback. The proposed framework is conceptual and has not yet been experimentally validated.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.24051664"
+    },
+    {
+      "id": "openalex-W7225597670",
+      "doi": "10.5281/zenodo.24052716",
+      "title": "EchoHands: A Deep Learning-Based Multimodal Gesture Recognition and Real-Time Speech Synthesis System for Deaf-Mute Communication",
+      "title_zh": "",
+      "authors": [
+        "Patil Shruti",
+        "Dr.  Manoj Ishi",
+        "Prajakta Mahajan",
+        "Khushi Chaudhari",
+        "Aayush Chaudhari"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "计算机科学",
+      "topics": [
+        "Hand Gesture Recognition Systems",
+        "Hearing Impairment and Communication",
+        "Human Pose and Action Recognition"
+      ],
+      "abstract": "Abstract - Although few people know sign language, there is still a limited communication between the deaf-mute community and the hearing population. In this paper we propose EchoHands, a deep learning based multimodal system that bridges this gap with two complementary pipelines: a sign-to-text-to-speech pipeline that records hand gestures using a webcam, extracts landmark features with MediaPipe, and classifies them using a Convolutional Neural Network, then transforms the recognized text to audible speech; and a text and speech to sign pipeline which maps a typed or spoken input to a sequence of sign gestures via an avatar-based animation module. The system is implemented as a full-stack web application with Flask backend and React.js frontend that enables real-time interaction via browser without the need for hardware like gloves or depth sensors. The recognition model obtained an overall accuracy of 97.31 percent on a held-out validation set of 260 images belonging to 26 gesture classes. The macro-averaged precision, recall and F1-score are 97.82 percent, 97.35 percent and 97.48 percent respectively, and average inference latency of 110 to 135 ms per frame on standard consumer CPU hardware. The text-to-sign pipeline produces recognizable animated sequences for short phrases.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.24052716"
+    },
+    {
+      "id": "openalex-W7225468033",
+      "doi": "10.1016/j.urbmob.2026.100315",
+      "title": "From mobility experiences to planning priorities: Co-creation embedded in peri-urban mobility planning",
+      "title_zh": "",
+      "authors": [
+        "Õnne Kask",
+        "Tauri Tuvikene",
+        "Louise Sträuli",
+        "Samira Ramezani",
+        "Jos Arts"
+      ],
+      "year": 2026,
+      "venue": "Journal of Urban Mobility",
+      "field": "社会科学",
+      "topics": [
+        "Urban Transport and Accessibility",
+        "Transportation Planning and Optimization",
+        "Transportation and Mobility Innovations"
+      ],
+      "abstract": "Multimodal mobility could significantly contribute to accessibility and decarbonisation goals in peri-urban areas which are typically car-dependent. However, planning for such systems is complex, requiring input from inhabitants and actors across scales. Co-creative processes offer opportunities to integrate different forms of knowledge into mobility planning, yet their application in peri-urban contexts remains underexplored. This study employed qualitative methods to explore the challenges of multimodal mobility in peri-urban areas and investigate how co-creation could translate inhabitants’ mobility experiences into planning-relevant priorities. Using a case study from the Tallinn Urban Region in Estonia, the study examines a middle-class suburban neighbourhood shaped by urban sprawl and reflective of peri-urban development globally. The study was embedded in an ongoing planning process, informing real-time policy development. Four co-creative activities enabled mobility experiences, academic insights and institutional knowledge to be revisited and progressively developed into context-specific mobility challenges, possible solutions and planning priorities. The findings suggest that peri-urban residents are open to increasing their multimodal travel, but this requires more diverse and seasonally responsive transport options, safer infrastructure for active travel, and better access to local facilities, particularly to children’s leisure activities. Nevertheless, cars are likely to remain an important transport mode in peri-urban settings. Behavioural and informational barriers, including limited familiarity with existing mobility options, further shape the feasibility of multimodal travel. The study shows how co-creation embedded within an ongoing planning process can translate lived mobility experiences into planning-relevant priorities through iterative feedback, knowledge integration and collective learning between inhabitants, planners and other actors.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "https://www.sciencedirect.com/science/article/pii/S2667091726001329/pdf",
+      "url": "https://doi.org/10.1016/j.urbmob.2026.100315"
+    },
+    {
+      "id": "openalex-W7225560312",
+      "doi": "10.1922/comdem.v3i6s.18992",
+      "title": "CancerSkinNet: A Cross-Attention Multimodal Hybrid Framework Integrating Dual Convolutional Networks and Interpretable Ensemble Classifiers for Early, Equitable, and Explainable Skin Cancer Diagnosis",
+      "title_zh": "",
+      "authors": [
+        "Desu Sharanya",
+        "Lakshmi T K"
+      ],
+      "year": 2026,
+      "venue": "Computer and decision making.",
+      "field": "医学",
+      "topics": [
+        "Cutaneous Melanoma Detection and Management",
+        "AI in cancer detection",
+        "Artificial Intelligence in Healthcare"
+      ],
+      "abstract": "Deep learning classifiers for dermoscopic images perform well on benchmarks but suffer from poor interpretability, lower accuracy on darker skin and ignore patient metadata. We propose CancerSkinNet, a framework to fill these three gaps in a single architecture with an associated predefined evaluation protocol. ISIC 2020, HAM10000 and Derm7pt images are harmonized to 9 diagnostic classes with patient grouped splits. The feature maps of ResNet-50 and Xception are fused with a 64-dimensional embedding of the metadata through cross attention. The final decision is made by a soft-voting ensemble of a support vector machine, a random forest and XGBoost, and it also receives interpretable ABCD lesion descriptors. The individual typology angle is used to calculate an estimate of the skin tone. SMOTE by class is performed in the feature space. GradCAM and SHAP explanations are assessed by 3 dermatologists. Every component and the statistical plan are built by us: McNemar & DeLong tests with Bonferroni correction, worst-group & maximum-gap equity metrics, and Fleiss κ. The power analysis indicates that 1800 test images are needed to detect a two-point paired accuracy difference, whereas subgroups below 200 images cannot resolve gaps smaller than six points.The framework and protocol describe how claims of accuracy, equity and interpretability should be tested before clinical use.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "https://comdem.org/index.php/comdem/article/download/18992/12696",
+      "url": "https://doi.org/10.1922/comdem.v3i6s.18992"
+    },
+    {
+      "id": "openalex-W7225567702",
+      "doi": "10.63939/6yz7db17",
+      "title": "Bridging the Gap Between AI Innovation and Educational Policy:A Framework for Multimodal Instruction in Higher Education",
+      "title_zh": "",
+      "authors": [
+        "Zouda Mohamed Riadh"
+      ],
+      "year": 2026,
+      "venue": "مجلة القانون الدولي للدراسات البحثية",
+      "field": "人工智能",
+      "topics": [
+        "Artificial Intelligence in Education",
+        "Digital Education and Society",
+        "Artificial Intelligence in Healthcare and Education"
+      ],
+      "abstract": "Universities want the benefits of AI, but they are also under pressure to build legal and ethical safeguards that protect student learning, and the two aims do not always sit comfortably together. This paper looks at how AI-based multimodal instruction relates to critical thinking, and it reads the results against ongoing regulatory debates about AI in education. As governments and international bodies work out how to govern generative AI, regulation will need to line up with teaching approaches that demonstrably improve cognitive outcomes. I draw on a mixed-methods study of 87 third-year English majors to examine how combining text, image, audio, and interactive AI agents affects critical thinking in content courses, and to identify the cognitive mechanisms these environments appear to trigger. I then set the findings beside regulatory approaches that emphasize data privacy, algorithmic transparency, and academic integrity. My argument is that a purely restrictive legal approach risks stifling educational innovation, whereas a purely permissive one may weaken critical engagement when students are not adequately supported. The paper proposes a Pedagogical-Legal Framework in which AI literacy complements regulation. By tying evidence on multimodal learning to institutional and legal mandates, the framework offers educators and policymakers a way to cultivate critical thinking in an AI-augmented era. I conclude that developers, legal experts, and educators need to work together if future regulation is to support deep critical inquiry in higher education rather than inhibit it.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.63939/6yz7db17"
     },
     {
       "id": "arxiv-2403.05530",
