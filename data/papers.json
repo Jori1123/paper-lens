@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-11-21T03:14:45.004625+00:00",
+    "updated_at": "2026-11-22T02:16:25.773184+00:00",
     "source": "OpenAlex",
     "queries": [
       "artificial intelligence",
@@ -10,7 +10,7 @@
       "multimodal learning"
     ],
     "window_years": 10,
-    "count": 6716
+    "count": 6754
   },
   "papers": [
     {
@@ -106,6 +106,35 @@
       "url": "https://doi.org/10.1145/3767308.3835362"
     },
     {
+      "id": "openalex-W4394839129",
+      "doi": "10.1145/3857792",
+      "title": "Federated Distillation: A Survey",
+      "title_zh": "",
+      "authors": [
+        "Li Lin",
+        "Jianping Gou",
+        "Baosheng Yu",
+        "Lan Du",
+        "Tao Zhang",
+        "Dacheng Tao"
+      ],
+      "year": 2026,
+      "venue": "ACM Computing Surveys",
+      "field": "计算机科学",
+      "topics": [
+        "Privacy-Preserving Technologies in Data",
+        "Domain Adaptation and Few-Shot Learning",
+        "Stochastic Gradient Optimization Techniques"
+      ],
+      "abstract": "Federated learning (FL) enables collaborative model training without centralizing clients’ raw data, but parameter exchange can impose substantial communication costs and usually requires compatible model architectures. Federated distillation (FD) instead transfers predictive or intermediate knowledge through knowledge distillation (KD), which can support heterogeneous models and reduce communication in suitable settings. These benefits are not automatic: their magnitude depends on the transmitted knowledge, reference data, communication schedule, and threat model. This survey provides a challenge-centered synthesis of FD. We first formalize a representative public-data, response-based FD protocol and then organize existing methods by the FL challenges they address, including data, system, and model heterogeneity, client drift, catastrophic forgetting, communication cost, and privacy risk. We further review applications in industrial engineering, computer vision, natural language processing, and healthcare, including recent federated adaptation of large language models. Finally, we identify five research priorities: richer transferred knowledge, joint treatment of interacting forms of heterogeneity, communication-aware distillation, threat-model-driven privacy protection, and standardized theory, benchmarks, and evaluation.",
+      "abstract_zh": "",
+      "citations": 40,
+      "popularity": 54,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1145/3857792"
+    },
+    {
       "id": "openalex-W4394866661",
       "doi": "10.1007/s44267-026-00133-1",
       "title": "State space model for new generation network alternative to transformers: a survey",
@@ -183,6 +212,35 @@
       "open_access": false,
       "pdf_url": "",
       "url": "https://doi.org/10.1075/is"
+    },
+    {
+      "id": "openalex-W4416497924",
+      "doi": "10.1145/3816251",
+      "title": "Generalizing Vision-Language Models to Novel Domains: A Comprehensive Survey",
+      "title_zh": "",
+      "authors": [
+        "Xinyao Li",
+        "Jingjing Li",
+        "Fengling Li",
+        "Lei Zhu",
+        "Yang Yang",
+        "Heng Tao Shen"
+      ],
+      "year": 2026,
+      "venue": "ACM Transactions on Multimedia Computing Communications and Applications",
+      "field": "计算机科学",
+      "topics": [
+        "Multimodal Machine Learning Applications",
+        "Domain Adaptation and Few-Shot Learning",
+        "Advanced Neural Network Applications"
+      ],
+      "abstract": "Recently, vision-language pretraining has emerged as a transformative technique that integrates the strengths of both visual and textual modalities, resulting in powerful vision-language models (VLMs). Leveraging web-scale pretraining data, these models exhibit strong zero-shot capabilities. However, their performance often deteriorates when confronted with domain-specific or specialized generalization tasks. To address this, a growing body of research focuses on transferring or generalizing the rich knowledge embedded in VLMs to various downstream applications. This survey aims to comprehensively summarize the generalization settings, methodologies, benchmarking, and results in VLM literatures. Delving into the typical VLM structures, current literatures are categorized into prompt-based , parameter-based , and feature-based methods according to the transferred modules. The differences and characteristics in each category are further summarized and discussed by revisiting the typical transfer learning (TL) settings , providing novel interpretations for TL in the era of VLMs. Popular benchmarks for VLM generalization are further introduced with thorough performance comparisons among the reviewed methods. Following the advances in large-scale generalizable pretraining, this survey also discusses the relations and differences between VLMs and up-to-date multimodal large language models (MLLM), e.g., DeepSeek-VL. By systematically reviewing the surging literatures in vision-language research from a novel and practical generalization prospective, this survey contributes to a clear landscape of current and future multimodal researches.",
+      "abstract_zh": "",
+      "citations": 15,
+      "popularity": 45,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1145/3816251"
     },
     {
       "id": "openalex-W4362585872",
@@ -848,35 +906,6 @@
       "url": "https://doi.org/10.5281/zenodo.22481924"
     },
     {
-      "id": "openalex-W4394839129",
-      "doi": "10.1145/3857792",
-      "title": "Federated Distillation: A Survey",
-      "title_zh": "",
-      "authors": [
-        "Li Lin",
-        "Jianping Gou",
-        "Baosheng Yu",
-        "Lan Du",
-        "Tao Zhang",
-        "Dacheng Tao"
-      ],
-      "year": 2026,
-      "venue": "ACM Computing Surveys",
-      "field": "计算机科学",
-      "topics": [
-        "Privacy-Preserving Technologies in Data",
-        "Domain Adaptation and Few-Shot Learning",
-        "Stochastic Gradient Optimization Techniques"
-      ],
-      "abstract": "Federated learning (FL) enables collaborative model training without centralizing clients’ raw data, but parameter exchange can impose substantial communication costs and usually requires compatible model architectures. Federated distillation (FD) instead transfers predictive or intermediate knowledge through knowledge distillation (KD), which can support heterogeneous models and reduce communication in suitable settings. These benefits are not automatic: their magnitude depends on the transmitted knowledge, reference data, communication schedule, and threat model. This survey provides a challenge-centered synthesis of FD. We first formalize a representative public-data, response-based FD protocol and then organize existing methods by the FL challenges they address, including data, system, and model heterogeneity, client drift, catastrophic forgetting, communication cost, and privacy risk. We further review applications in industrial engineering, computer vision, natural language processing, and healthcare, including recent federated adaptation of large language models. Finally, we identify five research priorities: richer transferred knowledge, joint treatment of interacting forms of heterogeneity, communication-aware distillation, threat-model-driven privacy protection, and standardized theory, benchmarks, and evaluation.",
-      "abstract_zh": "",
-      "citations": 6,
-      "popularity": 37,
-      "open_access": true,
-      "pdf_url": "",
-      "url": "https://doi.org/10.1145/3857792"
-    },
-    {
       "id": "openalex-W4321276740",
       "doi": "10.1016/j.cosrev.2026.101084",
       "title": "Spectral 3D computer vision: A survey of acquisition, representations, learning, and applications",
@@ -933,6 +962,35 @@
       "open_access": true,
       "pdf_url": "",
       "url": "https://doi.org/10.1145/3767308.3836083"
+    },
+    {
+      "id": "openalex-W4385750134",
+      "doi": "10.26599/bdma.2026.9020039",
+      "title": "Multi-view fusion and distillation for subgrade distresses detection based on 3D ground-penetrating radar",
+      "title_zh": "",
+      "authors": [
+        "Chunpeng Zhou",
+        "Kangjie Ning",
+        "Haishuai Wang",
+        "Zhi Wu Yu",
+        "S. Kevin Zhou",
+        "Jiajun Bu"
+      ],
+      "year": 2026,
+      "venue": "Big Data Mining and Analytics",
+      "field": "Earth and Planetary Sciences",
+      "topics": [
+        "Geophysical Methods and Applications",
+        "Infrastructure Maintenance and Monitoring",
+        "Geotechnical and construction materials studies"
+      ],
+      "abstract": "The Three-Dimensional Ground-Penetrating Radar (3D-GPR) has been widely used for subgrade distress detection. To enhance the efficiency and accuracy of detection, pioneering studies have attempted to adopt automatic detection techniques such as deep learning. However, existing works typically rely on traditional One-Dimensional (1D) A-scan, Two-Dimensional (2D)-B-scan or 3D C-scan GPR data, resulting in either insufficient spatial information or high computational complexity. To address these challenges, we introduce a novel methodology for subgrade distress detection by leveraging multi-view information from vanilla 3D-GPR data. First, we construct a real multi-view image dataset derived from the vanilla 3D-GPR data for the detection task, providing richer spatial information compared to A-scan and B-scan data, and reducing data computational complexity compared to C-scan data. Subsequently, we develop a novel Multi-View Fusion and Distillation Ground-Penetrating Radar framework, called GPR-MVFD, specifically designed to optimally utilize the multi-view GPR dataset. This framework ingeniously incorporates the attention-based fusion and multi-view distillation to facilitate significant feature extraction for subgrade distresses. In addition, a self-adaptive learning mechanism is adopted to stabilize the model training and prevent performance degeneration in each branch. Extensive experiments demonstrate the value of the newly constructed GPR dataset and showcase the effectiveness and efficiency of our proposed GPR-MVFD. Notably, our framework outperforms not only the existing GPR baselines, but also the state-of-the-art methods in the fields of multi-view learning, multimodal learning, and Knowledge Distillation (KD). Our data and code have been made publicly available as open source at https://github.com/zhouchunpong/multi-view-3DGPR.",
+      "abstract_zh": "",
+      "citations": 6,
+      "popularity": 37,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.26599/bdma.2026.9020039"
     },
     {
       "id": "openalex-W4415035557",
@@ -1622,6 +1680,62 @@
       "open_access": true,
       "pdf_url": "",
       "url": "https://doi.org/10.1145/3829340.3842158"
+    },
+    {
+      "id": "openalex-W7163031027",
+      "doi": "10.1145/3828647.3857287",
+      "title": "TokTalk: Embodying Audio-LM via Real-Time 3D Facial Animation",
+      "title_zh": "",
+      "authors": [
+        "Qingcheng Zhao",
+        "Yifang Pan",
+        "Karan Singh"
+      ],
+      "year": 2026,
+      "venue": "ACM SIGGRAPH Conference on Motion, Interaction and Games (MIG)",
+      "field": "计算机科学",
+      "topics": [
+        "Human Motion and Animation",
+        "Speech and Audio Processing",
+        "Face recognition and analysis"
+      ],
+      "abstract": "Recent advances in Audio-LLMs such as GPT-4o have ushered in an era of conversational interaction with language models. Conversational avatars, however, still feel robotic in conversational flow, in part because traditional speech-to-face models necessitate the sequential generation of audio and then animation, introducing additional latency into the interaction loop. Based on our insight that the audio tokens produced by current Audio-LLMs already carry sufficient information to reconstruct a plausible facial performance, we present TokTalk, a system that drives expressive facial animation directly from audio tokens, prior to decoding. This collapses the sequential generation of audio and then animation into a parallel process, removing the added latency. TokTalk is trained using a chunk-based conditional flow matching model that maps directly from audio tokens to facial motion. To handle differing audio token spaces, we show that a lightweight adaptation layer can translate between them, allowing our trained model to work with most state-of-the-art Audio-LLMs at minimal computational overhead. Our chunk-based processing further enables a parametric trade-off between latency and facial quality, which we demonstrate through ablation studies. We further show that the real-time performance of TokTalk is comparable in latency to prior art solutions, and significantly favorable (via a perceptual study) in terms of quality, expressivity and control of the 3D facial performance. We showcase potential applications of TokTalk in the video game industry with integration into a chatbot avatar, a voice-driven user avatar, and an animation director’s interface, as diverse audio-visual face applications.",
+      "abstract_zh": "",
+      "citations": 3,
+      "popularity": 31,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1145/3828647.3857287"
+    },
+    {
+      "id": "openalex-W4416445680",
+      "doi": "10.1088/1741-2552/aebd1d",
+      "title": "A comprehensive review of biosignal foundation models",
+      "title_zh": "",
+      "authors": [
+        "Na Kim Kim Lee",
+        "Konstantinos Barmpas",
+        "Alexandros Koliousis",
+        "Yannis Panagakis",
+        "Dimitrios A. Adamos",
+        "Nikolaos Laskaris",
+        "Stefanos P. Zafeiriou"
+      ],
+      "year": 2026,
+      "venue": "Journal of Neural Engineering",
+      "field": "医学",
+      "topics": [
+        "ECG Monitoring and Analysis",
+        "Non-Invasive Vital Sign Monitoring",
+        "EEG and Brain-Computer Interfaces"
+      ],
+      "abstract": "Objective. Foundation models are emerging as a promising approach to biosignal analysis, offering solutions to common challenges in learning from biosignal data, such as high variability, noise or limited annotations. This survey provides a comprehensive review of the state-of-the-art in this rapidly advancing field. Approach. We introduce commonly used biosignal modalities (including electroencephalography, electrocardiography, electromyography, electrooculography and photoplethysmography) and discuss their defining characteristics with respect to training large models. Main results. We present a structured survey of existing work across unimodal and multimodal settings covering data processing, feature extraction, model architectures, pre-training paradigms and evaluation methods. We identify open challenges such as benchmarking, interpretability and data availability and highlight possible directions for future research. Significance. By consolidating our findings from the current literature and opportunities for progress, we aim to guide the development of robust and universal foundation models for biosignals.",
+      "abstract_zh": "",
+      "citations": 3,
+      "popularity": 31,
+      "open_access": true,
+      "pdf_url": "https://iopscience.iop.org/article/10.1088/1741-2552/aebd1d/pdf",
+      "url": "https://doi.org/10.1088/1741-2552/aebd1d"
     },
     {
       "id": "openalex-W7203974200",
@@ -5046,6 +5160,115 @@
       "open_access": true,
       "pdf_url": "https://www.astrj.com/pdf-226768-149729?filename=The-effect-of-material-op.pdf",
       "url": "https://doi.org/10.12913/22998624/226768"
+    },
+    {
+      "id": "openalex-W7236097914",
+      "doi": "10.1145/3829250.3849186",
+      "title": "SketchBot: Towards a VLM-Based Formative Feedback Tool for Ray-Tracing Sketches in Computer Graphics Education",
+      "title_zh": "",
+      "authors": [
+        "Xiao Li",
+        "Haoran Feng",
+        "Zixuan Wang",
+        "E.S.K. Liu",
+        "Blake O'Callahan",
+        "Paul C. Denny",
+        "Burkhard Claus Wuensche"
+      ],
+      "year": 2026,
+      "venue": "OpenAlex",
+      "field": "计算机科学",
+      "topics": [
+        "Intelligent Tutoring Systems and Adaptive Learning",
+        "Teaching and Learning Programming",
+        "Artificial Intelligence in Education"
+      ],
+      "abstract": "Learning ray-tracing requires coordinating spatial relationships that are difficult to inspect from code or rendered outputs alone. We present SketchBot, a sketch-based learning system in which learners complete ray-tracing constructions and engage in an iterative sketch–feedback–revision workflow supported by vision-language model (VLM)-generated formative feedback. We evaluated instruction-tuned Qwen3-VL models with 8B and 32B parameters, without task-specific fine-tuning, across four tasks and two prompting conditions: task-only and criteria-and-reference. The latter additionally provided task-specific requirements, evaluation criteria, predefined error categories, and a reference-answer image. The dataset comprised 85 researcher-created simulated learner sketches representing 17 error categories, producing 340 feedback responses. Four experts rated each response for diagnostic accuracy and guidance quality. For diagnostic accuracy, 39.7% of ratings were mostly or fully accurate, 34.5% were partially correct, and 25.8% were completely wrong or misleading. For guidance quality, 51.8% of ratings indicated useful or fully successful guidance, 27.3% indicated weak or difficult-to-act-on guidance, and 20.9% indicated misleading or unhelpful guidance. The results reveal a gap between the models’ ability to formulate useful revision guidance and their ability to interpret learner sketches accurately. VLM-generated sketch feedback therefore shows limited pre-deployment feasibility but is not yet sufficiently reliable for direct student-facing use without additional verification and safeguards. We discuss the pedagogical risks of misleading feedback and design requirements for future VLM-supported sketching systems in computer graphics education. Source code and supplementary materials are available at: https://github.com/NicoleLia/sketchbot",
+      "abstract_zh": "",
+      "citations": 1,
+      "popularity": 25,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1145/3829250.3849186"
+    },
+    {
+      "id": "openalex-W7225193651",
+      "doi": "10.71086/iajss/v13i4/iajss1330",
+      "title": "Integrated Digital Sustainability Framework for Inclusive Growth and Social Development",
+      "title_zh": "",
+      "authors": [
+        "Muhammad Ali Equatora"
+      ],
+      "year": 2026,
+      "venue": "International Academic Journal of Organizational Behavior and Human Resource Management",
+      "field": "社会科学",
+      "topics": [
+        "Digital Economy and Transformation",
+        "Economic Growth and Development",
+        "ICT in Developing Communities"
+      ],
+      "abstract": "Digital transformation is becoming an integral mechanism to facilitate sustainability, inclusive development, and social progress. Availability of digital infrastructure, artificial intelligence, Internet of Things, cloud computing, digital platforms, mobile applications, and data-driven services provides new avenues for enhancing access to education, health care, job opportunities, financial services, governance, and environmental management. But digital transformation does not ensure that such initiatives will be sustainable or inclusive. Access asymmetry to connectivity, digital skills, devices, funding, and services can strengthen social and economic disparities. Increasing reliance on digital systems poses new environmental, institutional, privacy, cybersecurity, and governance issues. In this paper, we create a conceptual framework for understanding the relationship between digital sustainability and inclusive growth and social development. We consider the following four dimensions of sustainability: economic, social, environmental, and institutional. These dimensions are enabled by the following components: digital infrastructure, digital skills, governance, and innovation. The article highlights the limitations of current literature on digital sustainability, digital inclusion, sustainable development, and socially enabling technologies. It outlines how digital technologies could support inclusive education, health care access, livelihoods, financial inclusion, smart governance, and green digitization through various paths. A plan for implementation has been outlined, highlighting the role of each stakeholder such as the government, business, community, educational institutes, and technology companies. Sustainability metrics have been proposed to assess the outcomes for economy, society, environment, and institutions. The paper focuses on the fact that responsible governance, access to technology, digital literacy, and assessment are prerequisites for a digital transformation to result in sustainable development.",
+      "abstract_zh": "",
+      "citations": 1,
+      "popularity": 25,
+      "open_access": true,
+      "pdf_url": "https://iaiest.com/iaj/index.php/IAJSS/article/download/IAJSS1330/3167",
+      "url": "https://doi.org/10.71086/iajss/v13i4/iajss1330"
+    },
+    {
+      "id": "openalex-W7225195072",
+      "doi": "10.71086/iajss/v13i4/iajss1327",
+      "title": "AI-Enabled Decision Support Systems for Improving Public Administration Effectiveness",
+      "title_zh": "",
+      "authors": [
+        "Wei Jian",
+        "刘美琳"
+      ],
+      "year": 2026,
+      "venue": "International Academic Journal of Social Sciences",
+      "field": "社会科学",
+      "topics": [
+        "E-Government and Public Services",
+        "Smart Cities and Technologies",
+        "Public Policy and Administration Research"
+      ],
+      "abstract": "Artificial Intelligence (AI) is becoming one of the sources for transforming public administration through introducing new techniques in information processing, policy analysis, service provision, resource management, and decision-making. Public organizations work in an information-intensive environment in which administrators have to analyze large amounts of structured and unstructured data, taking into account changes in the socio-economic, environmental, and technological environment. Traditional decision-making techniques can be restricted by fragmented information systems, manual information processing, limited analytic capacity, time delays in information processing, and difficulties in finding complex interrelations in large datasets. Integration of artificial intelligence techniques with databases, analytic models, visualization techniques, and current e-governance technologies in AI-enabled Decision Support Systems (DSS) creates an opportunity to overcome these limitations and provide administrators with information, predictions, recommendations, and scenarios for decision-making based on evidence. This paper analyzes the role of AI-enabled DSS in enhancing the efficiency of public administration through a conceptual and literature review approach. The study will focus on the evolution of DSS, application of AI in public administration, decision-making theories, technological, organizational, and governance issues. Conceptual framework is generated through the integration of decision-support concepts into the Technology–Organization–Environment framework. The use cases under discussion include applications in the development of policies, delivery of services to citizens, resource allocation, fraud detection, urban planning, healthcare, education, social services, and disaster response. Challenges associated with data accuracy, privacy issues, cybersecurity, biases of algorithms, explainability of decisions, legal aspects, digital divide, skills of personnel, and organizational barriers are discussed as well. The analysis shows that the utilization of AI technologies within decision support systems may increase the effectiveness, analytical capabilities, timeliness, forecasting abilities, monitoring and resource planning if there is relevant data and proper organizational and governance mechanisms. Nonetheless, the application of AI needs to be limited to a decision-support tool rather than a substitute for the human decision-making in public organizations.",
+      "abstract_zh": "",
+      "citations": 1,
+      "popularity": 25,
+      "open_access": true,
+      "pdf_url": "https://iaiest.com/iaj/index.php/IAJSS/article/download/IAJSS1327/3164",
+      "url": "https://doi.org/10.71086/iajss/v13i4/iajss1327"
+    },
+    {
+      "id": "openalex-W7165627825",
+      "doi": "10.1038/s41598-026-75569-y",
+      "title": "Endometriosis classification using blood plasma through data fusion of Fourier transform infrared spectroscopy and high-performance liquid chromatography",
+      "title_zh": "",
+      "authors": [
+        "Sanoop Pavithran M",
+        "Clint Mathew",
+        "Rekha Upadhya",
+        "Anjali Suneel Mundkur",
+        "Jacinta S. D’Souza",
+        "Muraleedhar V pai",
+        "Santhosh Chidangil"
+      ],
+      "year": 2026,
+      "venue": "Scientific Reports",
+      "field": "生物学",
+      "topics": [
+        "Spectroscopy Techniques in Biomedical and Chemical Research",
+        "Spectroscopy and Chemometric Analyses",
+        "Endometriosis Research and Treatment"
+      ],
+      "abstract": "A minimally invasive detection method is highly desirable for endometriosis due to its long diagnostic delay, non-specific symptoms, and invasive diagnostic procedures. This study explored the synergetic application of vibrational spectroscopy (ATR-FTIR) and protein profile (HPLC-FLD) analysis of blood plasma samples for the detection of endometriosis. The different feature selection tools, such as genetic algorithm (GA), variable importance in projection (VIP) and random forest variable importance (RFVI), were adapted to screen the most significant variables among the whole data. The machine learning models, such as support vector machines (SVM), K-Nearest Neighbours (KNN) and shallow neural network (NN), were applied to the data for the classification of endometriosis from control. The protein profile data with common features selected out of feature selection tools such as GA and VIP, and KNN as a classifier resulted in a sensitivity of 73% an area under the ROC curve of 0.77. Furthermore, the explainable AI tool SHAP (Shapley additive explanations) values was used to identify the blood plasma fractions responsible for classifying endometriosis relative to controls. The untargeted mass spectrometry analysis of these blood plasma fractions revealed a panel of proteins that were responsible for the classification of endometriosis and probable protein biomarkers of endometriosis. The Mid-level data fusion (extracting PLS-DA score) was applied on the ATR-FTIR and HPLC-FLD data set with feature selection algorithms, which resulted in an 80% sensitivity and AUC of 0.80. This study suggests that a multimodal analytical approach with suitable data fusion can be a promising tool for minimally invasive endometriosis detection.",
+      "abstract_zh": "",
+      "citations": 1,
+      "popularity": 25,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1038/s41598-026-75569-y"
     },
     {
       "id": "openalex-W7117973916",
@@ -168349,7 +168572,7 @@
         "Sam Willems"
       ],
       "year": 2026,
-      "venue": "Lirias (KU Leuven)",
+      "venue": "Lirias",
       "field": "Agricultural and Biological Sciences",
       "topics": [
         "Animal Behavior and Welfare Studies",
@@ -168729,36 +168952,6 @@
       "open_access": true,
       "pdf_url": "https://link.springer.com/content/pdf/10.1007/978-3-032-44811-8_10.pdf",
       "url": "https://doi.org/10.1007/978-3-032-44811-8_10"
-    },
-    {
-      "id": "openalex-W7236097914",
-      "doi": "10.1145/3829250.3849186",
-      "title": "SketchBot: Towards a VLM-Based Formative Feedback Tool for Ray-Tracing Sketches in Computer Graphics Education",
-      "title_zh": "",
-      "authors": [
-        "Xiao Li",
-        "Haoran Feng",
-        "Zixuan Wang",
-        "E.S.K. Liu",
-        "Blake O'Callahan",
-        "Paul C. Denny",
-        "Burkhard Claus Wuensche"
-      ],
-      "year": 2026,
-      "venue": "OpenAlex",
-      "field": "计算机科学",
-      "topics": [
-        "Intelligent Tutoring Systems and Adaptive Learning",
-        "Teaching and Learning Programming",
-        "Artificial Intelligence in Education"
-      ],
-      "abstract": "Learning ray-tracing requires coordinating spatial relationships that are difficult to inspect from code or rendered outputs alone. We present SketchBot, a sketch-based learning system in which learners complete ray-tracing constructions and engage in an iterative sketch–feedback–revision workflow supported by vision-language model (VLM)-generated formative feedback. We evaluated instruction-tuned Qwen3-VL models with 8B and 32B parameters, without task-specific fine-tuning, across four tasks and two prompting conditions: task-only and criteria-and-reference. The latter additionally provided task-specific requirements, evaluation criteria, predefined error categories, and a reference-answer image. The dataset comprised 85 researcher-created simulated learner sketches representing 17 error categories, producing 340 feedback responses. Four experts rated each response for diagnostic accuracy and guidance quality. For diagnostic accuracy, 39.7% of ratings were mostly or fully accurate, 34.5% were partially correct, and 25.8% were completely wrong or misleading. For guidance quality, 51.8% of ratings indicated useful or fully successful guidance, 27.3% indicated weak or difficult-to-act-on guidance, and 20.9% indicated misleading or unhelpful guidance. The results reveal a gap between the models’ ability to formulate useful revision guidance and their ability to interpret learner sketches accurately. VLM-generated sketch feedback therefore shows limited pre-deployment feasibility but is not yet sufficiently reliable for direct student-facing use without additional verification and safeguards. We discuss the pedagogical risks of misleading feedback and design requirements for future VLM-supported sketching systems in computer graphics education. Source code and supplementary materials are available at: https://github.com/NicoleLia/sketchbot",
-      "abstract_zh": "",
-      "citations": 0,
-      "popularity": 18,
-      "open_access": true,
-      "pdf_url": "",
-      "url": "https://doi.org/10.1145/3829250.3849186"
     },
     {
       "id": "openalex-W7236147410",
@@ -173422,6 +173615,818 @@
       "open_access": true,
       "pdf_url": "",
       "url": "https://doi.org/10.3390/info17111174"
+    },
+    {
+      "id": "openalex-W7155104265",
+      "doi": "10.1145/3828647.3857293",
+      "title": "LatentMimic: Terrain-Adaptive Locomotion via Latent Space Imitation",
+      "title_zh": "",
+      "authors": [
+        "Zhiquan Wang",
+        "Yunyu Liu",
+        "Dipam Patel",
+        "Ayush Kumar",
+        "Aniket Bera",
+        "Bedřich Beneš"
+      ],
+      "year": 2026,
+      "venue": "ACM SIGGRAPH Conference on Motion, Interaction and Games (MIG)",
+      "field": "工程学",
+      "topics": [
+        "Robotic Locomotion and Control",
+        "Human Motion and Animation",
+        "Reinforcement Learning in Robotics"
+      ],
+      "abstract": "Developing natural and diverse locomotion controllers for quadruped robots that can adapt to complex terrains while preserving motion style remains a significant challenge. Existing imitation-based methods face a fundamental optimization trade-off: strict adherence to motion capture (mocap) references penalizes the geometric deviations required for terrain adaptability, whereas terrain-centric policies often compromise stylistic fidelity. We introduce LatentMimic, a novel locomotion learning framework that. By minimizing the marginal latent divergence between the policy’s state-action distribution and a learned mocap prior, our approach provides a conditional relaxation of rigid pose-tracking objectives. This formulation preserves gait topology while permitting independent end-effector adaptations for irregular terrains. We further introduce a terrain-adaptation module with a dynamic replay buffer to mitigate the policy’s distribution shifts across different terrains. We validate our method across four locomotion styles and four terrains, demonstrating that LatentMimic enables effective, terrain-adaptive locomotion, achieving higher terrain-traversal success rates than state-of-the-art motion-tracking methods while maintaining high stylistic fidelity.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1145/3828647.3857293"
+    },
+    {
+      "id": "openalex-W7236998667",
+      "doi": "10.1145/3828647.3857290",
+      "title": "Comparing Five Interaction Configurations for Object Assembly in Virtual Reality: A Within-Subjects Study",
+      "title_zh": "",
+      "authors": [
+        "Peter Tiringer",
+        "Jan Hombeck",
+        "Kai Lawonn"
+      ],
+      "year": 2026,
+      "venue": "ACM SIGGRAPH Conference on Motion, Interaction and Games (MIG)",
+      "field": "计算机科学",
+      "topics": [
+        "Interactive and Immersive Displays",
+        "Virtual Reality Applications and Impacts",
+        "Teleoperation and Haptic Systems"
+      ],
+      "abstract": "Virtual reality (VR) requires interaction methods that support both three-dimensional object manipulation and user-interface control. However, comparative evaluations often isolate individual low-level tasks, making it difficult to assess complete interaction workflows. We compare five configurations for UI control and object assembly: Virtual Desktop, Laser Pointer, Touch, Control Wheel, and Speech. In a within-subject study, 25 participants completed the same robot-assembly task with each configuration. We recorded task duration, condition-specific interaction events, misinputs, keyboard activation time, System Usability Scale scores, and task-specific ratings. Virtual Desktop and Laser Pointer produced the shortest completion times and highest usability scores, with no significant difference between them for either measure. Touch showed intermediate performance, while Control Wheel required the most interaction events and received the lowest usability score. Speech required the fewest events and received the highest subjective text-entry rating, but produced the longest completion time and lowest derived event-level accuracy. The conditions shared the same goal and operations but differed in control dimensionality, command granularity, and input-specific widgets. The results therefore characterize the evaluated configurations rather than modality-wide rankings. They indicate that ray-based interaction provides a robust immersive option, while speech is promising for discrete, high-level commands and text entry within multimodal interfaces.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1145/3828647.3857290"
+    },
+    {
+      "id": "openalex-W7237155253",
+      "doi": "10.1145/3828647.3857294",
+      "title": "Mocap-Pi: An Open-Source Real-Time Motion Capture System Using Wireless Optical Cameras",
+      "title_zh": "",
+      "authors": [
+        "Andre Mühlenbrock",
+        "Janis Roßkamp",
+        "Gabriel Zachmann"
+      ],
+      "year": 2026,
+      "venue": "ACM SIGGRAPH Conference on Motion, Interaction and Games (MIG)",
+      "field": "计算机科学",
+      "topics": [
+        "Human Motion and Animation",
+        "Video Surveillance and Tracking Methods",
+        "Advanced Vision and Imaging"
+      ],
+      "abstract": "Optical motion capture is a key enabling technology for virtual and augmented reality, character animation, virtual production, human–computer interaction, and object tracking in medical and robotic applications. However, commercial systems typically rely on proprietary hardware, wired camera infrastructures, and costly multi-camera installations, limiting their accessibility and portability. In this paper, we present Mocap-Pi, a fully open-source framework for real-time optical motion capture built entirely from ultra-low-cost, unsynchronized camera nodes communicating over Wi-Fi. The system combines Raspberry Pi Zero 2 W camera nodes with onboard image processing, software-based temporal synchronization over Wi-Fi, rolling-shutter compensation, multi-camera calibration, real-time 3D marker reconstruction, and rigid-body tracking in a modular and reproducible framework. Unlike conventional optical motion capture systems, Mocap-Pi requires neither dedicated synchronization hardware nor wired camera connections while remaining portable and inexpensive to deploy. Experimental evaluation using a 12-camera wireless setup demonstrates millimeter-level rigid-body positional errors of approximately 1.6–3.6 mm relative to a commercial OptiTrack system while maintaining real-time processing at 120 Hz on a consumer notebook. These results demonstrate the feasibility of a fully open-source, wireless optical motion capture system that achieves millimeter-level accuracy without dedicated synchronization hardware or wired camera infrastructure.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1145/3828647.3857294"
+    },
+    {
+      "id": "openalex-W7237320311",
+      "doi": "",
+      "title": "An Object Dynamics Aware Whole-Body Multi-Contact Framework For Dynamic Manipulation of Large and Heavy Objects",
+      "title_zh": "",
+      "authors": [
+        "Rajesh Subburaman",
+        "Olivier Stasse"
+      ],
+      "year": 2026,
+      "venue": "HAL",
+      "field": "工程学",
+      "topics": [
+        "Robot Manipulation and Learning",
+        "Robotic Locomotion and Control",
+        "Robotic Mechanisms and Dynamics"
+      ],
+      "abstract": "Decades of robotic manipulation research has primarily focused on end-effector-based approaches, and this severely restricts a robot's ability to handle large and heavy objects. Extending the approach to the whole-body involving multiple contacts can address those limitations and enhance the manipulation capability. With the rise of commercial humanoid robots, the expectations for their whole-body manipulation skills are higher than ever. In this regard, we propose an object dynamics aware whole-body multi-contact manipulation (DA-WBMC) framework for humanoids that enables it to dynamically manipulate large and heavy objects. Given a reference trajectory for the object and its dynamic parameters, we first estimate the object dynamics, and then using an object-contact dynamic model, we estimate the corresponding contact wrenches. These wrenches are integrated with the robot's contact constrained equation of motion in the form of generalized joint disturbances. This disturbance integrated robot dynamic model is used inside a whole-body multi-contact manipulation framework to realize DA-WBMC. In addition, we utilize skin patches distributed across the humanoid's upper body to obtain real-time contact interaction data. These data are effectively used inside the DA-WBMC to incorporate multiple contacts and to achieve dynamic manipulation. The proposed DA-WBMC is numerically evaluated using a TALOS humanoid and various objects, and the results are discussed.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://hal.science/hal-05860580"
+    },
+    {
+      "id": "openalex-W7237066992",
+      "doi": "10.1145/3828647.3857306",
+      "title": "SMVRT+: Sparse Multi-View Textured Human Reconstruction",
+      "title_zh": "",
+      "authors": [
+        "Chenxi Zhao",
+        "Chuanmao Fan",
+        "Ye Duan"
+      ],
+      "year": 2026,
+      "venue": "ACM SIGGRAPH Conference on Motion, Interaction and Games (MIG)",
+      "field": "计算机科学",
+      "topics": [
+        "3D Shape Modeling and Analysis",
+        "Advanced Vision and Imaging",
+        "Face recognition and analysis"
+      ],
+      "abstract": "Human modeling from single- or multi-view inputs has been a significant and widely studied topic in computer vision. In addition to accurate mesh reconstruction, high-quality texture is another important requirement for practical industrial applications. In this paper, we propose SMVRT+: Sparse Multi-View Textured Human Reconstruction, an extension of SMVRT for reconstructing textured human meshes from sparse multi-view observations. We fine-tune the feed-forward 3D reconstruction model MapAnything to estimate metric depth from posed RGB images, replacing the relative depth predictions used in the original SMVRT pipeline. The remaining geometric reconstruction framework is retained, while a training-free multi-view texture mapping method is further adapted to recover surface appearance from the input views. To improve texture completeness under sparse observations, we introduce a lightweight interpolation strategy for regions that cannot be directly textured due to occlusion or insufficient view coverage. We evaluate the proposed method on the THUman 2.1 dataset, with quantitative and qualitative experiments assessing both geometric reconstruction and textured mesh generation.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1145/3828647.3857306"
+    },
+    {
+      "id": "openalex-W7237200321",
+      "doi": "10.54941/ahfe1008258",
+      "title": "Predicting Workplace Conflict Through Multimodal AI-Based Behavioral Analysis: An Ethical and Cognitive Framework",
+      "title_zh": "",
+      "authors": [
+        "Damina Townes",
+        "Rushabh Gandhi",
+        "Apoorv Singh",
+        "Azhar Mohammed Abdul Haleem",
+        "Youngsoo Shin"
+      ],
+      "year": 2026,
+      "venue": "AHFE international",
+      "field": "社会科学",
+      "topics": [
+        "AI and HR Technologies",
+        "Emotion and Mood Recognition",
+        "Ethics and Social Impacts of AI"
+      ],
+      "abstract": "Workplace conflict is frequently managed as an operational issue addressed only after formal complaints or visible disputes arise. This reactive approach fails to account for the gradual cognitive and behavioral processes that underlie interpersonal tension. This paper addresses the central research question: How do managers perceive the effectiveness, acceptability, and practical challenges of using AI-driven multimodal analysis for early workplace conflict detection? To investigate this question, we propose a multimodal AI-powered framework for the early prediction of workplace conflict by analyzing behavioral patterns across multiple data modalities, including facial expression recognition, body language analysis, and text-based communication indicators such as sentiment shifts, response latency, and collaboration network changes. Drawing on theoretical foundations in affective computing, computer vision, and cognitive science, we present an integrated model that tracks temporal behavioral escalation rather than static, single-instance observations. We further address the critical ethical dimensions of such a system, including privacy preservation, algorithmic bias, and the necessity of human-centered design principles. Qualitative data were gathered through semi-structured interviews with 11 participants spanning managerial, technical, and frontline professional roles, guided by seven research hypotheses. Interview responses reveal a nuanced landscape of conditional acceptance: participants broadly support temporally aware, multimodal detection approaches while expressing strong reservations about facial-expression-only systems, raising consistent concerns around privacy, cultural bias, and the risk of managerial misuse. The paper concludes with recommendations for responsible, transparency-first deployment of AI conflict-prediction systems in organizational environments.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": false,
+      "pdf_url": "",
+      "url": "https://doi.org/10.54941/ahfe1008258"
+    },
+    {
+      "id": "openalex-W7237211737",
+      "doi": "10.54941/ahfe1008430",
+      "title": "A Vision-Based Framework for Detecting Overtakes and Quantifying Novice Driver Responses in Continuous Simulator Traffic",
+      "title_zh": "",
+      "authors": [
+        "Udit Kumar Das",
+        "Yan Chen",
+        "Moajjem Chowdhury",
+        "Y. Liu"
+      ],
+      "year": 2026,
+      "venue": "AHFE international",
+      "field": "工程学",
+      "topics": [
+        "Autonomous Vehicle Technology and Safety",
+        "Traffic and Road Safety",
+        "Human-Automation Interaction and Safety"
+      ],
+      "abstract": "Novice drivers struggle to anticipate and respond to unexpected aggressive maneuvers by surrounding traffic. Most simulator studies use isolated, scripted hazards, which do not capture overtakes that emerge unpredictably in continuous traffic. This study developed a computer-vision framework to identify overtaking events in driving-simulator recordings and examine driver behavior during each event. Eighteen drivers with less than three years of U.S. licensure completed 144 trials under non-overtaking and overtaking traffic conditions. Overtakes were not scripted, and their timing, location, and frequency varied across trials. YOLO11x and motion-based ByteTrack were used to detect vehicles and overtaking events by tracking their movement. Overtaking events were manually reviewed and synchronized with driving logs recorded at approximately 30 Hz. Sixteen trials were used to calibrate the detection framework. On the remaining 128 held-out trials, the framework achieved 94.97% precision, 78.70% recall, and an F1 = .861. Drivers’ behavioral analyses showed that in the overtake condition, mean speed was 8.26 mph lower and time above 45 mph was 40.00 percentage points lower than in the non-overtake condition. The framework provides an event-level method for studying traffic interactions in continuous simulator data and connects those events with measurable driver behavioral responses.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": false,
+      "pdf_url": "",
+      "url": "https://doi.org/10.54941/ahfe1008430"
+    },
+    {
+      "id": "openalex-W7172006160",
+      "doi": "10.1007/s41064-026-00427-5",
+      "title": "Frozen 2D Foundation-Model Features Cluster Tree Species in LiDAR Point Clouds More Coherently than the Evaluated Geometric Descriptors: a Source-Controlled Evaluation",
+      "title_zh": "",
+      "authors": [
+        "Zhenyu Zhou"
+      ],
+      "year": 2026,
+      "venue": "PFG – Journal of Photogrammetry Remote Sensing and Geoinformation Science",
+      "field": "Agricultural and Biological Sciences",
+      "topics": [
+        "Remote Sensing and LiDAR Applications",
+        "3D Shape Modeling and Analysis",
+        "Forest ecology and management"
+      ],
+      "abstract": "Individual tree species mapping from LiDAR underpins forest inventory and biodiversity monitoring, yet remains difficult because supervised classifiers need expensive, geographically biased per-tree labels, and label-free geometric descriptors capture only predefined statistics. We propose a fully unsupervised, matching-free clustering framework on frozen off-the-shelf 2D vision foundation-model features: each tree is rendered into six pose-canonical depth views, encoded by a frozen image encoder, and clustered without species labels or text prompts. Across two independent LiDAR datasets, these features organize crowns by species more coherently than a hand-crafted geometric descriptor (matching-free Normalized Mutual Information (NMI) 0.28-0.35 versus 0.10) and than a frozen 3D point-cloud foundation model given the native geometry (OpenShape/PointBERT, 0.19-0.27), despite no 3D training. Because that 3D model is pre-trained on computer-aided-design (CAD) shapes, this is an availability comparison among frozen models, not an architectural verdict. The advantage holds for every pre-trained backbone, vanishes for a random-initialized control (isolating pre-training), and is stable across four clustering algorithms, fifteen seeds, and an embedding-dimension control. We further identify acquisition-source confounding as a first-class evaluation hazard: on the multi-sensor dataset most of the global gap recovers acquisition source, leaving a small, bootstrap-significant within-source residual of +0.044 NMI (foundation over geometry) on FOR-species20K, versus +0.204 on the single-sensor BioDiv-3DTrees-ULS. Although the uncontrolled gap is permutation-significant ( p < 1e-4), we anchor our evidence in this within-source bootstrap, treat the global gap as an upper bound, and scope our claims to feature coherence, not deployable classification.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "https://www.researchsquare.com/article/rs-10238136/latest.pdf",
+      "url": "https://doi.org/10.21203/rs.3.rs-10238136/v1"
+    },
+    {
+      "id": "openalex-W7236751544",
+      "doi": "10.1201/9781003644637-8",
+      "title": "Green AI in brain-computer interfaces for neurorehabilitation",
+      "title_zh": "",
+      "authors": [
+        "Sudarvizhi Duraisamy",
+        "Balasamy Krishnasamy",
+        "Sushma Ramesh"
+      ],
+      "year": 2026,
+      "venue": "CRC Press eBooks",
+      "field": "Neuroscience",
+      "topics": [
+        "EEG and Brain-Computer Interfaces",
+        "Gaze Tracking and Assistive Technology",
+        "Cognitive Computing and Networks"
+      ],
+      "abstract": "Brain computer interfaces (BCIs) green AI will work to increase power system and sustainability and lightweight algorithms to read mind signals compared to crimson AI (a helpful resource-in more closer- and large-scale models). With the move of BCIs, and even those based on electroencephalography (EEG), to usage in the field of wearable technology, it is hoped to simplify procedure data in real time using minimal power, occasionally by the use of aspect computing and special devices like neuromorphic chips to replicate the power efficiency of the human mind. The brain signals or radiations are relatively new phenomenon that operates on the facts compressed in human brain and mental idleness. Such signals like the human brain are affected by all the physical, geographical, emotional, and cognitive activity surrounding it, and it is individual and follows a pattern. These warnings are envisioned in the technological department of equal brain computer interface (BCI) in an effort to enhance the human-PC interaction applications. This science stitches the lapse between the human thought and processing and speed of the PC and the vision of developing a particular branch of the biomedical sciences to execute endless packages, such as neural rehabilitation, biometric identification, and education and entertainment software, yet still in its infancy, brain-to-computer interface (BCI) has four grades of the processing steps, namely, sign acquisition, signal pre-processing, function extraction, and type. This observation, first, has dissected out its various stages of processing and has gone into the origin and necessity as well as the latest step of the development of brain-computer interfaces (BCI) in relation to mind cues and their associated advantages and disadvantages in a higher order. The total assessment of the new technology deepens, gaining knowledge attained through fully studying about it and classifying the latter into two gradations, which are used in a more specific sense: Convolution neural networks (CNNs), recurrent neural networks (RNNs), long short-term memory (LSTM) frameworks, U-Net, among others. This chapter is also aimed at actualization of the world, challenges, degree of destiny expansions, and paths of broadening as well as full enterprise unique dosage on the imposing knowledge acquired within the infantile region of the mind-laptop interface (BCI) and coming aware of the functioning of the BCI. This observation also provides its usefulness to a variety of case studies with some fitness dangers such as brain tumor, dementias, epilepsy, and other seizure-sensitive conditions, stroke, temporary ischemic attack (TIA), and Alzheimer’s ailment. The key phrases are brain-computer interface (BCI), mind signals, convolutional neural networks (CNNs), recurrent neural networks (RNN), long short-time period reminiscence (LSTM) structure, and useful magnetic resonance imaging (fMRI) and electroencephalogram (EEG) and electrocardiogram (ECG or EKG).",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": false,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1201/9781003644637-8"
+    },
+    {
+      "id": "openalex-W7236792027",
+      "doi": "10.1201/9781003644637-6",
+      "title": "AI for disaster management and resilience",
+      "title_zh": "",
+      "authors": [
+        "Arun Chinnathambi",
+        "Gobinath Thiyagarajan",
+        "Kumar Mani",
+        "Saravana Karthikeyan MuthuKumar"
+      ],
+      "year": 2026,
+      "venue": "CRC Press eBooks",
+      "field": "计算机科学",
+      "topics": [
+        "Energy and Environmental Systems",
+        "Disaster Management and Resilience",
+        "Artificial Intelligence Applications"
+      ],
+      "abstract": "Disaster refers to an unexpected, catastrophic event that causes significant disruption to property, the environment, and even lives of people, which can be either a natural or anthropogenic hazard. These disasters often exceed the local response capabilities, resulting in fatalities, economic damage, and enduring environmental and psychological consequences. The damages and losses that occurred due to those events in recent years have exhibited a rising trend, which highlights the impact of effective disaster management in place. These techniques initiate proactive responses that safeguard communities and life, thereby minimizing the impact. Artificial intelligence (AI) and its associated techniques are transforming the world and revolutionizing every field by enabling machines to make decisions based on experience and adapt swiftly to dynamic needs. This chapter dwells on the influence of AI-driven technologies such as deep learning, federated learning, explainable AI, computer vision, large language models, and natural language processing toward disaster resilience. AI-driven early warning system is reforming disaster preparedness by providing more accurate, faster, and data-driven alerts, which control the impact to a greater extent. AI-driven prediction models recognize patterns by analyzing a vast amount of data and predict the possibilities of disaster before they occur or deteriorate. It not only enhances the performance but also optimizes the resource allocation, reinforcement of infrastructure, and communication among stakeholders. This chapter analyzes critical elements such as ethical considerations, data privacy, and AI biases to guarantee appropriate implementation in crisis situations. The effectiveness of AI-driven disaster management has been illustrated through global case studies; it also highlights the challenges associated with the convergence. As climate change and uncertainties continue to escalate, AI emerges as a key tool in disaster mitigation and community protection. This chapter serves as a definitive guide to understanding and implementing AI-driven strategies for disaster resilience.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": false,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1201/9781003644637-6"
+    },
+    {
+      "id": "openalex-W7237000404",
+      "doi": "10.3390/electronics15225410",
+      "title": "Simulation-Driven Design and Evaluation of Machine Vision Systems",
+      "title_zh": "",
+      "authors": [
+        "Andrzej Burghardt",
+        "Piotr Garbacz",
+        "Magdalena Muszyńka"
+      ],
+      "year": 2026,
+      "venue": "Electronics",
+      "field": "工程学",
+      "topics": [
+        "Industrial Vision Systems and Defect Detection",
+        "Advanced optical system design",
+        "Image Processing Techniques and Applications"
+      ],
+      "abstract": "Machine vision systems have become essential tools for automated quality inspection and robotics. However, their performance and robustness strongly depend on the appropriate configuration of hardware components, including sensors, optics, and illumination. The large number of interacting design parameters makes optimization challenging and often requires extensive experimental testing. This paper presents a systematic approach to developing machine vision systems by integrating computer-aided design, imaging system simulation, image quality assessment, and Design of Experiments (DoE). Moreover, the use of synthetic images, generated via virtual representations of the imaging system, is explored to support early-stage performance evaluation. The study briefly reviews current approaches to synthetic image generation and discusses their potential integration with digital twins of vision systems. The presented results demonstrate the potential of combining simulation-driven design, objective image quality metrics, and DoE to provide a useful tool for the preliminary evaluation of machine vision system concepts and a starting point for their further development, while laying the groundwork for future digital-twin-based optimization in Industry 4.0 applications.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.3390/electronics15225410"
+    },
+    {
+      "id": "openalex-W7237052294",
+      "doi": "10.3390/insects17111214",
+      "title": "MOSAIC: Integrating Computer-Vision-Assisted Counting and Multimodal Large Language Models for Species Identification in Mosquito Surveillance",
+      "title_zh": "",
+      "authors": [
+        "Madhukar Kuchavaram",
+        "Yuxia Huang",
+        "Manasa Kuchavaram",
+        "Niraali Deepak Bandi"
+      ],
+      "year": 2026,
+      "venue": "Insects",
+      "field": "医学",
+      "topics": [
+        "Mosquito-borne diseases and control",
+        "Dengue and Mosquito Control Research",
+        "Advanced Neural Network Applications"
+      ],
+      "abstract": "Municipal mosquito control programs depend on timely counts and species identification, yet these tasks take staff time, require scarce expertise, and are often handled in separate tools. We developed MOSAIC (Mosquito Observations and Surveillance using AI for Communities), a web platform bringing trap collections, photographs, counts, laboratory results, and expert review into a single record and turning them into weekly trap priorities. We evaluated it with the vector control program of Corpus Christi, Texas, USA. Counting uses classical computer vision (OpenCV) without a trained model; for identification, we compared multimodal large language models (LLMs) with a laboratory-trained convolutional neural network (CNN) and tested LLMs given a local species list, taxonomic knowledge, and labeled examples. OpenCV counts were within two mosquitoes of the operators’ blind counts for 69% of 175 collections. On citizen-science photographs, the zero-shot LLM was correct on 89% of the genera it named but named a genus for 83% (overall accuracy 74%, versus 77% for the CNN). Across three runs, added knowledge and examples raised mean forced-choice species accuracy from 17 to 20% to 63–70%, but when abstention was allowed, the models named a species for only 23–49% of specimens. Automated tools can assist surveillance while experts confirm the outputs.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.3390/insects17111214"
+    },
+    {
+      "id": "openalex-W7237056049",
+      "doi": "10.1108/ecam-04-2026-0670",
+      "title": "Synergising Lean construction and artificial intelligence: a conceptual framework",
+      "title_zh": "",
+      "authors": [
+        "Tolulope Caleb Akande",
+        "Shang Gao",
+        "Mehran Oraee"
+      ],
+      "year": 2026,
+      "venue": "Engineering Construction & Architectural Management",
+      "field": "工程学",
+      "topics": [
+        "BIM and Construction Integration",
+        "Construction Project Management and Performance",
+        "Construction Management and Sustainability"
+      ],
+      "abstract": "Purpose The integration of artificial intelligence with Lean construction has been shown to promote added value and drive growth in the built environment. However, understanding of their interaction across multiple levels of abstraction remains limited, especially beyond technical optimisation. This article systematically reviews the interaction between AI and Lean construction to identify current interactions, major applications and research gaps. Design/methodology/approach Following the PRISMA protocol, 63 peer-reviewed studies were identified and analysed qualitatively. AI techniques were mapped against Lean construction principles, waste categories and Lean methods to enable a multi-level comparative synthesis. Findings The results show a growing interest over the past four years, with a focus on AI techniques such as machine learning, optimisation and computer vision used to enhance workflow and to reduce cycle times, particularly within the Last Planner System. Nonetheless, principles centred on value creation, collaboration and partner development remain largely underexplored. Similarly, a co-adaptive relationship was observed to be emerging, in which AI improves Lean's technical efficiency while Lean principles guide AI's development towards ethical and value-driven outcomes. Research limitations/implications The findings offer a foundation for advancing Lean Construction 4.0 through socio-technical integration and human-centred innovation. Practitioners can start by applying mature AI techniques to improve measurable Lean outcomes such as workflow reliability, constraint prediction, visual management and waste reduction, then extend GenAI and NLP tools to collaboration, requirement capture, knowledge reuse and cross-project learning. Originality/value The study proposes a dual-focus model that separates AI's current role as a technical enabler from its future potential as a holistic partner.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "https://www.emerald.com/ecam/article-pdf/33/15/971/11997946/ecam-04-2026-0670en.pdf",
+      "url": "https://doi.org/10.1108/ecam-04-2026-0670"
+    },
+    {
+      "id": "openalex-W7237063580",
+      "doi": "10.1177/23998083261510139",
+      "title": "Mapping on-street parking using street view imagery: An integrated approach of parking sign and vehicle detection",
+      "title_zh": "",
+      "authors": [
+        "J.H. Lee",
+        "Uijeong Hwang",
+        "Subhrajit Guhathakurta"
+      ],
+      "year": 2026,
+      "venue": "Environment and Planning B Urban Analytics and City Science",
+      "field": "社会科学",
+      "topics": [
+        "Smart Parking Systems Research",
+        "Advanced Neural Network Applications",
+        "Automated Road and Building Extraction"
+      ],
+      "abstract": "The distribution and availability of on-street parking in a city have important implications for transportation, economic, and environmental planning. However, few cities maintain comprehensive mapping of street parking beyond metered zones. Recent studies have proposed computational approaches to automate street parking prediction, but data availability remains a challenge. To address this challenge, this study introduces an integrated framework for mapping street parking using widely available Google Street View images. We develop a computer vision model to detect parking signs and a geometric algorithm to identify stationary vehicles from sequential street view images. A decision tree classifier combines sign and vehicle detection results to predict the presence of street parking at the road-segment level. Trained with 765 ground-truth labels combining official metered-zone records and manual annotation of street-view imagery, the classifier correctly identifies approximately 85% (103 out of 121) of the true cases in the validation set. The two detection approaches offer complementary information for predicting street parking beyond regulated zones, especially in residential areas. Our framework can support municipalities with limited databases in developing city-scale street parking maps.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1177/23998083261510139"
+    },
+    {
+      "id": "openalex-W7237067324",
+      "doi": "10.38124/ijisrt/26nov631",
+      "title": "Smart Street Light Energy Optimization System Using Artificial Intelligence and Computer Vision",
+      "title_zh": "",
+      "authors": [
+        "Priyanshu Kumar",
+        "Nikhil .",
+        "Kartik Dogra"
+      ],
+      "year": 2026,
+      "venue": "International Journal of Innovative Science and Research Technology (IJISRT)",
+      "field": "计算机科学",
+      "topics": [
+        "Advanced Neural Network Applications",
+        "Video Surveillance and Tracking Methods",
+        "Impact of Light on Environment and Health"
+      ],
+      "abstract": "Street lighting accounts for a significant share of municipal electricity consumption, and most installations still operate at full brightness from dusk to dawn regardless of road activity. This paper presents a smart street light system that adjusts lamp intensity according to real-time road activity. Video frames from a roadside camera are processed by a lightweight deep-learning object detector to recognize pedestrians and vehicles; a tracking module assigns persistent identities and estimates movement direction; and a rule-based controller converts the detected activity into a pulse-widthmodulation (PWM) dimming command for an LED driver. When the road is empty, the lamp holds a low baseline level that satisfies minimum safety requirements, and it ramps up when a pedestrian or vehicle is detected in, or approaching, its zone. Two candidate designs were compared, and a detector-plus-tracker pipeline was selected for its balance of accuracy and real-time performance on edge hardware. The selected design reaches 92.6 percent precision and 89.4 percent recall with 34.2 ms inference latency, and the estimated energy saving over constant-output lighting ranges from 34.5 to 65.6 percent depending on traffic density. The work shows that vision-driven adaptive lighting can reduce energy use while preserving road safety and provides a scalable basis for smart-city lighting.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "https://www.ijisrt.com/assets/upload/files/IJISRT26NOV631.pdf",
+      "url": "https://doi.org/10.38124/ijisrt/26nov631"
+    },
+    {
+      "id": "openalex-W7237070424",
+      "doi": "10.3389/fmars.2026.1925773",
+      "title": "A comparative study of vision foundation models for few-shot classification in benthic imagery",
+      "title_zh": "",
+      "authors": [
+        "Hassan Elkholy",
+        "Oscar Pizarro",
+        "Martin Ludvigsen"
+      ],
+      "year": 2026,
+      "venue": "Frontiers in Marine Science",
+      "field": "计算机科学",
+      "topics": [
+        "Domain Adaptation and Few-Shot Learning",
+        "Advanced Neural Network Applications",
+        "Underwater Acoustics Research"
+      ],
+      "abstract": "Benthic imagery constitutes a primary data source for studying seafloor habitats, providing rich visual information essential for ecological assessment and marine ecosystem monitoring. Recent advances in underwater robotic platforms have substantially increased the capacity for large-scale benthic image acquisition, shifting the primary bottleneck from data collection to image annotation and analysis. However, manual annotation of benthic imagery remains labor-intensive, time-consuming, and dependent on domain expertise, limiting the scalability of marine habitat analysis. Although artificial intelligence (AI)-assisted annotation tools have shown promise, their application to benthic imagery remains challenging due to the substantial domain gap between underwater imagery and conventional terrestrial computer vision datasets. In addition, annotated benthic datasets are often limited in size, geographically sparse, and highly imbalanced. Few-shot learning (FSL) offers a promising solution by enabling rapid adaptation to new datasets using only a small number of labeled examples. In this work, we propose a foundation-model-based few-shot classification (FSC) framework for benthic imagery annotation. The proposed framework uses pretrained visual representations and systematically investigates the influence of backbone family, model scale, support-set construction strategy, and adaptation algorithm under limited labeled-data conditions. Furthermore, we investigate a prioritized support-set construction strategy based on embedding-space clustering to improve annotation efficiency in low-shot regimes. Experimental results across three benthic imagery datasets demonstrate that DINOv3 ViT-S/16 provides the strongest overall classification performance among the evaluated backbone families, while increasing backbone size does not consistently improve accuracy. LinearSVC also demonstrates strong and consistent adaptation performance across the datasets. In addition, the proposed prioritized labeling strategy improves classification accuracy compared with class-balanced random sampling on Datasets B and C, with average gains of 7.62 and 5.02 percentage points, respectively, and corresponding 95% confidence intervals excluding zero, while the improvement on Dataset A is inconclusive. However, these accuracy gains do not consistently translate into higher macro-averaged F1 scores, highlighting the dataset-dependent effects of representative sample selection. Beyond classification performance, this work introduces an annotation-time modeling framework to analyze the practical deployment trade-offs of few-shot benthic annotation workflows. Under the evaluated annotation-time assumptions, FSC is estimated to reduce overall annotation time by 6.7% and 21.7% on Datasets A and B, respectively, compared with traditional fine-tuning approaches. On Dataset C, traditional fine-tuning shows only a small and uncertain estimated advantage of 1.3%. Overall, the results suggest that DINOv3-based few-shot classification provides an effective low-label annotation-support approach, with potential annotation-time advantages that depend on dataset size, classification accuracy, and annotation costs.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1925773/pdf",
+      "url": "https://doi.org/10.3389/fmars.2026.1925773"
+    },
+    {
+      "id": "openalex-W7237094395",
+      "doi": "10.37528/ftte/9788673955254/symopis.2026.en.11",
+      "title": "ARTIFICIAL INTELLIGENCE IN MARKETING RESEARCH: FROM PREDICTIVE ANALYTICS TO GENERATIVE INTELLIGENCE – METHODOLOGICAL CHALLENGES, ETHICAL RISKS, AND FUTURE RESEARCH AGENDA",
+      "title_zh": "",
+      "authors": [
+        "Biljana Chroneos-Krasavac",
+        "Jasna Soldić-Aleksić"
+      ],
+      "year": 2026,
+      "venue": "OpenAlex",
+      "field": "计算机科学",
+      "topics": [
+        "Artificial Intelligence Applications",
+        "AI in Service Interactions",
+        "Ethics and Social Impacts of AI"
+      ],
+      "abstract": "Artificial intelligence (AI) has become a transformative force in marketing research. Advances in machine learning, deep learning, natural language processing, computer vision, predictive analytics, and generative AI have changed how researchers collect, analyze, interpret, and apply marketing data. AI enables real-time analysis of large datasets, automated customer segmentation, sentiment analysis, forecasting, and decision support, extending research capabilities beyond traditional statistical methods. However, these advances also raise important methodological, ethical, legal, and organizational concerns related to validity, transparency, fairness, and reliability. This paper critically reviews recent literature on AI in marketing research, focusing on developments from 2023 to 2026. Adopting a multidisciplinary perspective that integrates marketing, information systems, data science, business ethics, and strategic management, it argues that generative AI represents a paradigm shift, redefining how marketing knowledge is created, interpreted, and communicated rather than serving merely as another analytical tool. The review identifies six key challenge areas: data governance, methodological robustness, algorithmic transparency, ethical responsibility, organizational readiness, and regulatory compliance. It proposes a future research agenda and a conceptual framework for responsible AI adoption in marketing research, offering a comprehensive synthesis of recent developments and highlighting theoretical and managerial implications for both researchers and practitioners.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": false,
+      "pdf_url": "",
+      "url": "https://doi.org/10.37528/ftte/9788673955254/symopis.2026.en.11"
+    },
+    {
+      "id": "openalex-W7237096201",
+      "doi": "10.1007/s43621-026-04632-5",
+      "title": "An integrated multimodal artificial intelligence framework for halal food compliance and pilgrim sustainability in Islamic mass tourism",
+      "title_zh": "",
+      "authors": [
+        "Ritam Rajak",
+        "Birendra Kishore Roy",
+        "Indrajit Ghosal",
+        "Albattat Ahmad",
+        "Smita Sharma",
+        "Parul Choudhary"
+      ],
+      "year": 2026,
+      "venue": "Discover Sustainability",
+      "field": "社会科学",
+      "topics": [
+        "Halal products and consumer behavior",
+        "Religious Tourism and Spaces",
+        "Artificial Intelligence Applications"
+      ],
+      "abstract": "The rapid development of AI in the analysis of halal foods and the management of pilgrimage presents opportunities for AI decision support for holistic and sustainable approaches, yet it can also introduce uncertainties about model reliability, ethical considerations for governance, and responsible deployment. In this study, a hybrid AI-based five-step framework is presented, which combines computer vision, natural language processing (NLP), a simulation-based pilgrim sustainability index (PSI), and a governance architecture in line with the sustainable development goals (SDGs). Seven convolutional neural networks were tested for halal/haram visual classification and four models, namely logistic regression, multinomial Naive Bayes, LSTM, and BiLSTM tested for ingredient text classification. The held-out test, bootstrap confidence intervals, paired statistical tests, regularisation, near-duplicate auditing, and group-aware partitioning and repeated seed validation were used to evaluate the reliability of models. When evaluated in a group-aware manner, the robust BiLSTM came across with 98.84% accuracy and AUC of 0.9969. The PSI was assessed for 10,000 synthetic pilgrim profiles and found to have a mean of 0.4848 (SD = 0.1730), while threshold and weighting sensitivity analysis showed dependence of categorical outcomes on specification choices. The results demonstrated support for the conceptual simulation based approach of HaTIS and lack of evidence of the operational validation process before deployment, but revealed a need for obtaining real world data and external validation before starting the process of deployment.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1007/s43621-026-04632-5"
+    },
+    {
+      "id": "openalex-W7237304579",
+      "doi": "",
+      "title": "Speech-based cognitive impairment classification using task-specific transformer representations and feature fusion",
+      "title_zh": "",
+      "authors": [
+        "Roneel V. Sharan",
+        "Junhua Li",
+        "Minji Lee"
+      ],
+      "year": 2026,
+      "venue": "Open Access at Essex (University of Essex)",
+      "field": "医学",
+      "topics": [
+        "Dementia and Cognitive Impairment Research",
+        "Artificial Intelligence in Healthcare",
+        "Mental Health via Writing"
+      ],
+      "abstract": "Early detection of cognitive impairment is important for timely clinical intervention and disease management. Speech and language have emerged as promising non-invasive biomarkers of cognitive decline, enabling automated assessment through natural language processing techniques. In this work, we propose a transformer-based framework for cognitive impairment detection using speech transcripts from multiple cognitive assessment tasks. Experiments are conducted on the PROCESS-2 dataset, which contains recordings from the Semantic Fluency Task (SFT), Phonemic Fluency Task (PFT), and Cookie Theft Description (CTD) task. Participants diagnosed with mild cognitive impairment and dementia are combined into a cognitively impaired group and distinguished from healthy controls. Separate BERT models are fine-tuned for each cognitive task to learn task-specific linguistic representations. Transcript-level embeddings are fused through feature concatenation and classified using a multilayer perceptron. Experimental results demonstrate that the BERT-based models outperform traditional machine learning approaches across all individual tasks. Among the single-task models, the CTD task achieved the highest F1-score of 84.71%. By integrating embeddings from all three cognitive tasks, the proposed fusion framework achieved an F1-score of 87.06%, surpassing the best individual-task model.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "https://repository.essex.ac.uk/44145/1/IECBES_2026_CI.pdf",
+      "url": "https://repository.essex.ac.uk/44145/1/IECBES_2026_CI.pdf"
+    },
+    {
+      "id": "openalex-W7237067742",
+      "doi": "10.64643/ijirt211372",
+      "title": "Design And Implementation of a Context-Aware AI Voice Assistant Using Generative Transformers and Local NLP Frameworks",
+      "title_zh": "",
+      "authors": [
+        "Dhanashri D. Gade",
+        "Kalyani P. Nikumbh",
+        "Jyoti Anil Mahatme"
+      ],
+      "year": 2026,
+      "venue": "International Journal of Innovative Research in Technology",
+      "field": "计算机科学",
+      "topics": [
+        "Speech and dialogue systems",
+        "Speech Recognition and Synthesis",
+        "AI in Service Interactions"
+      ],
+      "abstract": "Traditional voice assistant systems often rely on predefined commands and basic instruction matching, which limits their ability to understand user intent and maintain context during continuous conversations. These systems fail when users change their phrasing or ask multiple related questions. To address these limitations, this paper presents the Design and Implementation of a Context-Aware AI Voice Assistant Using Generative Transformers and Local NLP Frameworks. The developed system utilizes a modular Python-based architecture that integrates speech recognition, Natural Language Processing (NLP), conversational memory, and Generative Transformer models. Speech recognition converts user voice input into text, while local NLP techniques process the input to identify user intent and key entities. A local vector-based memory mechanism (FAISS) stores and retrieves relevant context from previous interactions, enabling seamless context retention across multi-turn dialogues. The processed input and retrieved context are fed into a quantized local Generative Transformer model to generate natural language responses, which are then synthesized into speech using a low-latency Text-to-Speech framework. Experimental evaluation of the completed prototype demonstrates an average end-to-end response time of 684 ms, an intent recognition precision of 95.6%, and a 91.2% context retention accuracy over 10 dialogue turns, outperforming legacy intent-slot baselines while guaranteeing 100% data privacy.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.64643/ijirt211372"
+    },
+    {
+      "id": "openalex-W7237226756",
+      "doi": "10.54941/ahfe1008450",
+      "title": "A Distributed Local LLM and Centrally Governed RAG Architecture for Privacy-Preserving Cancer Registry Support",
+      "title_zh": "",
+      "authors": [
+        "Mitsuhiro Takasaki",
+        "Kazumi Sasaki",
+        "Narue Nakabayashi",
+        "Megumi Hori",
+        "Tomohiro Matsuda"
+      ],
+      "year": 2026,
+      "venue": "AHFE international",
+      "field": "人工智能",
+      "topics": [
+        "Artificial Intelligence in Healthcare and Education",
+        "Medical Coding and Health Information",
+        "Topic Modeling"
+      ],
+      "abstract": "Hospital-based cancer registration requires registrars to interpret detailed and frequently updated coding rules, disease-specific manuals, staging classifications, and historical question-and-answer records. Retrieval-augmented generation (RAG) can provide natural-language access to these resources, but cloud-based implementations raise concerns about transmitting clinical information outside the hospital. Moreover, retrieval of the correct document does not guarantee correct application of a registration rule. This paper presents a prototype architecture for deploying a local large language model and vector database within each hospital, while centrally governing and distributing approved reference documents, metadata, retrieval policies, and selected deterministic validation rules. The prototype uses FastAPI, Ollama, ChromaDB, multilingual embeddings, and locally executable language models. Questions are routed to prioritized document groups including the standard registration form, ICD-O materials, staging and site-specific resources, and historical Q&A records. For closed, explicitly enumerated, or high-risk rules, generative processing is supplemented by deterministic safeguards. A formative evaluation involving prostate-specific antigen illustrates the limitation of conventional RAG: although PSA is clinically associated with prostate cancer, it is not one of the four combinations permitted as a site-specific tumor marker for diagnostic-basis coding in the Japanese cancer registry. The case illustrates that semantic plausibility and registry correctness are not necessarily equivalent. The proposed functional allocation assigns natural-language interpretation, retrieval, synthesis, and explanation to the LLM; exact membership checking to deterministic components; and final confirmation to the registrar. This hybrid design is intended to improve privacy, traceability, maintainability, and calibrated human reliance.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": false,
+      "pdf_url": "",
+      "url": "https://doi.org/10.54941/ahfe1008450"
+    },
+    {
+      "id": "openalex-W7236660850",
+      "doi": "10.63944/xqqnt052",
+      "title": "Untitled",
+      "title_zh": "",
+      "authors": [],
+      "year": 2026,
+      "venue": "Journal of Frontier in Economic and Management Research",
+      "field": "计算机科学",
+      "topics": [
+        "Explainable Artificial Intelligence (XAI)",
+        "Ethics and Social Impacts of AI",
+        "Safety Systems Engineering in Autonomy"
+      ],
+      "abstract": "The \"black box\" nature of large models stands in fundamental tension with the rigid requirement that audit conclusions be traceable, verifiable and reviewable, and this tension has become a bottleneck constraining the large-scale application of audit large models.Drawing on explainable artificial intelligence (XAI) and causal inference, this paper constructs a causal chain-based explainability framework for audit large models, which proceeds in three stages: in the first stage, a natural language processing model extracts voucher entities, and SHAP values quantify the contribution of each feature to the risk score; in the second stage, a causal graph depicts the causal paths among features and distinguishes direct causes from spurious correlations, while a large language model generates counterfactual explanations; in the third stage, the audit report presents the risk level, the confidence of key features and the complete causal chain.A comparison based on an accounts receivable audit scenario shows that this design can turn opaque scores into traceable and verifiable audit evidence chains.The paper further discusses hallucination risks and data governance costs, and proposes countermeasures such as human-in-the-loop review and \"T-shaped\" talent cultivation.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "http://ojs.iajournals.cn/index.php/JFEMR/article/download/470/590/1637",
+      "url": "https://doi.org/10.63944/xqqnt052"
+    },
+    {
+      "id": "openalex-W7214788492",
+      "doi": "10.1162/coli.a.661",
+      "title": "Papers Without Code: Availability of GitHub Repositories Linked in *CL Publications",
+      "title_zh": "",
+      "authors": [
+        "Selina Meyer",
+        "Michael Roth"
+      ],
+      "year": 2026,
+      "venue": "Computational Linguistics",
+      "field": "计算机科学",
+      "topics": [
+        "Research Data Management Practices",
+        "Scientific Computing and Data Management",
+        "Software Engineering Research"
+      ],
+      "abstract": "Source code and data published at computational linguistics (*CL) venues are increasingly being shared via GitHub. While this generally is a favorable development for the accessibility and potential reusability of research artifacts in natural language processing (NLP), the long-term availability of such repositories has not been evaluated. In this squib, we discuss the availability of repositories linked in papers published in the Computational Linguistics (CL) journal as well as at ACL and its co-located events over the past ten years. Contrary to our expectations, we find that GitHub repositories linked in more recent ACL publications are unavailable at similar rates as in older publications, in part due to an increase in empty and placeholder repositories. Similar trends hold for other *CL venues, but not for platforms other than GitHub.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "https://direct.mit.edu/coli/article-pdf/doi/10.1162/COLI.a.661/2632375/coli.a.661.pdf",
+      "url": "https://doi.org/10.1162/coli.a.661"
+    },
+    {
+      "id": "openalex-W7114022529",
+      "doi": "10.1371/journal.pone.0362816",
+      "title": "Word embeddings from text corpora: A simulation study on the representation of underlying structures",
+      "title_zh": "",
+      "authors": [
+        "Willem M. Otte",
+        "Archibald L.H.M. van Wieringen",
+        "Bart J. Koet"
+      ],
+      "year": 2026,
+      "venue": "PLoS ONE",
+      "field": "计算机科学",
+      "topics": [
+        "Topic Modeling",
+        "Computational and Text Analysis Methods",
+        "Categorization, perception, and language"
+      ],
+      "abstract": "The grounding problem concerns how symbolic representations acquire meaning through connections to what they refer to. For word embeddings learned from text, a related empirical question is how much of the structure that generated the text they retain. This is difficult to test in natural corpora because that structure is generally unknown. We employed a microsimulation methodology to generate a controlled text corpus from a known spatial structure. A virtual language supermarket with 40 shelves organised into four departments (fruit, vegetables, beverages, extras) served as the generative environment. Product sequences from 80,000 simulated shoppers formed a corpus of 804,422 product selections, with each sequence unique. The GloVe algorithm was applied to this corpus to learn 50-dimensional word embeddings, which we compared with the network of shelves. Cosine distance between products correlated with their shortest-path distance in the network (Spearman ρ = 0.79 over all 7,140 product pairs, Mantel p = 0.001), and on average 61% of a product’s network neighbours were among its nearest neighbours in the embedding, against 7% expected by chance. Over ten independent simulations these values were 0.80 ± 0.01 and 0.62 ± 0.02, and shuffling words across the corpus removed the association. Raw co-occurrence counts, PPMI, SVD and word2vec also captured global distance structure but retrieved fewer neighbours (29–50%). Recovery was best with a context window of one word (ρ = 0.93) and was weaker for rare products. K-medoid clustering of all 120 products separated the fruit and extras departments completely, while vegetables and beverages, which are interleaved in the network, were mixed (adjusted Rand index 0.82). UMAP projections followed the network closely (ρ = 0.92) but distorted some parts of it. These findings show that distributional word embeddings can recover much of the structure that a generating process puts into co-occurrence statistics. They do not show that the embeddings are grounded in, or understand, what the words refer to. This controlled simulation provides a reproducible way to measure structural recovery by word embeddings.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1371/journal.pone.0362816"
+    },
+    {
+      "id": "openalex-W7213589692",
+      "doi": "10.55041/isjem08629",
+      "title": "Business Intelligence through Web Mining - Analyzing Consumer Behavior for Strategic Marketing and Product Development",
+      "title_zh": "",
+      "authors": [
+        "Muralidharan V",
+        "GAYATHRI N",
+        "Poovarasan J",
+        "Saran R",
+        "Veeramanikandan U",
+        "Yuvaprakash M"
+      ],
+      "year": 2026,
+      "venue": "International Scientific Journal of Engineering and Management",
+      "field": "计算机科学",
+      "topics": [
+        "Web Data Mining and Analysis",
+        "Digital Marketing and Social Media",
+        "Information Retrieval and Data Mining"
+      ],
+      "abstract": "In the contemporary hyper-connected digital economy, modern enterprises are inundated with vast oceans of unstructured, dynamic, and highly distributed consumer data. Traditional market research apparatuses such as cross-sectional consumer surveys, focus groups, and post-purchase customer satisfaction assessments suffer from systemic cognitive biases, significant reporting latency, and prohibitive scaling costs. In this dissertation, I propose, execute, and validate an integrated Business Intelligence (BI) framework anchored on the three foundational pillars of web mining: Web Content Mining (WCM), Web Structure Mining (WSM), and Web Usage Mining (WUM). The overarching objective is to convert ambient multi-touch digital footprints into actionable marketing intelligence that enhances customer lifetime value (CLV), curbs checkout abandonment, and optimizes cross-channel brand equity. Adopting an empirical mixed-methods design, I examine an e-commerce clickstream corpus comprising 1,420,850 discrete web sessions, cross-referenced with 84,200 multi-source customer textual reviews and an interconnected network of 12,450 backlink referral domains. Leveraging Latent Dirichlet Allocation (LDA) for topic extraction, RoBERTa transformer pipelines for aspect-level sentiment classification, Markov transition chains for session navigation modeling, and graph-theoretic PageRank algorithms for digital partner authority evaluation, the empirical findings reveal marked efficiencies: customer acquisition costs (CAC) decrease by 24.6%, conversion funnel velocities improve by 38.2%, and churn prediction accuracy achieves an AUC-ROC of 0.912. Based on these empirical discoveries, I formulate a closed-loop managerial blueprint that harmonizes data governance, programmatic personalization engines, agile product innovation cycles, and ethical compliance under rigorous global privacy regimes. Keywords - Business Intelligence, Web Mining, Consumer Behavior, Clickstream Analytics, Sentiment Analysis, Natural Language Processing, Markov Chain Attribution, Marketing Strategy, Product Development, Customer Lifetime Value.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.22822553"
+    },
+    {
+      "id": "openalex-W7237324512",
+      "doi": "",
+      "title": "FedSym: A Symbolic Framework for Communication-Efficient Federated Learning",
+      "title_zh": "",
+      "authors": [
+        "TanJing Xuan",
+        "Abhirup Ghosh",
+        "Soumya Banerjee"
+      ],
+      "year": 2026,
+      "venue": "White Rose Research Online (University of Leeds, The University of Sheffield, University of York)",
+      "field": "计算机科学",
+      "topics": [
+        "Privacy-Preserving Technologies in Data",
+        "Stochastic Gradient Optimization Techniques",
+        "Machine Learning and Data Classification"
+      ],
+      "abstract": "Although Federated Learning (FL) allows for collaborative and communication efficient training of a global model without sharing raw data, current FL algorithms still face challenges in low-bandwidth scenarios such as in space or disaster relief.This project introduces FedSym, a novel FL framework based on Symbolic Regression (SR) that distils local models into a set of symbolic expressions for communication-efficient and interpretable FL.Various UCI datasets and the C-MAPSS Jet Engine Simulated datasets were used to evaluate the framework.FedSym methods achieved up to 99.4% inbound and 98.6% outbound communication reduction when compared to FedAvg on real-world datasets from the UCI repository, albeit at the cost of slightly worse performance.However, performance degrades on multimodal and heterogeneous data settings.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "https://eprints.whiterose.ac.uk/id/eprint/248004/1/tanjingxuan_paper_FedSYM.pdf",
+      "url": "https://eprints.whiterose.ac.uk/id/eprint/248004/"
+    },
+    {
+      "id": "openalex-W7237024401",
+      "doi": "10.54941/ahfe1008405",
+      "title": "The Integration of Eye Tracking and Electrodermal Activity Measures for Assessing Cognitive Load and Mental Fatigue in Engineering and Computing: A Systematic Review (2010-2025)",
+      "title_zh": "",
+      "authors": [
+        "Naqash Gerard",
+        "Idalis Villanueva"
+      ],
+      "year": 2026,
+      "venue": "AHFE international",
+      "field": "计算机科学",
+      "topics": [
+        "Gaze Tracking and Assistive Technology",
+        "Human-Automation Interaction and Safety",
+        "Emotion and Mood Recognition"
+      ],
+      "abstract": "This systematic review investigates the combined use of eye-tracking and electrodermal activity (EDA) techniques to evaluate cognitive load and mental fatigue within engineering contexts between 2010 and 2025. The analysis highlights three predominant directions in recent research: (1) advancements in systems designed for real-time monitoring of cognitive states, (2) the adoption of machine learning methodologies for integrating multimodal physiological data, and (3) the empirical validation of these metrics across varied engineering education and task environments. Nonetheless, several challenges persist, particularly in mitigating the influence of environmental factors on physiological signals and achieving consistency in analytical approaches across studies. Based on a review of 101 scholarly publications sourced from major databases, including Scopus, Web of Science, Engineering Village, ASEE PEER, and ACM, this study consolidates the current understanding of integrating eye-tracking and EDA in assessing cognitive performance and fatigue. Evidence indicates that combining eye-tracking parameters - such as pupil dilation, blink frequency, fixation duration, and saccadic movement with EDA measures (tonic and phasic components) yields more consistent and dependable indicators of cognitive states than unimodal assessments. Research consistently demonstrates that variations in pupil size and EDA correspond strongly with levels of cognitive load, while blink dynamics and phasic skin conductance responses effectively capture the onset and progression of mental fatigue. Specifically, larger pupil dilations reflect heightened information processing and cognitive exertion. Future investigations should aim to design more advanced algorithms for real-time multimodal data analysis, establish standardized frameworks for measurement and interpretation, and further explore the complex relationship between physiological activity and task-specific cognitive demands.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": false,
+      "pdf_url": "",
+      "url": "https://doi.org/10.54941/ahfe1008405"
+    },
+    {
+      "id": "openalex-W7237075982",
+      "doi": "10.54941/ahfe1008235",
+      "title": "AI-Enhanced Live-Streamed English Language Learning: Designing and Evaluating an Intelligent Platform for Chinese Learners",
+      "title_zh": "",
+      "authors": [
+        "Nan Jiang",
+        "Chengcheng Ma",
+        "Peter Childs"
+      ],
+      "year": 2026,
+      "venue": "AHFE international",
+      "field": "计算机科学",
+      "topics": [
+        "Intelligent Tutoring Systems and Adaptive Learning",
+        "English Language Learning and Teaching",
+        "EFL/ESL Teaching and Learning"
+      ],
+      "abstract": "Knowledge Sharing Live Streaming (KSLS) on Chinese commercial platforms such as Douyin (TikTok) and BiliBili is a popular choice for English language learning, offering attributes such as accessibility, low cost, and large-scale reach. However, a fundamental paradox exists: while effective language learning requires active engagement, real-time feedback, and meaningful interaction, KSLS is inherently a passive, one-to-many format that struggles to support these essential pedagogical elements. With AI technologies, particularly large language models, there is an opportunity to explore if AI can bridge this gap. A focus group study was conducted with 18 participants experienced in live-streamed English lessons. Thematic analysis identified two primary pain points: (1) uncertainty about pronunciation accuracy due to the absence of immediate corrective feedback, and (2) limited contextual speaking practice, as self-organised groups frequently collapsed without structure or topic guidance. Informed by these findings, an AI-integrated platform was designed with two key innovations: an AI-driven pronunciation feedback module providing real-time visual and auditory assessments, and AI-led conversational practice in breakout rooms where AI assumes four differentiated roles (mentor, expert, partner, servant) along two dimensions of closeness and guidance derived from social actor theory. The design was evaluated through Wizard-of-Oz experiments. For the pronunciation module, a within-subject study found that 63% of learners preferred multimodal (visual + auditory) feedback and 78% preferred sentence-level immediate feedback. For the AI roles, a between-subject study showed that the mentor role achieved the highest overall satisfaction (M=4.3/5), while the partner role scored highest on comfort (M=4.4/5). A subsequent deployment study using AI-powered chatbots further confirmed significant differences across conditions in engagement (F=10.521, p<0.05), vocabulary acquisition (F=81.213, p<0.05), and speaking proficiency across fluency, grammar, lexicon, and pronunciation. This study contributes to human-computer interaction and technology-enhanced language learning by providing empirical evidence of the KSLS paradox in English education, a theoretically grounded design framework, and experimental validation of AI integration in live-streamed language learning.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": false,
+      "pdf_url": "",
+      "url": "https://doi.org/10.54941/ahfe1008235"
+    },
+    {
+      "id": "openalex-W7237238170",
+      "doi": "10.54941/ahfe1008333",
+      "title": "Differential Sensitivity of EEG, ECG, Respiration, And GSR To Mental States Classification: A Comparative Machine-Learning Analysis",
+      "title_zh": "",
+      "authors": [
+        "Francis Logah",
+        "Younho Seong"
+      ],
+      "year": 2026,
+      "venue": "AHFE international",
+      "field": "计算机科学",
+      "topics": [
+        "Emotion and Mood Recognition",
+        "Human-Automation Interaction and Safety",
+        "EEG and Brain-Computer Interfaces"
+      ],
+      "abstract": "Understanding a pilot's cognitive state is critical for improving flight safety, optimizing human performance, and enabling intelligent adaptive cockpit systems. Although electroencephalography (EEG) has long been considered the benchmark for measuring cognitive workload, there has been a growing interest in the ability of other physiological signals, such as electrocardiography (ECG), respiration, and galvanic skin response (GSR) to reliably detect changes in mental state either individually or combined. This study uses four supervised machine learning algorithms: Logistic Regression, Support Vector Machine (SVM), Random Forest, and Multilayer Perceptron (MLP) to compare the sensitivity of these physiological modalities for classifying pilot mental states and examines whether multimodal physiological fusion provides superior performance. Model performance was assessed using Macro-F1 score, confusion matrices, and state-specific recall. The study showed that fusing multiple physiological signals consistently produced the most accurate mental-state classification. Multimodal fusion achieved the highest overall performance with Logistic Regression (Macro-F1 = 0.973); outperforming every individual single modality. Among the individual physiological modalities, MLP achieved the highest EEG performance (Macro-F1 = 0.930). More importantly, the fusion of ECG, Respiration, and GSR substantially improved classification accuracy with a maximum Macro-F1 score of 0.902 using the SVM classifier. This represents an approximately 18-37% point increment over the individual peripheral modalities. Overall, the study highlights the value of multimodal physiological sensing for mental state assessment. This work supports the development of robust, real-time pilot monitoring systems capable of enhancing adaptive cockpit technologies, decision-support systems, and human-centered aviation operations.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": false,
+      "pdf_url": "",
+      "url": "https://doi.org/10.54941/ahfe1008333"
+    },
+    {
+      "id": "openalex-W7162600363",
+      "doi": "10.1108/atsip-05-2026-0040",
+      "title": "Multimodal signal restoration with signed twofold graph learning",
+      "title_zh": "",
+      "authors": [
+        "Haruki Yokota",
+        "Hiroshi Higashi",
+        "Yuichi Tanaka"
+      ],
+      "year": 2026,
+      "venue": "APSIPA Transactions on Signal and Information Processing",
+      "field": "计算机科学",
+      "topics": [
+        "Advanced Graph Neural Networks",
+        "Image and Signal Denoising Methods",
+        "Sparse and Compressive Sensing Techniques"
+      ],
+      "abstract": "The authors propose a method for jointly learning signed twofold graphs and performing signal restoration on multimodal graph signals. Multimodal signals on sensor networks are commonly modeled under the twofold graph assumption (TGA), which represents spatial structure and inter-modality relations as two separate graphs. Existing TGA-based signal restoration methods, however, either assume the graphs are known or restrict edge weights to be non-negative, preventing them from capturing negative inter-modal correlations. The authors address both limitations as follows. To learn twofold graphs from noisy and incomplete data, the authors formulate joint signal restoration and twofold graph learning as MAP estimation under a matrix normal prior, where the spatial and modality graph Laplacians appear directly as precision matrices. The resulting non-convex objective is solved by alternating minimization: the signal is updated via conjugate gradient applied to the arising Sylvester-type linear system; the graphs are updated via primal-dual hybrid gradient (PDHG). To capture negative inter-modal correlations, we estimate the signed structure of the modality graph from the dominant eigenspace of a complementary kernel matrix, which is then used in PDHG to update edge magnitudes. These iterative solvers are then unrolled into a feedforward network, with regularization weights and step sizes as layer-wise trainable parameters. Experiments on synthetic multimodal graph signals and two real-world data sets (Japan meteorological and Beijing air-quality data) confirm that the proposed method outperforms existing baselines across a range of noise levels and missing-data patterns; the learned graphs are also directly validated against the ground-truth graphs on the synthetic data sets.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1108/atsip-05-2026-0040"
+    },
+    {
+      "id": "openalex-W7237329220",
+      "doi": "",
+      "title": "Shapley Values for Modality Attribution in Robust Multimodal Remote Sensing Models",
+      "title_zh": "",
+      "authors": [
+        "Max Casado",
+        "Thalita Firmo Drumond",
+        "Guilherme Dean Pelegrina",
+        "Cássio F. Dantas"
+      ],
+      "year": 2026,
+      "venue": "HAL",
+      "field": "计算机科学",
+      "topics": [
+        "Explainable Artificial Intelligence (XAI)",
+        "Remote Sensing in Agriculture",
+        "Remote-Sensing Image Classification"
+      ],
+      "abstract": "Earth Observation models increasingly combine several data sources, yet it is often unclear how much each one contributes to the predictions of a given model on a given task. Quantifying these task-specific contributions is essential for interpreting multimodal models, diagnosing their reliance on individual inputs, and guiding the choice of data sources for a given application. We propose a principled framework for modality attribution based on exact Shapley values, enabled by recent multimodal architectures that are robust to missing modalities at inference time. Computing Shapley values requires evaluating model performance over all possible subsets of input modalities, which has forced previous work to resort to approximations or surrogate imputations. By leveraging such missing-modality-robust architectures, we instead compute exact Shapley values as originally defined. We showcase our approach on the CropHarvest dataset, a global binary crop-classification benchmark combining Sentinel-2, Sentinel-1, ERA5, and digital elevation data. Using two recent modality-fusion models, we evaluate all 2 4 modality coalitions to analyze modality importance at both global and local scales. Global Shapley values identify Sentinel-2 as the dominant modality, a finding further corroborated through a sensitivity analysis under two degradation regimes: additive Gaussian noise and simulated cloud-induced missing acquisitions. We further generate local Shapley attribution maps over 69,800 globally distributed test samples, revealing geographically structured patterns in modality contributions. Although demonstrated on a specific Earth Observation task, our framework is task-agnostic and even extends readily to multimodal learning problems in other domains.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://hal.science/hal-05870031"
     },
     {
       "id": "arxiv-2403.05530",
