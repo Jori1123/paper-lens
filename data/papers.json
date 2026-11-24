@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-11-23T02:50:56.331149+00:00",
+    "updated_at": "2026-11-24T06:05:29.191050+00:00",
     "source": "OpenAlex",
     "queries": [
       "artificial intelligence",
@@ -10,7 +10,7 @@
       "multimodal learning"
     ],
     "window_years": 10,
-    "count": 6784
+    "count": 6802
   },
   "papers": [
     {
@@ -2522,6 +2522,33 @@
       "open_access": true,
       "pdf_url": "",
       "url": "https://doi.org/10.1145/3829340.3842333"
+    },
+    {
+      "id": "openalex-W7162479339",
+      "doi": "",
+      "title": "Unbiased First-Order Randomized Smoothing for Differentiable Simulators",
+      "title_zh": "",
+      "authors": [
+        "Mathis Scheffler",
+        "Wilson Jallet",
+        "Cordelia Schmid",
+        "Justin Carpentier"
+      ],
+      "year": 2026,
+      "venue": "HAL",
+      "field": "计算机科学",
+      "topics": [
+        "Reinforcement Learning in Robotics",
+        "Stochastic Gradient Optimization Techniques",
+        "Advanced Optimization Algorithms Research"
+      ],
+      "abstract": "Computing informative gradients through nonsmooth physical models-such as those involving hard contact or bouncing-is a cornerstone challenge in robotics and machine learning. Randomized smoothing offers a principled way to obtain well-behaved surrogate gradients, yet standard first-order estimators of these smoothed gradients are biased whenever the underlying function is discontinuous. In this work, we show that this bias arises from neglected discontinuity contributions and derive a corrected first-order formula that eliminates it. When the discontinuity structure is known, we exploit it to build discontinuity-aware gradient estimators, which we instantiate for differentiable collision detection on 3D meshes. When it is unknown, we propose a complementary estimator that leverages classical gradients to reduce variance. We validate this estimator on nonsmooth trajectory optimization instances, demonstrating variance reductions of several orders of magnitude over zeroth-order baselines while remaining unbiased under discontinuities where standard first-order estimators fail.",
+      "abstract_zh": "",
+      "citations": 2,
+      "popularity": 29,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://hal.science/hal-05629540v1"
     },
     {
       "id": "openalex-W7154965075",
@@ -5269,33 +5296,6 @@
       "open_access": true,
       "pdf_url": "",
       "url": "https://doi.org/10.1038/s41598-026-75569-y"
-    },
-    {
-      "id": "openalex-W7162479339",
-      "doi": "",
-      "title": "Unbiased First-Order Randomized Smoothing for Differentiable Simulators",
-      "title_zh": "",
-      "authors": [
-        "Mathis Scheffler",
-        "Wilson Jallet",
-        "Cordelia Schmid",
-        "Justin Carpentier"
-      ],
-      "year": 2026,
-      "venue": "HAL",
-      "field": "计算机科学",
-      "topics": [
-        "Reinforcement Learning in Robotics",
-        "Stochastic Gradient Optimization Techniques",
-        "Advanced Optimization Algorithms Research"
-      ],
-      "abstract": "Computing informative gradients through nonsmooth physical models-such as those involving hard contact or bouncing-is a cornerstone challenge in robotics and machine learning. Randomized smoothing offers a principled way to obtain well-behaved surrogate gradients, yet standard first-order estimators of these smoothed gradients are biased whenever the underlying function is discontinuous. In this work, we show that this bias arises from neglected discontinuity contributions and derive a corrected first-order formula that eliminates it. When the discontinuity structure is known, we exploit it to build discontinuity-aware gradient estimators, which we instantiate for differentiable collision detection on 3D meshes. When it is unknown, we propose a complementary estimator that leverages classical gradients to reduce variance. We validate this estimator on nonsmooth trajectory optimization instances, demonstrating variance reductions of several orders of magnitude over zeroth-order baselines while remaining unbiased under discontinuities where standard first-order estimators fail.",
-      "abstract_zh": "",
-      "citations": 1,
-      "popularity": 25,
-      "open_access": true,
-      "pdf_url": "",
-      "url": "https://hal.science/hal-05629540v1"
     },
     {
       "id": "openalex-W7117973916",
@@ -173747,7 +173747,7 @@
       "popularity": 18,
       "open_access": true,
       "pdf_url": "",
-      "url": "https://hal.science/hal-05860580"
+      "url": "https://hal.science/hal-05860580v1"
     },
     {
       "id": "openalex-W7237066992",
@@ -174453,7 +174453,7 @@
       "popularity": 18,
       "open_access": true,
       "pdf_url": "",
-      "url": "https://hal.science/hal-05870031"
+      "url": "https://hal.science/hal-05870031v1"
     },
     {
       "id": "openalex-W7225031229",
@@ -174978,7 +174978,7 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "pdf_url": "",
+      "pdf_url": "https://www.journalijar.com/uploads/2026/11/6afd74af6ccb4_IJAR-59649.pdf",
       "url": "https://doi.org/10.21474/ijar01/24525"
     },
     {
@@ -175228,6 +175228,467 @@
       "open_access": true,
       "pdf_url": "https://ijcope.org/wp-content/uploads/2026/11/CardioAIA-Multi-Modal-Stacking-Ensemble-Platform-for-Cardiovascular-Disease-Prediction-and-12-Lead-ECG-Classification-with-Explainable-AI.pdf",
       "url": "https://doi.org/10.55041/ijcope.v2i11.096"
+    },
+    {
+      "id": "openalex-W7237410728",
+      "doi": "10.5281/zenodo.24431675",
+      "title": "Empirical Validation of the Golden Topological Optimizer (GTO): Reproducible Benchmarks in Computer Vision and Autoregressive Language Modeling Across Multi-Scale Architectures",
+      "title_zh": "",
+      "authors": [
+        "Vi via láctea"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "计算机科学",
+      "topics": [
+        "Advanced Neural Network Applications",
+        "Machine Learning and Data Classification",
+        "Stochastic Gradient Optimization Techniques"
+      ],
+      "abstract": "In Golden Topological Optimizer (GTO): Neural Network Compression, Pruning, and Training Architecture Based on the Ontology of the Fold (Vi via láctea, 2026b), we introduced a model-driven optimization framework replacing composite integer-power layer widths, periodic learning-rate schedules, and magnitude-based pruning with Golden-Ratio (φ) irrational phase modulation, quasicrystalline Fibonacci prime dimensions, and force-free Beltrami spectral pruning. Executing the reproducible validation roadmap established in that work, this paper presents controlled empirical benchmarks across four distinct machine learning setups spanning two modalities: (1) 3-layer Fashion-MNIST visual classification, (2) 4-layer CIFAR-10 RGB visual classification, (3) 2-layer autoregressive Transformer language modeling on a 15% corrupted knowledge graph, and (4) 4-layer scaled Transformer language modeling on a 20% corrupted knowledge graph with 120 entities and 240 ground-truth laws. Under identical deterministic seeds (SEED=42), GTO reduces parameter counts by -14.99% to -42.30%, accelerates CPU training wall-time by up to 20.97%, preserves test accuracy under aggressive 60% spectral cuts, and suppresses post-pruning Transformer hallucination rates by up to -73.33 percentage points relative to Cartesian baselines. All open-source PyTorch benchmarks and high-resolution figures are archived in the Zenodo open repository.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.24431675"
+    },
+    {
+      "id": "openalex-W7237477281",
+      "doi": "10.5281/zenodo.24440606",
+      "title": "Feature-supervised inversion: code, checkpoints and source data",
+      "title_zh": "",
+      "authors": [
+        "Huili Chang",
+        "侯一珍"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "计算机科学",
+      "topics": [
+        "Image Enhancement Techniques",
+        "Advanced Neural Network Applications",
+        "Advanced Image Processing Techniques"
+      ],
+      "abstract": "Code and source data for the manuscript \"Inverting Low-Light Enhancement to Protect Frozen Detectors: Fidelity-Adaptive Feature Supervision\" (submitted to Computer Vision and Image Understanding). Contents:- code/: training, inference and evaluation scripts for feature-supervised inversion (FI), the classical enhancement baselines, the official COCO evaluation, the paired bootstrap and the temporal-consistency analysis;- checkpoints/: nine trained inverter weights (2.1M parameters each);- source_data/: the CSV files behind every quantitative figure;- results/: per-image detections, evaluation outputs and bootstrap results. The NOD, LLVIP and ExDark benchmarks are public and are not redistributed here.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.24440606"
+    },
+    {
+      "id": "openalex-W7237496111",
+      "doi": "10.1038/s41597-026-08703-0",
+      "title": "A Multimodal Dataset of 18th-Century Prints for Segmentation and Analysis of Rocaille Ornaments",
+      "title_zh": "",
+      "authors": [
+        "Thomas Hudcovic",
+        "Ines Röckl",
+        "Julian Jachmann",
+        "Gabriel Zachmann"
+      ],
+      "year": 2026,
+      "venue": "Scientific Data",
+      "field": "社会科学",
+      "topics": [
+        "Digital Humanities and Scholarship",
+        "Image Processing and 3D Reconstruction",
+        "Advanced Neural Network Applications"
+      ],
+      "abstract": "We present a multimodal dataset for the computational study of 18th-century Rococo ornamental prints. Rocaille, a characteristic ornament of the period, exhibits a continuously transforming morphology that has historically resisted systematic formal description. The dataset comprises 1,611 high-resolution digitizations from major German collections, accompanied by expert-curated bilingual metadata and commentary describing iconography and ornamental morphology. A subset of 229 images includes pixel-accurate segmentation masks distinguishing the structural volutes and comb-like extensions of the Rocaille. The images, structured metadata, textual descriptions, and segmentation annotations together support computational analyses ranging from visual multimodal retrieval and semantic segmentation to morphological analysis. As technical validation, we train two standard vision backbones for segmentation, showing that the annotations provide a learnable segmentation signal and that pre-training on both external data and our dataset can support downstream learning. Code, data splits, trained model weights, and evaluation outputs are provided to facilitate reproducible use of the resource. The dataset provides a foundation for cross-disciplinary research at the intersection of art history, digital humanities, and computer vision.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1038/s41597-026-08703-0"
+    },
+    {
+      "id": "openalex-W7237501662",
+      "doi": "10.5281/zenodo.24445186",
+      "title": "OMR: Optical Music Recognition Toolkit Using Machine Learning and Computer Vision",
+      "title_zh": "",
+      "authors": [
+        "Antonio Sanjurjo Rodríguez",
+        "Joaquim de Moura",
+        "Jorge Novo"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "计算机科学",
+      "topics": [
+        "Handwritten Text Recognition Techniques",
+        "Music and Audio Processing",
+        "Music Technology and Sound Studies"
+      ],
+      "abstract": "Software overview Research implementation of optical music recognition using machine learning and computer vision, developed by Antonio Sanjurjo Rodríguez in a bachelor’s thesis at Universidade da Coruña, supervised by José Joaquim de Moura Ramos and Jorge Novo Buján. Package contents This source-only package contains 52 original Python and text files from repository commit e3558876bb4feb9772e6dc42b842f0cbb3f56eaa, including recognition, learning, image processing and application modules. Dataset images and annotations, generated outputs, audio and graphical assets, IDE files and bytecode caches are excluded. A provenance note and file manifest document the archive scope. Requirements and usage The application entry point is main.py. The original README.txt is empty, and no dependency manifest was identified in the reviewed repository root. Dependency and runtime-resource documentation is incomplete in this archived version. Required image/audio assets and training data are not bundled in this source-only archive. Academic context and contributions The thesis is titled Optical Music Recognition (OMR) tool based on machine learning and computer vision techniques (2025). Student implementation and academic supervision are distinguished here for transparency. Access and licence The source code is distributed under the MIT License, confirmed by the depositing author. The archive adds the MIT licence file while preserving the 52 original Python and text files unchanged. The licence applies to this source package and does not cover the separately held music sheets, annotations, audio or graphical assets. Retain copyright and licence notices. Preservation and reuse A documented, version-specific code deposit can support inspection, reproducibility and comparison of music recognition methods with the runtime limitations stated in this record. Source Source repository, master branch. Related dataset OMR dataset (unpublished draft). The linked dataset draft requires account access and remains unpublished pending rights review.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.24445186"
+    },
+    {
+      "id": "openalex-W7237741728",
+      "doi": "10.5281/zenodo.24434189",
+      "title": "Image Generation from Text and Voice using GAN",
+      "title_zh": "",
+      "authors": [
+        "Harshal Shriram Patil",
+        "Qureshi Zishan Sayyed Jabir",
+        "Shah Anurag Hemendra",
+        "Kolambe Divya Pravin",
+        "Prajapati Priyanshu Rajesh"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "计算机科学",
+      "topics": [
+        "Generative Adversarial Networks and Image Synthesis",
+        "Multimodal Machine Learning Applications",
+        "Advanced Neural Network Applications"
+      ],
+      "abstract": "The use of Generative Adversarial Networks (GANs) for creating images from text and voice is an innovative system which transforms textual descriptions and voice inputs into realistic images [cite: 1]. Due to the rapid development of artificial intelligence, the generation of visual content from human input has now become a major area of research in the fields of computer vision and deep learning [cite: 1]. This project is concerned with designing a model that can understand both written text and spoken commands so as to produce images that are meaningful and visually coherent [cite: 1]. The system begins by applying Natural Language Processing (NLP) techniques to the text input in order to obtain the semantic features [cite: 1]. In the case of voice input, speech recognition algorithms are used to turn the audio signals into text, after which the text is analysed in the same way [cite: 1]. The features that have been extracted are then fed into a GAN-based structure made up of a generator and a discriminator [cite: 1]. The generator produces images according to the interpreted input, while the discriminator assesses their authenticity, thereby improving the quality of the generated images as a result of ongoing training [cite: 1]. This method allows users to generate images simply by describing what they want in words or by speaking, thus making the system easy to use and accessible [cite: 1]. The model suggested has various applications in content creation, virtual reality, digital art, gaming, assistive technologies, and creative design tools [cite: 1]. The project shows the potential of multimodal AI systems to efficiently and accurately turn human ideas into visual representations by combining GANs with text and voice processing [cite: 1].",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.24434189"
+    },
+    {
+      "id": "openalex-W7237756967",
+      "doi": "10.48175/ijarsct-40973",
+      "title": "Toward Real-Time Recognition of Continuous Indian Sign Language: A Multi-Modal Approach Using RGB and Pose",
+      "title_zh": "",
+      "authors": [
+        "Prof. Y. G. Suryawanshi Kakade Yashpal Jagannath",
+        "H. B. Jadhav"
+      ],
+      "year": 2026,
+      "venue": "International Journal of Advanced Research in Science Communication and Technology",
+      "field": "计算机科学",
+      "topics": [
+        "Hand Gesture Recognition Systems",
+        "Human Pose and Action Recognition",
+        "Hearing Impairment and Communication"
+      ],
+      "abstract": "Indian Sign Language (ISL) is an important means of communication for many Deaf and hard-of-hearing people in India. Although sign-language recognition has advanced through computer vision and machine learning, recognising isolated signs is different from understanding continuous signing, where gestures flow naturally from one another and meaning depends on movement, timing, hand shape, facial expression, and body posture. This paper presents a review-oriented multi-modal framework for real-time recognition of continuous ISL using complementary Red-Green-Blue (RGB) video and human-pose information. RGB frames retain visual details such as hand appearance, clothing-independent context, and facial cues, while pose representations describe the movement and spatial relationships of the hands, arms, shoulders, and upper body. The proposed approach discusses a pipeline involving video capture, frame preparation, pose estimation, temporal feature learning, sequence decoding, and readable text output. It also considers practical challenges including signer variation, co-articulation, occlusion, lighting, camera quality, dataset diversity, annotation effort, and real-time computational limits. The central idea is that combining visual appearance with structured pose information may provide a more informative representation than relying on either modality alone. The paper outlines an evaluation strategy based on recognition quality, sequence-level error, latency, and robustness across signers. It emphasises that an accessible ISL recognition system should be developed with Deaf-community participation and should support communication rather than claim to replace interpreters or human interaction",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "https://doi.org/10.48175/ijarsct-40973",
+      "url": "https://doi.org/10.48175/ijarsct-40973"
+    },
+    {
+      "id": "openalex-W7237774801",
+      "doi": "10.5281/zenodo.24438870",
+      "title": "AI-BASED DROWSINESS DETECTION AND ACCIDENT PREVENTION SYSTEM USING CAMERA AND ARDUINO",
+      "title_zh": "",
+      "authors": [
+        "A.RAMCHARAN, K.SNEHA, A.VAMSHI, G.AJAY MARTHANDA, M.MANJUNATH"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "社会科学",
+      "topics": [
+        "Sleep and Work-Related Fatigue",
+        "IoT and GPS-based Vehicle Safety Systems",
+        "Human-Automation Interaction and Safety"
+      ],
+      "abstract": "Driver fatigue is a leading cause of roadaccidents, and it often develops gradually enough that thedriver does not notice the loss of alertness. This paperpresents an AI-Based Drowsiness Detection and AccidentPrevention System that combines Python-based computervision with an Arduino Uno embedded platform. A USBcamera connected to a computer captures the driver's face,and OpenCV with a facial-landmark detector tracks theeyes and computes the eye aspect ratio (EAR) and eyeclosure duration. When the closure persists beyond acalibrated limit, the Python application sends an alertcommand to the Arduino Uno over a USB serial (COMport) link. The Arduino sounds a buzzer immediately andshows the alertness status on a 16×2 LCD. An IR obstaclesensor supports an accident-prevention demonstration: ondetecting a nearby object, the Arduino stops a DC motorthrough an L298N motor driver or relay stage. AnESP8266 Wi-Fi module uploads drowsiness and obstacleevents to the ThingSpeak IoT cloud for remotemonitoring, and an e-mail notification informs authorisedpersons of risky conditions. The architecture separatescomputation-heavy vision processing from deterministicreal-time actuation, which keeps the hardwareinexpensive. No measured dataset or hardware log camewith the project title, so the numerical results in this paperare illustrative of how the experiments would be reportedonce real measurements are available.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.24438870"
+    },
+    {
+      "id": "openalex-W7237825498",
+      "doi": "10.66221/yp0ehg08",
+      "title": "SINTONIA: APLICATIVO COM VISÃO COMPUTACIONAL E AUTORRELATO PARA O ACOMPANHAMENTO DE ADULTOS COM TDAH EM TRABALHO REMOTO",
+      "title_zh": "",
+      "authors": [
+        "Nicolas Santos",
+        "Iarley Costa",
+        "Kalil Silva",
+        "Lua Fritz",
+        "Kelly Mendonça",
+        "Nina Bueno",
+        "Michele de Lima"
+      ],
+      "year": 2026,
+      "venue": "Anais do Congresso Brasileiro de Iniciação Científica",
+      "field": "医学",
+      "topics": [
+        "Attention Deficit Hyperactivity Disorder",
+        "Telemedicine and Telehealth Implementation",
+        "Mobile Health and mHealth Applications"
+      ],
+      "abstract": "This paper presents SINTONIA, a desktop application that supports the follow-up of the professional routine of adults with ADHD in remote or hybrid work. Requirements were defined through a literature review and meetings with a psychology specialist. The system integrates a configurable self-report checklist, session records, periodic reports, and webcam-based visual indicators, such as gaze direction and face framing, implemented with JavaScript, MediaPipe and OpenCV. The interface was positively assessed by the specialist and the monitoring was tested in controlled scenarios. SINTONIA combines self-reported data and behavioral indicators in a longitudinal view that supports professionals, with no diagnostic purpose.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.66221/yp0ehg08"
+    },
+    {
+      "id": "openalex-W7237888676",
+      "doi": "10.25781/kaust-g41ce",
+      "title": "Advancing Monocular Depth Estimation: High-Resolution and Amodal Understanding",
+      "title_zh": "",
+      "authors": [
+        "Zhenyu Li"
+      ],
+      "year": 2026,
+      "venue": "King Abdullah University of Science and Technology Repository (King Abdullah University of Science and Technology)",
+      "field": "计算机科学",
+      "topics": [
+        "Advanced Vision and Imaging",
+        "Advanced Neural Network Applications",
+        "3D Shape Modeling and Analysis"
+      ],
+      "abstract": "Monocular depth estimation, the task of recovering 3D scene geometry from a single RGB image, is a fundamental problem in computer vision. Recent methods have achieved impressive accuracy and generalization, yet their predictions remain limited in high-resolution fidelity and geometric completeness. High-resolution depth estimation is challenging not only because the number of pixels quickly exceeds what existing depth backbones can efficiently process within practical memory and computational budgets, but also because downsampling removes fine geometric structures such as object boundaries and thin surfaces that cannot be reliably recovered by simply upsampling a low-resolution depth prediction. Existing alternatives such as guided depth super-resolution and implicit-function-based prediction can increase the output resolution, but processing high-resolution image inputs still introduces the same memory and computational bottlenecks faced by conventional depth estimation models. Moreover, accurate high-resolution depth supervision is difficult to obtain in the real world, where LiDAR, stereo, and reconstruction-based annotations often become unreliable around precisely these fine structures. This dissertation presents a series of approaches that advance monocular depth estimation toward more detailed, efficient, and complete 3D understanding. First, we investigate high-resolution monocular metric depth estimation and introduce PatchFusion, an end-to-end patch-based framework that combines the global consistency of whole-image prediction with the fine-grained geometry recovered from local high-resolution patches. This formulation avoids globally downsampling the input. Learned global-local fusion and consistency-aware processing address the scale and structural inconsistencies that arise when local patches are estimated independently. Empirically, PatchFusion outperforms conventional metric depth estimation, guided depth super-resolution, implicit-function-based prediction, and existing tile-based approaches on two high-resolution benchmarks, reducing RMSE by 17.3\\% over the conventional metric depth estimation baseline, ZoeDepth, on UnrealStereo4K and RMS by 29.4\\% on MVS-Synth. We then introduce PatchRefiner, which advances this framework in two directions. It reformulates high-resolution estimation as residual refinement over a coarse depth prediction, and introduces a teacher-student strategy that uses a teacher trained with high-quality synthetic depth to generate detailed pseudo labels for real-world images. A Detail and Scale Disentangling loss enables the student to recover sharp geometric structures while preserving reliable metric scale. Furthermore, we introduce PatchRefiner V2 to improve the practicality of high-resolution depth estimation. By replacing the second full-sized depth model with a lightweight refinement branch and introducing coarse-guided feature denoising, noisy pretraining, and localized gradient supervision, the framework substantially improves the balance between depth accuracy, computational efficiency, and boundary quality. Finally, we extend monocular depth estimation beyond visible surfaces through Amodal Depth Anything. Given a partially occluded object, amodal depth predicts the depth of the target object's surface over its full projected image region, including portions hidden behind an occluder. The task therefore remains camera-aligned and pixel-aligned rather than directly reconstructing a complete 3D object. We formulate amodal depth estimation as relative-depth prediction, construct a large-scale in-the-wild training dataset, and develop both deterministic and generative models to infer the geometry of partially occluded objects. Together, these works advance monocular depth estimation along two complementary dimensions: improving the fidelity of visible geometry and extending geometric reasoning to occluded object surfaces.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.25781/kaust-g41ce"
+    },
+    {
+      "id": "openalex-W7237901273",
+      "doi": "10.5281/zenodo.24435949",
+      "title": "A Public Benchmark of Digitized Dissolution Curve Pairs for Similarity Assessment of Generic Drugs: Dataset and Code",
+      "title_zh": "",
+      "authors": [
+        "Tengfei Duan"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "化学",
+      "topics": [
+        "Analytical Methods in Pharmaceuticals",
+        "Computational Drug Discovery Methods",
+        "Pharmaceutical Quality and Counterfeiting"
+      ],
+      "abstract": "A public benchmark of generic-versus-reference dissolution curve pairs, together with the computer-vision digitization pipeline and the evaluation code used in the accompanying manuscript. Public curve-level dissolution data have not previously been available, which has forced data-driven studies of dissolution similarity to rely on small proprietary datasets; this record provides an openly reusable resource for that task. WHAT IS INCLUDED 359 reference-test dissolution curve pairs covering 36 drug substances, each labelled similar or not similar according to the pharmacopoeial similarity factor f2 (f2 >= 50). Screening of 596 official Japanese \"Blue Book\" (Quality Information of Generic Drugs) datasheets and 538 dissolution graphs, of which 134 graphs passed automatic digitization quality control. data/pairs.csv: 13 columns (pdf, ingredient, graph, medium_ocr, test_product, times, ref_curve, test_curve, f2, label, official, ref_rule, split), with the time and dissolution series of the reference and test products stored in the corresponding columns. Auxiliary tables: datasheet catalogue (979 rows), datasheet metadata (596 rows), product list (962 rows), graph inventory (538 rows), digitization QC log (538 rows), aggregated benchmark results (12 rows), and the glyph template bank used for OCR of scanned axis labels. 16 Python scripts covering crawling, parsing, digitization, pair construction, four classical baselines (f2, Mahalanobis distance, dynamic time warping, Weibull parameter distance), three deep architectures (1D-CNN, LSTM, CNN-LSTM) on 3x9 input tensors, the sparse-sampling robustness experiment, and figure generation. SOURCE AND METHOD All source images originate from the publicly available Japanese Blue Book datasheets hosted by the National Institute of Health Sciences (NIHS), Japan (https://www.nihs.go.jp/drug/ecqaged/bluebook/). Graphs were digitized with axis calibration, same-font glyph-template OCR, and colour-mask marker extraction; duplicate trajectories were filtered out and every graph was subjected to automatic quality control. DATA SPLIT Pairs are split 70/15/15, stratified by drug product, so that training, validation and test sets contain disjoint products and no information leaks across splits. BENCHMARK SUMMARY Under identical splits, the Mahalanobis distance is the strongest classical measure (test AUC 0.981), CNN-LSTM is the best deep model (AUC 0.913), pure LSTM is unstable on 9-point sequences, and dynamic time warping degrades sharply (AUC 0.729) when observations are truncated to t <= 30 min. REPRODUCTION Run the scripts in the order given in README.md: bluebook_crawl.py -> bluebook_download.py -> bluebook_parse.py -> digitize_batch.py -> build_pairs.py -> baselines.py -> prep_tensors.py -> train_dl.py -> sparse_robustness.py -> collect_results.py. Python 3 is required, with the scientific-computing packages used in the scripts. LICENSE Data are released under CC BY 4.0; code is released under the MIT License. RELATED Associated manuscript: \"A Public Benchmark of Digitized Dissolution Curve Pairs for Similarity Assessment of Generic Drugs\", submitted to Scientia Pharmaceutica. FUNDING University-level research project of Zhejiang Pharmaceutical University (Grant No. 校2025023).",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.24435949"
+    },
+    {
+      "id": "openalex-W7237908667",
+      "doi": "10.66221/b8bg4w76",
+      "title": "DISPOSITIVO INTELIGENTE PARA PESSOAS COM BAIXA VISÃO",
+      "title_zh": "",
+      "authors": [
+        "Gabriele Silva",
+        "Pedro Silva",
+        "Luis Ferrara",
+        "Raquel Araújo"
+      ],
+      "year": 2026,
+      "venue": "Anais do Congresso Brasileiro de Iniciação Científica",
+      "field": "Health Professions",
+      "topics": [
+        "Assistive Technology in Communication and Mobility",
+        "Gaze Tracking and Assistive Technology",
+        "Advanced Neural Network Applications"
+      ],
+      "abstract": "This work presents a smart device coupled to glasses to assist people with low vision, integrating neural network models and computer vision. The goal was to create a prototype capable of recognizing text and converting it to audio, identifying previously defined gestures, and performing facial recognition, with a user registration process. To this end, open-source libraries and neural networks, such as MobileNetV3small and MobileFaceNe, were used. The tests showed that the device operated satisfactorily under different lighting conditions. The physical prototype was successfully built using 3D printing. It is concluded that the system achieves the proposed goals, proving to be an efficient tool for social inclusion",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.66221/b8bg4w76"
+    },
+    {
+      "id": "openalex-W7237908877",
+      "doi": "10.5281/zenodo.24438537",
+      "title": "An Intelligent Deep Learning and IoT-Based Real-Time Helmet Detection and Rider Safety Monitoring System",
+      "title_zh": "",
+      "authors": [
+        "MD. USMAN, M.SUMALATHA, KARUPOTHULA NAVYA SRI, NAINI SWETHA, BURRA ROHITH"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "工程学",
+      "topics": [
+        "IoT and GPS-based Vehicle Safety Systems",
+        "Advanced Neural Network Applications",
+        "Traffic and Road Safety"
+      ],
+      "abstract": "Road safety has become a significant concern with the increasing number of two-wheeler vehicles and the frequentoccurrence of accidents caused by inadequate protective equipment. Wearing a helmet is one of the most effectivemeasures for reducing the severity of head injuries; however, manual monitoring of helmet compliance is difficult incrowded traffic environments. This paper presents an intelligent deep learning and Internet of Things (IoT)-based helmetdetection and rider safety monitoring system that integrates computer vision, image classification and embedded hardwarecontrol. The existing implementation employs a MobileNetV2-based convolutional neural network to classify input imagesinto helmet and no-helmet categories. OpenCV is utilized for image acquisition, resizing and preprocessing, while aTkinter-based graphical interface provides image uploading, live camera monitoring, prediction visualization and systemtelemetry. The classification output is transmitted through USB serial communication to a Raspberry Pi Pico, whichcontrols an LCD display, buzzer and relay according to the detected safety condition. An SMTP-based notificationmechanism is additionally incorporated to communicate helmet violations through email with captured image evidence.The proposed research extension introduces confidence-aware decision processing, improved dataset preparation,systematic model evaluation and enhanced violation verification to improve operational reliability. The framework aims toestablish an integrated safety monitoring architecture that combines artificial intelligence with embedded control andautomated notification. Performance evaluation is designed around accuracy, precision, recall, F1-score, inference latencyand frame processing rate. The proposed framework provides a practical foundation for intelligent helmet compliancemonitoring and can be extended toward large-scale traffic surveillance and automated road safety applications.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.24438537"
+    },
+    {
+      "id": "openalex-W7237965996",
+      "doi": "10.5281/zenodo.24439034",
+      "title": "VISTA: Vision-Based Interaction for Smart Touchless Action with Safety-Aware Temporal Behavior Analysis",
+      "title_zh": "",
+      "authors": [
+        "Sahana A M",
+        "Amruth B T Nimish",
+        "Kumar S Roshan R2 Prajwal",
+        "Vedant"
+      ],
+      "year": 2026,
+      "venue": "International journal of engineering inventions.",
+      "field": "计算机科学",
+      "topics": [
+        "Hand Gesture Recognition Systems",
+        "Interactive and Immersive Displays",
+        "Human Pose and Action Recognition"
+      ],
+      "abstract": "Touchless operation of a computer is valuable wherever hands are busy, gloved or must stay clean, yet most gesture interfaces either depend on depth sensors or ignore the safety information that a camera in the room already captures. This paper describes VISTA (Vision-Based Interaction for Smart Touchless Action), a modular prototype that runs entirely on a local machine and uses one ordinary webcam for two tasks: controlling the computer through recognized hand gestures in real time, and screening body movement over time so that it can be labeled NORMAL or SUSPICIOUS. The pipeline joins OpenCV preprocessing, MediaPipe hand landmarks, YOLO pose detection with multi-object tracking, a PyTorch gesture classifier fused with geometric rules, and a configuration-driven action mapper through which new gestures can be added without editing code. The behavior module sees only normalized body-keypoint trajectories over a sliding window, raises an alert only when a predefined pattern persists, and never uses appearance, gender, age, race or clothing. A FastAPI back end streams annotated video and telemetry to a React/Vite dashboard and records events in SQLite. In the test runs the system reached 93.4% overall gesture accuracy and a 94.8% action success rate, and it processed 52.4 frames per second with the gesture branch alone and 24.1 frames per second with both branches active. At alert level the behavior module obtained an F1-score of 0.91 with 0.45 false alarms per hour.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.24439034"
+    },
+    {
+      "id": "openalex-W7237859928",
+      "doi": "10.5281/zenodo.24451242",
+      "title": "Symbol Sequences under Information Constraints",
+      "title_zh": "",
+      "authors": [
+        "kaifa chen"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "计算机科学",
+      "topics": [
+        "semigroups and automata theory",
+        "Computability, Logic, AI Algorithms",
+        "Probability and Statistical Research"
+      ],
+      "abstract": "This paper studies conditional independence and stationarity for structure–symbol sequences within the class of finite structure machines. The structure–symbol space consists of a structure index p, a symbol τ, and a conditional law P(τ∣p); conditional independence I(τ;K∣p)=0 states that this space is closed, so that the remaining part of K no longer changes the law of τ. We prove that, for any finite structure machine and any emission kernel, the structure σt satisfies I(τt;Kt∣σt)=0; that the future-sufficient partition C is the finite, sufficient, coarsest, and Markov minimal structure; that a process with initial distribution μ is stationary if and only if μT=μ, with a unique invariant distribution in the finite irreducible case; and that, with the minimal structure and an invariant initial distribution, both postulates hold and the four functionals are well defined and finite. We further show that the complete object for the next symbol is the structure–symbol phase point (σt,τt), with minimal phase point ([σt],τt), and extend the theorems to finite representations in assembly, high-level languages, and natural language. Unbounded representations admit only the trivial conclusion for the complete configuration. All results are purely theoretical and involve no data, estimation, or actual code. 本文在有限结构机这一模型类中研究结构–符号序列的条件独立与平稳性。结构–符号空间由结构索引 p、符号 τ 与条件分布 P(τ∣p) 组成;条件独立 I(τ;K∣p)=0 表示该空间已经闭合,K 的其余部分不再改变 τ 的律。本文证明:对任意有限结构机与任意发射核,结构 σt 满足 I(τt;Kt∣σt)=0;未来充分划分 C 是有限、充分、最粗且 Markov 的最小结构;以 μ 为初始分布的过程平稳当且仅当 μT=μ,有限不可约时不变分布存在唯一;取最小结构与不变初始分布,两条公设同时成立,四泛函良定义且有限。本文进一步指出,下一符号的完整对象是结构–符号相点 (σt,τt),最小相点为 ([σt],τt);并把定理扩展到汇编、高级语言与自然语言中的有限表示。无界表示只有完整配置的平凡结论。全部结论为纯理论,不涉及数据、估计或实际代码。",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.24451242"
+    },
+    {
+      "id": "openalex-W7237466001",
+      "doi": "10.66221/mf08xt58",
+      "title": "CIÊNCIA DE DADOS APLICADA AO PROCESSAMENTO DE LINGUAGEM NATURAL: UM ESTUDO DA APLICAÇÃO DE ÁLGEBRA DE CLIFFORD EM ANÁLISE DE SENTIMENTOS",
+      "title_zh": "",
+      "authors": [
+        "André Costa",
+        "Alexandre Oliveira"
+      ],
+      "year": 2026,
+      "venue": "Anais do Congresso Brasileiro de Iniciação Científica",
+      "field": "计算机科学",
+      "topics": [
+        "Sentiment Analysis and Opinion Mining",
+        "Algebraic and Geometric Analysis",
+        "Topic Modeling"
+      ],
+      "abstract": "Natural Language Processing (NLP) faces recurrent challenges in Sentiment Analysis tasks, primarily due to semantic ambiguities, contextual subtleties, and the occurrence of irony. Traditional computational methods frequently employ linear representations or procedural approaches that simplify the geometric structure underlying natural language. This work proposes an alternative approach grounded in Clifford Algebra, modeling text sentences as multivectors in a space with well-defined geometric signatures Cl(p, q, r)$. The methodology consists of extracting adjectives from X (formerly Twitter) posts through linguistic processing (NLTK), followed by lexical polarization (VADER) and TF-IDF vectorization to generate the coefficients and dimensions of the multivector. Four transformation metrics from the multivector to the field of Real numbers were evaluated: the square norm, the general linear functional, the matrix trace via Pauli representations, and the bilinear form. Experimental results with a dataset of 700 posts indicate that all four approaches showed consistency in sentiment classification, achieving an accuracy of 70%, which demonstrates the potential of Clifford Algebra for NLP tasks. Finally, the limitations of the lexical polarizer are discussed, and future perspectives using Portuguese-language datasets are proposed.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.66221/mf08xt58"
+    },
+    {
+      "id": "openalex-W7237405448",
+      "doi": "10.1117/12.3139827",
+      "title": "Convolutional neural network-based multimodal data fusion method for student skill assessment",
+      "title_zh": "",
+      "authors": [
+        "Jing Ge"
+      ],
+      "year": 2026,
+      "venue": "International Conference on Machine Learning, Neural Networks, and Computer Software (MLNNCS)",
+      "field": "计算机科学",
+      "topics": [
+        "Online Learning and Analytics",
+        "Educational Technology and Pedagogy",
+        "Intelligent Tutoring Systems and Adaptive Learning"
+      ],
+      "abstract": "This study examines a multimodal data fusion approach for student skill evaluation that is based on convolutional neural networks. In a single evaluation, the technique gathers operation photos, learning behaviour logs, assignment submission data, and stage performance data. Visual evidence is extracted using a convolutional branch, and performance and behavioural markers are normalised into structured feature vectors. Combine the aforementioned data to determine which students have varying ability levels and offer tailored learning suggestions. The multimodal model improved the recognition rate of medium-level students by 9.4% and improved the accuracy of skill categorisation from 78.6% (for single accomplishment data) to 87.9% based on the simulated course dataset. As a result, the many types of evidence will more effectively demonstrate students' labour capacities, learning stability, and task completion quality.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": false,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1117/12.3139827"
+    },
+    {
+      "id": "openalex-W7237463202",
+      "doi": "10.1038/s41597-026-08651-9",
+      "title": "LangFabric: A Language-Annotated Multimodal Fabric Dataset for Fabric Defect Detection",
+      "title_zh": "",
+      "authors": [
+        "Yan-Qin Ni",
+        "Pei-Kai Huang",
+        "Tz-Gang Wang",
+        "Wei-Jen Wang",
+        "Deron Liang",
+        "Chia-Yu Lin"
+      ],
+      "year": 2026,
+      "venue": "Scientific Data",
+      "field": "工程学",
+      "topics": [
+        "Industrial Vision Systems and Defect Detection",
+        "Multimodal Machine Learning Applications",
+        "Infrastructure Maintenance and Monitoring"
+      ],
+      "abstract": "Fabric defect detection plays a critical role in intelligent textile manufacturing, where reliable identification of surface anomalies is essential for maintaining product quality and production efficiency. Although numerous fabric defect datasets have been proposed, existing resources primarily focus on visual modalities and lack structured semantic descriptions of defects, limiting their applicability to emerging vision-language learning paradigms. To address this limitation, we introduce LangFabric , the first language-annotated multimodal fabric dataset designed for fabric defect detection in real textile production environments. LangFabric consists of 6,384 paired samples, each comprising a high-resolution fabric image and a corresponding structured textual description. The dataset covers 16 distinct fabric texture categories and 12 defect types, including both structural and non-structural anomalies. In addition to pixel-level semantic segmentation masks for precise defect localization, each image is annotated with structured textual prompts describing defect category, structural attributes, spatial location, and relative size. The data are collected inline from an industrial air-jet loom under realistic manufacturing conditions, ensuring practical variability in texture patterns and illumination. By systematically integrating visual and linguistic modalities, LangFabric provides a comprehensive benchmark for multimodal fabric defect analysis, research on anomaly detection, one-class learning, and vision-language alignment research under realistic industrial data distributions. We anticipate that LangFabric will facilitate the development of more robust, interpretable, and semantically-aware industrial inspection systems.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1038/s41597-026-08651-9"
+    },
+    {
+      "id": "openalex-W7237729418",
+      "doi": "10.1117/12.3136886",
+      "title": "Efficient dynamic tracking and multimodal knowledge graph fusion methods for low-latency adaptive learning",
+      "title_zh": "",
+      "authors": [
+        "Xiaoxu Xiao"
+      ],
+      "year": 2026,
+      "venue": "International Conference on Machine Learning, Neural Networks, and Computer Software (MLNNCS)",
+      "field": "计算机科学",
+      "topics": [
+        "Intelligent Tutoring Systems and Adaptive Learning",
+        "Online Learning and Analytics",
+        "Recommender Systems and Techniques"
+      ],
+      "abstract": "To address industry challenges such as latency in cognitive tracking and low integration efficiency of heterogeneous multimodal knowledge within existing adaptive learning systems, this paper proposes a method for efficient dynamic tracking and multimodal knowledge graph fusion designed for low-latency adaptive learning. We design a lightweight temporal dynamic cognitive tracking mechanism that captures learners' cognitive trajectories in milliseconds using an incremental state update strategy. Additionally, we construct a cross-modal semantic alignment and fusion module to enable the dynamic iterative updating of knowledge graphs and introduce a latency-constrained adaptive scheduling strategy tailored for real-time adaptive learning scenarios on end devices. Extensive comparative experiments demonstrate that, compared to traditional knowledge tracking and graph fusion methods, our approach improves cognitive state prediction accuracy by over 9.2% and reduces system response latency by 37.5%. It significantly optimizes the precision of adaptive learning resource matching, effectively supporting real-time, efficient, and personalized adaptive learning services while offering a novel technical solution for lightweight, intelligent adaptive learning systems.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": false,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1117/12.3136886"
     },
     {
       "id": "arxiv-2403.05530",
