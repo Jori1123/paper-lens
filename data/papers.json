@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-11-24T06:05:29.191050+00:00",
+    "updated_at": "2026-11-25T04:54:27.411072+00:00",
     "source": "OpenAlex",
     "queries": [
       "artificial intelligence",
@@ -10,7 +10,7 @@
       "multimodal learning"
     ],
     "window_years": 10,
-    "count": 6802
+    "count": 6832
   },
   "papers": [
     {
@@ -993,6 +993,38 @@
       "url": "https://doi.org/10.26599/bdma.2026.9020039"
     },
     {
+      "id": "openalex-W7162333581",
+      "doi": "10.1145/3829340.3842344",
+      "title": "SCRIPT: Scalable Diffusion Policy with Multi-stage Training for Language-driven Physics-Based Humanoid Control",
+      "title_zh": "",
+      "authors": [
+        "Jingyan Zhang",
+        "Han Liang",
+        "Ruichi Zhang",
+        "Bin Li",
+        "Juze Zhang",
+        "Xin Chen",
+        "Jingya Wang",
+        "Lan Xu",
+        "Jingyi Yu"
+      ],
+      "year": 2026,
+      "venue": "SIGGRAPH Asia Conference Papers",
+      "field": "计算机科学",
+      "topics": [
+        "Human Motion and Animation",
+        "Reinforcement Learning in Robotics",
+        "Robot Manipulation and Learning"
+      ],
+      "abstract": "Controlling physics-based humanoids from natural-language instructions is a critical step toward general-purpose embodied agents. However, existing methods remain constrained by a tension between semantic expressiveness and physical feasibility, often failing to jointly achieve faithful instruction following, high-quality motion, and stable long-horizon control. We propose SCRIPT, a scalable diffusion policy with a multi-stage training framework for language-driven physics-based humanoid control. The core of SCRIPT is a Joint Action-State-Text Diffusion Transformer (JAST-DiT), which represents actions, physical states, and text as dedicated token streams and couples them through joint attention, enabling direct interaction between language semantics and control dynamics. To stabilize autoregressive control, we introduce a nonlinear history conditioning mechanism, which preserves the dense recent context and samples increasingly sparse cues from long-term history. Beyond supervised imitation pre-training, we propose a post-training stage, further improving the performance using Reinforcement Learning with Hybrid Rewards (RLHR). By injecting learnable noise into the flow-sampling process, RLHR effectively improves motion quality and instruction following within closed-loop simulations using hybrid physical feedback and text rewards. Quantitative evaluations demonstrate that SCRIPT outperforms prior state-of-the-art methods, with gains across text alignment, motion quality, and physical realism metrics. Furthermore, scaling studies on the 1200-hour MotionMillion dataset demonstrate consistent performance gains with model scaling, highlighting SCRIPT’s robust scalability for large-scale pre-training. Code and data for this paper are available at https://zhanglele12138.github.io/SCRIPT/.",
+      "abstract_zh": "",
+      "citations": 6,
+      "popularity": 37,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1145/3829340.3842344"
+    },
+    {
       "id": "openalex-W4415035557",
       "doi": "10.1145/3767308.3836506",
       "title": "Modality Curation: Building Universal Embeddings for Advanced Multimodal Information Retrieval",
@@ -1144,38 +1176,6 @@
       "open_access": true,
       "pdf_url": "https://arxiv.org/pdf/2512.11350",
       "url": "http://arxiv.org/abs/2512.11350"
-    },
-    {
-      "id": "openalex-W7162333581",
-      "doi": "10.1145/3829340.3842344",
-      "title": "SCRIPT: Scalable Diffusion Policy with Multi-stage Training for Language-driven Physics-Based Humanoid Control",
-      "title_zh": "",
-      "authors": [
-        "Jingyan Zhang",
-        "Han Liang",
-        "Ruichi Zhang",
-        "Bin Li",
-        "Juze Zhang",
-        "Xin Chen",
-        "Jingya Wang",
-        "Lan Xu",
-        "Jingyi Yu"
-      ],
-      "year": 2026,
-      "venue": "SIGGRAPH Asia Conference Papers",
-      "field": "计算机科学",
-      "topics": [
-        "Human Motion and Animation",
-        "Reinforcement Learning in Robotics",
-        "Robot Manipulation and Learning"
-      ],
-      "abstract": "Controlling physics-based humanoids from natural-language instructions is a critical step toward general-purpose embodied agents. However, existing methods remain constrained by a tension between semantic expressiveness and physical feasibility, often failing to jointly achieve faithful instruction following, high-quality motion, and stable long-horizon control. We propose SCRIPT, a scalable diffusion policy with a multi-stage training framework for language-driven physics-based humanoid control. The core of SCRIPT is a Joint Action-State-Text Diffusion Transformer (JAST-DiT), which represents actions, physical states, and text as dedicated token streams and couples them through joint attention, enabling direct interaction between language semantics and control dynamics. To stabilize autoregressive control, we introduce a nonlinear history conditioning mechanism, which preserves the dense recent context and samples increasingly sparse cues from long-term history. Beyond supervised imitation pre-training, we propose a post-training stage, further improving the performance using Reinforcement Learning with Hybrid Rewards (RLHR). By injecting learnable noise into the flow-sampling process, RLHR effectively improves motion quality and instruction following within closed-loop simulations using hybrid physical feedback and text rewards. Quantitative evaluations demonstrate that SCRIPT outperforms prior state-of-the-art methods, with gains across text alignment, motion quality, and physical realism metrics. Furthermore, scaling studies on the 1200-hour MotionMillion dataset demonstrate consistent performance gains with model scaling, highlighting SCRIPT’s robust scalability for large-scale pre-training. Code and data for this paper are available at https://zhanglele12138.github.io/SCRIPT/.",
-      "abstract_zh": "",
-      "citations": 5,
-      "popularity": 35,
-      "open_access": true,
-      "pdf_url": "",
-      "url": "https://doi.org/10.1145/3829340.3842344"
     },
     {
       "id": "openalex-W7223696553",
@@ -1736,6 +1736,31 @@
       "open_access": true,
       "pdf_url": "https://iopscience.iop.org/article/10.1088/1741-2552/aebd1d/pdf",
       "url": "https://doi.org/10.1088/1741-2552/aebd1d"
+    },
+    {
+      "id": "openalex-W4414683591",
+      "doi": "10.1002/sam.70128",
+      "title": "Covariance Supervised Principal Component Analysis",
+      "title_zh": "",
+      "authors": [
+        "Theodosios Papazoglou",
+        "Guosheng Yin"
+      ],
+      "year": 2026,
+      "venue": "Statistical Analysis and Data Mining The ASA Data Science Journal",
+      "field": "数学",
+      "topics": [
+        "Statistical Methods and Applications",
+        "Face and Expression Recognition",
+        "Advanced Statistical Methods and Models"
+      ],
+      "abstract": "Principal component analysis (PCA) is a widely used unsupervised dimensionality reduction technique in machine learning, applied across various fields such as bioinformatics, computer vision, and finance. However, when response information is available, PCA does not guarantee that the derived principal components are informative to the response variables. Supervised PCA (SPCA) methods address this limitation by incorporating response variables into the learning process, typically through an objective function similar to PCA. Existing methods do not adequately address the challenge of deriving projections that simultaneously preserve the variability of the feature data and are informative with respect to the response variable, while hybrid SPCA approaches struggle to provide a robust optimization scheme that offers a global‐optimum closed‐form solution, relying on complicated optimization schemes that can only guarantee local optima. We propose covariance supervised principal component analysis (CSPCA), a new SPCA method that projects data into a lower‐dimensional space by balancing the covariance between projections and responses and explained variance, controlled via a regularization parameter. The projection matrix is derived through a closed‐form solution in the form of a simple eigenvalue decomposition. To enhance computational efficiency for high‐dimensional datasets, we extend CSPCA using the standard Nyström method. Simulations and applications on real‐world datasets demonstrate that CSPCA achieves competitive performance across numerous performance metrics.",
+      "abstract_zh": "",
+      "citations": 3,
+      "popularity": 31,
+      "open_access": true,
+      "pdf_url": "https://openreview.net/pdf?id=c2XDHSfZt2",
+      "url": "https://openreview.net/pdf?id=c2XDHSfZt2"
     },
     {
       "id": "openalex-W7203974200",
@@ -5296,6 +5321,60 @@
       "open_access": true,
       "pdf_url": "",
       "url": "https://doi.org/10.1038/s41598-026-75569-y"
+    },
+    {
+      "id": "openalex-W4410186340",
+      "doi": "10.1016/j.cities.2026.107745",
+      "title": "Transferring group knowledge from LLMs: The case of urban perception",
+      "title_zh": "",
+      "authors": [
+        "Ce Hou",
+        "Fan Zhang",
+        "Yuhao Kang",
+        "Zhuangyuan Fan",
+        "Sen Li"
+      ],
+      "year": 2026,
+      "venue": "Cities",
+      "field": "社会科学",
+      "topics": [
+        "Urban Design and Spatial Analysis",
+        "Crime Patterns and Interventions",
+        "Traffic and Road Safety"
+      ],
+      "abstract": "Human-centric urban planning curates environments that address behaviors, perceptions, and feelings. Conventional methods of understanding people's perceptions and feelings depend on questionnaires and surveys that are time-consuming and labor-intensive. Recent studies developed deep-learning-based computer vision tools to decipher the safety perception. Yet, this method only provides a generalized approximation of human perception and fails to incorporate personalized and local assessments.Large language models (LLM), trained with immersive human knowledge, have demonstrated the potential to simulate human understanding of images, space, and place.In view of these challenges and motivations, our study proposes an LLM-based framework that zero-shot adapts general safety perception evaluation models to specific demographics and perception scenarios. The framework first generates (1) general and (2) demographic and scenario-specific textual descriptions for street view images (SVIs) in specific areas. Then SVIs and general descriptions are used to train a safety perception model, and specific descriptions are used to fine-tune it via a pseudo-labeling strategy.To validate our method's effectiveness, we conduct experiments using individual-level safety perception data from Stockholm. The results show that general model's accuracy decreased by 19.7–25 percent when evaluating safety perception with a specific population group, while the accuracy of fine-tuned model with our method improved by 14.9–24 percent. We further employ this framework to map safety perceptions of four predefined demographic groups (middle-aged, elderly, women, and men) in Hong Kong across two perception scenarios: traffic accidents and crime.Our framework provides governments with a new tool for large-scale automated evaluation of urban perceptions across different groups.",
+      "abstract_zh": "",
+      "citations": 1,
+      "popularity": 25,
+      "open_access": true,
+      "pdf_url": "https://www.researchsquare.com/article/rs-6351052/latest.pdf",
+      "url": "https://doi.org/10.21203/rs.3.rs-6351052/v1"
+    },
+    {
+      "id": "openalex-W7116891714",
+      "doi": "10.1162/qss.a.525",
+      "title": "Between Policy and Proposal: A Quantitative Analysis of Research Data Management in DFG Individual Grants (2017–2025)",
+      "title_zh": "",
+      "authors": [
+        "Richard Heidler",
+        "Jan Rohden",
+        "Christophe Funk"
+      ],
+      "year": 2026,
+      "venue": "Quantitative Science Studies",
+      "field": "计算机科学",
+      "topics": [
+        "Research Data Management Practices",
+        "Research, Science, and Academia",
+        "Data Analysis and Archiving"
+      ],
+      "abstract": "Research funding agencies increasingly require researchers to describe how they will manage and share research data, yet little is known about how such policy requirements are reflected in grant proposals. This paper examines how research data management (RDM) is documented in proposals submitted to the German Research Foundation’s (DFG) Individual Research Grants Program between 2017 and 2025, and how these descriptions evolve over time and across disciplines. To address this question, we combine Natural Language Processing (NLP), Machine Learning (ML), and repository linking to analyze a large corpus of proposal texts. This approach enables a systematic assessment of RDM sections and the identification of referenced repositories. The results show growing awareness of RDM, reflected in longer, more substantive statements and increasing repository references. We also find disciplinary differences in how RDM is articulated, pointing to varying levels of maturity across fields. A marked shift in proposal documentation following the introduction of a DFG checklist in 2021 suggests that policy instruments are associated with changes in how RDM is documented in proposals. Overall, the findings indicate that funding agencies may shape how RDM is articulated in proposals through guidance-based approaches, providing insights into the monitoring and design of Open Science policies.",
+      "abstract_zh": "",
+      "citations": 1,
+      "popularity": 25,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1162/qss.a.525"
     },
     {
       "id": "openalex-W7117973916",
@@ -171920,7 +171999,7 @@
       "field": "Agricultural and Biological Sciences",
       "topics": [
         "Smart Agriculture and AI",
-        "Agricultural Development and Management",
+        "Agricultural Extension and Farmer Empowerment",
         "Digitalization and Economic Development in Agriculture"
       ],
       "abstract": "The rapid evolution of emerging technologies is reshaping global agriculture, transitioning it from traditional practices to data-driven, technology-enabled systems. Tools such as artificial intelligence, the internet of things, robotics, blockchain, drones, and biotechnology are enhancing precision farming, resource optimization, and sustainability. These innovations not only improve productivity but also contribute to food security, climate resilience, and economic transformation. However, challenges such as high costs, poor infrastructure, limited digital literacy, and inadequate policy frameworks constrain adoption, particularly in developing countries like Nigeria, where smallholder farmers dominate. This review highlights the opportunities, challenges, and future perspectives of emerging technologies in agriculture, emphasizing their role in strengthening food systems, supporting rural development, and ensuring sustainable practices. It suggests that deliberate investments in research, training, infrastructure, and regulatory reforms are essential for Nigeria and other developing nations to harness these technologies for inclusive growth and food security.",
@@ -175689,6 +175768,721 @@
       "open_access": false,
       "pdf_url": "",
       "url": "https://doi.org/10.1117/12.3136886"
+    },
+    {
+      "id": "openalex-W7238727265",
+      "doi": "10.58168/dpiitt2026_19-25",
+      "title": "INTELLIGENT TRANSPORT SYSTEMS FOR MONITORING PASSENGER FLOWS BASED ON COMPUTER VISION",
+      "title_zh": "",
+      "authors": [
+        "S. Krukhmalev",
+        "Sergey Vladimirovich Dorokhin",
+        "V Ivannikov",
+        "E. Vernigora",
+        "D. Krukhmalev"
+      ],
+      "year": 2026,
+      "venue": "OpenAlex",
+      "field": "计算机科学",
+      "topics": [
+        "Video Surveillance and Tracking Methods",
+        "Advanced Neural Network Applications",
+        "Autonomous Vehicle Technology and Safety"
+      ],
+      "abstract": "The application of computer vision and deep learning for monitoring passenger flows in urban transport is considered. An ITS architecture based on YOLO and DeepSORT with entry/exit counting is proposed. Accuracy data are presented, and deployment on edge devices and integration are discussed.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": false,
+      "pdf_url": "",
+      "url": "https://doi.org/10.58168/dpiitt2026_19-25"
+    },
+    {
+      "id": "openalex-W7238727987",
+      "doi": "10.3389/fpubh.2026.1983528",
+      "title": "Nurse-in-the-Loop clinical intelligence for sports-injury rehabilitation: a human-centered nursing mediation framework",
+      "title_zh": "",
+      "authors": [
+        "周丹",
+        "Jiao Li",
+        "Xin Chen",
+        "Guangxing Chen",
+        "Shu Deng"
+      ],
+      "year": 2026,
+      "venue": "Frontiers in Public Health",
+      "field": "Health Professions",
+      "topics": [
+        "Mobile Health and mHealth Applications",
+        "Sports injuries and prevention",
+        "Artificial Intelligence in Healthcare and Education"
+      ],
+      "abstract": "Sports-injury rehabilitation spans hospital, home, community, and sport settings, where symptoms, function, and adherence may change between scheduled assessments. Wearable sensors, computer vision, and artificial intelligence can extend monitoring beyond clinical encounters, but their outputs do not independently establish clinical meaning or appropriate action. To address this gap, this conceptual narrative review draws on targeted literature searches and iterative evidence mapping to propose a Nurse-in-the-Loop framework for multidisciplinary sports-injury rehabilitation. The framework organizes established nursing functions into three interacting modes: Clinical Monitoring–Contextualization, Implementation Support–Coaching, and Coordination–Escalation. Together, these modes define a pathway from data-quality verification and patient-context interpretation to implementation support for agreed rehabilitation plans, coordinated escalation, and reassessment, while preserving professional boundaries. By linking longitudinal digital information with accountable clinical actions across care settings, the framework provides an operational basis for developing and evaluating human-centered, digitally supported rehabilitation pathways. As the integrated framework remains conceptual, its feasibility, safety, and clinical effectiveness require prospective evaluation.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.3389/fpubh.2026.1983528"
+    },
+    {
+      "id": "openalex-W7238728200",
+      "doi": "10.5281/zenodo.24459905",
+      "title": "AUTOMO: automated vehicle damage detection and repair-cost estimation using deep learning and instance segmentation",
+      "title_zh": "",
+      "authors": [
+        "Amina A.M.",
+        "P. Jeno Paul"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "计算机科学",
+      "topics": [
+        "Advanced Neural Network Applications",
+        "Infrastructure Maintenance and Monitoring",
+        "Industrial Vision Systems and Defect Detection"
+      ],
+      "abstract": "Vehicle damage assessment is an important step in automobile repair and insurance-claim processing. Conventional inspection is commonly performed manually and can be time-consuming and dependent on the experience of the inspector. This paper presents AUTOMO, a computer-vision-based framework intended to detect visible vehicle damage and generate an approximate repair-cost estimate from an uploaded vehicle image. The workflow combines image pre-processing, vehicle-part and damage detection using YOLO, damage-region instance segmentation using Mask R-CNN, severity categorization, and a cost-estimation module. The application architecture also includes a web interface, back-end services, user and workshop functions, administrative functions, and persistent storage. The project manuscript reports an accuracy of 88.78",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.24459905"
+    },
+    {
+      "id": "openalex-W7238734701",
+      "doi": "10.1055/a-3009-9215",
+      "title": "The Future of AI-Based Outcomes Tracking in Facial Plastic and Reconstructive Surgery",
+      "title_zh": "",
+      "authors": [
+        "Lisa J. Duan",
+        "Sarah Abdul‐Ghani",
+        "John Aage Wilson",
+        "Joshua David Rosenberg",
+        "Christopher R. Razavi",
+        "Mingyang Liu Gray"
+      ],
+      "year": 2026,
+      "venue": "Facial Plastic Surgery",
+      "field": "计算机科学",
+      "topics": [
+        "Face recognition and analysis",
+        "Facial Rejuvenation and Surgery Techniques",
+        "Facial Nerve Paralysis Treatment and Research"
+      ],
+      "abstract": "Aims and Backgrounds: Outcomes in facial plastic surgery are evaluated based on changes in function and appearance, as well as patients’ assessment of their results. This narrative review examines the use of machine learning and computer vision to measure outcomes after facial plastic surgery, with emphasis on whether these measurements are associated with validated patient-reported outcome measures (PROMs). Historical Aspects: Facial outcomes assessment has progressed from subjective inspection and manual anthropometry to 2D and 3D imaging, automated landmark detection, and machine learning and computer vision methods. Technology: Machine learning and computer vision methods can quantify facial morphology, asymmetry, perceived age, and dynamic movement with increasing technical accuracy. However, few studies have directly compared resulting metrics with validated PROMs. Evidence from facial rejuvenation, rhinoplasty, blepharoplasty, and facial paralysis shows variable associations between metrics and patient-reported outcomes. Current and Future Development: Future studies should longitudinally evaluate metrics alongside corresponding validated PROMs to determine whether changes within individual patients are associated and to establish thresholds for clinically meaningful change. Conclusions and Clinical Relevance: Machine learning and computer vision can produce accurate measures of change after surgical intervention, but few studies have examined how these metrics relate to PROMs. Further validation is needed before these methods can be routinely used for outcome tracking.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": false,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1055/a-3009-9215"
+    },
+    {
+      "id": "openalex-W7238734911",
+      "doi": "10.5281/zenodo.24475677",
+      "title": "CREATING A SIMPLE IMAGE CLASSIFICATION SYSTEM FOR RECOGNITION OF EVERYDAY OBJECTS USING ARTIFICIAL INTELLIGENCE",
+      "title_zh": "",
+      "authors": [
+        "Ameer Rasheed Khan",
+        "Odilov Mukhammadjon Dilshodbek ugli",
+        "Worldly Knowledge Publishing Centre"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "计算机科学",
+      "topics": [
+        "Advanced Neural Network Applications",
+        "Domain Adaptation and Few-Shot Learning",
+        "Computer Science and Engineering"
+      ],
+      "abstract": "This article studies the theoretical and practical foundations of creating a system for automatic recognition and classification of objects encountered in everyday life using artificial intelligence technologies. The study analyzes the possibilities of processing digital images using computer vision, deep learning, and convolutional neural networks. Based on the MobileNetV2 architecture and transfer learning technology, a conceptual model of a simple classification system designed to recognize objects such as books, phones, glasses, pens, and glass containers is proposed. The processes of preparing images, training a neural network, classifying objects, and evaluating the results are covered. As a result of the study, the structure of an image classification system aimed at the effective use of computing resources and the possibilities of its implementation in practice are justified.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.24475677"
+    },
+    {
+      "id": "openalex-W7238740169",
+      "doi": "10.1201/9781042054305-36",
+      "title": "AI-Based Driver Behavior Profiling and Accident Prevention Using IoT Sensors",
+      "title_zh": "",
+      "authors": [
+        "E. Terence",
+        "L. Manoharan",
+        "V. Vasanth Kumar",
+        "K. Uma Kalyani",
+        "B. Ajay",
+        "K. Sai"
+      ],
+      "year": 2026,
+      "venue": "CRC Press eBooks",
+      "field": "工程学",
+      "topics": [
+        "IoT and GPS-based Vehicle Safety Systems",
+        "Traffic and Road Safety",
+        "Human-Automation Interaction and Safety"
+      ],
+      "abstract": "Driver drowsiness, emotional issues, alcohol abuse, and unsafe driving habits often lead to road accidents. In this paper, we suggest a new approach that uses artificial intelligence to profile driver behavior and detect accidents. Our method employs computer vision and IoT sensors to continuously monitor drivers. We identify driver drowsiness by analyzing the eye aspect ratio (EAR), facial expressions, or emotions such as anger, fear, and happiness. The Random Forest classifier uses data from multiple sensors, including acceleration, the distance of obstacles from the vehicle, alcohol concentration, and driver health metrics. We examine this data to predict if a situation might result in an accident. The system operates on a Raspberry Pi platform, offering real-time alerts and notifications through GPS and GSM communication Our experiments, conducted in various driving conditions, reached an accuracy of 91%. This result shows how effective our sensor-fusion method is for improving driver safety and preventing accidents.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": false,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1201/9781042054305-36"
+    },
+    {
+      "id": "openalex-W7238741429",
+      "doi": "10.1145/3845796.3859303",
+      "title": "The Case for ROS 2 as an Input Framework for Interactive Surfaces and Spaces",
+      "title_zh": "",
+      "authors": [
+        "Vitus Maierhöfer",
+        "Christian G. Wolff",
+        "Raphael Wimmer"
+      ],
+      "year": 2026,
+      "venue": "ACM International Conference on Interactive Surfaces and Spaces (ISS)",
+      "field": "计算机科学",
+      "topics": [
+        "Interactive and Immersive Displays",
+        "Robotics and Automated Systems",
+        "Teleoperation and Haptic Systems"
+      ],
+      "abstract": "For many research prototypes in the field of interactive surfaces and spaces or ubiquitous computing, custom processing pipelines for computer vision and other sensor data need to be built. We have found that the ROS 2 middleware is well suited for some of these prototypes. Originally developed as an open-source framework for robotics, ROS 2 offers many features that are useful for interactive research prototypes, notably built-in support for distributed, parallel and synchronized processing pipelines, 3D coordinate systems, recording and replay of messages, and a large ecosystem of modular, open-source node implementations. To evaluate advantages and drawbacks, we have implemented a typical projected augmented reality prototype in ROS 2. In a simple benchmark, ROS 2 adds a small latency overhead of 2.9 ms compared to a monolithic implementation in Python.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1145/3845796.3859303"
+    },
+    {
+      "id": "openalex-W7238741473",
+      "doi": "10.51583/ijltemas.2026.151100013",
+      "title": "Fit AI: AI-Based Personalized Fitness and Nutrition Management System",
+      "title_zh": "",
+      "authors": [
+        "Rajpal M Chavhan",
+        "Himanshu Raj Pandey",
+        "Shreetej V Pachkor",
+        "Pranjali R Ugale",
+        "Advika P Ambadkar",
+        "K. H. Deshmukh"
+      ],
+      "year": 2026,
+      "venue": "International Journal of Latest Technology in Engineering Management & Applied Science",
+      "field": "Health Professions",
+      "topics": [
+        "Mobile Health and mHealth Applications",
+        "Innovation in Digital Healthcare Systems",
+        "Context-Aware Activity Recognition Systems"
+      ],
+      "abstract": "Maintaining a healthy lifestyle can be challenging due to busy schedules, limited access to professional fitness guidance, and a lack of personalized support. This paper presents FitAI, an AI-based fitness and nutrition management system developed to combine exercise monitoring, dietary guidance, and fitness tracking within a single web application. The system uses Flask for web application development and integrates OpenCV and MediaPipe for real-time body-pose detection, exercise monitoring, repetition counting, and corrective feedback. It also provides BMI calculation, personalized diet recommendations, workout tutorials, and yoga guidance to support individual fitness goals. An AI-powered chatbot offers interactive assistance for fitness, exercise, and nutrition-related queries. In addition, the application records workout history and estimated calorie expenditure and presents fitness statistics through an interactive dashboard and weekly progress reports. The platform also includes dietician-related features to help users explore professional nutrition support. By integrating these functions into one system, FitAI aims to make fitness management more accessible, interactive, and organized. The implemented application demonstrates how computer vision, web technologies, and personalized fitness features can work together to support users in managing their exercise routines and nutrition-related needs.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.51583/ijltemas.2026.151100013"
+    },
+    {
+      "id": "openalex-W7238748181",
+      "doi": "10.21203/rs.3.rs-11563524/v1",
+      "title": "A Large-Scale Algorithmic Synthetic Dataset for Pixel-Level Segmentation of Internal Pipeline Corrosion",
+      "title_zh": "",
+      "authors": [
+        "Mohammad Hossein Babajani",
+        "Ali Najafi Ardekany",
+        "Samir Neisy Minaei"
+      ],
+      "year": 2026,
+      "venue": "Research Square",
+      "field": "工程学",
+      "topics": [
+        "Infrastructure Maintenance and Monitoring",
+        "Industrial Vision Systems and Defect Detection",
+        "Non-Destructive Testing Techniques"
+      ],
+      "abstract": "Automated inspection of internal pipeline corrosion using computer vision requires diverse image datasets with accurate pixel-level labels. However, collecting and manually annotating real data is time-consuming, costly, and constrained by access and imaging conditions, which hinders the development of deep learning models. To address this limitation, an algorithmic, parametric framework was developed to generate synthetic images and corresponding masks. The framework incorporates cylindrical pipe geometry, a virtual camera, and illumination, using direct pixel-based mapping of an unwrapped two-dimensional surface without requiring an explicit three-dimensional model. Its methodological contribution is the integrated generation of images and masks from a shared spatial definition of corrosion and the preservation of their correspondence during geometric mapping. The framework also incorporates separation of the spatial pattern from its visual texture, sediment modeling, non-uniform illumination, and generation of multiple views from a common profile. Accordingly, the data were split at the profile level so that all views of each profile were assigned exclusively to the training, validation, or test subset. The final dataset contains 6,576 image–mask pairs at a resolution of 1024 × 1024 pixels and represents a quality-controlled sample of the generator's output space; this number does not represent its maximum generation capacity. Three segmentation architectures achieved Dice scores of approximately 0.973–0.974 on the held-out synthetic test set. The visual consistency of their predictions on real laboratory images was also assessed qualitatively, without fine-tuning. These results and observations support the utility of the dataset produced by the framework for developing and conducting controlled evaluations of corrosion segmentation models.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "https://www.researchsquare.com/article/rs-11563524/latest.pdf",
+      "url": "https://doi.org/10.21203/rs.3.rs-11563524/v1"
+    },
+    {
+      "id": "openalex-W7238750364",
+      "doi": "10.4018/ijismd.428507",
+      "title": "Modeling an AI-Assisted Visual Interpretation Workflow for Cultural Heritage Education: A Case Study on Ancient Chinese Astronomical Instrument Motifs",
+      "title_zh": "",
+      "authors": [
+        "Chao Jiang",
+        "Wen Sun",
+        "Jingru Zhang"
+      ],
+      "year": 2026,
+      "venue": "International Journal of Information System Modeling and Design",
+      "field": "人工智能",
+      "topics": [
+        "Artificial Intelligence in Education",
+        "Intelligent Tutoring Systems and Adaptive Learning",
+        "Multimedia Learning Systems"
+      ],
+      "abstract": "This study presents the design and modeling of an intelligent educational system that integrates artificial intelligence (AI)-assisted visual analysis, using decorative motifs from ancient Chinese astronomical instruments as a case study. The study developed a system architecture that combines computer vision techniques with educational scaffolding mechanisms. The system model comprises four interconnected stages: visual data preparation, AI-assisted visual processing, researcher-guided instructional material preparation, and educational application and evaluation. A quasi-experimental study (N = 150) was conducted to evaluate the system's effectiveness. Structural equation modeling was employed to validate the relationships among system components and learning outcomes. The results demonstrate that the proposed system significantly enhances symbolic legibility (t = 6.963, p < 0.001), cultural coherence perception (t = 3.337, p = 0.001), and design confidence (t = 3.478, p < 0.001). The findings inform the design of AI-enabled educational systems for complex cognitive tasks in specialized domains.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.4018/ijismd.428507"
+    },
+    {
+      "id": "openalex-W7238757295",
+      "doi": "10.5281/zenodo.24460294",
+      "title": "LACISE-SWIRL26: Sky, Wind and Irradiance Records from Latvia",
+      "title_zh": "",
+      "authors": [
+        "Diāna Dupļevska",
+        "Artūrs Ņikuļins",
+        "Miķelis E. Miķelsons",
+        "Nikita Dmitrijevs",
+        "Kaspars Sudars"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "Energy",
+      "topics": [
+        "Solar Radiation and Photovoltaics",
+        "Atmospheric aerosols and clouds",
+        "Meteorological Phenomena and Simulations"
+      ],
+      "abstract": "LACISE-SWIRL26 — Sky, Wind and Irradiance Records from Latvia LACISE-SWIRL26 is a multimodal environmental observation dataset comprising 89,187 ground-based all-sky RGB images and associated solar irradiance and Doppler LiDAR wind measurements collected in Riga, Latvia, between 9 June and 23 October 2026. The dataset was prepared at the Institute of Electronics and Computer Science (EDI) within the LACISE research project. Dataset contents The dataset contains: 89,187 registered RGB sky images with a resolution of 256 × 256 pixels. Solar irradiance measurements in W/m² and irradiance-sensor cell temperature. Image acquisition timestamps and camera exposure metadata. Wind speed and direction measurements from a Windcube Doppler LiDAR at 220 m above ground level, where available. Estimated and curated Sun-position coordinates (sun_x, sun_y) in the registered images. Selected annotations of sky conditions and visible image-quality artifacts. The collection covers 130 observation days, comprising 78,600 images from 107 complete days and 10,587 images from 23 incomplete days. Nighttime observations are retained where available. Measurement and processing Sky images were acquired using a Starlight Xpress Oculus PRO Colour all-sky camera. Original 1392 × 1040-pixel frames were geometrically registered using a calibrated radial transformation, corrected for camera orientation, and converted into 256 × 256-pixel RGB JPEG images, with geographic north at the top. Image acquisition was irregular, with a typical interval of approximately two minutes. Timestamps preserve the actual acquisition times; missing observations have not been artificially reconstructed. Wind measurements were matched to image timestamps using the nearest eligible Windcube observation within ±180 seconds. Matched wind data are available for 83,776 images (93.93%), and Sun-position coordinates are provided for 49,959 images. Data organization and intended applications The release is organized into complete_days and incomplete_days partitions, each containing JPEG images and a corresponding CSV metadata table. Both metadata tables have the same 15-column schema. The archive also includes a README and a machine-readable summary. LACISE-SWIRL26 is intended for cloud monitoring, short-term solar irradiance forecasting, atmospheric variability studies, computer vision, and multimodal machine-learning research combining sky imagery with solar and wind observations. Data limitations: Wind observations represent measurements at 220 m rather than ground level. Sun coordinates are curated metadata annotations and are not available for every image. The dataset contains measured solar irradiance, not photovoltaic electrical power generation. Original-resolution source images are not included in this processed-image release. Funding and acknowledgements The LACISE project is supported by the Swiss contribution to reducing economic and social disparities in the EU. It is carried out within the Swiss-Latvian Cooperation Programme \"Partnership in Applied Research\" under Grant Agreement No LZP/LV-CH-RESEARCH/PC2, implemented by the Ministry of Education and Science and the Latvian Council of Science.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.24460294"
+    },
+    {
+      "id": "openalex-W7238759113",
+      "doi": "10.5281/zenodo.24481134",
+      "title": "Supplementary files for: Vision-Based Hand Gesture Recognition for Human-Computer Interaction: A Review",
+      "title_zh": "",
+      "authors": [
+        "Saeed Alkaabi"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "计算机科学",
+      "topics": [
+        "Hand Gesture Recognition Systems",
+        "Gaze Tracking and Assistive Technology",
+        "Human Pose and Action Recognition"
+      ],
+      "abstract": "Supplementary files for the review paper \"Vision-Based Hand Gesture Recognition for Human-Computer Interaction: A Review\". They contain the search log of the four database searches (5 and 7 November 2026), the screening log of 406 records with the AI assistant's suggestions and the author's responses, the table of the 50 included sources, the participant table for eight datasets, a blind re-screening of 40 random records with the agreement result, the exported record files (abstracts removed) and three scripts that check the counts, the de-duplication and the agreement. See Note.txt.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.24481134"
+    },
+    {
+      "id": "openalex-W7238774174",
+      "doi": "10.5281/zenodo.24455891",
+      "title": "SMART SURVEILLANCE WITH MULTI-OBJECT DETECTION",
+      "title_zh": "",
+      "authors": [
+        "YERRA SATHVIKA, M.PRIYANKA, CHALLA SAITEJA, DEEVOJU JAYA SIRI, SHAMALA ABHILASH"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "计算机科学",
+      "topics": [
+        "Video Surveillance and Tracking Methods",
+        "IoT-based Smart Home Systems",
+        "Arduino and IoT Applications"
+      ],
+      "abstract": "The increasing demand for intelligent security and automated monitoring has encouraged the development of surveillancesystems that combine artificial intelligence, computer vision, and Internet of Things technologies. Traditional surveillancesystems primarily depend on continuous human observation, making them less efficient in identifying multiple objects andresponding immediately to potential security threats. This research presents a Smart Surveillance System with MultiObject Detection that integrates YOLOv8, OpenCV, and IoT-based hardware to provide automated monitoring andintrusion detection. The proposed system processes uploaded images and real-time webcam streams to identify multipleobjects, generate bounding boxes, classify detected objects, display confidence scores, and calculate object counts. AnArduino Uno is integrated with an infrared sensor and an HC-SR04 ultrasonic sensor to provide an additional physicalintrusion detection mechanism. An intrusion is identified when the infrared sensor output becomes LOW and the measureddistance falls below 20 cm. Upon satisfying this condition, the system activates a buzzer, displays an intrusion notificationthrough an I2C LCD, updates the monitoring dashboard, and sends an email notification using SMTP. A Python-basedgraphical interface combines computer vision outputs, hardware telemetry, connection status, and event history. Threadsafe communication is employed to maintain responsive operation across camera processing, serial communication, andemail notification tasks. The proposed architecture provides an integrated, modular, and cost-effective approach tointelligent surveillance suitable for controlled residential, institutional, and small-scale industrial monitoring environments.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.24455891"
+    },
+    {
+      "id": "openalex-W7238776235",
+      "doi": "10.5281/zenodo.24459689",
+      "title": "A Source-Agnostic Computer Vision Pipeline for Drone-Based Illegal Dumping Detection with Fragment Fusion and Severity Heatmapping",
+      "title_zh": "",
+      "authors": [
+        "Izabo Abigo",
+        "Daniel Paris-Zidougha"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "计算机科学",
+      "topics": [
+        "Advanced Neural Network Applications",
+        "Remote-Sensing Image Classification",
+        "Municipal Solid Waste Management"
+      ],
+      "abstract": "Illegal dumping is difficult to police using ground patrols alone, particularly along riverbanks, undeveloped plots, and peri-urban corridors that are large, dispersed, and poorly monitored. This study presents the design, implementation, and preliminary evaluation of a drone-oriented computer vision pipeline for automatically detecting illegal dumping sites from aerial and ground-level imagery. The system is built around an Ultralytics YOLOv8 object detector wrapped in a dedicated detection module, preceded by a resolution-normalising letterbox stage and followed by a morphological post-processing stage that fuses fragmented, piecewise detections into single, coherent site-level bounding boxes. A heatmap accumulator and a periodic JSON severity reporter convert raw detections into an operationally useful summary of where and how severe dumping activity is within a monitored area. The pipeline is deliberately source-agnostic: identical detection and post-processing code runs against a laptop webcam, a recorded flight video, a static image folder, an RTSP gimbal stream, or a DJI Tello drone, with the only required change being a single configuration value. Six held-out test images spanning a wooded riverbank, a night-time street scene, a crowded market dumpsite, a waste-free control traffic scene, and two additional field samples are used to qualitatively evaluate detection behaviour, confidence calibration, and false-positive resistance. The pipeline correctly and confidently localised genuine dumping scenes at confidences of 0.59 to 0.80, correctly declined to flag the waste-free control scene, and showed a clear, expected confidence drop under low-light conditions. This study positions its contribution specifically at the pipeline-engineering level, fragment-to-site fusion, source abstraction, and severity reporting, rather than at the level of detector architecture, a level the reviewed literature treats comparatively sparsely relative to detection accuracy alone. The most significant limitation of this study, stated explicitly rather than glossed over, is that its evaluation is qualitative: no formal precision, recall, or mean average precision figures were computed against a held-out validation split, and producing that quantitative evaluation is identified as the immediate next step.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.24459689"
+    },
+    {
+      "id": "openalex-W7238791957",
+      "doi": "10.5281/zenodo.24457122",
+      "title": "Automated Detection of Vegetable Crop Diseases with Bio-Organic Remedy Guidance Using Attention-Enhanced Deep Learning",
+      "title_zh": "",
+      "authors": [
+        "Pradeep",
+        "Mukesh Kumar Rana"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "Agricultural and Biological Sciences",
+      "topics": [
+        "Smart Agriculture and AI",
+        "Advanced Neural Network Applications",
+        "Remote Sensing in Agriculture"
+      ],
+      "abstract": "Plant diseases and nutrient deficiencies are two major reasons for reduced crop growth and lower agricultural productivity. Both conditions can affect the colour, shape, texture, and general appearance of leaves. In many farming situations, early identification is difficult because disease symptoms and nutrient-related symptoms may look similar. Farmers often depend on visual inspection or expert advice, which may not always be available at the right time. Recent developments in artificial intelligence and computer vision provide an opportunity to support faster and more consistent crop monitoring. This paper presents a proposed deep learning-based framework for identifying plant diseases and nutrient deficiencies from leaf images. The framework is designed to examine visible symptoms and classify them into healthy, disease-related, and nutrient-deficiency categories. A convolutional neural network (CNN) with transfer learning is considered as the main image-classification approach. The proposed system also includes image preprocessing, data augmentation, model evaluation, and an explainability component to show which parts of a leaf image influenced a prediction. The study focuses on a practical research design rather than claiming completed field experiments. It explains how a balanced image dataset can be collected from open repositories and field photographs, how the data can be labelled, and how the model can be tested using an independent test set. Accuracy, precision, recall, F1-score, confusion matrix, and class-wise performance are identified as evaluation measures. The framework may be useful as a decision-support tool for farmers, agricultural students, and extension workers. It is not intended to replace laboratory soil testing or professional plant pathology advice. By bringing disease recognition and nutrient deficiency screening into one workflow, the proposed approach aims to support timely intervention, careful input use, and more sustainable agriculture.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.24457122"
+    },
+    {
+      "id": "openalex-W7238773785",
+      "doi": "10.5281/zenodo.24455480",
+      "title": "AI Security and Trust: Securing Generative and Agentic AI Systems",
+      "title_zh": "",
+      "authors": [
+        "Kuladeep Sandra Koppuravuari Gurnadha Gupta"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "计算机科学",
+      "topics": [
+        "Adversarial Robustness in Machine Learning",
+        "Ethics and Social Impacts of AI",
+        "Security and Verification in Computing"
+      ],
+      "abstract": "Artificial Intelligence has emerged as one of the most transformative technologies of the modern digital era, influencing industries, research, education, healthcare, finance, manufacturing, communication, and critical infrastructure. The rapid advancement of Machine Learning, Deep Learning, Generative Artificial Intelligence, Large Language Models (LLMs), and Agentic AI has introduced new opportunities for intelligent automation, autonomous decision-making, and data-driven innovation. However, these developments have also created complex security challenges involving data privacy, model integrity, adversarial manipulation, unauthorised access, misinformation, and the responsible use of autonomous systems. Establishing security, reliability, transparency, and trust has therefore become essential for the sustainable development and deployment of modern AI technologies. The book AI Security and Trust: Securing Generative and Agentic AI Systems is designed to provide a comprehensive understanding of the principles, technologies, vulnerabilities, and security mechanisms associated with contemporary artificial intelligence systems. It explores the relationship between artificial intelligence and cybersecurity, emphasising the importance of developing secure, reliable, privacy-preserving, and trustworthy intelligent applications. The book introduces fundamental concepts of AI, Machine Learning, Deep Learning, Generative AI, Natural Language Processing, Transformer Architectures, and Foundation Models, while establishing the essential cybersecurity principles of confidentiality, integrity, availability, risk management, AI safety, and responsible governance. The first unit, Foundations of Artificial Intelligence, Cybersecurity and Trust, introduces the evolution, scope, and applications of artificial intelligence, together with the fundamentals of Machine Learning and Deep Learning. It examines Generative AI, Large Language Models, Natural Language Processing, Transformers, and Foundation Models. The unit also explains cybersecurity principles, information security requirements, AI safety, reliability, trustworthiness, fairness, transparency, accountability, and human oversight. The second unit, Generative AI Security and Large Language Model Vulnerabilities, focuses on the security challenges associated with generative intelligent systems. It discusses the architecture and working principles of Generative AI, security risks in Large Language Models, direct and indirect prompt injection attacks, jailbreaking techniques, and safety guardrail bypass mechanisms. It further examines data poisoning, training data manipulation, model extraction, model theft, intellectual property risks, sensitive information disclosure, privacy leakage, hallucinations, misinformation, and reliability challenges. The third unit, Agentic AI Security and Autonomous System Protection, explores the emerging field of autonomous intelligent agents capable of reasoning, planning, interacting with external tools, maintaining memory, and executing tasks. It examines agent architectures, decision-making processes, tool utilisation, autonomous execution risks, function-calling vulnerabilities, agent identity, authentication, and authorisation. The unit also addresses memory poisoning, context manipulation, persistent threats, multi-agent system security, inter-agent trust, human-in-the-loop control, and safe execution mechanisms. The fourth unit, Adaptive Defense and Intelligent Infrastructure Security, presents advanced approaches to strengthening cybersecurity through adaptive and intelligent technologies. It covers self-learning cyber defence architectures, reinforcement learning for autonomous cyber defence, security orchestration, automation, and automated incident response. Additional topics include cyber deception, honeypots, honeynets, moving target defence, Zero Trust Architecture, AI-driven identity security, cloud-native security, container and Kubernetes protection, and security challenges associated with IoT, edge computing, 5G/6G networks, cyber-physical systems, smart grids, industrial control systems, smart cities, and critical infrastructure. The fifth unit, Secure AI Engineering, Privacy and Trustworthy AI Architecture, focuses on the development and governance of secure artificial intelligence applications. It discusses the secure AI system development lifecycle, privacy-preserving Machine Learning, data protection, federated learning, secure collaborative AI, differential privacy, encryption, and confidential computing. It further examines secure Retrieval-Augmented Generation (RAG) architectures, knowledge base protection, AI guardrails, content filtering, policy enforcement, Explainable AI, model interpretability, transparency, monitoring, logging, incident response, and continuous AI governance. This book is intended for undergraduate and postgraduate students, research scholars, faculty members, cybersecurity professionals, AI developers, system architects, and technology practitioners seeking to understand the security and trust requirements of modern intelligent systems. The structured presentation of concepts across five units provides a foundation for academic learning, research exploration, professional development, and practical understanding of emerging AI security challenges. The overall objective of this book is to develop a comprehensive understanding of how artificial intelligence systems can be designed, implemented, evaluated, and governed securely. By connecting AI innovation with cybersecurity engineering, privacy protection, adaptive defence, and responsible governance, this book aims to encourage the development of intelligent systems that are not only powerful and efficient but also secure, transparent, accountable, and trustworthy. We sincerely hope that this book serves as a valuable academic and professional reference for readers and contributes to the advancement of research, education, and practical innovation in Artificial Intelligence, Cybersecurity, Generative AI, and Agentic AI Security.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.24455480"
+    },
+    {
+      "id": "openalex-W7238887015",
+      "doi": "10.69013/ys1402cj",
+      "title": "Automated Credit Risk Assessment for Peer-to-Peer Lending Platforms Using Natural Language Processing on Textual Loan Application Data",
+      "title_zh": "",
+      "authors": [
+        "Kazi Arham Ahmed",
+        "Tanvir Rahman",
+        "Md Mahbubur Rahman"
+      ],
+      "year": 2026,
+      "venue": "Journal of Business Intelligence & Decision Science Review",
+      "field": "社会科学",
+      "topics": [
+        "Financial Distress and Bankruptcy Prediction",
+        "FinTech, Crowdfunding, Digital Finance",
+        "Computational and Text Analysis Methods"
+      ],
+      "abstract": "Peer-to-Peer (P2P) lending platforms have disrupted traditional consumer credit markets by facilitating direct financial transactions between individual retail investors and borrowers. However, evaluating borrower creditworthiness in P2P lending presents severe information asymmetry challenges, as applicants often lack formal credit histories, audited financial statements, or collateral backing. While traditional credit scoring models rely strictly on quantitative financial metrics (e.g., debt-to-income ratio, FICO score, monthly income), they fail to capture qualitative behavioral signals embedded within borrower-authored loan application narratives. This paper presents an automated, multimodal credit risk assessment architecture that integrates Natural Language Processing (NLP) embeddings, psycholinguistic readability metrics, and sentiment analysis with tabular financial indicators to predict borrower default risk. Grounded in non-linear analytical parameterization paradigms and enterprise risk management frameworks, our methodology extracts semantic, emotional, and deception micro-signals from loan description texts using fine-tuned RoBERTa and TF-IDF representations. Evaluated on an empirical dataset of 320,000 P2P loan applications processed across major fintech lending platforms between 2020 and 2026, our multimodal NLP-enriched model achieved an Area Under the Receiver Operating Characteristic curve (ROC-AUC) of 0.898 and an Area Under the Precision-Recall Curve (PR-AUC) of 0.852, outperforming traditional financials-only credit scoring models by 14.8%. Integrating textual narrative features reduced Expected Credit Loss (ECL) by $31.2M annually across the portfolio. We present an exhaustive quantitative synthesis incorporating 10 data tables, 10 mathematical behavior graphs, and 20 visually distinct chart architectures detailing linguistic feature importance, default risk distributions, and portfolio yield optimization.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": false,
+      "pdf_url": "",
+      "url": "https://doi.org/10.69013/ys1402cj"
+    },
+    {
+      "id": "openalex-W7159630036",
+      "doi": "10.1007/978-3-032-44866-8_6",
+      "title": "Automatic Causal Fairness Analysis with LLM-Generated Reporting",
+      "title_zh": "",
+      "authors": [
+        "Alessia Berarducci",
+        "Eric Rossetto",
+        "Alessandro Antonucci",
+        "Marco Zaffalon"
+      ],
+      "year": 2026,
+      "venue": "Communications in computer and information science",
+      "field": "计算机科学",
+      "topics": [
+        "Ethics and Social Impacts of AI",
+        "Explainable Artificial Intelligence (XAI)",
+        "Advanced Causal Inference Techniques"
+      ],
+      "abstract": "AutoML, intended as the process of automating the application of machine learning to real-world problems, is a key step for AI popularisation. Most AutoML frameworks are not accounting for the potential lack of fairness in the training data and in the corresponding predictions. We introduce FairMind , a software prototype aiming to automatise fairness analysis at the dataset level. We achieve that by resorting to the assumptions of the standard fairness model , recently proposed by Plečko and Bareinboim. This allows for a sound fairness evaluation in terms of causal effects, based on counterfactual queries involving the target, possibly confounders and mediators, and the different values of an input feature we regard as protected . Given a dataset and the roles of its variables, the tool implements a closed-form computation of the effects. An LLM is then used, as an interpretative layer—performing no computation—to turn the computed effects into a natural-language report. We achieve that in a zero-shot setup and show by examples the expected advantages with respect to a direct analysis performed by the LLM. To favour applications, extensions to ordinal protected variable and continuous targets and novel decomposition results are also discussed.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://proceedings.mlr.press/v350/berarducci26a.html"
+    },
+    {
+      "id": "openalex-W7238893181",
+      "doi": "10.1108/jic-02-2026-0113",
+      "title": "Mapping codified intellectual capital linkages across the industry, academia, and research ecosystems",
+      "title_zh": "",
+      "authors": [
+        "Wei Yan",
+        "Keying Song",
+        "Lai Wei",
+        "Wanxing Zhang"
+      ],
+      "year": 2026,
+      "venue": "Journal of Intellectual Capital",
+      "field": "社会科学",
+      "topics": [
+        "Intellectual Property and Patents",
+        "Intellectual Capital and Performance Analysis",
+        "Innovation and Knowledge Management"
+      ],
+      "abstract": "Purpose This study introduces the concept of Codified Intellectual Capital Linkages (CICL) to examine observable connections among codified knowledge resources across industry, academia, and research (IAR) organizations and how these connections evolve over time. Rather than treating intellectual capital solely as an organizational asset, the study investigates its observable manifestations through cross-organizational knowledge linkages within an innovation ecosystem. Design/methodology/approach Taking the natural language processing (NLP) field as the empirical setting, the study analyses patents granted up to 31 December 2024 together with the scientific publications they cite. CICL is operationalized through four complementary analytical perspectives: institutional linkages, author-inventor linkages, patent-paper citation networks, and topic evolution. Social network analysis, patent-paper citation analysis, BERTopic topic modelling, and cosine similarity are integrated to examine CICL at the actor, citation, and topic levels across six temporal periods. Findings The results reveal increasingly extensive linkages between codified scientific and technological knowledge across the IAR ecosystem. At the actor level, leading institutions and boundary-spanning author-inventors occupy prominent positions in cross-organizational knowledge linkages. At the citation level, patent-paper citation networks expand substantially over time, the number of scientific publications cited per patent increases, and the scientific cycle declines after 2018, indicating increasingly extensive and temporally proximate connections between scientific publications and patented technologies. At the topic level, patent knowledge exhibits both continuity and thematic change, scientific knowledge becomes increasingly diversified, and recurring many-to-many thematic correspondence is observed between publication and patent topics. Together, these findings reveal multidimensional patterns of CICL across the IAR ecosystem and show how their structural, temporal, and thematic characteristics evolve over time. Research limitations/implications The analysis is limited to the NLP domain and focuses on observable and codified manifestations associated with intellectual capital, primarily through patents, scientific publications, and their linkages. Future research could extend the framework to other technological fields and incorporate additional evidence, such as research collaboration, funding, and researcher mobility, to capture broader dimensions of intellectual capital. Originality/value This study extends intellectual capital research from an organization-centred perspective to an innovation ecosystem perspective by proposing CICL as an analytical construct. It develops a multilevel operational framework that links intellectual capital theory with actor-, citation-, and topic-level empirical evidence, providing a scalable approach for investigating codified intellectual capital linkages across collaborative innovation ecosystems.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": false,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1108/jic-02-2026-0113"
+    },
+    {
+      "id": "openalex-W7238853554",
+      "doi": "10.5281/zenodo.24230073",
+      "title": "VERS UNE INTERPRÉTATION CONTEXTUALISÉE DU LANGAGE NON VERBAL DES ÉTUDIANTS EN CLASSE DE FLE / TOWARDS A CONTEXTUALIZED INTERPRETATION OF STUDENTS' NONVERBAL COMMUNICATION IN THE FRENCH-AS-A-FOREIGN-LANGUAGE CLASSROOM",
+      "title_zh": "",
+      "authors": [
+        "Mirela Valerica Ivan"
+      ],
+      "year": 2026,
+      "venue": "Studii si Cercetari Filologice: Seria Limbi Straine Aplicate",
+      "field": "社会科学",
+      "topics": [
+        "French Language Learning Methods",
+        "Communication in Education and Healthcare",
+        "Language, Discourse, Communication Strategies"
+      ],
+      "abstract": "Résumé: Cette étude examine les conditions dans lesquelles l’interprétation du langage non verbal des étudiants peut fonder une décision pédagogique en classe de français langue étrangère. S’inscrivant dans le prolongement de nos recherches antérieures consacrées à la fonction didactique de la communication non verbale, elle adopte une démarche théorico-réflexive fondée sur une synthèse critique de travaux consacrés à la multimodalité, à l’inférence sociale, au regard, à l’engagement et au jugement professionnel, articulée à l’analyse de deux vignettes issues de la pratique universitaire. L’objectif est de montrer que l’observation des comportements non verbaux ne saurait justifier une interprétation pédagogique, dès lors que la signification d’un même indice varie selon la situation interactionnelle et les facteurs contextuels de l’activité de classe. Les situations analysées montrent que des indices d’alignement interactionnel — regard soutenu, sourire, hochements de tête — ne garantissent pas une compréhension cognitive effective, tandis qu’un regard détourné peut accompagner un effort de traitement de l’information. L’article distingue l’indice observable de la signification pédagogique qui lui est attribuée et met en évidence les limites des interprétations spontanées fondées sur des correspondances entre comportement visible et état cognitif. Afin de dépasser ces attributions prématurées, nous proposons la notion de contextualisation interprétative, définie comme un processus cyclique de description, de mise en contexte, de croisement des indices, de formulation d’hypothèses concurrentes, de vérification et de révision. Ce cadre heuristique invite à concevoir le jugement pédagogique comme une démarche interprétative explicite, prudente et continuellement révisable plutôt que comme un décodage immédiat des comportements. Il contribue à favoriser des décisions pédagogiques plus fiables et mieux adaptées aux situations d’apprentissage. Bien que cette proposition demeure conceptuelle, elle ouvre des perspectives de recherche fondées sur l’observation vidéo des interactions, les entretiens d’auto-confrontation et la triangulation des points de vue afin d’évaluer empiriquement la validité de ce modèle interprétatif. Mots-clés: communication non verbale ; FLE ; contextualisation interprétative. Abstract: This study examines the conditions under which the interpretation of students’ nonverbal communication can serve as a basis for pedagogical decision-making in the French-as-a-Foreign-Language (FLE) classroom. Building on our previous research on the pedagogical role of nonverbal communication, it adopts a theoretical and reflective approach grounded in a critical synthesis of studies on multimodality, social inference, gaze, engagement, and professional judgment, combined with the analysis of two vignettes drawn from university teaching practice. The aim is to demonstrate that the observation of nonverbal behaviour alone cannot justify pedagogical interpretation, since the meaning of a given cue varies according to the interactional situation and the contextual factors shaping classroom activity. The two situations analysed show that indicators of interactional alignment—such as sustained eye contact, smiling, and head nodding—do not necessarily reflect effective cognitive understanding, whereas gaze aversion may accompany an intense process of information processing. The article distinguishes between the observable cue and the pedagogical meaning attributed to it, highlighting the limitations of spontaneous interpretations based on presumed correspondences between visible behaviour and cognitive states. To overcome such premature attributions, we introduce the concept of interpretive contextualization, defined as a cyclical process involving description, contextualization, the integration of multiple cues, the formulation of competing hypotheses, verification, and revision. This heuristic framework encourages teachers to conceive pedagogical judgment as an explicit, cautious, and continuously revisable interpretive process rather than as an immediate decoding of behaviour. It is intended to support more reliable pedagogical decisions that are better adapted to the diversity of learning situations. Although the proposed model remains conceptual, it opens promising avenues for future empirical research based on video observation of classroom interactions, self-confrontation interviews, and the triangulation of perspectives in order to assess the validity of this interpretive framework. Keywords: nonverbal communication; French as a Foreign Language (FLE); interpretive contextualization.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.24230073"
+    },
+    {
+      "id": "openalex-W7238849727",
+      "doi": "10.70920/jenius.v4i1.501",
+      "title": "The Use of Artificial Intelligence in Supporting Tooth Extraction Decision-Making in Orthodontic Treatment: A Literature Review",
+      "title_zh": "",
+      "authors": [
+        "Daffa Athaala Naufal",
+        "Adriyenni"
+      ],
+      "year": 2026,
+      "venue": "Jurnal Kesehatan Cendikia Jenius",
+      "field": "Dentistry",
+      "topics": [
+        "Orthodontics and Dentofacial Orthopedics",
+        "Dental Radiography and Imaging",
+        "Artificial Intelligence in Healthcare and Education"
+      ],
+      "abstract": "Introduction: Tooth extraction decisions in orthodontic treatment are complex and may vary among orthodontists. Artificial intelligence (AI) has the potential to improve objectivity and consistency in clinical decision-making. Objective: To analyze the use of AI in supporting tooth extraction decision-making in orthodontic treatment. Methods: This study employed a narrative literature review design. Literature searches were conducted in PubMed, ScienceDirect, and Scopus using keywords related to AI, machine learning, deep learning, orthodontics, and tooth extraction. Of the 450 articles identified, 11 original research articles met the inclusion criteria and were analyzed using narrative synthesis. Results: AI demonstrated potential in predicting extraction and non-extraction decisions through structured data-based, image-based, and multimodal approaches. Random Forest, Support Vector Machine, and Decision Tree demonstrated competitive performance, while multimodal approaches tended to achieve better results. Crowding and arch length discrepancy were the most consistent predictors. Conclusion: AI has potential as a clinical decision-support system; however, further validation is required, and its application should remain under the supervision of orthodontists' clinical judgment.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://jurnal.kesehatan.cendikiajenius-ind.id/index.php/jenius/article/view/501"
+    },
+    {
+      "id": "openalex-W7151875438",
+      "doi": "10.1177/26349795261504180",
+      "title": "Multimodal Social Semiotic understandings of learning: Epistemological and methodological implications for educational research",
+      "title_zh": "",
+      "authors": [
+        "Henrika Florén",
+        "Sophia Diamantopoulou"
+      ],
+      "year": 2026,
+      "venue": "Multimodality & Society",
+      "field": "社会科学",
+      "topics": [
+        "Literacy, Media, and Education",
+        "Discourse Analysis in Language Studies",
+        "Semiotics and Representation Studies"
+      ],
+      "abstract": "The article demonstrates the potential of Multimodal Social Semiotics (MMSS) to broaden what counts as learning and how it can be studied across educational contexts, contributing conceptual clarification, methodological operationalisation, and analytical exemplification. We explore MMSS as a theoretical and methodological lens for researching learning in educational contexts. Starting from earlier Multimodal Social Semiotic theoretical discussions of teaching and learning as social practice and instances of communication (Bezemer and Kress, 2021; Kress et al., 2021), we elaborate on what the theory means for educational research and understandings of learning. We claim that MMSS as a theory of learning offers a distinct epistemological grounding for understanding learning, foregrounding meaning-making, materialisation, and transformation as observable, analysable, and socially situated phenomena. Learning as social practice thus becomes visible through signs and multimodal texts people produce. At the same time, multimodal texts are understood as partial but analysable materialisations of learning. To illustrate this, we draw on our 2026 four-component methodological approach for operationalising MMSS (Diamantopoulou & Florén, 2026), applying it to a student-created film from a course within Swedish teacher education (Florén, 2026). We showcase how learning can be recovered and analysed through the interrogation of the multimodal texts involved and the pedagogic discourses they realise, anchored on the view that meaning-making and learning cannot be separated. Rather than accounting for internal cognition, MMSS is positioned as a means of theorising learning as materialised meaning-making and semiotic transformation.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1177/26349795261504180"
+    },
+    {
+      "id": "openalex-W7160248560",
+      "doi": "10.5194/essd-18-8757-2026",
+      "title": "A global 3D chlorophyll a dataset derived from multimodal deep learning reconstruction",
+      "title_zh": "",
+      "authors": [
+        "Ziyue Meng",
+        "Yi Wang",
+        "Lei Han"
+      ],
+      "year": 2026,
+      "venue": "Earth system science data",
+      "field": "化学",
+      "topics": [
+        "Marine Plankton and Biogeochemistry",
+        "Oceanographic and Atmospheric Processes",
+        "Aquatic Ecosystems and Phytoplankton Dynamics"
+      ],
+      "abstract": "Chlorophyll a (Chl a ) is a key variable for characterizing marine phytoplankton biomass and upper-ocean biogeochemical variability. Existing global products are generally limited to the ocean surface and therefore cannot adequately resolve subsurface vertical structure. In this study, a multimodal Profile-Surface Transformer (PST) framework was developed by integrating Biogeochemical-Argo (BGC-Argo) Chl a profiles, Core-Argo temperature-salinity profiles, and satellite-derived surface Chl a to reconstruct the three-dimensional (3D) vertical structure of Chl a from 10 to 500 m depth. A global monthly mean 3D Chl a dataset at 1° spatial resolution for January 2005–June 2025 was subsequently constructed. Evaluation of the dataset demonstrates that PST exhibits robust stability and effective profile reconstruction capability across various generalization scenarios. The coefficients of determination under random split, year-based split, and spatial cross-validation are 0.89, 0.87, and 0.86 ± 0.01, respectively. Furthermore, independent external validation using ship-based observations confirms that the model maintains good generalization performance across different observing systems. The constructed dataset successfully reproduces known global patterns of Chl a vertical structure and its subsurface chlorophyll maximum (SCM), as well as their seasonal variability. Variability in SCM depth is primarily characterized by regionally heterogeneous redistribution superimposed on a persistent zonal background, rather than by a pronounced monotonic change in the global mean depth. Overall, the constructed long-term 3D Chl a dataset integrates surface observations and discrete biogeochemical profiles, delivering a new observationally constrained global product. This dataset is well-suited for studies on the vertical ecological structure of phytoplankton, long-term ocean biogeochemical variability, and the responses of upper-ocean ecosystems to climate change. The dataset is publicly available from Zenodo (Meng et al., 2026a) at https://doi.org/10.5281/zenodo.22726410.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "https://essd.copernicus.org/articles/18/8757/2026/essd-18-8757-2026.pdf",
+      "url": "https://doi.org/10.5194/essd-18-8757-2026"
+    },
+    {
+      "id": "openalex-W7167612339",
+      "doi": "10.1088/1741-4326/aec576",
+      "title": "Hierarchical multi-to-single-modal knowledge distillation for disruption prediction in EAST",
+      "title_zh": "",
+      "authors": [
+        "Qiang Chen",
+        "Xiao Wang",
+        "Hao Si",
+        "Qingquan Yang",
+        "Meiwen Chen",
+        "Jianhua Yang",
+        "Xiaofeng Han",
+        "Yunhu Jia",
+        "Ran Chen",
+        "Liang Wang",
+        "Jin Tang",
+        "GuoSheng Xu"
+      ],
+      "year": 2026,
+      "venue": "Nuclear Fusion",
+      "field": "物理学",
+      "topics": [
+        "Magnetic confinement fusion research",
+        "Fusion and Plasma Physics Studies",
+        "Low-Pressure Plasma Processing and Diagnostics"
+      ],
+      "abstract": "Plasma disruption is a critical threat to tokamak safety. Existing data-driven predictors mainly rely on time-series diagnostic signals, while visible images provide complementary spatial cues including plasma deformation, local brightening, and radiation-structure evolution. Although the image modality improves the model's discriminative capability, it also substantially increases the computational cost during inference. To address this issue, we propose a hierarchical multi-to-single-modal knowledge distillation framework for disruption prediction on a synchronized EAST multimodal dataset. During training, visible images and time-series signals are used to train a multimodal teacher, which learns plasma representations through Transformer-based encoders and a prototype-guided spatiotemporal hypergraph module. During inference, only the time-series student is retained, with multimodal knowledge transferred through graph-structure-level, representation-level, and decision-level distillation. On the 1307-discharge EAST dataset, at FPRs of 10% and 5% under a 10 ms valid-warning constraint, the multimodal teacher achieves strong performance, attaining TPRs of 98.77% and 97.53%, respectively, and an AUC of 99.15%. The distilled unimodal student, which relies on time-series inputs during inference, still achieves TPRs of 92.59% and 81.48% at FPRs of 10% and 5%, respectively, and an AUC of 95.77%. Meanwhile, it requires only 3.13 ms for inference, 26.50 G FLOPs, and 23.18M parameters. Compared with the multimodal teacher, the distilled student achieves a 2.59× inference speedup and reduces the FLOPs and parameter count by approximately 66.06% and 47.15%, respectively. The similarity analysis confirms that the distilled student inherits the teacher's discriminative capability in latent representation, decision boundary, and structural preference. These results demonstrate that the proposed framework can preserve the discriminative advantages of multimodal learning while substantially reducing inference cost, and provide an effective route for efficient disruption prediction in EAST.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1088/1741-4326/aec576"
+    },
+    {
+      "id": "openalex-W7223172173",
+      "doi": "10.1039/d6an00368k",
+      "title": "Laser-induced breakdown spectroscopy for food safety analysis: sample presentation, data interpretation, and application readiness",
+      "title_zh": "",
+      "authors": [
+        "Yikang Hou",
+        "Zhuoxi Li",
+        "Jie Lian"
+      ],
+      "year": 2026,
+      "venue": "The Analyst",
+      "field": "化学",
+      "topics": [
+        "Laser-induced spectroscopy and plasma",
+        "Spectroscopy and Chemometric Analyses",
+        "Analytical chemistry methods development"
+      ],
+      "abstract": "Food-safety decisions require rapid screening of adulteration, origin fraud, elemental contamination and freshness loss. Laser-induced breakdown spectroscopy (LIBS) provides direct multi-element fingerprints with short acquisition times and little reagent consumption. Its performance in foods, however, depends on a coupled analytical chain: sample presentation controls laser coupling and mass removal; plasma evolution and acquisition govern emission; calibration and modelling determine interpretation; and validation establishes reliability beyond the development dataset. This critical review uses that chain to assess food-related LIBS workflows. It examines powders, moist tissues, fatty materials, liquids and spatially heterogeneous samples, then considers plasma-aware acquisition, preprocessing, chemometrics, deep learning and multimodal fusion. Task-specific comparisons with ICP-based methods, near-infrared spectroscopy, Raman spectroscopy and hyperspectral imaging clarify where LIBS adds value. Pelletization provides a reproducible baseline for many powders, whereas moist, fatty and liquid matrices often require flattening, phase control, immobilization or enrichment. Readiness is strongest for selected mineral-related authenticity screens and elemental warning at concentrations clearly above a decision threshold, provided that independent validation and quality control are available. Closed-set provenance and portable sorting are generally less mature, while regulatory trace confirmation, cross-instrument transfer and realistic microbial analysis require stronger evidence. Progress depends on end-to-end timing, threshold-focused validation, interpretable models, drift monitoring and selective confirmation with complementary techniques.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": false,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1039/d6an00368k"
+    },
+    {
+      "id": "openalex-W7238229347",
+      "doi": "10.5626/jok.2026.53.11.1225",
+      "title": "Multimodal-aware Learning for Mitigating Modality Imbalance in Human Activity Recognition",
+      "title_zh": "",
+      "authors": [
+        "Youngwoo Youn",
+        "Dong-Gyu Lee"
+      ],
+      "year": 2026,
+      "venue": "Journal of KIISE",
+      "field": "计算机科学",
+      "topics": [
+        "Context-Aware Activity Recognition Systems",
+        "Human Pose and Action Recognition",
+        "Domain Adaptation and Few-Shot Learning"
+      ],
+      "abstract": "멀티모달 인간 행동 인식은 RGB 영상, IMU, Skeleton과 같은 서로 다른 센서로부터 획득한 정보를 결합하여 단일 모달리티에서 발생하는 센서 노이즈, 가림 현상, 촬영 환경 및 배치 변화에 따른 성능 저하를 완화하고 다양한 환경에서 일반화 성능을 확보하고자 한다. 그러나 모달리티별 학습 속도 차이로 인해 특정 모달리티가 최적화를 지배하는 모달리티 불균형 문제가 발생한다. 본 논문에서는 이를 완화하기 위해 모달리티별 독립 감독 학습, 예측 불확실성 기반 적응적 융합, 하드 메모리 뱅크 기반 손실 가중치 조정을 결합한 멀티모달 인지 학습 프레임워크를 제안한다. 제안하는 방법은 적응적 융합으로 단기 예측 신뢰도를 반영하고 하드 메모리 뱅크로 장기 학습 난이도를 반영하여 모달리티 간 기여도 편차를 완화한다. MMAct와 UTD-MHAD 데이터셋에서 RGB 영상, IMU, Skeleton, Depth 영상 입력 조합과 교차 피험자, 교차 세션, 교차 장면 분할 조건에서 실험을 수행하였다. 제안한 방법은 기존 방법 대비 성능 향상을 보였으며 모달리티 단독 성능 분석에서도 성능 편차가 감소함을 보여 모달리티 불균형 완화 효과를 입증하였다.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": false,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5626/jok.2026.53.11.1225"
+    },
+    {
+      "id": "openalex-W7238426990",
+      "doi": "10.1038/s41598-026-80990-4",
+      "title": "An AI-based framework for assessing physical fitness, energy metabolism, and biomechanical efficiency in sprinting and hurdle events",
+      "title_zh": "",
+      "authors": [
+        "Jingyu Zhang",
+        "张怀川",
+        "Ruizhe Song",
+        "Ziyi Liu"
+      ],
+      "year": 2026,
+      "venue": "Scientific Reports",
+      "field": "医学",
+      "topics": [
+        "Sports Performance and Training",
+        "Physical Education and Training Studies",
+        "Sports Dynamics and Biomechanics"
+      ],
+      "abstract": "Accurate prediction of physiological and biomechanical parameters is essential for intelligent sports analytics, personalized training, and health monitoring. However, existing approaches rarely model temporal, cross-signal, and physical relationships within a single framework. This study proposes a hybrid Transformer–GNN–PINN framework for the continuous multi-output regression of multimodal physiological and biomechanical variables. The framework was evaluated on a synthetic multimodal dataset comprising 100 simulated participant profiles and 50,000 samples (0.1 s each) representing sprinting and hurdling across four performance levels; no human participants were involved. The inputs comprise heart rate, oxygen saturation, triaxial acceleration, triaxial angular velocity, and acceleration magnitude, and the targets are velocity, oxygen consumption (VO 2 ), energy expenditure, heart rate, and biomechanical efficiency. Simulated values were bounded by physiological ranges reported in the exercise-physiology and sprint-biomechanics literature. The model combines Transformer and Temporal Fusion Transformer (TFT) blocks for attention-based feature encoding and variable selection, a graph neural network (GNN) over a fixed sensor-channel graph, and physics-informed loss terms for motion and energy consistency. On a participant-level held-out test set, the model achieved a macro-averaged MAE of 0.085, RMSE of 0.140, and R 2 of 0.93 in standardized units. These results indicate the potential of combining attention-based, graph-based, and physics-based learning for multimodal sports prediction under simulated conditions; validation with real athlete data is required before practical use.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "https://www.nature.com/articles/s41598-026-80990-4_reference.pdf",
+      "url": "https://doi.org/10.1038/s41598-026-80990-4"
     },
     {
       "id": "arxiv-2403.05530",
