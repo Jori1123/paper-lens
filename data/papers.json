@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-11-25T04:54:27.411072+00:00",
+    "updated_at": "2026-11-26T04:10:29.182696+00:00",
     "source": "OpenAlex",
     "queries": [
       "artificial intelligence",
@@ -10,7 +10,7 @@
       "multimodal learning"
     ],
     "window_years": 10,
-    "count": 6832
+    "count": 6871
   },
   "papers": [
     {
@@ -149744,7 +149744,7 @@
         "Zhasulan Ashirbekov"
       ],
       "year": 2026,
-      "venue": "DOAJ (DOAJ: Directory of Open Access Journals)",
+      "venue": "Journal of problem in computer science and information technologies",
       "field": "计算机科学",
       "topics": [
         "Advanced Neural Network Applications",
@@ -149755,7 +149755,7 @@
       "abstract_zh": "",
       "citations": 0,
       "popularity": 18,
-      "open_access": false,
+      "open_access": true,
       "pdf_url": "",
       "url": "https://doaj.org/article/960a32b65a284ab6a36a4e12a450d197"
     },
@@ -176317,7 +176317,7 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "pdf_url": "",
+      "pdf_url": "https://jurnal.kesehatan.cendikiajenius-ind.id/index.php/jenius/article/download/501/292",
       "url": "https://jurnal.kesehatan.cendikiajenius-ind.id/index.php/jenius/article/view/501"
     },
     {
@@ -176483,6 +176483,1049 @@
       "open_access": true,
       "pdf_url": "https://www.nature.com/articles/s41598-026-80990-4_reference.pdf",
       "url": "https://doi.org/10.1038/s41598-026-80990-4"
+    },
+    {
+      "id": "openalex-W7239358228",
+      "doi": "10.51865/jlsl.2026.10",
+      "title": "‘War Never Changes’: Nostalgia and Posthumanism in Fallout 4",
+      "title_zh": "",
+      "authors": [
+        "Independent Researcher",
+        "Andrada Yunusoğlu"
+      ],
+      "year": 2026,
+      "venue": "Word and Text - A Journal of Literary Studies and Linguistics",
+      "field": "社会科学",
+      "topics": [
+        "Digital Games and Media",
+        "Utopian, Dystopian, and Speculative Fiction",
+        "Posthumanist Ethics and Activism"
+      ],
+      "abstract": "This article explores the video game Fallout 4 through retrofuturism and feminist posthumanist theory, focusing on how the game critiques technological utopianism and examines posthuman subjectivity through synths, ghouls, mutants and robots. Fallout 4 highlights how survival in the aftermath of nuclear annihilation demands a radical reconfiguration of self, body and society. Institutions like Vault-Tec, The Institute or Brotherhood of Steel foreground issues of gender, power and life reproduction while also revealing which bodies and futures are valued. This analysis of such posthuman figures and speculative narratives explores how nostalgia, ideology and posthuman embodiments converge. Fallout 4 interrogates what it means to be human after societal collapse, while imagining different possible futures emerging from the ruins of the past.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "https://doi.org/10.51865/jlsl.2026.10",
+      "url": "https://doi.org/10.51865/jlsl.2026.10"
+    },
+    {
+      "id": "openalex-W7239638000",
+      "doi": "",
+      "title": "Assessment of Collision-Related Risks in Collaborative Robotics through Modeling and Machine Learning",
+      "title_zh": "",
+      "authors": [
+        "Alessio Caneschi"
+      ],
+      "year": 2026,
+      "venue": "CINECA IRIS Institutial Research Information System (University of Genoa)",
+      "field": "工程学",
+      "topics": [
+        "Robot Manipulation and Learning",
+        "Robotic Mechanisms and Dynamics",
+        "Dynamics and Control of Mechanical Systems"
+      ],
+      "abstract": "The proliferation of collaborative robotic systems in industrial and service environments has introduced a fundamental friction between operational efficiency and physical safety. Over the last decade, safety in human–robot collaboration (HRC) has been regulated by conservative constraints derived from international standards such as ISO 10218 and ISO/TS 15066, which limit robot speed and interaction forces to guarantee safe operation under worst-case assumptions. While effective in reducing risk, these approaches rely on very simplified dynamic models and static safety margins that can restrict system productivity and adaptability in dynamically varying environments. A central challenge within this paradigm lies in the accurate, potentially real-time estimation of contact forces during unintended physical interaction. High-fidelity dynamic models, although capable of reproducing the complex nonlinear mechanics of human–robot contact, are computationally prohibitive for online deployment, while simplified analytical formulations sacrifice predictive accuracy in favour of computational tractability and may either overestimate or underestimate impact forces depending on the contact conditions, especially when static. To address these interrelated limitations, this dissertation investigates four technical contributions organized into three complementary methodological strands. Two of the contributions, concerning experimental contact characterization and data-driven force prediction, form part of the same experimental study and are reported in the same journal article. The first contribution introduces a computationally efficient modelling strategy based on lumped-parameter representations of robotic manipulators. By replacing rigid links with point masses positioned according to mass and first-moment constraints, the reduced models preserve total mass, centre-of-mass position, and linear momentum, while providing approximations of kinetic energy and joint torques. The formulation is developed for planar and spatial chains and related to configuration and direction dependent effective mass. This contribution is presented in the peer-reviewed conference paper Lumped Parameters Robot Models to Study Impact Dynamics (Caneschi et al., 2024). The second contribution concerns the experimental characterization of human–robot contact. A modular impact-test prototype, developed in compliance with ISO/PAS 5672 and ISO/TS 15066, is independently validated through mass-drop testing and used in a collision campaign with a KUKA LBR iiwa 14 R820. The campaign covers four robot configurations, multiple contact velocities, and five body-region conditions. The resulting measurements support the assessment of the ISO energetic model and the identification of Hunt–Crossley contact parameters. The third contribution investigates supervised regression for force-profile reconstruction, offline peak-force estimation, and pre-impact peak-force prediction. Within the tested experimental domain, an online-oriented Decision Tree using normal contact velocity and selected joint angles achieves an internally cross-validated RMSE of 33.08 N and a coefficient of determination of R2 = 0.9243. Its measured evaluation time of 0.070±0.017 ms in a desktop MATLAB environment supports the computational feasibility of online evaluation, while independent validation and verification on the intended control hardware remain necessary. The second and third contributions are jointly reported in the journal article Modeling Human–Robot Impact Dynamics in Collaborative Applications (Caneschi et al., 2026b). The fourth contribution extends the framework towards predictive, human-aware safety through a task-aware probabilistic model of human arm motion. The proposed hierarchical architecture combines a task-level Hidden Markov Model with a recurrent switching linear dynamical system (rsLDS) to represent the operator’s current subgoal, active motion regime, and continuous arm kinematics. Offline learning, causal state estimation, and multi-step probabilistic forecasting are described together with their intended integration into an activeinference planner and a collision-energy shield. Preliminary simulation and motion-capture examples illustrate individual modelling and inference components, while quantitative forecasting validation and complete closed-loop integration remain ongoing. This contribution is developed in the submitted manuscript Standards-Compliant Active-Inference Framework for Safe Human-Robot Collaboration (Caneschi et al., 2026a). Together, these contributions connect simplified robot dynamics, experimental contact characterization, data-driven collision-severity estimation, and task-aware human-motion prediction. The numerical and experimental results support the individual conclusions within their stated operating conditions. The complete framework provides a structured basis for future closed-loop integration, uncertainty assessment, and verification of a predictive safety-related control function on the intended robotic hardware.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": false,
+      "pdf_url": "",
+      "url": "https://hdl.handle.net/11567/1327238"
+    },
+    {
+      "id": "openalex-W7239451898",
+      "doi": "",
+      "title": "Model Predictive Control for Multi-Robot Systems Formation",
+      "title_zh": "",
+      "authors": [
+        "Alessandra Elisa Sindi Morando"
+      ],
+      "year": 2026,
+      "venue": "CINECA IRIS Institutial Research Information System (University of Genoa)",
+      "field": "工程学",
+      "topics": [
+        "Advanced Control Systems Optimization",
+        "Distributed Control Multi-Agent Systems",
+        "Control and Dynamics of Mobile Robots"
+      ],
+      "abstract": "Autonomous Multi-Robot Systems (MRSs) and air-ground cooperation represent a cornerstone of modern robotics, offering unprecedented flexibility for complex real-world missions. However, achieving precise formation control while ensuring scalability, disturbance rejection, and resilience to measurement noise remains a significant challenge. This PhD thesis addresses these open issues by developing and validating a suite of novel Model Predictive Control (MPC) and Nonlinear MPC (NMPC) frameworks tailored for heterogeneous robotic teams. The research progresses logically from single-agent dynamics to complex multi-robot architectures. Initially, predictive control strategies were benchmarked against classical control techniques on single-agent platforms, demonstrating superior tracking performance and constraint handling in experimental environments under uncertainty. Building upon these foundational results, the focus shifted to cooperative multi-robot scenarios. First, a robust min-max one-step horizon predictive control law integrated with reactive obstacle avoidance was designed to maintain formations in air–ground fleets. To handle longer prediction horizons, a novel NMPC strategy was subsequently developed for tight-formation target tracking. Implemented in both centralized and decentralized configurations and validated through extensive real-robot experiments, this work highlighted key trade-offs regarding computational scalability and resilience to network data loss. Finally, to tackle real-world sensing limitations, a distributed framework combining NMPC with Nonlinear Moving Horizon Estimation (NMHE) was proposed for air-ground teams, ensuring high-precision state estimation and robust trajectory tracking even under severe measurement noise. By bridging the gap between theoretical predictive control and practical experimental execution, this thesis provides a versatile set of algorithms that advance the state of the art in field-deployable autonomous multi-robot systems.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": false,
+      "pdf_url": "",
+      "url": "https://hdl.handle.net/11567/1327116"
+    },
+    {
+      "id": "openalex-W7220950444",
+      "doi": "10.1145/3828611.3845656",
+      "title": "End-to-End Autonomous Generation of Human Assembly Plans",
+      "title_zh": "",
+      "authors": [
+        "Faustin Arion von Arx",
+        "Millicent Schlafly",
+        "Mark Fuge"
+      ],
+      "year": 2026,
+      "venue": "ACM Symposium on Computational Fabrication (SCF)",
+      "field": "工程学",
+      "topics": [
+        "Manufacturing Process and Optimization",
+        "Robot Manipulation and Learning",
+        "3D Shape Modeling and Analysis"
+      ],
+      "abstract": "Turning a CAD design into an assembly plan is still largely done by hand, requiring engineers to reason about geometric feasibility, tool access, stability, and the ergonomics of human assembly. In this work, we encode long-established design for assembly (DfA) principles into a contained, end-to-end approach for generating assembly plans. Our approach takes only a mesh assembly and produces either a step-by-step assembly manual or a structured failure report, requiring no joint metadata, fastener annotations, or additional information. Four major components of a manufacturing plan are addressed autonomously: an assembly tool list, the assembly sequence and subassemblies, an assembly manual, and design feedback for improving assemblability. For determining the sequence plan, we systematically disassemble the object in a physics simulator and apply a cost function that encodes DfA principles. Manual generation, tool labelling, and assembly feedback rely primarily on multimodal large language models. Compared with a baseline that always removes the outermost part first from Tian et al. [2024], DfA-aware sequence planning reduces simulated assembly time, measured with a robot-arm assembly-time proxy, by 35% on 136 assemblies of 5 to 30 parts. The correct tool is selected for 88.6% of assembly steps. A vision-language model judge compares the generated manuals against ablated variants, identifying which page elements carry the information a reader needs. The presented approach and open-source code are available for use by engineers or AI agents looking to rapidly accelerate the creation of manufacturing plans for a given product design.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1145/3828611.3845656"
+    },
+    {
+      "id": "openalex-W7223452911",
+      "doi": "10.1145/3828611.3845640",
+      "title": "Handling Uncertainty in Robotic Construction: An Adaptive Framework for Single- and Dual-Robot Dry-Stack Assembly",
+      "title_zh": "",
+      "authors": [
+        "Jingwen Wang",
+        "Johannes Kirschner",
+        "Paul Rolland",
+        "Luis Salamanca Miño",
+        "Stefana Parascho"
+      ],
+      "year": 2026,
+      "venue": "ACM Symposium on Computational Fabrication (SCF)",
+      "field": "工程学",
+      "topics": [
+        "Robot Manipulation and Learning",
+        "BIM and Construction Integration",
+        "Reinforcement Learning in Robotics"
+      ],
+      "abstract": "Unlike manufacturing, robotic assembly in construction operates under uncertainty arising from machines, materials, site conditions, and assembly processes. This paper reviews existing uncertainty-handling approaches and organizes them into four complementary strategies: prevention, accommodation, correction, and adaptation. These strategies are examined through dry-stack assembly, where small placement deviations can alter block contacts, affect subsequent placements, and compromise structural stability. Rather than following a fully predefined construction plan, we propose a closed-loop framework in which global objectives are specified while detailed construction decisions are updated from the observed as-built state. In other words, instead of providing the robot with a detailed blueprint of the structure, we ask it to satisfy overall construction objectives, such as reaching specified target locations and avoiding obstacles, while taking changing site conditions into account at every step of the assembly process. This requires the system to sense changes as they occur and decide how to continue the assembly accordingly. A goal-conditioned reinforcement-learning policy serves as the decision-making component of this framework. Multi-task training broadens the range of available construction strategies, while stochastic placement perturbations improve recovery from execution deviations. The framework is physically demonstrated in both single-robot and dual-robot systems, integrating vision-based state estimation, autonomous manipulation, and force-guided contact. Together, these results motivate a system-level view of uncertainty handling as a negotiation among construction requirements, machine capabilities, and available resources, including time, budget, sensing, computation, and control.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1145/3828611.3845640"
+    },
+    {
+      "id": "openalex-W7239371305",
+      "doi": "10.1145/3828611.3845652",
+      "title": "SplitCAD: A Split-2D/3D CAD Program for Rapid Design of 3D-Printed Mechanical Parts by Novice Users",
+      "title_zh": "",
+      "authors": [
+        "James M. Bern",
+        "Michael Faulkner",
+        "Nathan Vosburg"
+      ],
+      "year": 2026,
+      "venue": "ACM Symposium on Computational Fabrication (SCF)",
+      "field": "工程学",
+      "topics": [
+        "Design Education and Practice",
+        "Additive Manufacturing and 3D Printing Technologies",
+        "Engineering Education and Pedagogy"
+      ],
+      "abstract": "We present SplitCAD, an experimental computer-aided design (CAD) program for novice designers of 3D-printed mechanical parts. SplitCAD features an unconventional split-2D/3D workflow supported by a computational geometric registration algorithm. We deployed SplitCAD as the primary mechanical CAD program in a semester-long elective on Robotics and Digital Fabrication for computer science undergraduates at a small liberal arts college. We also performed a within-subject user study and found participants completed a mechanical modeling task more quickly and with fewer failures in SplitCAD than in OnShape, which is a browser-based CAD program commonly used in education. Finally, we present several fabrication-aware sketching tools for designing 3D-printed mechanical parts as well as user-interface animations.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1145/3828611.3845652"
+    },
+    {
+      "id": "openalex-W7239405490",
+      "doi": "10.1145/3828611.3845651",
+      "title": "KnowCap: What Screw Goes Here, and Where Is That Beam? An Instrumented Workflow for Human-Robot Timber Assembly",
+      "title_zh": "",
+      "authors": [
+        "Alexandra Moisi",
+        "Ananya Kango",
+        "paul jaeggi",
+        "Petrus Aejmelaeus‐Lindström",
+        "Oliver Bucklin",
+        "Daniela Mitterberger",
+        "Fabio Gramazio",
+        "Matthias Köhler"
+      ],
+      "year": 2026,
+      "venue": "ACM Symposium on Computational Fabrication (SCF)",
+      "field": "工程学",
+      "topics": [
+        "Robot Manipulation and Learning",
+        "Architecture and Computational Design",
+        "BIM and Construction Integration"
+      ],
+      "abstract": "In construction, and in particular in human–robot collaborative assembly, access to fabrication data is asymmetric: robots read a digital model natively but cannot perceive the physical environment without advanced sensing or an up-to-date digital twin, while humans perceive the workspace intuitively but rely on abstract interfaces, typically drawings or a CAD model, to retrieve fabrication data. This paper presents KnowCap, a system that supports an instrumented workflow for human–robot timber assembly and closes both perception and data access gaps by grounding model queries in physical acts. Digitally fabricated timber structures can contain hundreds of unique elements and thousands of fasteners. KnowCap coordinates robotic pick and place of timber elements with human fastening using timber screws. A browser-based viewer identifies scanned elements and displays their target positions. A marker-tracked gripper enables robotic pickup from flexible staging locations. A handheld probe retrieves screw specifications at the hole and supports distance measurement and point recording. KnowCap was deployed in an academic research project, in which a team of researchers and students, together with an industrial robot, assembled four modules of a spatial timber structure. The paper details the system’s implementation, calibration chain, and results.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1145/3828611.3845651"
+    },
+    {
+      "id": "openalex-W7239363278",
+      "doi": "10.1145/3828611.3845639",
+      "title": "Computational Design of Tunnel Books",
+      "title_zh": "",
+      "authors": [
+        "Zihan Zhang",
+        "Apoorva Talwalkar",
+        "Vivian Li",
+        "Jaclyn Cohen",
+        "Nicole Sanchez-Soto",
+        "James Tompkin",
+        "Adriana Schulz"
+      ],
+      "year": 2026,
+      "venue": "ACM Symposium on Computational Fabrication (SCF)",
+      "field": "工程学",
+      "topics": [
+        "Architecture and Computational Design",
+        "3D Shape Modeling and Analysis",
+        "Computer Graphics and Visualization Techniques"
+      ],
+      "abstract": "Tunnel books create three-dimensional scenes from sequences of cut planar layers, but designing them requires jointly reasoning about visual structure and fabrication constraints. We present a computational design tool that converts input images into laser-cuttable tunnel-book plans. Our key insight is to connect modern computer vision priors, user guidance, and global optimization through intermediate superpixels. Vision models and user annotations define candidate object contours and depth boundaries, while a mixed-integer linear program (MILP) groups superpixels into layers subject to depth preferences and per-layer connectivity constraints. The tool produces cut layers with engraved visual detail and hidden backing material for structural support, enabling users to iteratively create fabricable tunnel books from photographs and artwork.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1145/3828611.3845639"
+    },
+    {
+      "id": "openalex-W7236722886",
+      "doi": "10.24875/rmo.m26000338",
+      "title": "Prevalencia del síndrome visual del computador en universitarios chilenos",
+      "title_zh": "",
+      "authors": [
+        "Andrea Ovando-Tellez",
+        "Daniel González-Palma",
+        "Jennifer Cotrena-Quezada",
+        "Martín Reyes-Abarca",
+        "Valentina Rodríguez-Ángel",
+        "Tomás Villegas-Moreira",
+        "Marvin  Querales",
+        "Sergio Ramos-Avasola"
+      ],
+      "year": 2026,
+      "venue": "Revista Mexicana de Oftalmología",
+      "field": "社会科学",
+      "topics": [
+        "Ergonomics and Musculoskeletal Disorders",
+        "Occupational health in dentistry",
+        "Ophthalmology and Visual Impairment Studies"
+      ],
+      "abstract": "Objetivo: Estimar la prevalencia del síndrome visual del computador (SVC) en estudiantes universitarios chilenos.Método: Estudio observacional, descriptivo y transversal que incluyó 75 estudiantes de entre 18 y 35 años matriculados el año 2023 en la Facultad de Medicina de la Universidad de Valparaíso (Chile).Como criterio de elegibilidad, los participantes debían utilizar pantallas de visualización de datos (PVD) al menos una hora diaria y tener una agudeza visual corregida mínima de 0.8.Para la estimación del SVC se utilizó el cuestionario Computer Vision Syndrome Questionnaire (CVS-Q), obteniendo su prevalencia acompañada de un intervalo de confianza al 95% (IC 95%).Resultados: La prevalencia del SVC fue del 72% (IC 95%: 61.8-82.2%).Los síntomas más comunes fueron el dolor de cabeza (77.0%), seguido de sensibilidad a la luz y ardor (58.7%).La mayoría de los estudiantes con SVC usaban PVD más de 6 horas diarias y realizaban actividades extracurriculares con PVD.Los síntomas de mayor riesgo fueron la sensación de ver peor, dolor ocular y visión borrosa.Además, no se encontró una relación significativa entre la presencia de SVC y síntomas como el dolor de cabeza, lagrimeo y sensación de cuerpo extraño.Conclusión: El estudio revela una alta prevalencia del SVC en estudiantes universitarios.Es crucial implementar medidas preventivas y ergonómicas en el entorno académico para manejar adecuadamente el SVC.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "https://www.rmo.com.mx/files/rmo-es_26_100_2_023-030.pdf",
+      "url": "https://doi.org/10.24875/rmo.m26000338"
+    },
+    {
+      "id": "openalex-W7239346624",
+      "doi": "10.1017/eds.2026.10074",
+      "title": "Anatomy of mapping urban greenery from a human perspective",
+      "title_zh": "",
+      "authors": [
+        "Kamyar Hasanzadeh",
+        "Jussi Torkko",
+        "Elias Willberg",
+        "Robert Klein",
+        "Silviya Korpilo",
+        "Tuuli Toivonen"
+      ],
+      "year": 2026,
+      "venue": "Environmental Data Science",
+      "field": "社会科学",
+      "topics": [
+        "Urban Green Space and Health",
+        "Urban Arborization and Environmental Studies",
+        "Urban Heat Island Mitigation"
+      ],
+      "abstract": "Urban greenery contributes to environmental sustainability, livability, and human well-being. As interest in human-centered urban environments has grown, researchers have increasingly sought to measure greenery as it is experienced by people rather than solely through conventional top-down representations. Advances in street-level imagery, computer vision, machine learning, and geospatial analysis have enabled this shift, resulting in a rapidly expanding but methodologically diverse body of literature. This study conducts a scoping review of 150 peer-reviewed studies published during the last 15 years to examine how urban greenery is mapped from a human perspective. We synthesize the literature into an anatomy of greenery mapping, encompassing greenery definition, seasonality, data acquisition, analysis, and validation. In addition, we develop a typology of analytical approaches based on research purpose, including health, mapping, methodological, planning, and travel behavior studies. Our review shows that street-level imagery and semantic segmentation dominate current practice, while point cloud approaches, viewshed-based methods, color-based analyses, and mixed data approaches remain less common. The findings reveal substantial methodological variation across studies, particularly in greenery definitions, treatment of seasonality, image sampling strategies, and validation practices. We also identify important geographical imbalances, with research heavily concentrated in China, the United States, and a small number of other countries. Based on these findings, we propose a set of methodological recommendations to improve the transparency, comparability, and transferability of human-perspective greenery mapping. By providing a structured framework, analytical typology, and practical guidance, this study supports the development of more robust and globally applicable approaches for measuring urban greenery.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/1D4FC64012A60EF58A9D8912C49D119F/S2634460226100740a.pdf/div-class-title-anatomy-of-mapping-urban-greenery-from-a-human-perspective-div.pdf",
+      "url": "https://doi.org/10.1017/eds.2026.10074"
+    },
+    {
+      "id": "openalex-W7239347848",
+      "doi": "10.1201/9781003622307-11",
+      "title": "Optimization of the Cost of Projects by AI Methods",
+      "title_zh": "",
+      "authors": [
+        "Hesam Varaee"
+      ],
+      "year": 2026,
+      "venue": "CRC Press eBooks",
+      "field": "社会科学",
+      "topics": [
+        "Construction Project Management and Performance",
+        "Artificial Intelligence Applications",
+        "Impact of AI and Big Data on Business and Society"
+      ],
+      "abstract": "The conceptual framework of project cost optimization is being reconceptualized by the use of Artificial Intelligence (AI), which is now a proactive, data-based approach instead of a reactive budgeting process in line with Sustainable Development Goals (SDGs). It is based on 28 empirical studies (2020–2025) that have been thoroughly synthesized in this chapter and show how AI techniques, such as hybrid architectures (e.g., ANN-GA) as well as federated learning and deep reinforcement learning, can lead to 15–57% cost savings in the construction, energy, and manufacturing sectors. Some of the key results are a 51.4% reduction of energy through adaptive grid control and a 34.3% reduction of defect costs through computer vision and net-zero buildings with 160.5% energy autonomy. By applying the mitigation frameworks in practice, the chapter identifies and tackles the most important barriers to adoption, including the lack of data, the gaps in explainability, and ethical issues. It is backed by five in-depth case studies and a five-stage roadmap, and thus not only situates AI as a cost-saving instrument, but it is a strategic facilitator of resilient, sustainable, and intelligent project delivery.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": false,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1201/9781003622307-11"
+    },
+    {
+      "id": "openalex-W7239356153",
+      "doi": "10.17632/kvd9x4v4yw",
+      "title": "Papaya Leaf Disease Image Dataset: A Comprehensive Collection for AI-Driven Disease Detection, Classification, and Recognition",
+      "title_zh": "",
+      "authors": [
+        "Masud Rana Nayeem"
+      ],
+      "year": 2026,
+      "venue": "Mendeley Data",
+      "field": "Agricultural and Biological Sciences",
+      "topics": [
+        "Smart Agriculture and AI",
+        "Advanced Neural Network Applications",
+        "Papaya Research and Applications"
+      ],
+      "abstract": "This dataset, titled \"Papaya Leaf Disease Image Dataset: A Comprehensive Collection for AI-Driven Disease Detection, Classification, and Recognition,\" has been developed to support research in artificial intelligence, machine learning, deep learning, and computer vision for papaya leaf disease identification. The dataset consists of papaya leaf images representing different disease conditions. It is intended to facilitate the development, training, validation, and evaluation of automated disease detection and classification models. Researchers can utilize this dataset to explore various deep learning architectures, image processing techniques, feature extraction methods, and computer vision-based approaches for accurate papaya leaf disease recognition. The primary objective of releasing this dataset is to provide a useful research resource for agricultural technology, precision agriculture, and AI-driven plant disease diagnosis. It may support future research aimed at improving early disease identification and developing intelligent agricultural monitoring systems.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.17632/kvd9x4v4yw"
+    },
+    {
+      "id": "openalex-W7239357079",
+      "doi": "10.1201/9781003662815-88",
+      "title": "Image-Based Jackfruit Disease Detection Using Gray-Level Co-Occurrence Matrices and Deep Convolutional Neural Networks",
+      "title_zh": "",
+      "authors": [
+        "G Radhika",
+        "T. Mahendran"
+      ],
+      "year": 2026,
+      "venue": "CRC Press eBooks",
+      "field": "Agricultural and Biological Sciences",
+      "topics": [
+        "Smart Agriculture and AI",
+        "Advanced Neural Network Applications",
+        "Industrial Vision Systems and Defect Detection"
+      ],
+      "abstract": "In India, the agricultural field plays an important role in the country's development and economic growth. In the agricultural field, especially jackfruit is mainly affected by a variety of diseases. This case mainly affects high-level agricultural production and decreases farmer income. Identifying jackfruit diseases at an early stage controls their spread on a large scale and increases jackfruit production to the right level. The suggested computer vision method for identifying jackfruit diseases becomes even more capable, and it is especially crucial for farmers who want to assess the expansion of jackfruit production without the need for manual assistance. This study suggested using the gray level co-occurrence matrix (GLCM) and Deep Convolutional Neural Network (DCNN)-based classification to identify jackfruit diseases through feature extraction. The prehistoric farming field dataset served as the basis for the collection and processing of this dataset. GLCM was used to extract the features, and DCNN was used to classify the image. To improve the accuracy of illness detection, we employ GLCM-CNN once the disease-affected region has been identified through feature extraction and classification. The simulation results then display the suggested method's parameters, including accuracy, recall, precision, and f-1 score. This method will detect the disease in its early stages and help the farmer encourage the use of pesticides to prevent it from spreading to other fruits.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": false,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1201/9781003662815-88"
+    },
+    {
+      "id": "openalex-W7239357786",
+      "doi": "10.48175/ijarsct-41057",
+      "title": "Artificial Intelligence in Natural Products Discovery",
+      "title_zh": "",
+      "authors": [
+        "Gaurav S. Mitkari, Trupti Y. Biradar, Aditya K. Tanpure",
+        "Vikas Mugle, V. M. Dharashive"
+      ],
+      "year": 2026,
+      "venue": "International Journal of Advanced Research in Science Communication and Technology",
+      "field": "Pharmacology, Toxicology and Pharmaceutics",
+      "topics": [
+        "Computational Drug Discovery Methods",
+        "Microbial Natural Products and Biosynthesis",
+        "Bioactive natural compounds"
+      ],
+      "abstract": "Natural products (NPs) remain a valuable source of chemical diversity for pharmacological research and drug development. Their complex structures and biological activities have contributed to the discovery of medicines and inspired new therapeutic strategies. Nevertheless, conventional natural-product discovery can be slow and resource-intensive because researchers must address source selection, extraction, isolation, dereplication, structural elucidation, biological testing and subsequent optimization. Artificial intelligence (AI), including machine learning (ML), deep learning (DL), natural-language processing, computer vision and graph-based methods, offers computational approaches to help manage these tasks. This review discusses the role of AI across the natural-product discovery pipeline, with emphasis on data integration, plant and microbial source exploration, biosynthetic gene-cluster analysis, metabolomics and spectral interpretation, activity and target prediction, virtual screening, network pharmacology, toxicity and ADMET estimation, and molecular design. It also describes commonly used databases and computational resources, outlines a practical AI-supported workflow, and considers opportunities for integrating experimental evidence with computational predictions. The benefits of AI include prioritization of candidate compounds, improved analysis of large and heterogeneous datasets, hypothesis generation and more systematic exploration of chemical and biological relationships. Important limitations remain, including dataset bias, inconsistent annotation, small sample sizes, overfitting, poor external validation, limited interpretability, reproducibility concerns and the need for experimental confirmation. Ethical, regulatory and biodiversity considerations are also discussed. AI is best regarded as a decision-support layer that complementsnot replacesphytochemistry, pharmacology, analytical chemistry and biological experimentation. A responsible integration of AI with laboratory validation and transparent reporting may strengthen the discovery and development of natural-product-inspired therapeutic candidates",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "https://doi.org/10.48175/ijarsct-41057",
+      "url": "https://doi.org/10.48175/ijarsct-41057"
+    },
+    {
+      "id": "openalex-W7239360034",
+      "doi": "10.17148/ijarcce.2026.1511192",
+      "title": "A Review of Deep Learning Approaches for Sugarcane Leaf Disease Detection",
+      "title_zh": "",
+      "authors": [
+        "Manjusha K K",
+        "Ann Maria Jose"
+      ],
+      "year": 2026,
+      "venue": "IJARCCE",
+      "field": "Agricultural and Biological Sciences",
+      "topics": [
+        "Smart Agriculture and AI",
+        "Advanced Neural Network Applications",
+        "Industrial Vision Systems and Defect Detection"
+      ],
+      "abstract": "Sugarcane is one of the economically significant crops and diseases in sugarcane leaves might cause substantial damage in terms of crop yields and quality.Visual disease identification is the traditional way of identifying diseases in agricultural practice, but it might be labour-intensive, subjective and challenging to distinguish especially in case of similar symptoms at an early stage of development.Advances in the field of artificial intelligence, computer vision and deep learning allowed automating this process with the help of image-based methods.This paper offers a review of the Convolutional Neural Network (CNN), transfer learning, Vision Transformer (ViT), CNN-Transformer hybrid, Transformer ensemble and hyperspectral imaging techniques used for the purpose of automatic sugarcane disease detection.While CNN algorithms are good at capturing local spatial patterns, the Vision Transformer can identify longrange relationships within the image.The hybrid architectures try to combine these features.The latest papers have offered new developments in this field through the use of the ensemble of MobileNetV2 architectures, adaptive CNN-Transformer fusion, ViT-Swin Transformer ensemble and the uncertainty-aware semi-supervised learning.Some of the reported results are the following: 97.43% accuracy of the CNN-ViT hybrid model, 97.06% test accuracy of the ViT-Swin Transformer ensemble, 96.2% accuracy of the MobileNetV2-based soft-voting ensemble, and 96.30% F1-score of the EnhancedConvFormer architecture.It is worth mentioning that the hyperspectral imaging approach might be useful in case of pre-symptomatic disease detection.As the analysed works used various datasets and disease classes for evaluation, their results cannot be compared directly.The review helps to define current research directions and gaps and the importance of such aspects as the standardized dataset usage, field validation, lightweight architecture design, explain ability and pre-symptomatic disease detection.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "https://doi.org/10.17148/ijarcce.2026.1511192",
+      "url": "https://doi.org/10.17148/ijarcce.2026.1511192"
+    },
+    {
+      "id": "openalex-W7239364890",
+      "doi": "10.1201/9781003662815-10",
+      "title": "MUSANALYTICS – Enhancing Museum Exhibit Evaluation Through AI-Driven CCTV Analytics and Visitor Interaction Monitoring",
+      "title_zh": "",
+      "authors": [
+        "Shatadal Ghosh",
+        "Shivranjanee Bhattacharya",
+        "Pratyusha Bhattacharya",
+        "Sayan Ghosh",
+        "K S Murli",
+        "Anurag Kumar"
+      ],
+      "year": 2026,
+      "venue": "CRC Press eBooks",
+      "field": "社会科学",
+      "topics": [
+        "Museums and Cultural Heritage",
+        "Video Surveillance and Tracking Methods",
+        "Advanced Neural Network Applications"
+      ],
+      "abstract": "This paper proposes an AI-powered CCTV system to enhance museum administration. It uses AI and computer vision to analyse visitor behaviour using pre-existing equipment. The system aids researchers and curators in understanding how visitors engage with exhibits by converting unprocessed surveillance footage into significant information. It provides an affordable means of tracking environmental conditions, measuring engagement, and evaluating exhibit performance—all of which contribute to improving the visitor experience and advancing museum development and many more. Numerous tasks can be performed by the system, including monitoring the number of visitors in a given area, their duration of stay, the exhibits they engage with, the locations of the busiest areas, automatically responding to the surroundings, and recording visitor data for future studies.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": false,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1201/9781003662815-10"
+    },
+    {
+      "id": "openalex-W7239366006",
+      "doi": "10.1201/9781003662815-17",
+      "title": "Robotic Arm for Industrial Parts Sorting and Classification Using AI Techniques",
+      "title_zh": "",
+      "authors": [
+        "P Mohanraj",
+        "S Jayanthy",
+        "R Rishika",
+        "G S Nethra",
+        "H Mithra"
+      ],
+      "year": 2026,
+      "venue": "CRC Press eBooks",
+      "field": "工程学",
+      "topics": [
+        "Robot Manipulation and Learning",
+        "Industrial Vision Systems and Defect Detection",
+        "Advanced Neural Network Applications"
+      ],
+      "abstract": "Manual sorting of industrial components is error-prone and leads to inefficiency in industrial processes. This project introduces an AI-based robotic arm for automatic sorting and classification of industrial components, i.e., nuts, bolts, washers, and locating pins. The system has a web-based Streamlit interface for mode selection with two operation modes: Automatic Mode and Manual Mode. In Automatic Mode, a classification model built with CNNs (EfficientNetB0, DenseNet121, MobileNetV2) detects components using a webcam input, and results are sent to an ESP32 microcontroller through serial communication, which controls the robotic arm for sorting. In Manual Mode, the system classifies using CNNs and computer vision methods (edge detection, contour detection, and bounding box extraction) to extract and display component dimensions in the Streamlit interface using image input. The system attains 96.18% classification accuracy, significantly lowering manual effort and sorting errors. Compared to conventional grippers, an electromagnetic end effector ensures precise metallic parts handling. The system enhances efficiency, precision, and automation in smart manufacturing by reducing industrial part classification complexities.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": false,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1201/9781003662815-17"
+    },
+    {
+      "id": "openalex-W7239366519",
+      "doi": "10.3389/fpubh.2026.2033268",
+      "title": "Editorial: Visual health in adolescents: myopia, digital eye strain, and environmental determinants",
+      "title_zh": "",
+      "authors": [
+        "Ioanna Mylona",
+        "Georgios D. Floros"
+      ],
+      "year": 2026,
+      "venue": "Frontiers in Public Health",
+      "field": "医学",
+      "topics": [
+        "Ophthalmology and Visual Impairment Studies",
+        "Ergonomics and Musculoskeletal Disorders",
+        "Human Health and Disease"
+      ],
+      "abstract": "In recent years, increasing attention has been directed toward the role of physical activity as a potentially protective factor for visual health (4). Emerging evidence suggests that physical activity and outdoor exposure share common pathways that may contribute to both myopia prevention and broader health benefits in pediatric populations. A growing body of literature indicates that insufficient physical activity and reduced outdoor exposure are associated with poorer visual outcomes, while school-based and recreational physical activities may help mitigate myopia risk and progression. Systematic reviews and meta-analyses have further demonstrated that outdoor interventions and specific forms of exercise, particularly those involving dynamic visual tracking and accommodative demands, may positively influence refractive development and axial elongation. These findings support a broader conceptualization of myopia prevention that extends beyond visual behaviors alone and incorporates physical fitness as a modifiable determinant of ocular health.technologies for education, communication, and recreation. Recent evidence suggests that while behavioral and ergonomic interventions, optimized viewing distances, scheduled screen breaks, and ocular surface management strategies may alleviate symptoms, the evidence base for adolescentspecific interventions remains limited (6). At the same time, systematic reviews have highlighted the importance of minimizing excessive screen exposure and improving ergonomic practices as practical approaches to reducing symptom burden among young users.The escalating incidence of visual disorders among children and adolescents therefore represents a multifaceted challenge driven by the interaction of behavioral, environmental, and technological influences. Beyond screen exposure and near-work demands, sedentary lifestyles, reduced participation in physical activity, declining outdoor time, and broader environmental conditions may jointly contribute to visual impairment and refractive error development. High-risk populations, particularly those living in densely populated urban environments, may experience compounded exposures that increase vulnerability to both myopia and digital eye strain. Consequently, interdisciplinary prevention strategies are increasingly recommended, including promotion of outdoor play and physical activity, limitation of screen time, optimization of educational environments, and implementation of evidence-based public health programs (6).Against this background, investigating the relationship between health-related physical fitness and visual outcomes during early childhood is especially important. Preschool years represent a critical developmental period during which both visual function and physical fitness are rapidly evolving. Understanding whether specific components of physical fitness are associated with screening myopia and visual impairment may provide valuable insight into modifiable factors that can be targeted through school-and community-based interventions. Such evidence could help inform integrated prevention strategies that simultaneously promote visual health, physical development, and overall well-being among young children. This thematic collection focuses on visual disorders in adolescents and young adults, emphasizing the roles of behavioral (e.g., screen time, near-work habits, physical activity) and environmental (e.g., light exposure, urbanization, pollution) variables in their etiology, progression, and mitigation. We invite contributions exploring gene-environment interactions, regional variations, and impacts on mental health or academic outcomes, while excluding purely genetic or adult-focused studies.Myopia, Digital Eye Strain, and Environmental Determinants revealed eight overarching themes: (1) myopia epidemiology and progression, (2) digital eye strain, (3) physical activity and vision, (4) environmental determinants, (5) behavioral and lifestyle interactions, (6) prevention and intervention strategies, (7) surveillance and policy, and (8) emerging technologies. The literature was dominated by studies addressing surveillance/policy and preventive interventions, highlighting the increasing emphasis on public health approaches to adolescent visual health The 36 articles consolidate into three major research streams:1. Epidemiology, prevalence, and policy (Themes 1 & 7) Myopia prevalence, temporal trends, geographic disparities, public awareness, workforce readiness, and policy responses.Screen use, digital eye strain, physical activity, outdoor exposure, sleep, BMI, urban-rural differences, and parental influences.Atropine, orthokeratology, vision training, optical filters, machine-learning prediction models, and novel mechanisms linking digital displays to myopia.1 Stream 1: Epidemiology, Prevalence, and PolicyThe first major stream encompasses studies examining the prevalence, distribution, and societal burden of visual disorders, particularly myopia, across different populations and geographic settings.Articles within this stream investigate national and regional prevalence patterns, temporal trends, urban-rural disparities, social determinants, workforce readiness for myopia management, and public awareness of eye health. Collectively, they establish that myopia is no longer merely an individual clinical condition but an emerging public health challenge shaped by demographic, educational, behavioral, and socioeconomic factors. Research from multiple countries highlights substantial variation in myopia prevalence and progression across populations, reinforcing the need for contextspecific surveillance systems and tailored prevention strategies.The significance of this stream lies in its ability to inform health policy and resource allocation. By documenting trends and disparities, these studies provide evidence necessary for governments, health systems, and educational authorities to recognize visual health as a priority area. Findings related to parental awareness, public eye-care behaviors, and workforce capacity further demonstrate that successful myopia prevention requires coordinated efforts extending beyond ophthalmic care. Consequently, this body of research supports the development of school screening programs, population-level monitoring systems, public education campaigns, and policy initiatives aimed at mitigating the growing burden of visual impairment among children and adolescents.The second research stream focuses on understanding how everyday behaviors and environmental exposures influence visual development and visual health outcomes. Studies within this cluster examine digital device use, screen time, computer vision syndrome, physical activity, sports participation, sleep patterns, body mass index, outdoor exposure, and urban-rural environmental differences. Rather than viewing myopia and visual fatigue solely through a biological lens, these investigations adopt an ecological perspective in which visual health emerges from interactions between individuals and their daily environments. The resulting evidence suggests that multiple modifiable factors simultaneously contribute to visual outcomes, often interacting in complex ways through behavioral pathways.This stream is significant because it identifies actionable risk and protective factors that can be targeted before visual impairment becomes clinically significant. The importance of this stream lies in its translational potential. While epidemiological studies identify the scope of the problem and lifestyle studies clarify its determinants, intervention and innovation research seeks to directly reduce disease burden and improve long-term visual outcomes. Advances in predictive analytics may facilitate earlier identification of high-risk children, enabling interventions before significant refractive changes occur. Simultaneously, evidence regarding pharmacological, behavioral, and optical treatments contributes to the refinement of increasingly personalized approaches to myopia management. As the prevalence of myopia continues to rise globally, this stream provides the scientific basis for future preventive care models that integrate clinical treatment, digital technologies, and public health strategies into a more comprehensive framework for adolescent visual health.In summary, this body of work highlights a paradigm shift in adolescent eye health research from the description of visual disorders toward a broader understanding of their behavioral, environmental, and societal determinants. By integrating epidemiological surveillance, lifestyle research, and innovative management approaches, the collection provides a comprehensive framework for understanding the contemporary drivers of myopia and digital eye strain.Future advances in the field will likely depend on the integration of public health, ophthalmology, education, and data science perspectives to develop more effective prevention and management strategies. As digitalization and urbanization continue to reshape the experiences of children and adolescents worldwide, the challenge for researchers and practitioners will be not only to mitigate visual risk factors but also to create environments that actively support visual development, health, and well-being",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2026.2033268/pdf",
+      "url": "https://doi.org/10.3389/fpubh.2026.2033268"
+    },
+    {
+      "id": "openalex-W7239367195",
+      "doi": "10.5281/zenodo.24496752",
+      "title": "AI DRIVER DROWSINESS DETECTION SYSTEM",
+      "title_zh": "",
+      "authors": [
+        "Aditya Nikam"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "社会科学",
+      "topics": [
+        "Sleep and Work-Related Fatigue",
+        "Human-Automation Interaction and Safety",
+        "Face recognition and analysis"
+      ],
+      "abstract": "Driver drowsiness is a major cause of road accidentsand can lead to serious injuries and loss of life. This paperfocuses on an AI Driver Drowsiness Detection System designedto identify signs of sleepiness using computer vision andartificial intelligence. The proposed system monitors facialfeatures, eye closure, and blinking patterns through a camera.When drowsiness is detected, an alert is generated to warn thedriver. By providing timely warnings, the system aims toimprove road safety, reduce accidents, and support saferdriving.A webcam or in-vehicle camera supplies video frames.OpenCV is used for frame handling, while facial landmarkscan be extracted with Media Pipe; a temporal decision modulecombines eye and mouth cues and activates a visual warningand audible alarm when signs persist. Recent YOLO-basedstudies show the value of deep-learning detection andhighlight the difficulty of maintaining performance underchanging illumination. This report reviews three relevantstudies, outlines the proposed system, identifies suitable publicdatasets and evaluation measures, and defines a reproducibleevaluation plan. Since a working prototype has not beenexperimentally evaluated for this report, no original accuracyor performance result is claimed",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.24496752"
+    },
+    {
+      "id": "openalex-W7239367442",
+      "doi": "10.1007/s42452-026-09649-z",
+      "title": "Application of environmental art design based on computer vision and machine learning in urban natural landscape design",
+      "title_zh": "",
+      "authors": [
+        "Zhenzhong Xu"
+      ],
+      "year": 2026,
+      "venue": "Discover Applied Sciences",
+      "field": "环境科学",
+      "topics": [
+        "Urban Planning and Landscape Design",
+        "Architecture and Computational Design",
+        "Landscape and Cultural Studies"
+      ],
+      "abstract": "This study explores the application of computer vision and machine learning technology in urban natural landscape design, and promotes the efficiency and sustainability of landscape design by constructing landscape element recognition model, path planning optimization model and multi-objective optimization model. The convolutional neural network is used to accurately identify various elements in the urban natural landscape. Secondly, by combining optimization algorithms such as genetic algorithm and particle swarm optimization algorithm, path selection in landscape design is optimized, which reduces 20% time and 15% resource consumption. The study also introduced a multi-objective optimization model, which takes into account multiple factors such as time, cost and environmental impact, and reduces the environmental impact by 25% while optimizing the path. Through the decision support system, designer can make the optimal path selection according to the suggestions of the model output. Finally, through the combination of mixed model and multi-objective optimization, the research provides an efficient and practical landscape design optimization framework, which provides scientific theoretical support and data basis for urban landscape planning. Future research should enhance the dynamic adaptability of the model, consider influence of sociocultural factors, and apply techniques to practical design to promote the application of intelligent landscape design technology.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1007/s42452-026-09649-z"
+    },
+    {
+      "id": "openalex-W7239372811",
+      "doi": "10.54254/2753-7064/2026.39404",
+      "title": "Geometric Pictorial Language of the Female Body in Feminist Visual Narratives",
+      "title_zh": "",
+      "authors": [
+        "Jiayi Qiang"
+      ],
+      "year": 2026,
+      "venue": "Communications in Humanities Research",
+      "field": "计算机科学",
+      "topics": [
+        "Image Retrieval and Classification Techniques",
+        "Visual Culture and Art Theory",
+        "Art, Technology, and Culture"
+      ],
+      "abstract": "Narratives of feminist visual stories are increasingly placing the female body as an object of self-perception, bodily agency, and storytelling rather than an external observation. Computer vision methods may quantify formal qualities of art pieces, but geometric transformation and surface texture have been little investigated in connection with feminist iconography in a replicable framework. A collection of 160 public oil paintings has been collected into two classes of 80 pieces each: 80 paintings containing feminist narratives and 80 paintings not containing feminist narratives. Body regions of the female body are localized using Grounding DINO and SAM2 models and corrected by hand, while geometry and surface texture measurements are performed, together with annotations for agency, gaze reversal, bodily reconstruction, and situated actions by two coders. On a validation set of 40 paintings, IoU has a mean value of 0.892, while Dice score is equal to 0.943. Five-fold cross-validation experiments have been carried out and random forests have yielded a result of AUC=0.887, F1=0.823 and accuracy of 0.831, outperforming logistic regression. Using SHAP analysis, the importance of agency, corner density, bodily reconstruction, and apparent impasto has been established as the most important predictors. The conclusion is that angular restructuring, contour discontinuities, and surface activity carry meaningful information related to feminist narrative structure.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": false,
+      "pdf_url": "",
+      "url": "https://doi.org/10.54254/2753-7064/2026.39404"
+    },
+    {
+      "id": "openalex-W7239378588",
+      "doi": "10.5281/zenodo.24495924",
+      "title": "Synthetic Data Generation for Machine Learning",
+      "title_zh": "",
+      "authors": [
+        "Mantasha Najir Jamadar"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "计算机科学",
+      "topics": [
+        "Generative Adversarial Networks and Image Synthesis",
+        "Privacy-Preserving Technologies in Data",
+        "Imbalanced Data Classification Techniques"
+      ],
+      "abstract": "Machine learning (ML) systems depend on large, representative, and reliable datasets. In many practical situations, real data may be limited, expensive to collect, imbalanced, or restricted by privacy and confidentiality requirements. Synthetic data generation addresses these challenges by creating artificial records that reproduce useful statistical patterns and relationships of an original dataset without directly copying every real observation. This paper presents a structured study of synthetic data generation for machine learning. It reviews statistical methods, resampling techniques, Generative Adversarial Networks (GANs), Variational Autoencoders (VAEs), and diffusion-based approaches. A general framework covering data collection, preprocessing, model selection, synthetic sample generation, quality evaluation, and downstream ML testing is described. The paper discusses data fidelity, utility, diversity, and privacy as important evaluation dimensions, along with applications in healthcare, finance, cybersecurity, and computer vision. Challenges such as mode collapse, bias reproduction, privacy leakage, and computational cost are also examined. The proposed framework is intended to support responsible dataset development; synthetic data should be validated before being used as a replacement or supplement for real-world data.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.24495924"
+    },
+    {
+      "id": "openalex-W7239383047",
+      "doi": "10.21203/rs.3.rs-9116014/v1",
+      "title": "Ocular Metrics for Fatigue Assessment: A Survey from Physiology to Machine Learning",
+      "title_zh": "",
+      "authors": [
+        "Yaxiong Lei",
+        "Parastoo Azizinezhad",
+        "Mohammadreza Jamalifard",
+        "Sanjay Manohar",
+        "Michal Wlodarski",
+        "Tom Foulsham",
+        "Javier Andreu-Pérez"
+      ],
+      "year": 2026,
+      "venue": "Research Square",
+      "field": "社会科学",
+      "topics": [
+        "Sleep and Work-Related Fatigue",
+        "Gaze Tracking and Assistive Technology",
+        "Human-Automation Interaction and Safety"
+      ],
+      "abstract": "Fatigue is pervasive and safety-critical, yet objective biomarkers remain limited, resulting in a gap between subjective reports and clinical decision-making. The eye provides a non-invasive readout of central nervous system function: changes in eyelid behaviour, eye movements, and pupillary dynamics track arousal, executive control, and visual strain. This PRISMA-guided, PROSPERO-registered review integrates work in medicine, psychology, and neuroscience with computational methods to map ocular biomarkers to fatigue phenotypes and their detection pipelines. We synthesize evidence linking eyelid metrics, saccadic and pursuit dynamics, fixational stability, and pupillometry to drowsiness, cognitive/mental fatigue, visual fatigue, and clinical fatigue states, then trace how computer vision and machine learning operationalize these signals. A dominant literature focus on driver drowsiness emerges: eyelid-based indicators are mature and robust, with metrics like increased blink duration and a higher Percentage of Eye Closure (PERCLOS) strongly correlating with performance lapses and microsleeps, while cognitive, visual, and clinical fatigue remain comparatively under-explored in computer science despite richer treatment in clinical domains. Methodologically, the field is shifting from feature engineering to end-to-end and sequence-aware models, but progress is constrained by heterogeneous ground truth labels, scarce public benchmarks, and lab-to-wild generalization gaps. We conclude with a roadmap advocating multimodal, privacy-preserving systems; standardized, phenotype-aware benchmarks; and validation that combines behavioural performance, physiology, and self-report, to enable holistic, ethically grounded fatigue monitoring beyond driving scenarios.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.21203/rs.3.rs-9116014/v1"
+    },
+    {
+      "id": "openalex-W7239384073",
+      "doi": "10.56519/3pzy4a97",
+      "title": "OPTIMIZACION ESTRUCTURAL Y ENERGÉTICA DEL MÓDULO BASADO EN VISIÓN ARTIFICIAL PARA LA INTERPRETACIÓN DE LENGUAJE DE SEÑAS ECUATORIANA DE LA CARRERA DE ELECTRÓNICA",
+      "title_zh": "",
+      "authors": [
+        "Alexis Marcelo Moncayo Martinez",
+        "Andy Sebastián Herrera Carrion",
+        "Freddy Patricio Naranjo Olalla",
+        "Marco Alejandro Hinojosa Tonato"
+      ],
+      "year": 2026,
+      "venue": "Revista Politécnica de la Ciencia",
+      "field": "计算机科学",
+      "topics": [
+        "Hand Gesture Recognition Systems",
+        "Assistive Technology in Communication and Mobility",
+        "Embedded Systems and FPGA Applications"
+      ],
+      "abstract": "El presente proyecto presentó la optimización energética y estructural del módulo de interpretación de lenguaje de señas basado en visión artificial, que presento originalmente problemas relacionados estructura MDF y alimentación. Se hizo enfatizo en optimizar los sistemas energético y estructural del prototipo para mejorar su autonomía, movilidad, durabilidad y facilidad de mantenimiento, manteniendo su función de reconocimiento de señas. Para ello, se implementó una batería recargable de 12 V y 12 Ah, complementada con un sistema de carga y regulación de voltaje para suministrar los niveles requeridos por los componentes electrónicos. Asimismo, se realizó el modelado tridimensional de la estructura para redistribuir los componentes internos e integrar la batería, interruptores, ventiladores, tapas desmontables y un soporte para cámara. La nueva carcasa fue fabricada en PETG, debido a sus propiedades de resistencia mecánica, resistencia térmica y facilidad de fabricación, sustituyendo la estructura anterior de MDF. Lo cual módulo alcanzó una autonomía aproximada de 2 h 30 min de funcionamiento continuo, permitiendo su operación sin conexión permanente a un tomacorriente. Mientras que la nueva distribución permitió integrar el sistema energético y los elementos de control dentro de la estructura. Además, la incorporación de tapas en el módulo facilito el acceso al módulo para instalación y mantenimiento. El sistema conservó su capacidad de capturar las señas del usuario, procesarlas mediante visión artificial y mostrar en pantalla la letra reconocida correspondiente al abecedario de la LSE. Por último, la optimización realizada permitió mejorar las condiciones de autonomía energética, movilidad, distribución interna, mantenimiento y protección de los componentes del módulo, obteniendo un prototipo más adecuado para su utilización en diferentes espacios educativos y manteniendo su finalidad como herramienta de apoyo para el aprendizaje de la Lengua de Señas Ecuatoriana. Sin embargo, persisten limitantes a nivel de estructura y energía relacionados a disponibilidad de opciones locales.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": false,
+      "pdf_url": "",
+      "url": "https://doi.org/10.56519/3pzy4a97"
+    },
+    {
+      "id": "openalex-W7239386265",
+      "doi": "10.1201/9781003662815-52",
+      "title": "Automatic Gender Classification Based on Gender-Specific Information Using an SVM Classifier",
+      "title_zh": "",
+      "authors": [
+        "V Gomathi",
+        "G R Hemalakshmi",
+        "N B Prakash"
+      ],
+      "year": 2026,
+      "venue": "CRC Press eBooks",
+      "field": "计算机科学",
+      "topics": [
+        "Face recognition and analysis",
+        "Biometric Identification and Security",
+        "Face and Expression Recognition"
+      ],
+      "abstract": "Computer vision-based gender classification has widespread applications. Existing methods for gender classification are mostly based on facial features such as the eyes, nose, and the shape of the face. The classification could support the accuracy in identifying the gender by providing gender-specific information while performing at a particular distance. With this in mind, the goal of our work is to identify gender-specific patterns by extracting hair as a possible soft biometric attribute. This is because even for low-resolution images at a distance, the hair region can easily be extracted by its orientation and color texture information. Hence, this work suggests novel combinations of features for extracting hair region geometry and hair color information to facilitate gender classification. SVM classifier has been implemented in our work with human-understandable soft biometric features. The experimental analysis was carried out on the benchmark dataset (VIPeR). The analysis reveals that combined features of gender-specific information extracted by soft biometric attributes play a vital role and yield better results in the classification task compared to individual feature analysis.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": false,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1201/9781003662815-52"
+    },
+    {
+      "id": "openalex-W7239465608",
+      "doi": "",
+      "title": "The Nature of Software Ecosystems: Advancing Understanding Through Empirical Inquiry",
+      "title_zh": "",
+      "authors": [
+        "Casper van Schothorst",
+        "Sub Software Production",
+        "Slinger Jansen",
+        "Sjaak Brinkkemper"
+      ],
+      "year": 2026,
+      "venue": "Utrecht University Repository (Utrecht University)",
+      "field": "社会科学",
+      "topics": [
+        "Digital Platforms and Economics",
+        "Open Source Software Innovations",
+        "Advanced Software Engineering Methodologies"
+      ],
+      "abstract": "Software ecosystems are among the most consequential organizational innovations of the past two decades, allowing thousands of independent actors to co-create value around a shared platform. Near-zero marginal reproduction cost, modular architectures, and network effects make them a distinct organizational form, whose orchestrator depends on the voluntary engagement of actors with genuine alternatives. This dissertation translates long-standing practical engagement with software ecosystems, accumulated across multiple roles in organizations that build, orchestrate, and participate in them, into the language of science. It subjects those observations to established academic methods so that the resulting insights become testable and transferable. The intellectual anchors are the ecosystem tradition of Iansiti, Levien and Jansen and Teece's work on dynamic capabilities. The main research question is: How can empirical inquiry advance academic understanding of the development, management, and sustained functioning of software ecosystems? It is addressed along two lines of investigation, across six co-authored papers. The first line examines the methodological foundations of the field. Chapter 2 reports a systematic mapping study of empirical research methods in software ecosystem research, assessed against the ACM SIGSOFT empirical standards. Few studies report methods and results in ways that allow replication or reuse, and the chapter proposes guidelines for better reporting. Chapter 3 introduces topic modeling with BERTopic on public app store data as a repeatable, scalable instrument for ecosystem orchestration, illustrated by two case studies on competitive analysis, application classification, and longitudinal tracking. The second line forms the substantive core. Chapter 4 develops a framework for software ecosystem services by analogy with natural ecosystem services. It distinguishes provisioning, regulating, cultural, and supporting services, and identifies monoculture risk as a principal sustainability threat. Chapter 5 investigates partner exclusion through eight interviews with partner managers. Exclusion is rarely a formal process; it is a graduated withdrawal of resources such as API access, app store placement, or commercial support. Orchestrators rely on unfounded trust that partners will self-regulate while retaining unilateral power, which raises ethical questions. Chapter 6 reframes software ecosystem sustainability through an integrative review of the SECO and business ecosystem literature. SECO research has mostly operationalized sustainability through technical and community proxies, neglecting the business dimension. Building on the Three-Dimensional SECO Sustainability Framework, the chapter argues that sustainability is a participation problem grounded in economic viability: autonomous actors remain engaged only when they capture sufficient value. Chapter 7 argues that, as autonomous agents increasingly generate code and orchestrate services, software ecosystems are evolving into Capability Orchestration Ecosystems, in which capabilities rather than applications become the primary unit of participation. Together, the two lines contribute to what we know about software ecosystems and to how that knowledge is produced. Methodologically, the dissertation argues for stronger empirical reporting and the disciplined use of computational methods. Substantively, it advances a participation-based account of sustainability in which services, partner dynamics, and economic viability determine whether autonomous actors remain engaged. As ecosystems shift toward capability orchestration, questions of participation, governance, and value capture persist while the units of analysis change.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": false,
+      "pdf_url": "",
+      "url": "https://dspace.library.uu.nl/handle/1874/493582"
+    },
+    {
+      "id": "openalex-W7163591288",
+      "doi": "10.1037/cep0000399",
+      "title": "Can computational sentiment analysis classify autobiographical memories? Comparing VADER and TextBlob.",
+      "title_zh": "",
+      "authors": [
+        "Khalil Husein",
+        "Lakshay Goel",
+        "Eric Anderson",
+        "Ryan Christopher Yeung",
+        "Marek Stastna",
+        "Myra A. Fernandes"
+      ],
+      "year": 2026,
+      "venue": "Canadian Journal of Experimental Psychology/Revue canadienne de psychologie expérimentale",
+      "field": "计算机科学",
+      "topics": [
+        "Sentiment Analysis and Opinion Mining",
+        "Mental Health via Writing",
+        "Emotion and Mood Recognition"
+      ],
+      "abstract": "Written narratives can provide insight into the mental and affective state of a person. However, current methods of analysis require extensive manual human coding, limiting the sample size that can feasibly be analyzed. Computational approaches using natural language processing offer promise as a rapid means of examining characteristics of narrative texts. Though used extensively in social media and customer reviews in industry, their classification accuracy relative to human coders remains unclear for psychological data. We compared the congruence of two popular lexicon-based sentiment analysis tools, Valence Aware Dictionary and sEntiment Reasoner (VADER) and TextBlob, with self-reported valence, for 3,309 narratives representing autobiographical memories from two different data sets. Both tools, but especially TextBlob, displayed a bias in rating memories as neutral in valence. Across both data sets, VADER consistently produced more congruent classifications than did TextBlob. Accuracy improved significantly, to moderate levels of congruence (rMCC = .32), on par with that of human coders reported in other work, when classification was limited to three valence types (negative, neutral, or positive) rather than five. Tool performance remained consistent regardless of data set size. VADER, more so than TextBlob, is a useful means of rapidly determining the broad emotional valence within large volumes of text data that would be unfeasible for manual coding. (PsycInfo Database Record (c) 2026 APA, all rights reserved).",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.17605/OSF.IO/EBTF5"
+    },
+    {
+      "id": "openalex-W7239359560",
+      "doi": "10.11591/ijere.v15i6.39803",
+      "title": "Models of formation of information competence of future biology teachers in the context of multilingual education",
+      "title_zh": "",
+      "authors": [
+        "Bektemirova Gulnaz",
+        "Rimma Izbassarova",
+        "Nagima Umirzakova",
+        "Gulbarshyn Abeuova"
+      ],
+      "year": 2026,
+      "venue": "International Journal of Evaluation and Research in Education (IJERE)",
+      "field": "社会科学",
+      "topics": [
+        "Second Language Learning and Teaching",
+        "Education Methods and Technologies",
+        "Linguistic Education and Pedagogy"
+      ],
+      "abstract": "The evolving demands of contemporary society require the preparation of highly skilled, competent, and competitive specialists. Among the primary objectives of the current educational paradigm is the development of innovative educational technologies that foster the formation of core professional competencies in graduates throughout the university learning process. In this context, future pedagogical professionals in the natural sciences must not only be equipped to teach science subjects (such as biology, chemistry, physics, and mathematics) in English but also possess the ability to establish professional relationships in cross-cultural communication environments. The key findings highlight the urgent need for reform in teacher education programs, beginning with instruction in students’ native languages. This approach promotes deeper comprehension and more active engagement in the learning process. The discussion further addresses the adaptation of pedagogical practices to accommodate linguistic diversity, as well as the critical challenges related to teacher training and resource availability.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.11591/ijere.v15i6.39803"
+    },
+    {
+      "id": "openalex-W7239398846",
+      "doi": "10.11591/ijere.v15i6.40372",
+      "title": "AI-supported formative assessment and STEM communication competencies in engineering education",
+      "title_zh": "",
+      "authors": [
+        "D. Dulatkyzy",
+        "Gulden N. Akbayeva",
+        "Kamalbek Berkimbayev",
+        "M.M. Mirzahmetov",
+        "Ibragimova Nuraim",
+        "Saniya Nurgaliyeva"
+      ],
+      "year": 2026,
+      "venue": "International Journal of Evaluation and Research in Education (IJERE)",
+      "field": "社会科学",
+      "topics": [
+        "Student Assessment and Feedback",
+        "Artificial Intelligence in Education",
+        "Engineering Education and Curriculum Development"
+      ],
+      "abstract": "This study examined the association between an artificial intelligence (AI)-supported formative assessment intervention and students’ science, technology, engineering, and mathematics (STEM) communication competencies, including written communication (WC), collaboration (COL), and critical thinking (CT), within a competency-based educational (CBE) context in Kazakhstan. A quasi-experimental pretest–posttest design was applied with 146 second-year engineering students. The intervention implemented a rule-based and natural language processing (NLP)-assisted formative feedback system, explicitly excluding generative AI models, to provide structured, rubric-aligned feedback on student performance. Results indicated statistically significant improvements in all competencies for both groups, with the experimental group (EG) demonstrating significantly greater gains and post-test differences between groups reaching statistical significance (p<0.05). Effect size analysis indicated moderate effects for WC (d=0.50), COL (d=0.48), and CT (d=0.40), while analysis of covariance (ANCOVA) results showed small-to-large intervention effects across competencies (η²p=0.08–0.15). These findings suggest a positive association between AI-supported formative feedback and STEM communication competency development. The study contributes empirical evidence on the role of structured AI-assisted formative feedback in competency-based STEM education.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.11591/ijere.v15i6.40372"
+    },
+    {
+      "id": "openalex-W7239405320",
+      "doi": "10.59035/ljkp6387",
+      "title": "A hybrid transformer-BiLSTM model for punctuation restoration in low-resource languages: Uzbek as a case study",
+      "title_zh": "",
+      "authors": [
+        "Maksud S. Sharipov",
+        "Hushnudbek S. Adinaev"
+      ],
+      "year": 2026,
+      "venue": "International Journal on Information Technologies and Security",
+      "field": "计算机科学",
+      "topics": [
+        "Natural Language Processing Techniques",
+        "Topic Modeling",
+        "Speech Recognition and Synthesis"
+      ],
+      "abstract": "Automatic punctuation restoration is an important natural language processing task that improves the readability of unpunctuated text and supports automatic speech recognition, machine translation and text editing systems. This study proposes a language-adaptable hybrid Transformer+BiLSTM framework for token-level punctuation restoration in low-resource languages and evaluates it using Uzbek as a case study. The task was formulated as a sequence-labeling problem with eleven classes. RoBERTa, XLM-RoBERTa, BERTbek and TahrirchiBERT were fine-tuned also BiLSTM layers were added to selected transformer encoders. The models were evaluated using accuracy, precision, recall and F1-score. XLM-RoBERTa+BiLSTM achieved the best overall results, with 0.8588 accuracy, 0.8493 precision, 0.8588 recall and 0.8393 F1-score. The findings indicate that bidirectional sequential modelling can complement transformer representations in low-resource punctuation restoration.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "https://doi.org/10.59035/ljkp6387",
+      "url": "https://doi.org/10.59035/ljkp6387"
+    },
+    {
+      "id": "openalex-W7239403709",
+      "doi": "10.22214/ijraset.2026.85861",
+      "title": "AccessLearnAI: A Survey on Natural Language Processing and Deep Learning Techniques for Lecture Accessibility",
+      "title_zh": "",
+      "authors": [
+        "Vishal Mundewadi",
+        "Saraswath H D",
+        "Siddesha C",
+        "Chandrasekhar V"
+      ],
+      "year": 2026,
+      "venue": "International Journal for Research in Applied Science and Engineering Technology",
+      "field": "计算机科学",
+      "topics": [
+        "Speech Recognition and Synthesis",
+        "Text Readability and Simplification",
+        "Natural Language Processing Techniques"
+      ],
+      "abstract": "Inclusive education requires that lecture content be available in formats that students with visual, hearing, or cognitive impairments can use. Most learning systems offer only one such format, if any. Natural Language Pro-cessing (NLP) and Deep Learning (DL) now make it possible to turn a lecture into captions, simplified notes, audio nar-ration, and Braille. This paper surveys work on automatic speech recognition, text simplification and summarization, neural text-to-speech synthesis, and Braille conversion, with a focus on their use in education. We compare models such as Whisper, T5, BERT, Tacotron 2, and FastSpeech 2 in terms of reported performance, computational cost, and language support. Building on this review, we describe AccessLearnAI, a framework that combines these components into a single pipeline, and a web prototype that produces a transcript, simplified notes, summaries, key points, MP3 narration, and a Braille-ready file from one lecture. We also discuss open problems: computational cost, limited sup-port forIndian languages, and the lack ofshared evaluation benchmarks.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "https://doi.org/10.22214/ijraset.2026.85861",
+      "url": "https://doi.org/10.22214/ijraset.2026.85861"
+    },
+    {
+      "id": "openalex-W7239403794",
+      "doi": "10.11591/ijere.v15i6.40282",
+      "title": "Flexible learning during energy crisis in Philippine higher education",
+      "title_zh": "",
+      "authors": [
+        "Rotsenia J. Callao",
+        "Margarito B. Callao",
+        "Adrian P. Ybañez",
+        "Jennifer B. Carillo",
+        "Romeo C. Lepiten",
+        "Rose Mary Almacen",
+        "Rowena P. Dato-on",
+        "Ryan Olindo Tayco",
+        "Benjamin Villagonzalo",
+        "Dawn Iris Calibo-Senit1"
+      ],
+      "year": 2026,
+      "venue": "International Journal of Evaluation and Research in Education (IJERE)",
+      "field": "社会科学",
+      "topics": [
+        "Education during COVID-19 pandemic",
+        "Online and Blended Learning",
+        "ICT and E-Learning in Education"
+      ],
+      "abstract": "Energy-related infrastructure disruptions can weaken higher education access by affecting electricity-dependent connectivity, device charging, transport, and household study routines. This mixed-methods study examined students’ flexible-learning perceptions during the 2026 Philippine national energy emergency and evaluated follow-up support for a retained four-domain flexible learning system (FLS) monitoring tool. A voluntary campus-wide electronic survey collected 852 responses from one Cebu Technological University campus from April 16 to 20, 2026 using a 26-item four-point Likert questionnaire and three open-ended questions. Analyses included descriptive statistics, reliability analysis, exploratory and confirmatory factor analyses, HC3-robust models, multivariate tests, Chi-square tests, domain correlations, internet-speed comparisons, item diagnostics, and five-coder thematic analysis. The FLS context was multimodal, with printed modules, television, online streaming, and learning management system (LMS)-based activities reported. Poor or slow internet was reported by 77.3% of students and significantly differentiated support, resources, and readiness scores. Qualitative themes explained these patterns by linking connectivity problems with access burden, self-paced preference, and participation difficulty. Findings support cautious use of the FLS for low-stakes monitoring and suggest low-bandwidth, offline-compatible pedagogy for similar disruption-sensitive settings.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.11591/ijere.v15i6.40282"
+    },
+    {
+      "id": "openalex-W7239386254",
+      "doi": "10.6026/973206300228760",
+      "title": "Artificial intelligence in epilepsy care: Diagnosis, personalized management and educational transformation",
+      "title_zh": "",
+      "authors": [
+        "Javeria Habib Ullah"
+      ],
+      "year": 2026,
+      "venue": "Bioinformation",
+      "field": "医学",
+      "topics": [
+        "Epilepsy research and treatment",
+        "EEG and Brain-Computer Interfaces",
+        "Artificial Intelligence in Healthcare and Education"
+      ],
+      "abstract": "Epilepsy management remains challenging due to diagnostic delays, unpredictable seizures and variable treatment responses. Therefore, it is of interest to evaluate the artificial intelligence (AI) applications in epilepsy diagnosis, seizure prediction, personalized management and medical education. Deep-learning models achieved up to 98.8% diagnostic accuracy, while wearable systems demonstrated 76.2% seizure-detection sensitivity. AI-assisted educational tools improved guideline adherence, although limited external validation, data bias and privacy concerns remain. Thus, data shows the potential of integrating multimodal AI technologies to advance personalized epilepsy care and patient-centered neurological education.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "https://www.bioinformation.net/022/973206300228760.pdf",
+      "url": "https://doi.org/10.6026/973206300228760"
+    },
+    {
+      "id": "openalex-W4402837740",
+      "doi": "10.1201/9781003662815-36",
+      "title": "Data Augmentation and Integrant Extraction Model for Pol-SAR for Image Classification",
+      "title_zh": "",
+      "authors": [
+        "Peter Ashwin",
+        "P R Nishanth",
+        "Ashly John",
+        "M Jyothikrishnan",
+        "Nisha Thankachan"
+      ],
+      "year": 2026,
+      "venue": "CRC Press eBooks",
+      "field": "计算机科学",
+      "topics": [
+        "Remote-Sensing Image Classification",
+        "Synthetic Aperture Radar (SAR) Applications and Techniques",
+        "Advanced SAR Imaging Techniques"
+      ],
+      "abstract": "Deep neural networks and machine learning algorithms have made huge developments in image classification for polarimetric synthetic aperture radar (PolSAR). But there are still many challenges, like speckle noise, which reduces spatial consistency and classification accuracy. Also, there is a lack of better preprocessing methods and limited availability of labeled data. While data techniques based on deep learning can make clear and accurate classification maps, they come at the cost of large datasets, which are time-consuming to prepare. To solve these problems, a method that uses data augmentation to increase the dataset, a Gabor filter-based integral extraction model for feature extraction, feature selection based on PCA, and finally classification using a multifarious fully convolutional network (MFCN) is introduced. The MFCN leverages the multimodal nature of pixels, using elastic net classifiers for more efficient image classification. The augmentation strategy provides the maximum amount of labeled data and ensures readiness for the model's input format, avoiding repetitive preprocessing steps. Principal component analysis (PCA) is used to improve the classifier's efficiency and provide a more discriminative representation of targets such as terrain, leading to more accurate classification. The above-given method was tested with various PolSAR datasets. Experimental results are compared with the Episodical Proximity Selection method to evaluate the performance of the proposed method. The results show that the two methods yield similar outcomes, but accuracy improves in some classes.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "http://dx.doi.org/10.2139/ssrn.4968035"
+    },
+    {
+      "id": "openalex-W7208685807",
+      "doi": "10.1016/j.identj.2026.111331",
+      "title": "Large Language Models in Orthodontics: A Scoping Review of Applications, Clinical Utility, and Safety",
+      "title_zh": "",
+      "authors": [
+        "Jiale Peng",
+        "Qingyi Dai",
+        "Nikhillesh Vaiid",
+        "Yifan Lin",
+        "Bingshuang Zou"
+      ],
+      "year": 2026,
+      "venue": "International Dental Journal",
+      "field": "人工智能",
+      "topics": [
+        "Artificial Intelligence in Healthcare and Education",
+        "Orthodontics and Dentofacial Orthopedics",
+        "Dental Radiography and Imaging"
+      ],
+      "abstract": "Large language models (LLMs) are increasingly evaluated in orthodontics for patient communication, clinical decision support, and education. However, the evidence base remains fragmented and methodologically diverse. This scoping review aimed to map the current applications, performance, and inherent risks of LLMs in orthodontics. Following the Arksey and O’Malley framework and PRISMA-ScR guidelines, 5 databases were searched on 17 February 2026 by 2 independent reviewers. Eligible studies primarily focused on orthodontics, evaluated an LLM as the core technology, and assessed outcomes related to patient communication, clinical decision-making, or education. Forty-nine studies were included in the qualitative analysis. The literature is highly recent, with most studies relying on text-only materials and zero-shot prompting. ChatGPT was evaluated across all studies, while Google Gemini, Microsoft Copilot, and Claude served as the primary comparators. The primary application domains were patient communication and counselling (n = 27), clinical decision support (n = 16), and student education and assessment (n = 6). LLMs demonstrated acceptable performance on structured, low-complexity tasks, such as addressing routine patient inquiries and passing theoretical examinations. Conversely, accuracy was less reliable for complex clinical reasoning, treatment planning, and multimodal tasks. Major reported limitations included hallucinations, lack of verifiable citations, poor repeatability, and the opacity of commercial algorithms. LLMs currently show potential as adjunctive tools for patient communication and text-based educational support in orthodontics. However, they lack the reliability required for independent diagnosis, treatment planning, or multimodal clinical reasoning. Transitioning to safe clinical deployment requires standardized reporting, rigorous repeatability testing, and prospective real-world validation. Under orthodontist oversight, LLMs may support routine patient education and text-based learning. However, current evidence does not support their independent use for diagnosis, treatment planning, or high-risk imaging tasks, including root resorption detection, skeletal age assessment or cervical vertebral maturation staging, and impacted canine localization.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "https://www.sciencedirect.com/science/article/pii/S0020653926019192/pdf",
+      "url": "https://doi.org/10.1016/j.identj.2026.111331"
+    },
+    {
+      "id": "openalex-W7225129384",
+      "doi": "10.3847/1538-4357/aeba81",
+      "title": "Optimizing Prompt Radio Counterpart Searches for Gravitational-wave Events with the Deep Synoptic Array",
+      "title_zh": "",
+      "authors": [
+        "Nikita Kosogorov",
+        "Max Melching",
+        "Gregg Hallinan",
+        "Jonah Kanner",
+        "Alan Weinstein",
+        "Kevin Lacker",
+        "Vikram Ravi"
+      ],
+      "year": 2026,
+      "venue": "The Astrophysical Journal",
+      "field": "物理学",
+      "topics": [
+        "Pulsars and Gravitational Waves Research",
+        "Radio Astronomy Observations and Technology",
+        "Gamma-ray bursts and supernovae"
+      ],
+      "abstract": "Prompt millisecond-duration coherent radio emission is proposed as a counterpart to neutron-star-containing compact mergers, produced before, during, or shortly after coalescence. Its detection would probe the plasma environment, magnetic fields, remnant evolution, and emission physics of these mergers. At GHz frequencies, dispersive delays can range from fractions of a second to several seconds, requiring the telescope to be on source before or soon after coalescence. Negative- or low-latency alerts, rapid response, and optimized pointing under uncertain, evolving localizations are therefore essential. We present a framework for prompt gravitational-wave follow-up with the upcoming Deep Synoptic Array (DSA), a sensitive, fast-slewing, wide-field GHz radio array. We simulate low-latency localization sequences and embed them in a follow-up environment with elevation, field of view, and slew constraints. We compare a reinforcement learning pointing policy with a baseline that slews toward the highest-probability accessible region at each step. This peak-tracking rule is a strong, interpretable baseline for initial deployment, while the learned policy provides a complementary strategy for a subset of broad, multimodal, or arc-shaped localizations. At a random merger time, 37% of events are observable above 20 ∘ elevation; among these, ∼90% of binary neutron star events are successfully reached and tracked using zero-noise localization maps, decreasing to ∼75% with Gaussian-noise maps. We validate the optimized pointing trajectories on prototype DSA antennas. DSA follow-up can reach a fluence sensitivity of ∼20 mJy ms over a representative 700–1025 MHz subband, probing millisecond bursts with luminosities of ∼10 38 –10 39 erg s −1, at or below the lower end of several coherent-emission predictions for neutron star mergers.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.3847/1538-4357/aeba81"
+    },
+    {
+      "id": "openalex-W7239345152",
+      "doi": "10.17605/osf.io/4xae3",
+      "title": "Machine-learning prediction of ACL-related neuromechanical risk from fatigue-inclusive multimodal functional tests in soccer players",
+      "title_zh": "",
+      "authors": [
+        "Himan Ebrahimi"
+      ],
+      "year": 2026,
+      "venue": "Open Science Framework",
+      "field": "医学",
+      "topics": [
+        "Knee injuries and reconstruction techniques",
+        "Sports injuries and prevention",
+        "Lower Extremity Biomechanics and Pathologies"
+      ],
+      "abstract": "This project preregisters a machine-learning study evaluating whether fatigue-inclusive multimodal functional performance tests can classify ACL-related neuromechanical risk profiles in professional soccer players. It includes the full study protocol, predefined composite neuromechanical risk index, statistical and machine-learning analysis plan, and supplementary materials (task procedures, variable dictionary, and supplementary materials) corresponding to the manuscript “Machine-Learning Prediction of ACL-Related Neuromechanical Risk From Fatigue-Inclusive Multimodal Functional Tests in Soccer Players",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.17605/osf.io/4xae3"
+    },
+    {
+      "id": "openalex-W7239345914",
+      "doi": "10.3390/s26237421",
+      "title": "Physical–Semantic Multimodal Sensing with Large Language Models for Cross-Scale State Modeling and Prediction",
+      "title_zh": "",
+      "authors": [
+        "HUANG Chenjia",
+        "Shangshan Chen",
+        "Bocheng Zhou",
+        "Yinuo Wang",
+        "Surui Hua",
+        "Yuanbing Liao",
+        "Manzhou Li"
+      ],
+      "year": 2026,
+      "venue": "Sensors",
+      "field": "社会科学",
+      "topics": [
+        "Human Mobility and Location-Based Analysis",
+        "Multimodal Machine Learning Applications",
+        "Advanced Graph Neural Networks"
+      ],
+      "abstract": "With the rapid development of urban Internet of Things (IoT), smart education, and artificial intelligence-driven sensing technologies, simultaneously extracting physical behavioral information and high-level semantic context from multi-source heterogeneous sensing data, and further supporting socioeconomic and educational outcome analysis, has become an important research challenge in intelligent sensing. To address this issue, a physical–semantic collaborative sensing framework integrating large language models (LLMs) with multimodal sensing is proposed. First, a dual-stream feature encoding network is employed to extract physical features from pedestrian flow, transportation, logistics, nighttime lights, visual signals, eye-tracking data, physiological signals, and behavioral logs, while semantic representations are derived from policy documents, financial news, cultural narratives, course materials, and teacher feedback. Reliability-aware attention and gating mechanisms are further introduced to mitigate the adverse effects of sensing noise and missing modalities. Subsequently, cross-scale alignment and hierarchical temporal state modeling are used to project information at different temporal, spatial, and task granularities into a unified latent space, while temporal convolution, window Transformer, and cross-scale attention are adopted to capture both short-term variations and long-range dependencies. Finally, a shared prediction backbone and scenario-specific task heads are employed to predict urban economic vitality, temporal trends, learning states, learning performance, and knowledge gain. Experimental results show that the proposed model achieves an MAE of 0.104, an RMSE of 0.148, a MAPE of 10.36%, a Pearson correlation coefficient of 0.857, and a Spearman correlation coefficient of 0.846 for urban socioeconomic prediction. In the educational scenario, an accuracy of 87.36% and an F1-score of 86.52% are achieved, together with an MAE of 0.112, an RMSE of 0.158, and an R2 of 0.856. These results demonstrate that the proposed framework can effectively improve the accuracy, stability, and contextual interpretability of multimodal sensing in complex human-centered socioeconomic scenarios, providing a new technical pathway for urban dynamic monitoring and educational resource-efficiency analysis under the paradigm of artificial intelligence-driven sensing.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.3390/s26237421"
+    },
+    {
+      "id": "openalex-W7239345921",
+      "doi": "10.5772/intechopen.1018215",
+      "title": "Multimodal Risk Stratification in Cardiomyopathies",
+      "title_zh": "",
+      "authors": [
+        "Sumera Khan"
+      ],
+      "year": 2026,
+      "venue": "IntechOpen eBooks",
+      "field": "医学",
+      "topics": [
+        "Cardiomyopathy and Myosin Studies",
+        "Cardiovascular Effects of Exercise",
+        "Cardiac Imaging and Diagnostics"
+      ],
+      "abstract": "Cardiac muscle disorders encompass a heterogeneous group of conditions characterized by diverse clinical presentations, structural abnormalities, molecular pathways, and genetic determinants. This heterogeneity limits the accuracy of conventional risk stratification, particularly approaches that rely predominantly on left ventricular ejection fraction (LVEF). This chapter explores the evolving role of multimodal assessment in improving cardiovascular risk prediction and guiding individualized clinical decisions. Genetic testing helps identify inherited susceptibility, clarify disease etiology, and inform family screening, although genotype–phenotype relationships remain variable. Circulating biomarkers, including high-sensitivity cardiac troponins, N-terminal pro–B-type natriuretic peptide (NT-proBNP), soluble ST2, and galectin-3, provide complementary insights into myocardial injury, wall stress, fibrosis, and remodeling. Advanced echocardiographic and cardiovascular magnetic resonance techniques, such as global longitudinal strain, mechanical dispersion, late gadolinium enhancement, T1 mapping, and extracellular volume quantification, reveal functional and tissue abnormalities that may precede overt deterioration in LVEF. Ambulatory rhythm monitoring further contributes to arrhythmic risk assessment. Artificial intelligence and machine learning offer opportunities to integrate these multidimensional data, identify complex patterns, and develop more individualized prognostic estimates. Nevertheless, evidence supporting clinical implementation remains uneven across disease subtypes, and predictive models require rigorous external validation, calibration, interpretability, and assessment of clinical utility. Variations in access to genetic testing, advanced imaging, and computational infrastructure also raise concerns about equitable adoption. Clinical interpretation should therefore consider disease stage, patient characteristics, and local resources. A tiered, resource-sensitive precision cardiology approach, combining widely available assessments with targeted advanced investigations, may improve risk stratification while supporting practical and equitable implementation across diverse healthcare settings.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5772/intechopen.1018215"
     },
     {
       "id": "arxiv-2403.05530",
