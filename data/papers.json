@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-11-26T04:10:29.182696+00:00",
+    "updated_at": "2026-11-27T04:17:11.892930+00:00",
     "source": "OpenAlex",
     "queries": [
       "artificial intelligence",
@@ -10,7 +10,7 @@
       "multimodal learning"
     ],
     "window_years": 10,
-    "count": 6871
+    "count": 6895
   },
   "papers": [
     {
@@ -241,6 +241,32 @@
       "open_access": true,
       "pdf_url": "",
       "url": "https://doi.org/10.1145/3816251"
+    },
+    {
+      "id": "openalex-W4389344722",
+      "doi": "10.1007/s12671-026-03031-1",
+      "title": "Toward Personalized Neurofeedback for Meditation",
+      "title_zh": "",
+      "authors": [
+        "Tracy Brandmeyer",
+        "Rune Simmons",
+        "Nicco Reggente"
+      ],
+      "year": 2026,
+      "venue": "Mindfulness",
+      "field": "社会科学",
+      "topics": [
+        "Mindfulness and Compassion Interventions",
+        "EEG and Brain-Computer Interfaces",
+        "Neuroethics, Human Enhancement, Biomedical Innovations"
+      ],
+      "abstract": "Objectives Neurotechnological tools that provide real-time feedback during meditation have generated growing interest as potential aids for accelerating contemplative learning and enhancing mental health outcomes. Currently, the empirical evidence for neurofeedback-assisted meditation is preliminary, and many systems rely on generalized neural targets that may overlook substantial individual variability. Methods This conceptual paper draws on a narrative (non-systematic) synthesis of the literature to propose a testable research agenda, address limitations of neurofeedback, and outline necessary community partnerships. Results Current evidence is limited in demonstrating durable or transferable improvements in meditative skill. In the realm of meditation, individual variability can markedly affect how users respond to protocols and acquire meditative skills. Personalized interventions, tailored to these individual differences, are thus identified as a potential research direction within the field. Conclusions We propose an embrace of individual differences to guide the development of personalized neurotechnological interventions (a “qualia compass” calibrated to each practitioner), on the premise that personalization may increase efficacy and reduce adverse effects. As interest in the cognitive and health benefits of meditation continues to grow, the philosophical and cultural challenges involved in translating these contemplative practices into neurotechnological frameworks also require consideration. Although these complexities emphasize the importance of individualized, multimodal approaches, a personalized approach alone is insufficient to ensure the effective and ethical integration of neurofeedback into the modern mindfulness movement. Preregistration This conceptual paper is not preregistered.",
+      "abstract_zh": "",
+      "citations": 15,
+      "popularity": 45,
+      "open_access": true,
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007/s12671-026-03031-1.pdf",
+      "url": "https://doi.org/10.1007/s12671-026-03031-1"
     },
     {
       "id": "openalex-W4362585872",
@@ -566,6 +592,41 @@
       "open_access": true,
       "pdf_url": "https://arxiv.org/pdf/2606.19383",
       "url": "https://arxiv.org/abs/2606.19383"
+    },
+    {
+      "id": "openalex-W7129550205",
+      "doi": "10.1088/2058-9565/aec6d4",
+      "title": "TensorCircuit-NG: A universal, composable, and scalable platform for quantum computing and quantum simulation",
+      "title_zh": "",
+      "authors": [
+        "Shi-Xin Zhang",
+        "Yu-Qin Chen",
+        "Weitang Li",
+        "Jiace Sun",
+        "Wei-Guo Ma",
+        "Pei-Lin Zheng",
+        "Yu-Xiang Huang",
+        "Qi-Xiang Wang",
+        "Hui Yu",
+        "Zhuo Li",
+        "Xuyang Huang",
+        "Zong-Liang Li"
+      ],
+      "year": 2026,
+      "venue": "Quantum Science and Technology",
+      "field": "物理学",
+      "topics": [
+        "Quantum Computing Algorithms and Architecture",
+        "Quantum many-body systems",
+        "Quantum Mechanics and Applications"
+      ],
+      "abstract": "We present TensorCircuit-NG, a next-generation quantum software platform designed to bridge the gap between quantum physics, artificial intelligence, and high-performance computing. Moving beyond the scope of traditional circuit simulators, TensorCircuit-NG establishes a unified, tensornative programming paradigm where quantum circuits, tensor networks, and neural networks fuse into a single, end-to-end differentiable computational graph. Built upon industry-standard machine learning backends (JAX, TensorFlow, PyTorch), the framework introduces comprehensive capabilities for approximate circuit simulation, analog dynamics, fermion Gaussian states, qudit systems, and scalable noise modeling. To tackle the exponential complexity of deep quantum circuits, TensorCircuit-NG implements advanced distributed computing strategies, including automated data parallelism and model-parallel tensor network slicing. We validate these capabilities on GPU clusters, demonstrating a near-linear speedup in distributed variational quantum algorithms. TensorCircuit-NG enables flagship applications, including end-to-end QML for CIFAR-100 computer vision, efficient pipelines from quantum states to neural networks via classical shadows, and differentiable optimization of tensor network states for many-body physics. CONTENTS I. Introduction 2 A. The Evolution of TensorCircuit 3",
+      "abstract_zh": "",
+      "citations": 10,
+      "popularity": 41,
+      "open_access": true,
+      "pdf_url": "https://arxiv.org/pdf/2602.14167",
+      "url": "http://arxiv.org/abs/2602.14167"
     },
     {
       "id": "openalex-W4205478776",
@@ -5375,6 +5436,30 @@
       "open_access": true,
       "pdf_url": "",
       "url": "https://doi.org/10.1162/qss.a.525"
+    },
+    {
+      "id": "openalex-W7204924468",
+      "doi": "10.62222/pefm4824",
+      "title": "Ecosystem Banking: Redefining Banking Services in an Interconnected World",
+      "title_zh": "",
+      "authors": [
+        "Ragib Mammadli"
+      ],
+      "year": 2026,
+      "venue": "Journal of Business Sectors",
+      "field": "社会科学",
+      "topics": [
+        "Digital Transformation in Financial Services",
+        "FinTech, Crowdfunding, Digital Finance",
+        "Banking Sector Performance and Management"
+      ],
+      "abstract": "Research background: The rapid digital transformation of the banking industry is accelerating the emergence of ecosystem banking as a new strategic paradigm in global finance. Technologies such as fintech, artificial intelligence (AI), open banking, and application programming interfaces (APIs) have transformed traditional banks into interconnected digital platforms. Furthermore, growing customer demand for fast, personalised, and integrated mobile banking services, together with evolving regulatory policies, is further increasing the importance of the ecosystem banking model. Purpose of the article: This study aims to identify the main drivers of banking ecosystem development and assess their effects on competitiveness, operational efficiency, profitability, innovation, and customer satisfaction in the banking sector. It also analyses differences among banking ecosystem models in Europe, Asia, and North America. Methods: The study adopts a mixed-methods approach combining quantitative and qualitative methods. Descriptive statistics and multiple regression models are used to analyse the relationship between ecosystem integration and bank performance indicators. The empirical analysis is based on data from 25 international banks and fintech companies operating between 2018 and 2025. The variables examined include API integration, AI adoption, fintech partnerships, profitability, customer loyalty, and customer satisfaction. Strategic ecosystem management and regional differences are further explored through a comparative analysis of Ant Group, BBVA, ING, DBS Bank, Revolut, and Goldman Sachs. Findings & Value added: The results show that ecosystem-based banking significantly improves operational efficiency, customer satisfaction, innovation capacity, and digital revenue growth compared with traditional banking models. API integration, Banking-as-a-Service (BaaS), AI adoption, and collaboration with fintech companies are identified as key drivers of improved banking performance. The Asian market exhibits the highest level of platform integration, whereas European banks benefit from a robust open banking regulatory framework. The study extends the existing literature by examining the technological, strategic, organisational, and regulatory dimensions of integrated banking ecosystem models. The findings provide relevant implications for financial regulation, cybersecurity, and digital governance and contribute to the literature on emerging global economic trends and digital transformation.",
+      "abstract_zh": "",
+      "citations": 1,
+      "popularity": 25,
+      "open_access": true,
+      "pdf_url": "https://www.jobsjournal.eu/_files/ugd/a7cf91_28c93670d8cc4462b13f8750a1b3b6e9.pdf",
+      "url": "https://doi.org/10.62222/pefm4824"
     },
     {
       "id": "openalex-W7117973916",
@@ -128100,7 +128185,7 @@
       "title": "THE ROBOTIC SERVER PARADOX: UNPACKING THE MEDIATING ROLES OF NOVELTY AND PERCEIVED EFFICIENCY ON CUSTOMER SATISFACTION IN SAUDI RESTAURANTS AND EWOM",
       "title_zh": "",
       "authors": [
-        "Raed A.M. IRIQAT",
+        "Raed A. M. Iriqat",
         "Osama Mohammad Al-Rawashdeh",
         "Ahmed K. Elnagar",
         "Ahmad Mohammad Herzallah",
@@ -171240,7 +171325,6 @@
       "title": "Integrarea inteligenţei artificiale în oraşele viitorului / The role of AI (Artificial Intelligence) in the city of tomorrow",
       "title_zh": "",
       "authors": [
-        "Universitatea de Arhitectură şi Urbanism „Ion Mincu”, Bucureşti, România; Institutul Naţional de Cercetare-Dezvoltare în Construcţii, Urbanism şi Dezvoltare Teritorială Durabilă URBAN-INCERC, Bucureşti, România",
         "Alexandru-Mihai Cristea"
       ],
       "year": 2026,
@@ -171440,30 +171524,6 @@
       "open_access": true,
       "pdf_url": "https://doi.org/10.33425/3069-8316.1012",
       "url": "https://doi.org/10.33425/3069-8316.1012"
-    },
-    {
-      "id": "openalex-W7204924468",
-      "doi": "10.62222/pefm4824",
-      "title": "Ecosystem Banking: Redefining Banking Services in an Interconnected World",
-      "title_zh": "",
-      "authors": [
-        "Ragib Mammadli"
-      ],
-      "year": 2026,
-      "venue": "Journal of Business Sectors",
-      "field": "社会科学",
-      "topics": [
-        "Digital Transformation in Financial Services",
-        "FinTech, Crowdfunding, Digital Finance",
-        "Banking Sector Performance and Management"
-      ],
-      "abstract": "Research background: The rapid digital transformation of the banking industry is accelerating the emergence of ecosystem banking as a new strategic paradigm in global finance. Technologies such as fintech, artificial intelligence (AI), open banking, and application programming interfaces (APIs) have transformed traditional banks into interconnected digital platforms. Furthermore, growing customer demand for fast, personalised, and integrated mobile banking services, together with evolving regulatory policies, is further increasing the importance of the ecosystem banking model. Purpose of the article: This study aims to identify the main drivers of banking ecosystem development and assess their effects on competitiveness, operational efficiency, profitability, innovation, and customer satisfaction in the banking sector. It also analyses differences among banking ecosystem models in Europe, Asia, and North America. Methods: The study adopts a mixed-methods approach combining quantitative and qualitative methods. Descriptive statistics and multiple regression models are used to analyse the relationship between ecosystem integration and bank performance indicators. The empirical analysis is based on data from 25 international banks and fintech companies operating between 2018 and 2025. The variables examined include API integration, AI adoption, fintech partnerships, profitability, customer loyalty, and customer satisfaction. Strategic ecosystem management and regional differences are further explored through a comparative analysis of Ant Group, BBVA, ING, DBS Bank, Revolut, and Goldman Sachs. Findings & Value added: The results show that ecosystem-based banking significantly improves operational efficiency, customer satisfaction, innovation capacity, and digital revenue growth compared with traditional banking models. API integration, Banking-as-a-Service (BaaS), AI adoption, and collaboration with fintech companies are identified as key drivers of improved banking performance. The Asian market exhibits the highest level of platform integration, whereas European banks benefit from a robust open banking regulatory framework. The study extends the existing literature by examining the technological, strategic, organisational, and regulatory dimensions of integrated banking ecosystem models. The findings provide relevant implications for financial regulation, cybersecurity, and digital governance and contribute to the literature on emerging global economic trends and digital transformation.",
-      "abstract_zh": "",
-      "citations": 0,
-      "popularity": 18,
-      "open_access": true,
-      "pdf_url": "https://www.jobsjournal.eu/_files/ugd/a7cf91_28c93670d8cc4462b13f8750a1b3b6e9.pdf",
-      "url": "https://doi.org/10.62222/pefm4824"
     },
     {
       "id": "openalex-W7204934650",
@@ -173416,7 +173476,7 @@
       "title": "Causal-inspired Cross-asset Contrastive Multimodal Maintenance Network: A Proxy-benchmark Study for Renewable-energy Maintenance",
       "title_zh": "",
       "authors": [
-        "Dona Amange Franci",
+        "Dona A. Franci",
         "Chra Ismael Doghramachy",
         "Haneen Khalid Dany",
         "Maikey Zaki Bia",
@@ -177222,7 +177282,7 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "pdf_url": "",
+      "pdf_url": "https://ijere.iaescore.com/index.php/IJERE/article/download/39803/15384",
       "url": "https://doi.org/10.11591/ijere.v15i6.39803"
     },
     {
@@ -177251,7 +177311,7 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "pdf_url": "",
+      "pdf_url": "https://ijere.iaescore.com/index.php/IJERE/article/download/40372/15336",
       "url": "https://doi.org/10.11591/ijere.v15i6.40372"
     },
     {
@@ -177336,7 +177396,7 @@
       "citations": 0,
       "popularity": 18,
       "open_access": true,
-      "pdf_url": "",
+      "pdf_url": "https://ijere.iaescore.com/index.php/IJERE/article/download/40282/15356",
       "url": "https://doi.org/10.11591/ijere.v15i6.40282"
     },
     {
@@ -177526,6 +177586,593 @@
       "open_access": true,
       "pdf_url": "",
       "url": "https://doi.org/10.5772/intechopen.1018215"
+    },
+    {
+      "id": "openalex-W7239988768",
+      "doi": "",
+      "title": "Fundamentele uitdagingen van incrementeel in-weight leren in kaart gebracht op weg naar echt voortdurend leren",
+      "title_zh": "",
+      "authors": [
+        "Timm Hess"
+      ],
+      "year": 2026,
+      "venue": "Lirias",
+      "field": "计算机科学",
+      "topics": [
+        "Domain Adaptation and Few-Shot Learning",
+        "Data Stream Mining Techniques",
+        "Advanced Neural Network Applications"
+      ],
+      "abstract": "The deep learning approaches driving modern artificial intelligence assume a static world. Learning is happening one time, offline, on massive, curated datasets, and once trained the model remains frozen rigid. The world we experience, however, is dynamic and ever evolving. To remain relevant and adapt behaviors, or more generally, evolve with the environment, it would be highly beneficial for intelligent systems to be capable of continuing their learning process. This is what the research field of continual learning aspires to achieve. Intuitively, the solution is to update a model as new data arrives during deployment. Yet, doing so naively triggers a variety of challenges. Prominently, further updates with respect to only the novel content easily lead to catastrophic forgetting: the network greedily overwrites previously acquired knowledge to minimize current errors. But there are also various open questions regarding the model's learning efficiency and computational demand, respectively. Consequently, the current industry standard relies on the tried-and-tested periodic, offline re-training, which is but an exhaustive strategy that is rapidly becoming computationally, environmentally, and in some cases legally unsustainable. While the academic continual learning community has proposed numerous approaches and demonstrates steadily rising benchmark scores, these approaches are yet rarely utilized in real-world applications or industrial settings. This thesis argues that the friction between research and application exists because the fundamental challenges of sequential optimization are not yet genuinely solved. Instead, the profound structural hurdles of learning over time are frequently masked, for example by building on massively pre-trained models, or on end-to-end evaluation metrics that happen to be opaque regarding long-term knowledge accumulation. Focusing on the domain of computer vision to study such hurdles, this thesis opts to balance empirical results towards smaller scale in favor of better empirical control. Shifting focus to the learning process at representation level, we probe the underlying dynamics of sequential optimization during continual learning, using a diverse set of diagnostic tools. These include probing to evaluate accumulated representations independently of evolving classifier biases, perfect- retention ensemble baselines to control for catastrophic forgetting, and synthetic visual cues to explicitly disentangle shared from task-specific knowledge during parameter adaptation. Through four core investigations, this thesis uncovers critical aspects of continual learning challenge, and contributes to a deeper understanding of the dynamics that need to be addressed towards continual learning for real. First, we provide necessary nuance to the prevalent claim that continually trained representations posses an inherent resistance to forgetting. We empirically demonstrate that when evaluated relative to the performance newly gained during a task, forgetting in the representation tends to be as severe as forgetting at the output level, and is actively slowing down the incremental accumulation of knowledge. Second, we reveal that even when methods well-approximate the joint training objective (e.g., via incremental joint training or replay), standard gradient-based optimization still suffers from a \"stability gap\", a temporary forgetting upon encountering new data. We take this to demonstrate that there are challenges which can not be addressed only by engineering the loss objective. We motivate that continual learning should rethink not only what objective is optimized, but also how the optimization trajectory is navigated. Third, we chart the abilities and limitations of model merging, a post-hoc mechanism that recently gained a lot of attention with the ability to sidestep the need to explicitly mitigate catastrophic forgetting during the sequential optimization itself. In a controlled synthetic setting we demonstrate that linear merging largely preserves or even enhances shared knowledge, it rapidly degrades unshared, task-specific specializations. Finally, we establish the \"co-observation effect\" as a third fundamental facet of continual learning, distinct from stability and plasticity. We empirically demonstrate that even a model with perfect memory retention falls short of the generalization capabilities of joint training, indicating that synthesizing robust cross-distribution features fundamentally requires the simultaneous observation of data.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": false,
+      "pdf_url": "",
+      "url": "https://lirias.kuleuven.be/handle/20.500.12942/797814"
+    },
+    {
+      "id": "openalex-W7239876638",
+      "doi": "10.22214/ijraset.2026.85838",
+      "title": "MedSync: A Unified Healthcare Ecosystem with Blockchain Security and AI Assistance",
+      "title_zh": "",
+      "authors": [
+        "Smitha Shekar B",
+        "Harish G",
+        "Dharshan Kumar B",
+        "Dheeraj A",
+        "Glen Xavier Dsouza",
+        "Manjunath Rajshekar"
+      ],
+      "year": 2026,
+      "venue": "International Journal for Research in Applied Science and Engineering Technology",
+      "field": "计算机科学",
+      "topics": [
+        "Blockchain Technology Applications and Security",
+        "Electronic Health Records Systems",
+        "Blockchain Technology in Education and Learning"
+      ],
+      "abstract": "Conventional digital healthcare systems face a lot of challenges such as fragmented medical records, centralized security vulnerabilities, prescription fraud, and disconnected clinical workflows. MedSync proposes a unified healthcare ecosystem integrating Blockchain Technology and Artificial Intelligence (AI) to enable secure, transparent, and intelligent healthcare management. This system employs six Solidity smart contracts deployed on the Polygon Amoy testnet for patient consent management, healthcare provider verification, medical record integrity, and electronic prescription authentication. Sensitive medical information is stored off-chain, while SHA-256 cryptographic hashes enable tamper-evident verification. Also QR-based prescription verification and PIN-based authorization enhance security and accountability. The integrated Pulse AI subsystem combines deep learning, computer vision, Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG) to support medical image screening, clinical summarization, and conversational assistance. Through interconnected web and mobile applications, MedSync unifies patients, doctors, pharmacies, and administrators within a modular hybrid architecture, enhancing patient data sovereignty, clinical coordination, and operational efficiency.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "https://doi.org/10.22214/ijraset.2026.85838",
+      "url": "https://doi.org/10.22214/ijraset.2026.85838"
+    },
+    {
+      "id": "openalex-W7222575225",
+      "doi": "10.13052/rp-9788743817109a141",
+      "title": "AI-Powered Attention Monitoring with Live Computer Vision Processing",
+      "title_zh": "",
+      "authors": [
+        "Anurag Kawade",
+        "Prajwal Dalvi",
+        "Yash Dhumal",
+        "Kishor Wagh"
+      ],
+      "year": 2026,
+      "venue": "International Conference on Data Intelligence and Smart Communication (IC-DAIS)",
+      "field": "计算机科学",
+      "topics": [
+        "Face recognition and analysis",
+        "Sleep and Work-Related Fatigue",
+        "Gaze Tracking and Assistive Technology"
+      ],
+      "abstract": "Attention-recording technologies are becoming increasingly necessary due to their potential applications within multiple industries, including driver safety, telecommuting, educational environments with distance learning, and cognitive assessments.Unfortunately, the majority of current solutions utilize cloud API services or require specialized expensive hardware systems and software that require extensive resources and are not scalable.We propose a browser application that records and measures attention using artificial intelligence methods based on MediaPipe Face Landmarker and TensorFlow's JavaScript API.The application runs completely on the client side and obtains facial features, Eye Aspect Ratio (EAR), head pose, and gaze estimation from webcam or pre-recorded video.Testing indicates smooth operation at approximately 25-30 FPS without uploading video files to an external server.Potential applications include driving performance monitoring, online teaching, worker productivity evaluation, and cognitive assessment.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "https://www.riverpublishers.com/pdf/ebook/chapter/RP_9788743817109C141.pdf",
+      "url": "https://doi.org/10.13052/rp-9788743817109a141"
+    },
+    {
+      "id": "openalex-W7233533025",
+      "doi": "10.5281/zenodo.24533542",
+      "title": "Empirical Evaluation of Artificial Intelligence Transfer Learning in Data-Constrained Dementia Screening: Analyzing Overfitting and Representation Collapse on Brain MRI",
+      "title_zh": "",
+      "authors": [
+        "Yuling Li",
+        "Yiti Huang",
+        "Shuangli Wu"
+      ],
+      "year": 2026,
+      "venue": "International Journal of Advanced AI Applications",
+      "field": "医学",
+      "topics": [
+        "Dementia and Cognitive Impairment Research",
+        "Domain Adaptation and Few-Shot Learning",
+        "Advanced Neural Network Applications"
+      ],
+      "abstract": "Early screening and precise staging of dementia, particularly Alzheimer’s Disease (AD), are vital for implementing timely clinical and lifestyle interventions. While deep convolutional neural networks (CNNs) have shown significant promise in structural magnetic resonance imaging (sMRI) computer-aided diagnosis, their generalization robustness remains a critical vulnerability in data-constrained clinical fine-tuning scenarios. This paper investigates the comparative learning dynamics and failure modes of two representative vision backbones—a standard residual network (ResNet18) and a lightweight architecture (MobileNetV2)—on a four-class dementia classification task (Mild Demented, Moderate Demented, Non-Demented, and Very Mild Demented) under constrained data regimes. Empirical results demonstrate severe generalization divergence across both architectures: ResNet18 exhibited unconstrained empirical memorization, achieving 100.0% training accuracy while degrading to 16.67% on unseen test instances. Conversely, MobileNetV2 suffered from complete representation collapse; despite reaching 82.50% training accuracy, its test accuracy plateaued at exactly 25.00% across all epochs, with confusion matrix profiling revealing that 100% of test predictions collapsed into the single Mild Demented category. Qualitative trajectory and error-matrix analyses confirm that generic pre-trained weights without domain-adapted regularization are highly prone to capturing non-pathological imaging artifacts or falling into trivial local optima in ultra-low data regimes. These findings highlight critical risks of decision collapse in deploying lightweight deep models for point-of-care dementia screening and underscore the imperative for domain-specific self-supervised pre-training and robust class-balancing protocols.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "http://www.dawnclarity.press/index.php/ijaaa/article/download/208/145",
+      "url": "http://www.dawnclarity.press/index.php/ijaaa/article/view/208"
+    },
+    {
+      "id": "openalex-W7239721957",
+      "doi": "10.3390/smartcities9120202",
+      "title": "Integrating Computer Vision for the Evaluation of Pedestrian Space Enhancements",
+      "title_zh": "",
+      "authors": [
+        "Yang-Ting Shen",
+        "Peiwen Lu",
+        "Yuhao Chen"
+      ],
+      "year": 2026,
+      "venue": "Smart Cities",
+      "field": "社会科学",
+      "topics": [
+        "Urban Design and Spatial Analysis",
+        "Evacuation and Crowd Dynamics",
+        "Video Surveillance and Tracking Methods"
+      ],
+      "abstract": "This study developed a computer vision-assisted framework for evaluating pedestrian space interventions using Bento Street at National Changhua University of Education as the empirical site. To address the subjectivity and inefficiency associated with conventional manual observation methods in urban space assessment, the study constructed a pedestrian flow identification workflow consisting of Context Awareness and Context Visualization stages. The system employed the YOLOv8 algorithm for pedestrian detection and spatial geometric calibration techniques to transform image coordinates into spatially comparable real-world coordinates, generating coordinate maps and heat maps for spatial analysis. The empirical experiment involved temporary pedestrian marking interventions and short-duration observational recordings before and after implementation using IP cameras. Results suggest observable changes in pedestrian spatial usage patterns following the intervention, particularly a redistribution of pedestrians from vehicle-shared movement areas toward designated pedestrian spaces. Heat map analysis further revealed increased spatial concentration within pedestrian-designated areas, which may be consistent with pedestrian clustering, longer spatial occupancy, or slower movement. These patterns suggest changes in pedestrian movement conditions, although detailed individual trajectory metrics and perceived safety were not directly evaluated. Rather than establishing generalized behavioral conclusions, this study should be interpreted as a pilot-scale proof-of-concept demonstrating the feasibility of integrating computer vision techniques with pedestrian space intervention analysis. The primary contribution lies in the proposed workflow, which provides an evidence-driven and transferable approach for preliminary evaluation of pedestrian space interventions and technology-assisted urban observation.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.3390/smartcities9120202"
+    },
+    {
+      "id": "openalex-W7239726004",
+      "doi": "10.1016/j.wasman.2026.115992",
+      "title": "Bridging the gap between e-waste datasets and automated classification: A comprehensive review and case study",
+      "title_zh": "",
+      "authors": [
+        "Aya Nabil Sayed",
+        "Md. Mosarrof Hossen",
+        "Tala Jano",
+        "Ridha Hamila",
+        "Fayçal Bensaali",
+        "Farid Touati",
+        "Iraklis Varlamis"
+      ],
+      "year": 2026,
+      "venue": "Waste Management",
+      "field": "环境科学",
+      "topics": [
+        "Recycling and Waste Management Techniques",
+        "Advanced Neural Network Applications",
+        "Municipal Solid Waste Management"
+      ],
+      "abstract": "The automation of electronic waste (e-waste) classification and sorting increasingly relies on computer vision techniques; however, progress remains limited by the scarcity of structured, standardized e-waste image datasets. Although many studies apply deep learning models to identify items such as mobile phones, laptops, chargers, and keyboards, the datasets used are often fragmented, inconsistently labeled, and insufficiently representative of real-world conditions. In addition, existing survey studies primarily emphasize algorithms and system-level approaches, with limited focus on the datasets themselves. This paper presents one of the first systematic dataset-centric reviews of publicly available image-based e-waste datasets focused on consumer electronics. We identified 162 datasets through a structured search and categorized them by collection context. We conducted a comparative analysis to evaluate dataset scale, annotation reliability, class diversity, and real-world applicability, highlighting key limitations that hinder benchmarking, reproducibility, and deployment. The analysis reveals several critical gaps, including limited real-world representation, lack of standardized benchmark datasets, class imbalance and label inconsistency, and insufficient diversity in item conditions. To further bridge the gap between research and deployment, we present a case study that combines newly collected kiosk images with selected public datasets to form the seven-class E-Tadweer Image Dataset (ETID) and evaluates multiple deep learning models under realistic operational conditions. We further extend ETID into ETID-v2, a publicly available dataset of 14,055 images covering 23 e-waste classes. Based on these findings, the paper outlines future research directions, including the development of standardized, large-scale benchmark datasets; enhanced annotation schemes; multi-object scene understanding; fine-grained recognition; multimodal sensing; domain adaptation and generalization; continual learning; and explainable artificial intelligence.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1016/j.wasman.2026.115992"
+    },
+    {
+      "id": "openalex-W7239727278",
+      "doi": "10.54380/ijrdet1126_37",
+      "title": "Sugarcane Disease Detection Using Deep Learning Techniques",
+      "title_zh": "",
+      "authors": [
+        "Kumar K"
+      ],
+      "year": 2026,
+      "venue": "International Journal of Recent Development in Engineering and Technology",
+      "field": "Agricultural and Biological Sciences",
+      "topics": [
+        "Smart Agriculture and AI",
+        "Advanced Neural Network Applications",
+        "Industrial Vision Systems and Defect Detection"
+      ],
+      "abstract": "Sugarcane (Saccharin officinarum) is a critical cash crop globally, contributing significantly to sugar production and biofuel industries. However, diseases such as red rot, rust, mosaic, yellow leaf, and smut pose substantial threats to crop yield and quality, causing economic losses estimated in billions of dollars annually. Traditional manual inspection methods for disease detection are labour-intensive, time-consuming, subjective, and prone to human error, making them impractical for large-scale agricultural operations. Recent advances in deep learning and computer vision have revolutionized plant disease detection, offering automated, accurate, and scalable solutions. This comprehensive manuscript reviews state-of-the-art methodologiesfor sugarcane disease detection, with particular emphasis on fusion approaches that integrate both stem and leaf features for enhanced diagnostic accuracy. The review synthesizes findings from multiple research studies, analysing deep learning architectures (CNN, VGG, ResNet, EfficientNet, DenseNet, MobileNet, YOLO), performance metrics (accuracies ranging from 85% to 99.8%), dataset characteristics, pre-processing techniques, and multimodal data integration strategies. Key findings reveal that while most current research focuses predominantly on leaf-based analysis, emerging multimodal fusion approaches combining stem-leaf features, hyper spectral imaging, thermal data, and environmental parameters demonstrate superior performance. The manuscript identifies critical research gaps including limited large-scale annotated datasets, insufficient exploration of hybrid architectures, underutilized severity classification, and computational constraints for field deployment. Future directions emphasize the need for comprehensive stem-leaf fusion methodologies, lightweight models for edge computing, explainable AI integration, and region-specific adaptations to advance precision agriculture in sugarcane cultivation.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "https://doi.org/10.54380/ijrdet1126_37",
+      "url": "https://doi.org/10.54380/ijrdet1126_37"
+    },
+    {
+      "id": "openalex-W7239739926",
+      "doi": "10.1186/s13104-026-08145-2",
+      "title": "Benchmarking specialized object detectors and large multimodal models for pediatric hereditary multiple exostoses: a technical validation",
+      "title_zh": "",
+      "authors": [
+        "Emna Aridhi",
+        "Kaouther Laabidi",
+        "Abdelkader Mami"
+      ],
+      "year": 2026,
+      "venue": "BMC Research Notes",
+      "field": "工程学",
+      "topics": [
+        "Medical Imaging and Analysis",
+        "Artificial Intelligence in Healthcare and Education",
+        "Bone Tumor Diagnosis and Treatments"
+      ],
+      "abstract": "Hereditary multiple exostoses, a rare skeletal disorder, challenges computer vision because of the multifocal nature of lesions near active growth plates in pediatric patients. While Large Multimodal Models (LMMs) show zero-shot potential in general medicine, their reliability in rare orthopedic pathologies remains unknown. This study presents the first technical feasibility of HME detection by comparing fine-tuned specialized object detectors (YOLOv8) with general-purpose LMMs to identify diagnostic gaps. Technical validation via 5-fold cross-validation demonstrated that while the YOLOv8n model achieved a functional baseline (mAP@0.5:41.28%), performance was dependent on maintaining the native radiographic resolution, with a ~ 40% relative performance collapse observed upon standard downsampling. Furthermore, the zero-shot LMMs (Moondream2 and Owl-ViT v2) demonstrated profound localization failure. Despite the high superficial detection rates, they achieved accuracies of only 2.82% and 5.63%, respectively. They generated massive bounding boxes encompassing the entire bone structure rather than isolating specific lesions. This reveals a profound spatial reasoning gap in the foundation models for rare pediatric pathologies. Error analysis confirmed that False-Positive triggers were predominantly localized at the epiphyseal plates, whereas False-Negatives were concentrated in small-scale (< 10 mm) lesions. These findings quantify the necessity of expert-annotated high-resolution datasets to overcome biological noise in pediatric orthopedic imaging.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1186/s13104-026-08145-2"
+    },
+    {
+      "id": "openalex-W7239740553",
+      "doi": "10.5281/zenodo.24541706",
+      "title": "Edge-First AI for Offshore Drilling Operations: Reducing Non-Productive Time and Improving Rig Safety",
+      "title_zh": "",
+      "authors": [
+        "Stepan Mykhailychenko"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "工程学",
+      "topics": [
+        "Drilling and Well Engineering",
+        "Oil and Gas Production Techniques",
+        "IoT and Edge/Fog Computing"
+      ],
+      "abstract": "Offshore drilling generates large volumes of sensor and video data, yet much of it is not used for decisions on the rig because of limited connectivity, integration barriers and low trust in model outputs. This technical note sets out an edge-first architecture for applying machine learning to offshore operations, focused on three use cases: automatic classification of non-productive time (NPT), predictive maintenance of critical rotating equipment, and computer-vision safety monitoring of the drill floor. It proposes design principles and evaluation metrics for operators adopting such systems and does not report proprietary results. Author: Stepan Mykhailychenko, Co-founder & Chief Scientific Officer, Audaces Inc., London. https://www.audacesx.com",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.24541706"
+    },
+    {
+      "id": "openalex-W7239745909",
+      "doi": "10.5281/zenodo.24544877",
+      "title": "Thitanr/marea: Marea v2.0.0: Sovereign On-Device Assistive Engine",
+      "title_zh": "",
+      "authors": [
+        "Humberto Gil"
+      ],
+      "year": 2026,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "field": "Health Professions",
+      "topics": [
+        "Assistive Technology in Communication and Mobility",
+        "Digital Accessibility for Disabilities",
+        "Gaze Tracking and Assistive Technology"
+      ],
+      "abstract": "Official scientific archive release for Marea. Developed by LANA Technologies (Madrid, Spain). Fully sovereign, offline-first assistive accessibility platform with on-device computer vision (Google MediaPipe), facial neurofeedback, and cognitive guidance.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.5281/zenodo.24544877"
+    },
+    {
+      "id": "openalex-W7239746537",
+      "doi": "10.37284/eajit.9.3.6387",
+      "title": "Institutional Capability for Electronic Records Management in the Implementation of Tanzania National Development Vision 2050: Evidence from the Singida Regional Administrative Secretary’s Office",
+      "title_zh": "",
+      "authors": [
+        "Grayson Herman Msakila"
+      ],
+      "year": 2026,
+      "venue": "East African Journal of Information Technology",
+      "field": "社会科学",
+      "topics": [
+        "Digital and Traditional Archives Management",
+        "E-Government and Public Services",
+        "Public Administration in Developing Nations"
+      ],
+      "abstract": "Effective electronic records management (ERM) is essential for institutional efficiency, accountability, information accessibility, and digitally enabled public service delivery. Tanzania’s Development Vision 2050 identifies digital transformation as a key driver of national development, creating a need for public institutions to develop adequate capabilities to manage electronic records effectively. This study assessed institutional capability for ERM at the Singida Regional Administrative Secretary’s Office (SRASO) in the context of implementing Tanzania’s Development Vision 2050. Specifically, the study examined staff competencies, technological infrastructure, institutional resources, and challenges affecting ERM. A descriptive mixed-methods case study design was employed. Quantitative data were obtained from 73 of the 93 questionnaires distributed (78.5% response rate), complemented by eight key informant interviews and observation. Quantitative data were analysed using descriptive statistics, while qualitative data were analysed using content analysis. The findings indicate that SRASO has basic structures supporting ERM, including ICT services, computers, government email accounts, network infrastructure, and basic information-security controls. However, institutional capability remains constrained by inadequate ICT infrastructure (98.6%), limited digital skills (97.3%), resistance to technological and organisational change (86.3%), and cybersecurity threats (78.1%). Interviews and observation additionally indicated connectivity interruptions, shared equipment, and limited continuous training. The study concludes that these capacity gaps may hinder SRASO’s ability to contribute effectively to the digital transformation and digitally enabled public service delivery envisaged under Tanzania’s Development Vision 2050. The study recommends sustained investment in staff competencies, ICT and network infrastructure, dedicated ERM financing, and institutional support mechanisms to strengthen electronic records management and enhance the public sector’s capacity to achieve the digital transformation objectives of Vision 2050.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.37284/eajit.9.3.6387"
+    },
+    {
+      "id": "openalex-W7239748645",
+      "doi": "10.21203/rs.3.rs-11322708/v1",
+      "title": "Arpiagrama: Supporting Visually Impaired Users in Creating and Understanding UML Diagrams",
+      "title_zh": "",
+      "authors": [
+        "Pablo Nunes Vargas",
+        "Daniela Gorski Trevisan"
+      ],
+      "year": 2026,
+      "venue": "Research Square",
+      "field": "社会科学",
+      "topics": [
+        "Digital Accessibility for Disabilities",
+        "Assistive Technology in Communication and Mobility",
+        "Tactile and Sensory Interactions"
+      ],
+      "abstract": "Purpose: Accessing and creating diagrams remain challenging for people with Visual Impairments (VI) and other stakeholders because most diagramming tools rely on visual and spatial interactions. This paper presents Arpiagrama, a multimodal assistive technology designed to support the creation and comprehension of Unified Modeling Language (UML) use case diagrams through 3D pieces, tactileexploration, computer vision, audio and visual feedback, and contextual descriptions.Methods: Arpiagrama was evaluated in a mixed-methods study with ten participants: six students with VI and four sighted teachers experienced in educational contexts involving people with VI. Participants completed diagram creation and comprehension tasks, followed by the System Usability Scale (SUS), supplementary questions and observational analysis.Results: All participants correctly constructed the expected diagram structure, while eight of ten also completed the final save action, resulting in an 80% full-task completion rate. The comprehension task achieved a 100% completion rate, and the mean SUS score was 91.0. Reflexive thematic analysis identified four themes: from abstraction to concrete multimodal representation, spatial constructionstrategies, interaction reliability, and configurable accessibility. Participants adopted different spatial arrangements while preserving the expected elements and relationships and reported challenges related to response time, auditory information, and external assistance.Conclusion: The findings suggest that accessible diagramming systems should support creation and comprehension through distinct interaction mechanisms, accommodate semantically equivalent spatial arrangements, provide configurable multimodal feedback, and keep accessibility requirements open to revision. These results provide initial evidence that Arpiagrama can support accessible creation and comprehension of UML use case diagrams.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "https://www.researchsquare.com/article/rs-11322708/latest.pdf",
+      "url": "https://doi.org/10.21203/rs.3.rs-11322708/v1"
+    },
+    {
+      "id": "openalex-W7239749110",
+      "doi": "10.57166/riqchary/v8.n2.2026.4",
+      "title": "Sistema inteligente de monitoreo agroecológico con visión artificial y disuasión acústica para la protección del cultivo de quinua contra aves en suelos labrados altoandinos",
+      "title_zh": "",
+      "authors": [
+        "Luis Alberto Sanchez-Valverde",
+        "Dario Roque Juro",
+        "Erech Ordoñez Ramos",
+        "Alejandrina Huaylla Quispe"
+      ],
+      "year": 2026,
+      "venue": "C&T Riqchary Revista de investigación en ciencia y tecnología",
+      "field": "Agricultural and Biological Sciences",
+      "topics": [
+        "Smart Agriculture and AI",
+        "Wildlife Ecology and Conservation",
+        "Water Quality Monitoring Technologies"
+      ],
+      "abstract": "The germination stage is the most vulnerable period for quinoa cultivation in high-Andean zones, as sowing in freshly tilled soil attracts seed-eating birds that reduce plant density from the outset. Because traditional methods lose effectiveness rapidly as birds become accustomed to them, this study proposes and evaluates an intelligent system that detects birds using computer vision (YOLO11n) and automatically activates acoustic deterrents. A quasi-experimental temporal-measurement field study was conducted across three quinoa plots (one silent baseline control day and two active intervention days per plot), starting immediately after sowing. A total of 4,576 avian detection events were recorded under active audio intervention, of which 85.0% resulted in a flight response. Although no statistically significant differences in flight proportions were found among the three sounds (), the Kruskal–Wallis test showed that the dog bark () and the hen distress call () expelled birds faster than the eagle call (; ). Finally, exploratory day-to-day analysis revealed a decline in flight response from the second day onward in two plots, preliminarily estimating a functional effect of approximately 4 to 5.5 days before sound rotation is required. These findings indicate that the proposed system is a practical, non-invasive alternative with high potential for protecting quinoa crops in the Andes.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.57166/riqchary/v8.n2.2026.4"
+    },
+    {
+      "id": "openalex-W7239753632",
+      "doi": "10.55041/ijsmt.v2i11.039",
+      "title": "AI-Based Employee Monitoring System",
+      "title_zh": "",
+      "authors": [
+        "Pradeep Gowda",
+        "Ushashree B N",
+        "Chirag M",
+        "Kavana S",
+        "Nethra G",
+        "Pallavi V N"
+      ],
+      "year": 2026,
+      "venue": "International Journal of Science Strategic Management and Technology",
+      "field": "社会科学",
+      "topics": [
+        "Traffic Prediction and Management Techniques",
+        "Advanced Neural Network Applications",
+        "Video Surveillance and Tracking Methods"
+      ],
+      "abstract": "Urban traffic management requires timely information about road conditions and vehicle movement. Conventional approaches based on fixed traffic schedules or manual observation may not respond effectively to variations in traffic volume. This paper presents an integrated system for traffic flow prediction and automated vehicle detection using machine learning and computer vision. A Random Forest classifier is trained using historical traffic data to categorize traffic conditions into four classes: Low, Normal, High, and Heavy. The model uses temporal information and vehicle-count features to estimate the traffic condition. To support automated data acquisition, the system incorporates YOLOv8 for detecting and counting cars, motorcycles, buses, and trucks from uploaded images and live webcam frames. The two components are integrated through a Flask-based web application that provides manual prediction, vehicle detection, live webcam monitoring, and recent activity tracking. Experimental evaluation on the selected dataset produced a classification accuracy of 99.66%. The results demonstrate the feasibility of connecting computer-vision-based vehicle counting with machine-learning-based traffic classification in a unified application. The proposed system provides a practical foundation for accessible traffic monitoring and can be extended with larger datasets, continuous video processing, and persistent data storage.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "https://ijsmt.org/wp-content/uploads/2026/11/AI-BASED-TRAFFIC-FLOW-PREDICTION-FOR-SMART-CITIES.pdf",
+      "url": "https://doi.org/10.55041/ijsmt.v2i11.039"
+    },
+    {
+      "id": "openalex-W7239757370",
+      "doi": "10.3389/fmed.2026.1970213",
+      "title": "HLE-ViT: a hierarchical lesion-enhanced global context vision transformer for multi-class skin lesion classification",
+      "title_zh": "",
+      "authors": [
+        "Caijian Hua",
+        "Caorong Xiang",
+        "Liuying Li",
+        "Hanlin Wang"
+      ],
+      "year": 2026,
+      "venue": "Frontiers in Medicine",
+      "field": "医学",
+      "topics": [
+        "Cutaneous Melanoma Detection and Management",
+        "AI in cancer detection",
+        "Advanced Neural Network Applications"
+      ],
+      "abstract": "Introduction Accurate skin lesion classification is central to computer-aided dermatological diagnosis. However, reliable classification remains challenging because different lesion categories often share similar visual appearances, whereas lesions within the same category can vary substantially. Although existing deep learning methods can extract discriminative representations from dermoscopic images, they often fail to adequately capture and integrate low-level, fine-grained lesion cues with high-level semantic relationships and spatial structure. Method To address these challenges, we propose HLE-ViT, a stage-matched hierarchical lesion enhancement framework built on a local–global context Vision Transformer. HLE-ViT deploys distinct enhancement modules according to the representational characteristics of different network stages. Specifically, the Shallow Saliency Enhancement Module (SSEM) performs neuron-wise recalibration of shallow feature responses through a parameter-free attention mechanism, whereas the Deep Semantic-Coordinate Module (DSCM) combines multi-token attention-response mixing with height- and width-dependent feature recalibration in deep stages. By integrating SSEM and DSCM, HLE-ViT provides stage-matched enhancement of shallow and deep feature representations. Results We evaluated HLE-ViT on three publicly available dermoscopic image datasets, HAM10000, ISIC 2019, and Derm7pt. HLE-ViT achieved accuracies of 93.55%, 90.08%, and 80.30%, with corresponding macro-F1 scores of 92.14%, 89.72%, and 74.45%, respectively, outperforming several representative comparison models across the principal evaluation metrics. Component ablation and stage-position ablation experiments support both the effectiveness of the proposed enhancement modules and the rationale for their stage-matched deployment. Stage-wise feature-response analysis further indicates that SSEM and DSCM are associated with more spatially coherent responses in shallow and deep stages, respectively, while deep-representation separability analysis shows lower intra-class dispersion and improved overall separability of the final deep representations. Conclusion These findings indicate that tailoring feature enhancement to the representational characteristics of different network stages can improve multi-class skin lesion classification. By applying differentiated processing to shallow and deep feature representations within a unified framework, HLE-ViT provides a stage-matched design strategy for dermoscopic image classification.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2026.1970213/pdf",
+      "url": "https://doi.org/10.3389/fmed.2026.1970213"
+    },
+    {
+      "id": "openalex-W7239758131",
+      "doi": "10.1007/s44443-026-01482-z",
+      "title": "QGPO: adaptive gradient optimization with quantum-informed exploration for deep vision models",
+      "title_zh": "",
+      "authors": [
+        "Hui Li",
+        "Jibin Zhang",
+        "Jie Li"
+      ],
+      "year": 2026,
+      "venue": "Journal of King Saud University - Computer and Information Sciences",
+      "field": "计算机科学",
+      "topics": [
+        "Stochastic Gradient Optimization Techniques",
+        "Metaheuristic Optimization Algorithms Research",
+        "Advanced Neural Network Applications"
+      ],
+      "abstract": "Deep neural network training depends on effective navigation of non-convex loss landscapes. Classical first-order optimizers generally derive each update from a single locally constructed direction without explicitly comparing nearby directional alternatives. To enable such comparison, we propose Quantum-Informed Gradient Particle Optimization (QGPO), a classical search-augmented gradient optimization framework. QGPO constructs a local subspace from the current gradient and an orthogonal, norm-matched exploratory direction. Within this subspace, a quantum-informed rotational parameterization generates bounded candidates for a loss-guided directional search that evaluates current-batch probe losses in a coarse-to-fine manner. Directional smoothing, gradient fusion, and improvement-threshold-based final selection further combine the selected direction with AdamW or SGD with momentum. Experiments covering computer vision tasks are conducted on Tiny ImageNet-200, CIFAR-10, and COCO2017 using ViT-B/16, VGG16-BN, and YOLOv11n. In five-seed Tiny ImageNet-200 experiments, QGPO-AdamW achieves a held-out test Top-1 accuracy of 41.59 ± 0.66%. Relative to AdamW, it improves Top-1 and Top-5 accuracy by 1.43 and 2.11 percentage points, respectively, and reduces evaluation loss by 0.130, while remaining close to SGD-M at 41.72 ± 0.21%. In five-seed CIFAR-10 ablations, disabling sampled search was associated with the largest observed mean test-accuracy decrease, while other component changes showed smaller or different outcome patterns. YOLOv11n/COCO2017 results further support the feasibility of applying QGPO in object detection. Overall, QGPO provides established classical optimizers with a structured mechanism for evaluating and selecting local directional alternatives.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.1007/s44443-026-01482-z"
+    },
+    {
+      "id": "openalex-W7239865918",
+      "doi": "10.22214/ijraset.2026.85793",
+      "title": "Caregiver Support System for Brain Cancer Using Sentiment Analysis and HCI",
+      "title_zh": "",
+      "authors": [
+        "Riya Kashyap",
+        "Ikram Ali",
+        "Om Ji",
+        "Gaurav Sood"
+      ],
+      "year": 2026,
+      "venue": "International Journal for Research in Applied Science and Engineering Technology",
+      "field": "计算机科学",
+      "topics": [
+        "Sentiment Analysis and Opinion Mining",
+        "Emotion and Mood Recognition",
+        "Mental Health via Writing"
+      ],
+      "abstract": "The digital-aided support is still basically patient-focused, generic in terms of sentiment coverage, and not linked to real-time emotional condition, although the psychological load on a caregiver of brain tumor patients often exceeds the levels in caregivers of other types of cancer. This paper proposes a seven-layer framework called Adaptive Sentiment-Driven Caregiver Support System (ASD-CSS), which has been specifically designed to support the brain cancer caregiver populations. It incorporates role and sentiment classification via natural language process-ing, longitudinal modeling of emotional-states, adaptive human-centered delivery interface and a human-in-the-loop clinical safety net. A pilot experiment conducted on annotated social media data with a lexicon-based rule and three machine-learning classifiers (Naive Bayes, Support Vector machine and Logistic Regression) was conducted to test the basic role-classification feature of the system that classifies text written by caregivers and that by patients. The findings revealed that the discriminative signal of possessive and kinship signals alone is a strong signal to this task as shown by the fact that a simple lexical rule, which relates on pronouns and kinship, was able to achieve higher accuracy and F1-score. The result of this finding is a pragmatic architectural enhancement: they are not relying solely on data-hungry embedding models to relearn lexical role cues but put them in context represented as contextual representations. As full-scale sentiment modeling and human-computer interaction assessment are seen as the next steps to take, the proposed framework may be used to serve as a template to complete the connection between sentiment detection and adaptive caregiver assistance.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "https://doi.org/10.22214/ijraset.2026.85793",
+      "url": "https://doi.org/10.22214/ijraset.2026.85793"
+    },
+    {
+      "id": "openalex-W7239851580",
+      "doi": "10.21037/qims-2026-1-0288",
+      "title": "Multimodal fusion of 2D, 2.5D, and 3D deep learning features with radiomics for predicting occult mediastinal lymph node metastasis in clinical stage IA lung adenocarcinoma",
+      "title_zh": "",
+      "authors": [
+        "Xiaoxin Huang",
+        "Xinyu Zhu",
+        "冬连 古",
+        "Xingyu Mu",
+        "Wenwen Luo",
+        "Ruiling Ning",
+        "Yu He",
+        "Bin Ye",
+        "Guanqiao Jin"
+      ],
+      "year": 2026,
+      "venue": "Quantitative Imaging in Medicine and Surgery",
+      "field": "人工智能",
+      "topics": [
+        "Radiomics and Machine Learning in Medical Imaging",
+        "AI in cancer detection",
+        "Lung Cancer Diagnosis and Treatment"
+      ],
+      "abstract": "Background: Accurate preoperative identification of occult mediastinal lymph node metastasis in patients with clinical stage IA (cIA) lung adenocarcinoma remains a major challenge. This study aimed to evaluate whether integrating multi-dimensional deep learning features derived from two-dimensional (2D), two-and-a-half-dimensional (2.5D), and three-dimensional (3D) images with radiomic features could improve the prediction of occult mediastinal metastasis. Methods: Contrast-enhanced computed tomography (CT) scans from 369 patients with cIA lung adenocarcinoma were retrospectively analyzed. A total of 704 pathologically confirmed mediastinal lymph nodes (116 metastatic and 588 non-metastatic) were manually segmented. Deep learning features were extracted using 2D, 2.5D, and 3D convolutional neural networks, while handcrafted radiomic features were extracted using PyRadiomics after standardized preprocessing. Standalone models were built for each feature type, and two fusion strategies were developed: (I) a deep learning-radiomics (DLRad) model combining radiomic features with those from the best-performing deep learning dimensionality; and (II) a combined model integrating all three deep learning feature sets with radiomic features. Eleven classifiers were evaluated, including logistic regression (LR), support vector machine (SVM), k-nearest neighbors (KNN), random forest (RF), extremely randomized trees (ExtraTrees), extreme gradient boosting (XGBoost), light gradient boosting machine (LightGBM), adaptive boosting (AdaBoost), gradient boosting, Naive Bayes, and multilayer perceptron (MLP). Model performance was evaluated on the test set using the area under the receiver operating characteristic curve (AUC), accuracy, F1-score, recall, and precision. Results: Among the radiomics-based models, ExtraTrees achieved the best performance on the test set [AUC =0.860; 95% confidence interval (CI): 0.769–0.951; recall =0.690, F1-score =0.615]. Among the deep learning models, the LR classifier based on 3D features outperformed those based on 2D or 2.5D features [AUC =0.924 (95% CI: 0.872–0.976), recall =0.897, F1-score =0.627]. Within the DLRad framework, the Naive Bayes classifier achieved the highest performance [AUC =0.934 (95% CI: 0.886–0.981), accuracy =0.918, recall =0.862, F1-score =0.746]. The combined model using XGBoost achieved the best overall performance on the test set [AUC =0.943 (95% CI: 0.900–0.987), accuracy =0.918, recall =0.862, F1-score =0.746]. Conclusions: Multimodal fusion of 2D, 2.5D, and 3D deep learning features with radiomic features achieved strong predictive performance for occult mediastinal metastasis and may facilitate more accurate preoperative risk stratification in patients with cIA lung adenocarcinoma.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.21037/qims-2026-1-0288"
+    },
+    {
+      "id": "openalex-W7239855963",
+      "doi": "10.21037/qims-2026-0657",
+      "title": "Differential diagnosis of benign and malignant prostate lesions: a Shapley-interpretable radiomics model based on multiparametric ultrasound and clinical data",
+      "title_zh": "",
+      "authors": [
+        "Xueying Dong",
+        "Hao-Nan 浩男 Chang 常",
+        "Zhenya Piao",
+        "Rao Ma",
+        "Siying Wang",
+        "Xin Zhang",
+        "Qing-Zhuo Zhao",
+        "Xian-Li Zhou"
+      ],
+      "year": 2026,
+      "venue": "Quantitative Imaging in Medicine and Surgery",
+      "field": "人工智能",
+      "topics": [
+        "Radiomics and Machine Learning in Medical Imaging",
+        "Prostate Cancer Diagnosis and Treatment",
+        "Ultrasound Imaging and Elastography"
+      ],
+      "abstract": "Background: Ultrasound-guided prostate biopsy remains the gold standard for diagnosing prostate cancer (PCa). Shear wave elastography (SWE) and contrast-enhanced ultrasound (CEUS) have achieved promising performance in differentiating malignant prostate lesions from benign ones. Radiomics has garnered increasing clinical interest in imaging diagnosis.This study aimsto construct a prediction model for benign and malignant prostate lesions by integrating ultrasound radiomics (UR), multiparametric ultrasound, and clinical indicators based on SHapley Additive exPlanations (SHAP) framework, and to further establish a prediction model for high-grade PCa. Methods: A retrospective study enrolled 459 biopsy-proven patients who underwent transrectal ultrasound (TRUS), SWE, and CEUS. Radiomics features were extracted from the whole prostate and peripheral zone, and their diagnostic performance across different machine learning algorithms was compared. Logistic regression identified independent predictors from multimodal ultrasound and clinical features for PCa and high-grade PCa. These predictors, combined with radiomics features, were used to construct separate combined models for differentiating benign vs. malignant lesions and high-grade PCa. Model performance was validated via receiver operating characteristic (ROC) curves, decision curves analysis, and calibration curves, with component weights analyzed by Shapley explanation. Results: Multivariate logistic regression identified age, prostate-specific antigen density (PSAD), SWE, time to peak (reference to interest) [TTP (R-I)], maximum intensity (IMAX), and mean transit time (reference to interest) [mTT (R-I)] as independent predictors (P<0.05). Diagnostic performance of the peripheral zone was superior to the whole prostate [area under the ROC curve (AUC) 0.969 vs. 0.909]. The multiparametric ultrasound radiomics (MUS) clinical model (AUC =0.990) outperformed UR model (AUC =0.969) and UR clinical model (AUC =0.976) with consistent validation (AUC 0.922 vs. 0.883, 0.869, P<0.05). In PCa patients, the model integrating UR, SWE, and PSAD also showed better diagnostic efficacy. Conclusions: In this study, we constructed an integrated predictive model to discriminate benign from malignant prostate lesions, and further developed a specialized model for identifying high-grade PCa. Shapley interpretable analysis was performed to quantify the contribution of each feature in the models, aiming to facilitate the clinical translation and application of the proposed models and help clinicians make precise decisions while reducing unnecessary biopsies.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.21037/qims-2026-0657"
+    },
+    {
+      "id": "openalex-W7164823995",
+      "doi": "10.1007/s44379-026-00105-8",
+      "title": "Hierarchical attention and systematic fusion: optimizing multimodal learning for interpretable thoracic disease classification",
+      "title_zh": "",
+      "authors": [
+        "Haritha Prasad Rayakota",
+        "Pei-Chi Huang"
+      ],
+      "year": 2026,
+      "venue": "Machine learning for computational science and engineering",
+      "field": "计算机科学",
+      "topics": [
+        "Multimodal Machine Learning Applications",
+        "COVID-19 diagnosis using AI",
+        "Radiomics and Machine Learning in Medical Imaging"
+      ],
+      "abstract": "Accurate disease classification requires holistic reasoning, but unimodal models fail to cross-reference visual patterns from chest X-rays with complementary information from radiology reports. To bridge this semantic gap, this paper proposes a novel Multimodal Fusion (MMF) framework for thoracic disease classification. The architecture integrates a Swin Transformer visual encoder and a Bio_ClinicalBERT textual encoder; critically, a Hierarchical Multi-Scale Bidirectional Co-Attention mechanism is introduced to facilitate bidirectional alignment, dynamically weighting radiographic regions of interest based on corresponding clinical entities. Evaluation is conducted on a subset of MIMIC-CXR dataset, involving a systematic comparison of early, intermediate, and late fusion strategies. Experimental analysis reveals that the Intermediate (Mid) fusion approach yields robust multimodal representations, achieving a peak area under the curve (AUC) of 0.93 and an $$F_1$$ F 1 -score of 0.57. Comparisons with representative multimodal baselines, including RadFuse, TieNet, MedCLIP, and ResNet-BERT, demonstrate competitive diagnostic performance while highlighting the critical role of fusion depth and hierarchical cross-modal interaction in balancing predictive fidelity and computational efficiency. Beyond evaluating aggregate metrics, this study provides a systematic architectural analysis of multimodal fusion strategies, complemented by Gradient-weighted Class Activation Mapping heatmaps, word-level saliency maps, and concept-bottleneck explanations. These analyses provide complementary qualitative insights into the spatial and linguistic features associated with model predictions, improving the transparency of the proposed multimodal framework. The code can be found at https://github.com/haritharayakota/Multimodal_learning_disease_classification.git",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007/s44379-026-00105-8.pdf",
+      "url": "https://doi.org/10.1007/s44379-026-00105-8"
+    },
+    {
+      "id": "openalex-W7239719185",
+      "doi": "10.3991/ijim.v20i21.63161",
+      "title": "AI-Driven Adaptive Gamification of E-Learning in Higher Education: A Systematic Literature Review (2023–2026)",
+      "title_zh": "",
+      "authors": [
+        "Achraf El Aouaqi",
+        "Hicham Aberbach",
+        "Abdelouahed Sabri"
+      ],
+      "year": 2026,
+      "venue": "International Journal of Interactive Mobile Technologies (iJIM)",
+      "field": "社会科学",
+      "topics": [
+        "Educational Games and Gamification",
+        "Online Learning and Analytics",
+        "Intelligent Tutoring Systems and Adaptive Learning"
+      ],
+      "abstract": "University e-learning environments continue to struggle with disengagement and attrition, and gamification remains one of the most widely tested remedies. Since 2023, the diffusion of machine-learning personalization, learning analytics, and, above all, generative artificial intelligence (AI) such as large language models, GANs, and conversational and multimodal agents, has visibly reshaped how gamification is designed, implemented, and studied in higher education. This paper reports a PRISMA-2020-compliant systematic literature review of empirical and conceptual studies on AI-driven and AI-augmented gamification of e-learning in higher education, published between January 2023 and mid-2026. Searches of Scopus, Web of Science, and Google Scholar, supplemented by backward and forward snowballing, yielded 1,142 unique records after de-duplication; 68 studies met the inclusion criteria after a two-stage screening process (44 empirical studies, 24 conceptual/framework proposals). We find that (i) classic points-badges-leaderboards (PBL) elements persist but are now frequently AI-parameterized, alongside a marked rise in AI-personalized ‘deeper’ elements such as challenges and narrative; (ii) four converging technique families—supervised/unsupervised learner-profiling, reinforcement learning, learning-analytics dashboards, and generative content/feedback engines—dominate the corpus; (iii) theoretical grounding remains uneven, with self-determination theory the dominant but frequently under-specified framework and a distinct, largely unaddressed gap around the theoretical justification of the adaptation/ generation layer itself; and (iv) a four-way classification—adaptive, generative, hybrid adaptivegenerative, and immersive/multimodal—captures the current design space more precisely than a purely structural/content view of gamification. We close with a research agenda addressing content-level personalization, longitudinal validation, and the ethical governance of learner data in AI-gamified systems.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "https://online-journals.org/index.php/i-jim/article/download/63161/17491",
+      "url": "https://doi.org/10.3991/ijim.v20i21.63161"
+    },
+    {
+      "id": "openalex-W7239726801",
+      "doi": "10.54692/ijeci.2026.1002/280",
+      "title": "Image forgery detection in the era of generative editing: A structured review",
+      "title_zh": "",
+      "authors": [
+        "Junaid Mansoor",
+        "Rafaqat Alam Khan",
+        "Muhammad Nadeem Nadir",
+        "Muhammad Ishtiaq",
+        "Maryam Gulzar"
+      ],
+      "year": 2026,
+      "venue": "International Journal for Electronic Crime Investigation",
+      "field": "计算机科学",
+      "topics": [
+        "Digital Media Forensic Detection",
+        "Advanced Steganography and Watermarking Techniques",
+        "Benford’s Law and Fraud Detection"
+      ],
+      "abstract": "Image forgery detection has gained increasing attention due to its importance in digital forensics, multimedia security, and the fight against misinformation. Despite substantial progress, reliable detection remains challenging because modern manipulations can be visually subtle, benchmark datasets are often limited in scale and diversity, and existing methods may suffer from poor generalization and false detections under real-world conditions. This review examines image forgery detection techniques with emphasis on active and passive approaches, handcrafted feature-based methods, machine learning models, and deep learning architectures. Widely used datasets, including Chinese Academy of Sciences Institute of Automation (CASIA), Dresden Image Database, Copy-Move Forgery Dataset (CoMoFoD), and Image Manipulation Dataset 2020 (IMD2020), are reviewed with respect to their role in benchmarking detection and localization algorithms. The literature is organized through a structured taxonomy based on forgery type, detection strategy, dataset usage, and evaluation metrics. This paper further summarizes representative methods through comparative tables and identifies major research gaps, particularly in inpainting-based manipulation, deep learning generalization, and standardized evaluation. Finally, future directions are discussed, including multimodal analysis, explainable artificial intelligence, diffusion-aware detection, and the development of more diverse datasets and unified metrics to support robust digital media authentication.",
+      "abstract_zh": "",
+      "citations": 0,
+      "popularity": 18,
+      "open_access": true,
+      "pdf_url": "",
+      "url": "https://doi.org/10.54692/ijeci.2026.1002/280"
     },
     {
       "id": "arxiv-2403.05530",
